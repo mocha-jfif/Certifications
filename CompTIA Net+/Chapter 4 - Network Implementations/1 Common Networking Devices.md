@@ -1,3 +1,10 @@
+# Jump To...
+- [[#Router]]
+- Switch
+- Switch Cabling
+- Firewall
+- 
+
 # Router
 - Creates larger networks by joining two network segments.
 - Can route data from one network to another.
