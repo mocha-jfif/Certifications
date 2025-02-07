@@ -1,0 +1,1 @@
+>[!faq] Where the SDN controller resides; the controller is software that manages policies and the flow of traffic throughout the network. 

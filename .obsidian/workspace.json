@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Untitled.md",
+                "file": "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Control Layer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Control Layer"
             }
           },
           {
@@ -217,7 +217,7 @@
   "active": "8b0fdc3603fb5c8d",
   "lastOpenFiles": [
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Application layer.md",
-    "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Untitled.md",
+    "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Control Layer.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/2 Networking Use Cases.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/1 Common Networking Devices.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/CoS.md",
