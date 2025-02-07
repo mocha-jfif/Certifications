@@ -1,6 +1,6 @@
 {
   "commitMessage": "updated {{date}} \nchanges: {{files}}",
-  "commitDateFormat": "dddd YY-MM-DD",
+  "commitDateFormat": "ddd YY-MM-DD",
   "autoSaveInterval": 5,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
