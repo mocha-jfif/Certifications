@@ -83,3 +83,5 @@
 - The first 3 bytes are called the organizationally unique identifier (OUI)
 - Only A-F and 0-9 are used in hex.
 - EUI-48 and EUI-64 exist (Extended Unique Identifier)
+
+[[1 Network Topologies |<- Prev Chapter]] | [[2 Routing & Switching Technologies|Next Section ->]]

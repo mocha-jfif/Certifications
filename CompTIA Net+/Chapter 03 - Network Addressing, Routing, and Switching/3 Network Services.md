@@ -55,3 +55,5 @@
 - <mark style="background: #BBFABBA6;">Precision Time Protocol (PTP): Can achieve sub-microsecond accuracy for applications where precision in time is criticial.</mark>
 	- It operates by exchanging timing messages between one clock that has been selected to coordinate the timekeeping across all other clocks within the network.
 - <mark style="background: #BBFABBA6;">Network Time Security (NTS): Uses digital signatures and encryption to protect time synchronization from security threats.</mark>
+
+[[2 Routing & Switching Technologies|<- Prev Section]] | [[1 Common Networking Devices|Next Chapter ->]]

@@ -77,4 +77,4 @@
 	- Logical, not physical, ring.
 	- In a true ring, if a single computer or cable fails, the signal is interrupted.
 
-[[]]
+[[3 Traffic Types |<- Prev Chapter]] | [[1 IPv4 Network Addressing|Next Chapter ->]]

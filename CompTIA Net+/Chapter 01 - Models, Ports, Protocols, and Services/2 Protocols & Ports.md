@@ -216,4 +216,4 @@
 | SNMP         | 161, 162   | UDP         |
 | Syslog       | 514        | UDP         |
 |              |            |             |
-[[1 The OSI Model |<- Prev Section]] [[3 Traffic Types| Next Section ->]]
+[[1 The OSI Model |<- Prev Section]] | [[3 Traffic Types|Next Section ->]]
