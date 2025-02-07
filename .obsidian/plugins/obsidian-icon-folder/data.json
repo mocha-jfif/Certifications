@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBrainCog",
+      "LiHammer",
       "LiShieldPlus",
       "LiGitPullRequestDraft",
-      "LiCloud",
-      "LiWifi",
-      "LiInfo"
+      "LiCloud"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,5 +43,7 @@
   "CompTIA Net+/Chapter 6 - Wireless Solutions": "LiWifi",
   "CompTIA Net+/Chapter 7 - Cloud Computing Concepts and Options": "LiCloud",
   "CompTIA Net+/Chapter 8 - Network Operations": "LiGitPullRequestDraft",
-  "CompTIA Net+/Chapter 9 - Network Security": "LiShieldPlus"
+  "CompTIA Net+/Chapter 9 - Network Security": "LiShieldPlus",
+  "CompTIA Net+/Chapter 10 - Network Troubleshooting": "LiHammer",
+  "CompTIA Net+/! Cram Sheet !": "LiBrainCog"
 }
