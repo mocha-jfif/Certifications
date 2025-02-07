@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Net+/! Table of Contents !.md",
-                "mode": "source",
+                "file": "CompTIA Net+/Chapter 04 - Network Implementations/2 Networking Use Cases.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "! Table of Contents !"
+              "title": "2 Networking Use Cases"
             }
           },
           {
@@ -224,10 +224,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b0fdc3603fb5c8d",
+  "active": "50716479c10e4000",
   "lastOpenFiles": [
-    "CompTIA Net+/Chapter 03 - Network Addressing, Routing, and Switching/3 Network Services.md",
     "CompTIA Net+/Chapter 04 - Network Implementations/1 Common Networking Devices.md",
+    "CompTIA Net+/! Table of Contents !.md",
+    "CompTIA Net+/Chapter 03 - Network Addressing, Routing, and Switching/3 Network Services.md",
     "CompTIA Net+/Chapter 03 - Network Addressing, Routing, and Switching/2 Routing & Switching Technologies.md",
     "CompTIA Net+/Chapter 03 - Network Addressing, Routing, and Switching/1 IPv4 Network Addressing.md",
     "CompTIA Net+/Chapter 02 - Network Topologies, Architectures, and Types/1 Network Topologies.md",
@@ -235,7 +236,6 @@
     "CompTIA Net+/Chapter 01 - Models, Ports, Protocols, and Services/2 Protocols & Ports.md",
     "CompTIA Net+/Chapter 01 - Models, Ports, Protocols, and Services/1 The OSI Model.md",
     "CompTIA Net+/Chapter 04 - Network Implementations/Glossary/Cut-through.md",
-    "CompTIA Net+/! Table of Contents !.md",
     "CompTIA Net+/! Cram Sheet !/1 Networking Concepts.md",
     "CompTIA Net+/Chapter 10 - Network Troubleshooting/Glossary/Test Change.md",
     "CompTIA Net+/! Cram Sheet !/5 Network Troubleshooting.md",
