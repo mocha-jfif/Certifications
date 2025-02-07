@@ -1,6 +1,6 @@
 {
-  "commitMessage": "updated {{date}} changes: {{files}}",
-  "commitDateFormat": "dddd",
+  "commitMessage": "updated {{date}} \nchanges: {{files}}",
+  "commitDateFormat": "dddd YY-MM-DD",
   "autoSaveInterval": 5,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
@@ -55,5 +55,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "updated {{date}} changes: {{files}}"
+  "autoCommitMessage": "updated: {{date}} \nchanges: {{files}}"
 }
