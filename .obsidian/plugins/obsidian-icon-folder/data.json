@@ -35,15 +35,15 @@
     "useInternalPlugins": false
   },
   "CompTIA Net+": "LiComputer",
-  "CompTIA Net+/Chapter 1 - Models, Ports, Protocols, and Services": "LiAlignStartVertical",
-  "CompTIA Net+/Chapter 2 - Network Topologies, Architectures, and Types": "LiNetwork",
-  "CompTIA Net+/Chapter 3 - Network Addressing, Routing, and Switching": "LiRouter",
-  "CompTIA Net+/Chapter 4 - Network Implementations": "LiInfo",
-  "CompTIA Net+/Chapter 5 - Cabling Solutions and Issues": "LiCable",
-  "CompTIA Net+/Chapter 6 - Wireless Solutions": "LiWifi",
-  "CompTIA Net+/Chapter 7 - Cloud Computing Concepts and Options": "LiCloud",
-  "CompTIA Net+/Chapter 8 - Network Operations": "LiGitPullRequestDraft",
-  "CompTIA Net+/Chapter 9 - Network Security": "LiShieldPlus",
-  "CompTIA Net+/Chapter 10 - Network Troubleshooting": "LiHammer",
-  "CompTIA Net+/! Cram Sheet !": "LiBrainCog"
+  "CompTIA Net+/! Cram Sheet !": "LiBrainCog",
+  "CompTIA Net+/Chapter 01 - Models, Ports, Protocols, and Services": "LiAlignStartVertical",
+  "CompTIA Net+/Chapter 02 - Network Topologies, Architectures, and Types": "LiNetwork",
+  "CompTIA Net+/Chapter 03 - Network Addressing, Routing, and Switching": "LiRouter",
+  "CompTIA Net+/Chapter 04 - Network Implementations": "LiInfo",
+  "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues": "LiCable",
+  "CompTIA Net+/Chapter 06 - Wireless Solutions": "LiWifi",
+  "CompTIA Net+/Chapter 07 - Cloud Computing Concepts and Options": "LiCloud",
+  "CompTIA Net+/Chapter 08 - Network Operations": "LiGitPullRequestDraft",
+  "CompTIA Net+/Chapter 09 - Network Security": "LiShieldPlus",
+  "CompTIA Net+/Chapter 10 - Network Troubleshooting": "LiHammer"
 }
