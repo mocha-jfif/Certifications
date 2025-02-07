@@ -104,3 +104,15 @@
 - Full-tunnel: All requests through the VPN are encrypted regardless of where the service is hosted, and it is not possible to access local network resources.
 - Split-tunnel: All incoming requests are encrypted, but traffic going outside the client network does not go through the VPN server.
 
+# SSL / TLS / DTLS
+- TLS has replaced SSL for the most part.
+- SSL VPN can be used to connect locations that would run into trouble with firewalls and NAT when used with IPSec.
+	- It is known as an SSL VPN, whether or not TLS or SSL is used.
+- DTLS is a derivation of SSL/TLS by OpenSSL aimed to increase reliability.
+
+# Quality of Service
+- QoS: The strategies used to manage and increase the flow of network traffic; enables admins to predict bandwidth use, monitor that use, and control it.
+- Two categories of applications:
+	- Latency sensitive
+	- Latency insensitive
+
