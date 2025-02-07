@@ -19,6 +19,28 @@
 	- Traffic steering and load balancing
 	- Security and access controls
 - Application awareness of SD-WAN allows organizations to optimize application performance, gain granular visibility and control, and improve network efficiency and security.
-- Zero-touch provisioning
+- Zero-touch provisioning: Automate deployment and configuration of SD-WAN devices with minimal manual intervention.
+- Central policy management is crucial in SD-WANs because:
+	- They are consistent and uniform.
+	- It simplifies configuration.
+	- It provides granular control and visibility.
+	- It allows for dynamic policy enforcement.
+	- Scalability & flexibility
+	- Policy orchestration and automation
+
+# Virtual Extensible Local-Area Network
+- VXLAN: An extension of a VLAN that utilizes network virtualization to overcome the scalability limitations of traditional VLANs by allowing the creation of logical layer 2 networks over layer 3.
+	- First creates an overlay network on top of an existing IP infrastructure.
+	- Then, uses a 24-bit VNI to identify and segregate virtual networks.
+- VTEPs are responsible for encapsulating and decapsulating VXLAN packets.
+- Some key benefits and features:
+	- Scalability: up to 16 million VNIs.
+	- Flexibility: Interoperable with existing network technology.
+	- Isolation
+	- Efficiency: Dodges the 4096 VLAN ID limitation.
+- DCI is what connects multiple datacenters together in a VXLAN.
+
+
+
 
 
