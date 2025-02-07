@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Net+/Chapter 4 - Network Implementations/1 Common Networking Devices.md",
+                "file": "CompTIA Net+/Chapter 4 - Network Implementations/2 Networking Use Cases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Common Networking Devices"
+              "title": "2 Networking Use Cases"
+            }
+          },
+          {
+            "id": "8b0fdc3603fb5c8d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           },
           {
@@ -35,7 +47,8 @@
               "title": "2 Protocols & Ports"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +67,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -187,7 +201,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -208,8 +222,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03aa9cd0a2f4828a",
+  "active": "ef1195df60ebd0c2",
   "lastOpenFiles": [
+    "CompTIA Net+/Chapter 4 - Network Implementations/1 Common Networking Devices.md",
     "gitignore.txt",
     "New Text Document.txt",
     "README.md",
@@ -220,7 +235,6 @@
     "CompTIA Net+/Chapter 1 - Models, Ports, Protocols, and Services/3 Traffic Types.md",
     "CompTIA Net+/Chapter 1 - Models, Ports, Protocols, and Services/2 Protocols & Ports.md",
     "CompTIA Net+/Chapter 1 - Models, Ports, Protocols, and Services/1 The OSI Model.md",
-    "CompTIA Net+/Chapter 4 - Network Implementations/1 Common Networking Devices.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/VPN protocols.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Access methood.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/VPN concentrator.md",
@@ -249,7 +263,6 @@
     "Kaseya VSA 10 Technician",
     "CompTIA Net+/Chapter 3 - Network Addressing, Routing, and Switching/Glossary",
     "CompTIA Net+/Chapter 3 - Network Addressing, Routing, and Switching",
-    "CompTIA Net+/Chapter 2 - Network Topologies, Architectures, and Types/Untitled",
-    "CompTIA Net+/Chapter 2 - Network Topologies, Architectures, and Types"
+    "CompTIA Net+/Chapter 2 - Network Topologies, Architectures, and Types/Untitled"
   ]
 }

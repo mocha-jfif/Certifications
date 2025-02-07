@@ -1,6 +1,6 @@
 {
-  "remoteURL": "github.com/mocha-jfif/Certifications",
-  "gitLocation": "C:/Users/lchaffin/AppData/Local/Programs/Git/mingw64/libexec/git-core",
+  "remoteURL": "https://github.com/mocha-jfif/Certifications.git",
+  "gitLocation": "",
   "syncinterval": 15,
   "isSyncOnLoad": true
 }
