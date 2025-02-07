@@ -134,4 +134,8 @@
 - Two categories of applications:
 	- [[Latency sensitive]]
 	- [[Latency insensitive]]
+- Jitter and QoS misconfiguration affect VoIP. This usually manifests as echoes.
+- Two important components of QoS:
+	- [[DSCP-Diffserv |DSCP/Diffserv]]
+	- [[CoS]]
 
