@@ -1,0 +1,1 @@
+>[!faq] Copies of a website / application's static content is integrated with a CDN, copies of its static content are replicated and stored on multiple servers, which is distributed across various geographic locations (cached)

@@ -1,0 +1,1 @@
+>[!faq] A metric used by routers to determine the trustworthiness or reliability of routing information received from various sources. It is a numerical value assigned to routing protocols or static routes, where a lower administrative distance indicates a higher preference or priority.

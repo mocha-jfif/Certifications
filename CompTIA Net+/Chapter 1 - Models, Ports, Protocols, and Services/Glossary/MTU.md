@@ -1,0 +1,1 @@
+>[!faq] Maximum Transmission Unit. The largest data size that a protocol/layer can transmit.

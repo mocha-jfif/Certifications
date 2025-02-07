@@ -1,0 +1,1 @@
+>[!faq] The capability of a router to detect and accommodate to change when a change in network routing is made.
