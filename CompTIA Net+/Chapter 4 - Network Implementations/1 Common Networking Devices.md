@@ -113,6 +113,6 @@
 # Quality of Service
 - QoS: The strategies used to manage and increase the flow of network traffic; enables admins to predict bandwidth use, monitor that use, and control it.
 - Two categories of applications:
-	- Latency sensitive
-	- Latency insensitive
+	- [[Latency sensitive]]
+	- [[Latency insensitive]]
 
