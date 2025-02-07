@@ -1,8 +1,10 @@
 # Software-Defined Networking
 - SDN: Used to bypass the physical limitations of standard networking by using cloud architectures.
 - Contains its own architecture, top to bottom:
-	- Application layer
-	- Control layer
-	- Infrastructure layer
-	- Management plane
+	- [[Application layer]]
+	- [[Control Layer]]
+	- [[Infrastructure Layer]]
+	- [[Management plane]]
+
+# 
 

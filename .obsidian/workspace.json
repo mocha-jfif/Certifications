@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Management plane.md",
+                "file": "CompTIA Net+/Chapter 4 - Network Implementations/2 Networking Use Cases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Management plane"
+              "title": "2 Networking Use Cases"
             }
           },
           {
@@ -216,8 +216,8 @@
   },
   "active": "8b0fdc3603fb5c8d",
   "lastOpenFiles": [
-    "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Infrastructure Layer.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Management plane.md",
+    "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Infrastructure Layer.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Control Layer.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Application layer.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/2 Networking Use Cases.md",
