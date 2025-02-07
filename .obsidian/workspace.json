@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Control Layer.md",
+                "file": "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Management plane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Control Layer"
+              "title": "Management plane"
             }
           },
           {
@@ -216,8 +216,10 @@
   },
   "active": "8b0fdc3603fb5c8d",
   "lastOpenFiles": [
-    "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Application layer.md",
+    "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Infrastructure Layer.md",
+    "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Management plane.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Control Layer.md",
+    "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Application layer.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/2 Networking Use Cases.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/1 Common Networking Devices.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/CoS.md",
@@ -245,8 +247,6 @@
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/VPN headend.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/VPN server.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/VPN client.md",
-    "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Security.md",
-    "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Load balancing and failover.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary",
     "CompTIA Net+/Chapter 4 - Network Implementations",
     "Blank board.png",
