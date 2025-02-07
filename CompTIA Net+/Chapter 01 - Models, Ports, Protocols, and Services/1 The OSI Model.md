@@ -63,3 +63,6 @@
 # Data En/Decapsulation and OSI
 - As data <mark style="background: #BBFABBA6;">moves down</mark> the model, it is <mark style="background: #BBFABBA6;">encapsulated</mark> with a header and trailer.
 - Once received and <mark style="background: #BBFABBA6;">moving back up</mark> the model, these are <mark style="background: #BBFABBA6;">stripped off</mark>. 
+
+
+[[2 Protocols & Ports |Next Section ->]]

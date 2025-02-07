@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Net+/! Table of Contents !.md",
+                "file": "CompTIA Net+/Chapter 02 - Network Topologies, Architectures, and Types/1 Network Topologies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "! Table of Contents !"
+              "title": "1 Network Topologies"
             }
           },
           {
@@ -224,8 +224,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50716479c10e4000",
+  "active": "8b0fdc3603fb5c8d",
   "lastOpenFiles": [
+    "CompTIA Net+/Chapter 01 - Models, Ports, Protocols, and Services/3 Traffic Types.md",
+    "CompTIA Net+/Chapter 01 - Models, Ports, Protocols, and Services/2 Protocols & Ports.md",
+    "CompTIA Net+/Chapter 01 - Models, Ports, Protocols, and Services/1 The OSI Model.md",
+    "CompTIA Net+/Chapter 04 - Network Implementations/Glossary/Cut-through.md",
     "CompTIA Net+/! Table of Contents !.md",
     "CompTIA Net+/! Cram Sheet !/1 Networking Concepts.md",
     "CompTIA Net+/Chapter 10 - Network Troubleshooting/Glossary/Test Change.md",
@@ -256,10 +260,6 @@
     "CompTIA Net+/Chapter 08 - Network Operations/3 Network Performance, Load, and Stress Testing.md",
     "CompTIA Net+/Chapter 07 - Cloud Computing Concepts and Options/1 Cloud Computing Concepts and Options.md",
     "CompTIA Net+/Chapter 06 - Wireless Solutions/1 Understanding Wireless Basics.md",
-    "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/4 Common Tools.md",
-    "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/3 Hardware Issues.md",
-    "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/2 Troubleshooting Common Cable Connectivity Issues.md",
-    "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/1 General Media Considerations.md",
     "CompTIA Net+/Chapter 09 - Network Security",
     "CompTIA Net+/Chapter 08 - Network Operations",
     "CompTIA Net+/Diagrams and Charts/Blank board(1).png",

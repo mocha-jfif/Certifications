@@ -76,3 +76,5 @@
 - Ring Topology:
 	- Logical, not physical, ring.
 	- In a true ring, if a single computer or cable fails, the signal is interrupted.
+
+[[]]
