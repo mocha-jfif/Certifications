@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "CompTIA Net+/Chapter 04 - Network Implementations/2 Networking Use Cases.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -223,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef1195df60ebd0c2",
+  "active": "8b0fdc3603fb5c8d",
   "lastOpenFiles": [
     "CompTIA Net+/Chapter 04 - Network Implementations/1 Common Networking Devices.md",
     "CompTIA Net+/! Table of Contents !.md",
