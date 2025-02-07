@@ -203,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -220,11 +220,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "templater-obsidian:Templater": false,
-      "github-sync:Sync with Remote": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50716479c10e4000",
+  "active": "ef1195df60ebd0c2",
   "lastOpenFiles": [
     "CompTIA Net+/Chapter 04 - Network Implementations/1 Common Networking Devices.md",
     "CompTIA Net+/! Table of Contents !.md",
