@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Net+/Chapter 10 - Network Troubleshooting/Glossary/Test Change.md",
+                "file": "CompTIA Net+/! Table of Contents !.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test Change"
+              "title": "! Table of Contents !"
             }
           },
           {
@@ -224,14 +224,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b0fdc3603fb5c8d",
+  "active": "50716479c10e4000",
   "lastOpenFiles": [
+    "CompTIA Net+/! Table of Contents !.md",
+    "CompTIA Net+/! Cram Sheet !/1 Networking Concepts.md",
     "CompTIA Net+/Chapter 10 - Network Troubleshooting/Glossary/Test Change.md",
     "CompTIA Net+/! Cram Sheet !/5 Network Troubleshooting.md",
     "CompTIA Net+/! Cram Sheet !/4 Network Security.md",
     "CompTIA Net+/! Cram Sheet !/2 Network Implementation.md",
     "CompTIA Net+/! Cram Sheet !/3 Network Operations.md",
-    "CompTIA Net+/! Cram Sheet !/1 Networking Concepts.md",
     "CompTIA Net+/Chapter 10 - Network Troubleshooting/3 Troubleshooting Tools.md",
     "CompTIA Net+/! Cram Sheet !",
     "CompTIA Net+/Chapter 10 - Network Troubleshooting/2 Troubleshooting Common Networking Issues.md",
@@ -259,11 +260,10 @@
     "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/3 Hardware Issues.md",
     "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/2 Troubleshooting Common Cable Connectivity Issues.md",
     "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/1 General Media Considerations.md",
-    "CompTIA Net+/Chapter 04 - Network Implementations/2 Networking Use Cases.md",
     "CompTIA Net+/Chapter 09 - Network Security",
     "CompTIA Net+/Chapter 08 - Network Operations",
-    "CompTIA Net+/Diagrams/Blank board(1).png",
-    "CompTIA Net+/Diagrams/Blank board(2).png",
+    "CompTIA Net+/Diagrams and Charts/Blank board(1).png",
+    "CompTIA Net+/Diagrams and Charts/Blank board(2).png",
     "Blank board.png",
     "Untitled.canvas",
     "Kaseya VSA 10 Technician/Pasted image 20250109124059.png"

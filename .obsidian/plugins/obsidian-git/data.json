@@ -1,5 +1,5 @@
 {
-  "commitMessage": "updated {{date}} \nchanges: {{files}}",
+  "commitMessage": "updated: {{date}} \nchanges: {{numFiles}}",
   "commitDateFormat": "ddd YY-MM-DD",
   "autoSaveInterval": 5,
   "autoPushInterval": 0,
@@ -9,7 +9,7 @@
   "pullBeforePush": true,
   "disablePopups": false,
   "disablePopupsForNoChanges": false,
-  "listChangedFilesInMessageBody": false,
+  "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
@@ -55,5 +55,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "updated: {{date}} \nchanges: {{files}}"
+  "autoCommitMessage": "updated: {{date}} \nchanges: {{numFiles}}"
 }
