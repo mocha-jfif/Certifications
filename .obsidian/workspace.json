@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Net+/Chapter 4 - Network Implementations/2 Networking Use Cases.md",
+                "file": "CompTIA Net+/Chapter 2 - Network Topologies, Architectures, and Types/1 Network Topologies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Networking Use Cases"
+              "title": "1 Network Topologies"
             }
           },
           {
@@ -216,11 +216,16 @@
   },
   "active": "8b0fdc3603fb5c8d",
   "lastOpenFiles": [
-    "CompTIA Net+/Chapter 3 - Network Addressing, Routing, and Switching/3 Network Services.md",
+    "CompTIA Net+/Chapter 1 - Models, Ports, Protocols, and Services/Glossary/frame.md",
+    "CompTIA Net+/Diagrams/Blank board(1).png",
+    "CompTIA Net+/Diagrams/Blank board(2).png",
+    "README.md",
+    "CompTIA Net+/Diagrams",
     "CompTIA Net+/Chapter 4 - Network Implementations/1 Common Networking Devices.md",
+    "CompTIA Net+/Chapter 4 - Network Implementations/2 Networking Use Cases.md",
+    "CompTIA Net+/Chapter 3 - Network Addressing, Routing, and Switching/3 Network Services.md",
     "gitignore.txt",
     "New Text Document.txt",
-    "README.md",
     "CompTIA Net+/Chapter 3 - Network Addressing, Routing, and Switching/2 Routing & Switching Technologies.md",
     "CompTIA Net+/Chapter 3 - Network Addressing, Routing, and Switching/1 IPv4 Network Addressing.md",
     "CompTIA Net+/Chapter 2 - Network Topologies, Architectures, and Types/1 Network Topologies.md",
@@ -233,20 +238,17 @@
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/VPN headend.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/VPN server.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/VPN client.md",
-    "CompTIA Net+/Chapter 4 - Network Implementations/2 Networking Use Cases.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Security.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Load balancing and failover.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Dynamic content acceleration.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Content delivery.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Request routing.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Content replication.md",
-    "Blank board(2).png",
     "Untitled.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/attack signatures.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary/Medium-Dependent Interface.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/Glossary",
     "CompTIA Net+/Chapter 4 - Network Implementations",
-    "CompTIA Net+/Chapter 1 - Models, Ports, Protocols, and Services/Glossary/Blank board(1).png",
     "Blank board.png",
     "Untitled.canvas",
     "Kaseya VSA 10 Technician/Pasted image 20250109124059.png",
@@ -254,7 +256,6 @@
     "CompTIA Net+.zip",
     "Kaseya VSA 10 Technician",
     "CompTIA Net+/Chapter 3 - Network Addressing, Routing, and Switching/Glossary",
-    "CompTIA Net+/Chapter 3 - Network Addressing, Routing, and Switching",
-    "CompTIA Net+/Chapter 2 - Network Topologies, Architectures, and Types/Untitled"
+    "CompTIA Net+/Chapter 3 - Network Addressing, Routing, and Switching"
   ]
 }

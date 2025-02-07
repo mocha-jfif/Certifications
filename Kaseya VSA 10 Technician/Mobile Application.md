@@ -1,1 +1,0 @@
-The VSAX mobile app allows for the same functionalities as the web app.
