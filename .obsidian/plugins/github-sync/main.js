@@ -4704,7 +4704,7 @@ var GHSyncPlugin = class extends import_obsidian.Plugin {
     });
     let clean = statusResult.isClean();
     let date = new Date();
-    let msg = hostname + " " + date.getFullYear() + "-" + (date.getMonth() + 1) + "-" + date.getDate() + ":" + date.getHours() + ":" + date.getMinutes() + ":" + date.getSeconds();
+    let msg = "Lexie" + " " + date.getFullYear() + "-" + (date.getMonth() + 1) + "-" + date.getDate() + ":" + date.getHours() + ":" + date.getMinutes() + ":" + date.getSeconds();
     if (!clean) {
       try {
         await git.add("./*").commit(msg);

@@ -25,12 +25,14 @@
             "id": "8b0fdc3603fb5c8d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "CompTIA Net+/Chapter 4 - Network Implementations/2 Networking Use Cases.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "2 Networking Use Cases"
             }
           },
           {
@@ -189,16 +191,6 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
-          },
-          {
-            "id": "9c78cc03dd9845b8",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
         "currentTab": 5
@@ -222,13 +214,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef1195df60ebd0c2",
+  "active": "8b0fdc3603fb5c8d",
   "lastOpenFiles": [
+    "CompTIA Net+/Chapter 3 - Network Addressing, Routing, and Switching/3 Network Services.md",
     "CompTIA Net+/Chapter 4 - Network Implementations/1 Common Networking Devices.md",
     "gitignore.txt",
     "New Text Document.txt",
     "README.md",
-    "CompTIA Net+/Chapter 3 - Network Addressing, Routing, and Switching/3 Network Services.md",
     "CompTIA Net+/Chapter 3 - Network Addressing, Routing, and Switching/2 Routing & Switching Technologies.md",
     "CompTIA Net+/Chapter 3 - Network Addressing, Routing, and Switching/1 IPv4 Network Addressing.md",
     "CompTIA Net+/Chapter 2 - Network Topologies, Architectures, and Types/1 Network Topologies.md",
