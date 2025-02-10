@@ -6,4 +6,7 @@
 - 802.11n: 2.4 or 5 GHz
 - 802.11ac: 5 GHz
 - 802.11ax: 2.4 or 5 GHz. Extended uses the 6 GHz frequency.
-- Band st
+- [[Band steering]]
+- 802.11b/g uses 11 channels, 3 of which are nonoverlapping.
+
+
