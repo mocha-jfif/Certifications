@@ -85,12 +85,26 @@
 - [[Global unicast addresses]]
 - [[Link-local addresses]]
 - [[Site-local addresses]]
-- Multicast addressing
-- Anycast addressing
+- [[Multicast addressing]]
+- [[Anycast addressing]]
 - Stateless: IP autoconfiguration
 - Stateful: Devices obtain address from a server.
 - fe80:: is a private link-local address
 - 0:0:0:0:0:0:0:0 and 0:0:0:0:0:0:0:1 are reserved loopback addresses. ::1/128
+
+## Neighbor Discovery
+- IPv6 supports NDP; responsible for autoconfiguring node addresses, discovering other nodes on the link, determining the addresses of other nodes, detecting duplicate addresses, finding available routers and DNS servers, discovering address prefixes, and maintaining reachability information of any other active neighbor nodes.
+
+## Comparing IPv4 and IPv6
+
+
+| Address Feature    | IPv4 Address                      | IPv6 Address   |
+| ------------------ | --------------------------------- | -------------- |
+| Loopback           | 127.0.0.1                         | ::1            |
+| Net-wide addresses | Public ranges                     | Global unicast |
+| Private addresses  | 10.0.0.0, 172.16.0.0, 192.168.0.0 | feC0::         |
+| Autoconfigured     | 169.254.0.0                       | Link local     |
+
 
 
 
