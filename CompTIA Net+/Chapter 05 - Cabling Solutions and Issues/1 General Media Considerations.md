@@ -132,7 +132,15 @@
 ![[Pasted image 20250210093448.png]]
 
 ## Transceivers
+- SFP and GBIC modules are often used to link a gigabit Ethernet port with a fiber network.
+- Fiber transceivers are bidirectional and can operate in duplex mode. 
+- There is a receiver port (RX) and transmitter port (TX)
+- When RX and TX ports are transposed, communication errors and performance degradation typically occur. One device may be configured for full duplex while the other is set to half duplex. In this case, one side of the communication expects to send and receive data simultaneously, but the other side can only send or receive data at a time.
+- Communications can fail if the RX/TX ports are dirty or if there's a connector mismatch.
 
+## Media Couplers & Converters
+- When you have two dissimilar types of network media, a media converter is used to allow them to connect.
+- comm
 
 
 
