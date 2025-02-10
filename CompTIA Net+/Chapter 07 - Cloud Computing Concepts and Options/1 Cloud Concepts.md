@@ -7,6 +7,8 @@
 	- Netflix
 	- Adobe
 	- Dropbox
+	- Slack
+	- Mailchimp
 
 # Platform as a Service
 - PaaS involves delivering a platform to develop applications over the Internet, without downloads or installation.
@@ -20,4 +22,4 @@
 - Some examples are:
 	- AWS
 	- RackSpace
-	- 
+
