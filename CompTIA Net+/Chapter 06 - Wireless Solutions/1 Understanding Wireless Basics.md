@@ -27,4 +27,25 @@
 
 ## Antenna Ratings
 - To determine an antenna's strength, refer to its gain value.
-- An antenna's gain value represents the difference between the 0d
+- An antenna's gain value represents the difference between the 0dBi isotropic and the antenna's power.
+- A higher gain means stronger send and receive signals.
+- Every 3 dB of gain doubles an antenna's effective power output.
+
+## Antenna Coverage
+- In a typical configuration, an antenna can either be omnidirectional or directional.
+- Omnidirectional: Designed to provide a 360-degree dispersed wave pattern. Used when coverage in all directions is required. Wide.
+- Directional: Designed to focus the signal in a particular direction. Narrow.
+
+# Network Types
+- Ad Hoc: When devices connect directly to each other without the need for a central AP.
+- Infrastructure network: Most common wireless network. AP acts as a bridge between wireless clients and the wired network, facilitating communication between devices and providing internet access.
+
+# Establishing Communications Between Wireless Devices
+- If you use an infrastructure wireless network design, the network has two key parts: the station (STA) and the AP.
+- When a single AP is connected to the wired network and to a set of wireless stations, it is called a basic service set (BSS)
+- An extended service set (ESS) describes the use of multiple BSSs that form a single subnetwork.
+- Ad hoc mode is sometimes called an independent basic service set (IBSS)
+- Communication between the AP and client is a two step process:
+	- Association
+	- Authentication
+- ESSID is not unique to a single AP. Multiple APs within the same network share the same ESSID.BSSId identifies indiviual access points, where ESSId identifies the entire wireless
