@@ -38,4 +38,18 @@
 	- STP: Used in environments where greater resistance to EMI and attenuation is required.
 - Categories of TP cabling:
 	- Cat 5: Operates at 100Mbps with a transmission range of 100 meters.
-	- Cat 5e: Used on networks 
+	- Cat 5e: Used on networks that run at 10/100 Mbps and even up to 1000 Mbps; can be used up to 100 meters. Minimum of 100 MHz of bandwidth.
+	- Cat 6: Transmits data up to 10 Gbps; minimum of 250 MHz of bandwidth and specifies cable lengths up to 100 meters with 10/100/1000 Mbps transfer, along with 10 Gbps over shorter distances. Typically made up of four twisted pairs of copper wire.
+	- Cat 6a: Offers a minimum of 500 MHz of bandwidth, 100 meters with 10 Gbps speeds.
+	- Cat 7: Shielding has been added to individual pairs and to the cable as a whole to greatly reduce crosstalk. 600 MHz, backward compatible. Not recognized by EIA / TIA. STP.
+	- CAT 8: 40 Gbps at 2000 MHz up to 30 meters.
+
+## Coaxial Cables
+- Coax: Copper core, plastic insulation, ground, and outer plastic.
+- Made this way to add resistance to attenuation, crosstalk, and EMI.
+- Thinnet and thicknet cables exist. Both are uncommon, but thinnet is more likely. Two types of thinnet:
+	- RG-59: Used to generate low-power video connections. It cannot be used over long distances because of its high frequency power losses. 
+	- RG-06: Often used for cable TV and cable modems.
+
+## Direct Attach Copper
+- DAC: Commonly used to connect 
