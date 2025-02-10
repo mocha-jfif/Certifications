@@ -81,10 +81,46 @@
 
 ![[Pasted image 20250210092807.png]]
 
-## RJ-11 connectors
+## RJ-11 Connectors
 - Used on telephone cables.
 - They have capacity for six small pins. In many cases, not all pins are used. Telephones use two, DSL uses four.
 
 ![[Pasted image 20250210092914.png]]
+
+
+## RJ-45 Connectors
+- Used with twisted-pair cabling.
+- Supports eight wires.
+
+![[Pasted image 20250210093028.png]]
+
+## F-Type Connectors
+- Screw-on connections used to attach coax to devices.
+- Has a "nut" that provides a gripping point.
+
+![[Pasted image 20250210093113.png]]
+
+## Fiber Connectors
+
+### ST
+- Uses a half twist bayonet type of lock.
+![[Pasted image 20250210093149.png]]
+
+### SC
+- Uses a push-pull connector.
+![[Pasted image 20250210093218.png]]
+
+### LC
+- Has a flange on top, similar to an RJ-45.
+
+![[LC-Premium-unibody-connector-e1665758303719.png]]
+### MT-RJ
+- Small form factor; popular.
+
+![[1280_cmrhTKfKMcK11wBa.jpg]]
+
+### FC
+- Has a threaded body.
+- Used in environments where vibration is a problem.
 
 
