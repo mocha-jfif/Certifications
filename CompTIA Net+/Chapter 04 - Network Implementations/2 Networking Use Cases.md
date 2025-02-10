@@ -53,8 +53,21 @@
 
 # Secure Access Secure Edge / Security Service Edge
 - SASE: A concept that combines network security features with WAN capabilities to provide secure and scalable access to cloud-based applications and resources.
+- SASE extends security and networking capabilities to the SSE, providing secure access and low latency connectivity to cloud-based applications and services.
+- SASE deploys Global Secure Access Points (GSAPs) at strategic locations worldwide, providing secure connectivity and access to cloud-based resources.
 
-
+# Infrastructure as Code
+- IaC: Involves managing and provisioning computing infrastructure using machine-readable configuration files or scripts, rather than manual processes or physical hardware configuration.
+- Key aspects:
+	- Declarative configuration
+	- Version control
+	- Automated provisioning
+	- Scalability and consistency
+	- Immutable infrastructure
+	- Integration with continuous integration/continuous deployment.
+- Utilizes playbooks.
+- Reusable tasks
+- Version control systems support branching, which allows users to create separate branches or copies of the code base to work on independent features, fixes, or experiments without affecting the main codebase. 
 
 
 
