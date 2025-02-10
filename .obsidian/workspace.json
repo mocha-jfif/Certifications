@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/2 Troubleshooting Common Cable Connectivity Issues.md",
+                "file": "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/3 Hardware Issues.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Troubleshooting Common Cable Connectivity Issues"
+              "title": "3 Hardware Issues"
             }
           }
         ]
@@ -196,7 +196,9 @@
   },
   "active": "25b057424b7aaefc",
   "lastOpenFiles": [
+    "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/2 Troubleshooting Common Cable Connectivity Issues.md",
     "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/1 General Media Considerations.md",
+    "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/Glossary/drops.md",
     "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/Glossary/40GBASE-T.md",
     "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/Glossary/1000BASE-T.md",
     "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/Glossary/100BASE-FX.md",
@@ -229,8 +231,6 @@
     "CompTIA Net+/Chapter 03 - Network Addressing, Routing, and Switching/3 Network Services.md",
     "CompTIA Net+/Chapter 03 - Network Addressing, Routing, and Switching/2 Routing & Switching Technologies.md",
     "CompTIA Net+/Chapter 03 - Network Addressing, Routing, and Switching/1 IPv4 Network Addressing.md",
-    "CompTIA Net+/! Table of Contents !.md",
-    "CompTIA Net+/Chapter 02 - Network Topologies, Architectures, and Types/1 Network Topologies.md",
     "CompTIA Net+/! Cram Sheet !",
     "CompTIA Net+/Chapter 10 - Network Troubleshooting/Glossary",
     "CompTIA Net+/Chapter 10 - Network Troubleshooting",
