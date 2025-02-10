@@ -27,4 +27,15 @@
 
 # Satellite Access
 - Used for wireless computer network access through satellite communication systems, which provide Internet connectivity to remote locations or areas where traditional wired infrastructure is unavailable or impractical.
-- Operates using a two-way communication process: upstream and downstream.
+- Operates using a two-way communication process: [[upstream]] and [[downstream]].
+
+# Types of Network Media
+- Two basic choices: copper and fiber-optic.
+
+## Twisted-Pair Cabling (Copper)
+- Originally created for voice transmissions, but now also used for networking. Two main types today:
+	- UTP: More common than STP
+	- STP: Used in environments where greater resistance to EMI and attenuation is required.
+- Categories of TP cabling:
+	- Cat 5: Operates at 100Mbps with a transmission range of 100 meters.
+	- Cat 5e: Used on networks 
