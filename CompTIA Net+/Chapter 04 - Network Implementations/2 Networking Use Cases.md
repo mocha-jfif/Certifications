@@ -40,6 +40,22 @@
 	- Efficiency: Dodges the 4096 VLAN ID limitation.
 - DCI is what connects multiple datacenters together in a VXLAN.
 
+# Zero Trust Architecture
+- ZTA: Assumes no implicit trust within the network, regardless of whether the connection is internal or external.
+- Key principles:
+	- Policy-based authentication
+	- Authorization
+	- Least privilege access
+	- Microsegmentation
+	- Continuous monitoring and inspection
+	- Encryption and data protection
+	- Dynamic trust assessment
+
+# Secure Access Secure Edge / Security Service Edge
+- SASE: A concept that combines network security features with WAN capabilities to provide secure and scalable access to cloud-based applications and resources.
+
+
+
 
 
 
