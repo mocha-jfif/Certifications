@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Net+/Chapter 08 - Network Operations/Glossary/Vertical (Main) cross-connect.md",
+                "file": "CompTIA Net+/Chapter 08 - Network Operations/1 Physical Installation Factors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vertical (Main) cross-connect"
+              "title": "1 Physical Installation Factors"
             }
           }
         ]
@@ -196,8 +196,10 @@
   },
   "active": "25b057424b7aaefc",
   "lastOpenFiles": [
-    "CompTIA Net+/Chapter 08 - Network Operations/Glossary/Vertical (backbone) cabling.md",
+    "CompTIA Net+/Chapter 08 - Network Operations/Glossary/Intermediate cross-connect.md",
+    "CompTIA Net+/Chapter 08 - Network Operations/Glossary/Horizontal cross-connect.md",
     "CompTIA Net+/Chapter 08 - Network Operations/Glossary/Vertical (Main) cross-connect.md",
+    "CompTIA Net+/Chapter 08 - Network Operations/Glossary/Vertical (backbone) cabling.md",
     "CompTIA Net+/Chapter 08 - Network Operations/Glossary/Horizontal cabling.md",
     "CompTIA Net+/Chapter 08 - Network Operations/1 Physical Installation Factors.md",
     "CompTIA Net+/Chapter 07 - Cloud Computing Concepts and Options/1 Cloud Concepts.md",
@@ -230,8 +232,6 @@
     "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/Glossary/Single mode fiber.md",
     "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/Glossary/Multimode fiber.md",
     "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/Glossary/downstream.md",
-    "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/Glossary/upstream.md",
-    "CompTIA Net+/Chapter 04 - Network Implementations/2 Networking Use Cases.md",
     "CompTIA Net+/! Cram Sheet !",
     "CompTIA Net+/Chapter 10 - Network Troubleshooting/Glossary",
     "CompTIA Net+/Chapter 10 - Network Troubleshooting",
