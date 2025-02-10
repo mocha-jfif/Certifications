@@ -84,4 +84,10 @@
 - Network Security Groups (NSGs) serve as a virtual firewall by:
 	- Rule-based filtering
 	- Inbound/outbound control
-	- Port-level filtering 
+	- Port-level filtering
+	- Source and destination IP address filtering
+	- Priority and rule evaluation
+	- Logging and monitoring
+	- Integration with subnets and resources
+	- Dynamic updates 
+- Network security lists preceded NSGs.
