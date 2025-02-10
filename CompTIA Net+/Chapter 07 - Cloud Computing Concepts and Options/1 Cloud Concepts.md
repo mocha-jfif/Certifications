@@ -37,4 +37,36 @@
 
 # Multitenancy
 - Puts data from various clients on the same machines.
-- Workl
+- Workloads form different clients can be on the same system so a flaw in implementation can compromise security.
+
+# Elasticity
+- Capabilities can be elastically provisioned and released to scale rapidly outward and inward to commensurate with demand.
+
+# Scalability
+- Elasticity is required and automatic autoscaling of resources is critical.
+- Relates to resources relating to capacity.
+
+# Network Functions Virtualization (NFV)
+- Involves the virtualization of network functions and services that traditionally relied on dedicated, proprietary hardware appliances.
+- Not an alternative to cloud computing, but an extension that adds virtualization technology.
+
+# Cloud Connectivity Options
+- Most cloud providers offer a number of methods that clients can employ to connect with them.
+- One of the most common methods is an IPSec hardware VPN.
+- Another is a dedicated direct connection (private-direct). You can combine the dedicated network connection(s) with the hardware VPN to create a combination of IPSec-encrypted private connections at a reduced network cost.
+- Private cloud to public cloud.
+
+# Virtual Private Cloud (VPC)
+- Allows users to create isolated and logically segmented private networks within a public cloud environment via an endpoint that allows the VPC to be connected with other services without the need for additional technologies.
+- Key features:
+	- Network isolation
+	- Customizable network configuration
+	- Security controls
+	- Endpoint usage
+	- Scalability
+	- Connectivity options
+
+# Cloud Gateways
+- Acts as a bridge between the internal network infrastructure and the cloud.
+- Two popular approaches are to utilize Internet gateways to intelligently route network traffic between different locations.
+- NAT is required to communic
