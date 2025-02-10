@@ -97,13 +97,17 @@
 
 ## Comparing IPv4 and IPv6
 
+| Address Feature    | IPv4 Address                      | IPv6 Address      |
+| ------------------ | --------------------------------- | ----------------- |
+| Loopback           | 127.0.0.1                         | ::1               |
+| Net-wide addresses | Public ranges                     | Global unicast    |
+| Private addresses  | 10.0.0.0, 172.16.0.0, 192.168.0.0 | feC0::            |
+| Autoconfigured     | 169.254.0.0                       | Link local fe80:: |
 
-| Address Feature    | IPv4 Address                      | IPv6 Address   |
-| ------------------ | --------------------------------- | -------------- |
-| Loopback           | 127.0.0.1                         | ::1            |
-| Net-wide addresses | Public ranges                     | Global unicast |
-| Private addresses  | 10.0.0.0, 172.16.0.0, 192.168.0.0 | feC0::         |
-| Autoconfigured     | 169.254.0.0                       | Link local     |
+## Compatibility Requirements
+- Refers to the measures and technologies used to ensure that networks, devices, and applications can effectively support and interoperate with IPv6; includes dual stack capability, tunneling, and NAT64.
+	- Tunneling here is used to encapsulate IPv6 packets within IPv4 packets to allow IPv6 to traverse networks that don't inherently support it.
+	- NAT64 is a translation mechanism used to facilitate communications between IPv6-only and IPv4-only devices by mapping them to each other at the network edge, allowing interoperability.
 
 
 
