@@ -65,9 +65,20 @@
 	- Scalability and consistency
 	- Immutable infrastructure
 	- Integration with continuous integration/continuous deployment.
-- Utilizes playbooks.
-- Reusable tasks
+- Utilizes [[playbooks]].
+- [[Reusable tasks]]
 - Version control systems support branching, which allows users to create separate branches or copies of the code base to work on independent features, fixes, or experiments without affecting the main codebase. 
+
+# IPv6 Addressing
+
+## Mitigating Address Exhaustion
+- IPv4 is quickly running out of unique addresses.
+- IPv6 uses a 128-bit addressing scheme, enabling a massive amount of possible addresses.
+
+## Identifying IPv6 Addresses
+- An IPv6 address is divided along 15 bit boundaries, and each 16-bit block is converted into a four digit hexadecimal number and separated by colons.
+- 0s can be compressed, but 0s cannot be eliminated when they are not the first in the number sequence.
+- The formula is to subtract the number of blocks from 8 and then multiply that number by 16. For example, 2001:4000::3 uses three blocks, so it would be (8-3) * 16 = 8
 
 
 
