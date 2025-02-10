@@ -101,6 +101,12 @@
 ![[Pasted image 20250210093113.png]]
 
 ## Fiber Connectors
+- Any connectors can either be angled physical contact (APC) or ultra-physical contact (UPC)
+	- UPC has an end face polished at a zero degree angle.
+	- APC has an eight degree angle.
+- Multifiber push-on (MPO): Utilizes a push-on coupling system.
+	- Compatible with SM and MM.
+	- 12-fiber, 24-fiber, and 48-fiber variants.
 
 ### ST
 - Uses a half twist bayonet type of lock.
@@ -122,5 +128,13 @@
 ### FC
 - Has a threaded body.
 - Used in environments where vibration is a problem.
+
+![[Pasted image 20250210093448.png]]
+
+## Transceivers
+
+
+
+
 
 
