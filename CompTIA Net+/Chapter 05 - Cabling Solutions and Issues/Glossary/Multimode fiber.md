@@ -1,0 +1,1 @@
+>[!faq] Many beams of light travel through the cable, bouncing off the cable walls which weakens the signal. 

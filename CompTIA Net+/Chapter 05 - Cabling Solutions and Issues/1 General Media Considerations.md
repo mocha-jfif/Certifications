@@ -52,4 +52,18 @@
 	- RG-06: Often used for cable TV and cable modems.
 
 ## Direct Attach Copper
-- DAC: Commonly used to connect 
+- DAC: Commonly used to connect networking equipment.
+- Typically consists of copper conductors enclosed in a protective jacket and are terminated with standard connectors such as SFP or QSFP.
+- Twinax has two inner conductors instead of one. Commonly used for short distances (10 meters or less). Great for SANs, server clustering, and HPC environments.
+
+## Fiber-Optic Cables
+- Because fiber-based media uses light transmissions instead of electronic pulses, EMI, crosstalk, and attenuation are nonissues.
+- Although its more expensive, it is well suited for high-speed data communications. It eliminates the problems associated with copper-based media.
+- Composed of a fiber glass core, silica cladding, silicone coating, a buffer jacket, strength members, then a polyurethane jacket.
+- Two types available:
+	- Multimode fiber
+	- Single mode fiber
+- Common types include:
+	- 62.5-micron core / 125-micron cladding multimode
+	- 50-micron core / 125-micron cladding multimode
+	- 8.3-micron core / 123-micron cladding single mode
