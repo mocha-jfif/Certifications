@@ -23,3 +23,18 @@
 	- AWS
 	- RackSpace
 
+# Deployment Models
+
+## Private Cloud
+- A cloud infrastructure is provisioned for exclusive use by a single organization comprising multiple consumers.
+
+## Public Cloud
+- A cloud infrastructure is provisioned for open use by the general public.
+- Owned by the cloud provider and uses a pay-as-you-go model.
+
+## Hybrid Cloud
+- A cloud infrastructure that is a composition of two or more distinct infrastructures that remain unique entities, but are bound together by standardized or proprietary technology that enables data and application portability.
+
+# Multitenancy
+- Puts data from various clients on the same machines.
+- Workl
