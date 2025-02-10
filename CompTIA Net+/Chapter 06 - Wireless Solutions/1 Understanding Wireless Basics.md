@@ -67,4 +67,4 @@
 	- Network type
 
 # Autonomous and Lightweight Access Points
-- The main difference between autonomous and lightweight APs is their management architecture. Auto APs operate independently and are managed individually, while lightweight APs require a centralized wireless LAN controller for management and coordination. The choice between the two types of APs depend
+- The main difference between autonomous and lightweight APs is their management architecture. Auto APs operate independently and are managed individually, while lightweight APs require a centralized wireless LAN controller for management and coordination. The choice between the two types of APs depends on factors such as the size of the deployment, management requirements, and scalability needs of the wireless network.

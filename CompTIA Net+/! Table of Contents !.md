@@ -21,7 +21,7 @@
 - Chapter 6
 	- [[1 Understanding Wireless Basics]]
 - Chapter 7
-	- [[1 Cloud Computing Concepts and Options]]
+	- [[1 Cloud Concepts]]
 - Chapter 8
 	- [[1 Physical Installation Factors]]
 	- [[2 Organizational Processes and Procedures]]
