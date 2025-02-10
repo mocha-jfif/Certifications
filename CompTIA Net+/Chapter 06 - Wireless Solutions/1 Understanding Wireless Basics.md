@@ -17,4 +17,14 @@
 
 # Channel Bonding
 - Two channels can be used at once which increases performance.
-- 802.11n can go from 40 MHz to 
+- 802.11n can go from 40 MHz to 80-160 MHz. It uses the orthogonal frequency-division multiplexing (OFDM) transmission strategy.
+- 802.11n has four spatial streams, and 802.11ac goes to eight.
+- 802.11ax replaces OFDM with OFDMA, a multiuser version of OFDM that uses a digital modulation scheme. The multiple access is achieved by assigning subnets of subcarriers to individual users.
+
+# MIMO / MU-MIMO  / Directional / Omnidirectional
+
+- MIMO and MU-MIMO are advanced antenna technologies that are key to wireless standards such as 802.11n, 802.11ac, 802.11ax, and LTE.
+
+## Antenna Ratings
+- To determine an antenna's strength, refer to its gain value.
+- An antenna's gain value represents the difference between the 0d
