@@ -9,4 +9,12 @@
 - [[Band steering]]
 - 802.11b/g uses 11 channels, 3 of which are nonoverlapping.
 
+![[Pasted image 20250210103600.png]]
 
+# Speed, Distance, and Bandwidth
+- Data rate refers to the theoretical maximum of a wireless standard.
+- Throughput refers to the actual speeds achieved after all implementation and interference factors.
+
+# Channel Bonding
+- Two channels can be used at once which increases performance.
+- 802.11n can go from 40 MHz to 
