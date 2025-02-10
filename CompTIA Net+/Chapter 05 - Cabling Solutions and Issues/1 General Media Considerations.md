@@ -140,7 +140,21 @@
 
 ## Media Couplers & Converters
 - When you have two dissimilar types of network media, a media converter is used to allow them to connect.
-- comm
+- Commonly implemented converters:
+	- Single-mode fiber to Ethernet
+	- Single-mode to multimode fiber
+	- Multimode fiber to Ethernet
+	- Fiber to coax
+
+## Rollover and Loopback Cables
+- Rollover cable: Cisco proprietary; used to connect a computer system to a router or switch console port.
+- Loopback cable: Used to test and isolate network problems. If made correctly, the loopback plug causes the link light on a device such as a NIC to come on.
+
+## Ethernet Copper and Fiber Standards
+- [[10BASE-T]]
+- [[100BASE-TX]]
+- [[100BASE-FX]]
+- 
 
 
 
