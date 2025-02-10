@@ -69,4 +69,19 @@
 # Cloud Gateways
 - Acts as a bridge between the internal network infrastructure and the cloud.
 - Two popular approaches are to utilize Internet gateways to intelligently route network traffic between different locations.
-- NAT is required to communic
+- NAT is required to communicate over the Internet with private IP addresses. Although internet routers are almost always required for routing, by default they won't route private IP addresses to public IP addresses.
+- An Internet gateway facilitates communication between resources within a VPC and the broader Internet.
+	- Acts as the entry and exit point for traffic flowing in and out of the VAC.
+- A NAT is used to manage outbound Internet connectivity for resources within a private subnet of a VAC.
+	- Allows private resources that do not have public IP addresses to initiate outbound connections to the Internet while keeping them protected and hidden behind the NAT gateway's public IP address.
+
+# Network Security, Groups, and Lists
+- Software and services not necessary for the implementation should be removed, or at least disabled.
+- Patches/firmware updates should be kept current and log files carefully monitored.
+- Encrypt data
+- Backup data frequently
+- Implement access control
+- Network Security Groups (NSGs) serve as a virtual firewall by:
+	- Rule-based filtering
+	- Inbound/outbound control
+	- Port-level filtering 
