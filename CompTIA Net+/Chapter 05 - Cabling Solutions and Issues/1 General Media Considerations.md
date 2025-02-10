@@ -154,7 +154,18 @@
 - [[10BASE-T]]
 - [[100BASE-TX]]
 - [[100BASE-FX]]
-- 
+- [[1000BASE-T]]
+- [[40GBASE-T]]
+
+## Multiplexing Options
+- Bidirectional wavelength division multiplexing (WDM) is the transmission of optical channels on a fiber propagating simultaneously in both directions.
+	- DWDM replaces SONET/SDH regenerators and can amplify signal and enable it to travel a greater distance.
+		- Terminal multiplexer
+		- Line repeaters
+		- Terminal demultiplexer
+	- CWDM has relaxed stabilization requirements, so you can have vastly different speeds for download than upload.
+
+
 
 
 
