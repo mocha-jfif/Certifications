@@ -33,4 +33,21 @@
 # Cable Tester
 - A range of tools to test a cable's functionality.
 - Media tester: Admins can test a segment of cable, looking for shorts, improperly attached connectors, or other cable faults.
-- Line t
+- Line tester: Usually used to test telephone wiring.
+- Cable certifier: Stress tests cables.
+
+# Wire Map
+- A test to see that all Ethernet wiring is correct and there are no opens, shorts, or wires reversed.
+
+# Tap
+- Used to connect drop cables to a distribution cable much like a splitter.
+- A tap can apply a different amount of loss to each output path individually.
+
+# Fusion Splicer
+- Used to join two optical cables.
+
+# Spectrum Analyzer
+- Measures the magnitude of an input signal versus frequency within the full frequency range of the instrument and can be used for a wide range of signals.
+
+# Fiber Light Meter
+- Measures the light moving through optical fiber to look for problems in a cable.
