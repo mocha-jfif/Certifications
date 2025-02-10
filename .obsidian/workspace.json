@@ -149,8 +149,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -169,12 +169,22 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e73c240de750a643",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -194,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25b057424b7aaefc",
+  "active": "e73c240de750a643",
   "lastOpenFiles": [
     "CompTIA Net+/Chapter 08 - Network Operations/Glossary/Intermediate cross-connect.md",
     "CompTIA Net+/Chapter 08 - Network Operations/Glossary/Horizontal cross-connect.md",
