@@ -78,7 +78,19 @@
 ## Identifying IPv6 Addresses
 - An IPv6 address is divided along 15 bit boundaries, and each 16-bit block is converted into a four digit hexadecimal number and separated by colons.
 - 0s can be compressed, but 0s cannot be eliminated when they are not the first in the number sequence.
-- The formula is to subtract the number of blocks from 8 and then multiply that number by 16. For example, 2001:4000::3 uses three blocks, so it would be (8-3) * 16 = 8
+- The formula is to subtract the number of blocks from 8 and then multiply that number by 16. For example, 2001:4000::3 uses three blocks, so it would be (8-3) * 16 = 80. Therefore, the total number of bits represented by :: here is 80.
+
+## IPv6 Address Types
+- [[Unicast IPV6 addresses]]
+- [[Global unicast addresses]]
+- [[Link-local addresses]]
+- [[Site-local addresses]]
+- Multicast addressing
+- Anycast addressing
+- Stateless: IP autoconfiguration
+- Stateful: Devices obtain address from a server.
+- fe80:: is a private link-local address
+- 0:0:0:0:0:0:0:0 and 0:0:0:0:0:0:0:1 are reserved loopback addresses. ::1/128
 
 
 

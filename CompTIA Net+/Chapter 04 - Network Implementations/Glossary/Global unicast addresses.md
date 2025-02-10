@@ -1,0 +1,1 @@
+>[!faq] Equivalent of IPv4 public addresses.
