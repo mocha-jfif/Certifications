@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Net+/Chapter 04 - Network Implementations/2 Networking Use Cases.md",
+                "file": "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/1 General Media Considerations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 Networking Use Cases"
+              "title": "1 General Media Considerations"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "25b057424b7aaefc",
   "lastOpenFiles": [
-    "CompTIA Net+/Chapter 04 - Network Implementations/Glossary/Anycast addressing.md",
     "CompTIA Net+/Chapter 04 - Network Implementations/2 Networking Use Cases.md",
+    "CompTIA Net+/Chapter 04 - Network Implementations/Glossary/Anycast addressing.md",
     "CompTIA Net+/Chapter 04 - Network Implementations/1 Common Networking Devices.md",
     "CompTIA Net+/Chapter 04 - Network Implementations/Glossary/Multicast addressing.md",
     "CompTIA Net+/Chapter 04 - Network Implementations/Glossary/Site-local addresses.md",
