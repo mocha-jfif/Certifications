@@ -61,9 +61,30 @@
 - Although its more expensive, it is well suited for high-speed data communications. It eliminates the problems associated with copper-based media.
 - Composed of a fiber glass core, silica cladding, silicone coating, a buffer jacket, strength members, then a polyurethane jacket.
 - Two types available:
-	- Multimode fiber
-	- Single mode fiber
+	- [[Multimode fiber]]
+	- [[Single mode fiber]]
 - Common types include:
 	- 62.5-micron core / 125-micron cladding multimode
 	- 50-micron core / 125-micron cladding multimode
 	- 8.3-micron core / 123-micron cladding single mode
+
+## Plenum V. PVC Cables
+- Cables that occupy the space above a drop ceiling must be plenum rated. Plenum-rated cables are coated with a nonflammable material.
+- Plenum-rated cables must be flame resistant and must not produce toxic fumes if exposed to intense heat.
+
+# Types of Media Connectors
+
+## BNC Connectors
+- Associated with coaxial media and 10BASE2 networks.
+- Barrel connectors, T-connector, and terminiators.
+- Connectors = couplers.
+
+![[Pasted image 20250210092807.png]]
+
+## RJ-11 connectors
+- Used on telephone cables.
+- They have capacity for six small pins. In many cases, not all pins are used. Telephones use two, DSL uses four.
+
+![[Pasted image 20250210092914.png]]
+
+
