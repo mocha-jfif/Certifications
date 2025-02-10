@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/1 General Media Considerations.md",
+                "file": "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/Glossary/upstream.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 General Media Considerations"
+              "title": "upstream"
             }
           }
         ]
@@ -196,6 +196,8 @@
   },
   "active": "25b057424b7aaefc",
   "lastOpenFiles": [
+    "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/1 General Media Considerations.md",
+    "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/Glossary/upstream.md",
     "CompTIA Net+/Chapter 04 - Network Implementations/2 Networking Use Cases.md",
     "CompTIA Net+/Chapter 04 - Network Implementations/Glossary/Anycast addressing.md",
     "CompTIA Net+/Chapter 04 - Network Implementations/1 Common Networking Devices.md",
@@ -220,8 +222,6 @@
     "CompTIA Net+/Chapter 10 - Network Troubleshooting/Glossary/Test Change.md",
     "CompTIA Net+/! Cram Sheet !/5 Network Troubleshooting.md",
     "CompTIA Net+/! Cram Sheet !/4 Network Security.md",
-    "CompTIA Net+/! Cram Sheet !/2 Network Implementation.md",
-    "CompTIA Net+/! Cram Sheet !/3 Network Operations.md",
     "CompTIA Net+/! Cram Sheet !",
     "CompTIA Net+/Chapter 10 - Network Troubleshooting/Glossary",
     "CompTIA Net+/Chapter 10 - Network Troubleshooting",

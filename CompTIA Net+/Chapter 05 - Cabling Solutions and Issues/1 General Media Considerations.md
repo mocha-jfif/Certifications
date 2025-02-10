@@ -10,4 +10,21 @@
 - Full-duplex: Can simultaneously send and receive.
 
 # Data Transmission Rates
-- Normally measur
+- Normally measured by the number of data bits that can traverse the medium in a single second; measured today in Mbps and Gbps.
+
+# Wired v. Wireless
+- A wireless network uses radio signals to transmit data between devices.
+- Wired networks rely on physical cables.
+
+# Cellular Technology Access
+- GSM initially used TDMA to provide multiuser access by chopping up the channel into sequential time slices.
+- TDMA was later replaced by DMA which uses different frequencies for each user to provide various means of coverage.
+- Original GSM access with both TDMA and CDMA was 2G.
+- 3G brought minor enhancements.
+- 4G added the capability to implement mobile broadband.
+- LTE was based on EDGE and HSMA technologies which increased the capacity and speed by using a different radio interface together with core network improvements.
+- 5G brought faster speeds and met the needs of IoT devices.
+
+# Satellite Access
+- Used for wireless computer network access through satellite communication systems, which provide Internet connectivity to remote locations or areas where traditional wired infrastructure is unavailable or impractical.
+- Operates using a two-way communication process: upstream and downstream.
