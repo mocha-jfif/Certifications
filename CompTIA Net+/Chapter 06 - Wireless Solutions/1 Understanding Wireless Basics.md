@@ -46,6 +46,25 @@
 - An extended service set (ESS) describes the use of multiple BSSs that form a single subnetwork.
 - Ad hoc mode is sometimes called an independent basic service set (IBSS)
 - Communication between the AP and client is a two step process:
-	- Association
+	- [[Association]]
+	- [[Authentication]]
+- ESSID is not unique to a single AP. Multiple APs within the same network share the same ESSID. BSSID identifies individual access points, where ESSID identifies the entire wireless network or WLAN.
+
+# Configuring the Wireless Connection
+- Most of the broadband routers similar to a simple small network router differ in the following:
+	- Wireless bands
+	- Switch speed
+	- Security supported
+	- Antenna
+- The following can be confirmed on an AP:
+	- SSID
+	- Channel
+	- SSID broadcast
 	- Authentication
-- ESSID is not unique to a single AP. Multiple APs within the same network share the same ESSID.BSSId identifies indiviual access points, where ESSId identifies the entire wireless
+	- Wireless mode
+	- DTIM period in seconds
+	- Max connection rate
+	- Network type
+
+# Autonomous and Lightweight Access Points
+- The main difference between autonomous and lightweight APs is their management architecture. Auto APs operate independently and are managed individually, while lightweight APs require a centralized wireless LAN controller for management and coordination. The choice between the two types of APs depend
