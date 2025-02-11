@@ -21,4 +21,5 @@
 
 # Wiring and Port Locations
 - Network wiring schematics are important.
-- Some are general, so
+- Some are general, and some are very specific.
+- Specific schematics need to be changed regularly.
