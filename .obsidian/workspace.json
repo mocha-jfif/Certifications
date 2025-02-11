@@ -182,9 +182,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "ffac3ca29c630412",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -204,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e73c240de750a643",
+  "active": "ef1195df60ebd0c2",
   "lastOpenFiles": [
     "CompTIA Net+/Chapter 08 - Network Operations/Glossary/Intermediate cross-connect.md",
     "CompTIA Net+/Chapter 08 - Network Operations/Glossary/Horizontal cross-connect.md",
