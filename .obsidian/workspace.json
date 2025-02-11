@@ -204,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -224,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4251810ed16c82e",
+  "active": "ef1195df60ebd0c2",
   "lastOpenFiles": [
     "CompTIA Net+/Chapter 08 - Network Operations/1 Physical Installation Factors.md",
     "CompTIA Net+/Chapter 08 - Network Operations/Glossary/Intermediate cross-connect.md",
