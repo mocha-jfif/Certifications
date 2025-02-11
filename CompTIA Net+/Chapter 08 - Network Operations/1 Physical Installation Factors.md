@@ -61,4 +61,12 @@
 
 ## Beyond the UPS
 - Power generators should be used when there is a longer term outage.
-- R
+- Redundant circuits and dual power supplies should also be used for key equipment.
+- Power distribution unit (PDU): Any device fitted with multiple outputs that is specifically designed to distribute electric power.
+- PDUs can be basic or intelligent.
+
+# Environmental Factors
+- Includes temperature, humidity, electrical, and water/flood risks.
+- Computer rooms should have fire and moisture detectors.
+- Humidity should be between 45 and 55%
+- Temperature should stay between 20-25c (78-77F)
