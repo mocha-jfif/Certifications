@@ -25,3 +25,12 @@
 	- Bix is more popular in older implementations
 	- Krone is more popular internationally.
 
+## MDF and IDF Wiring Closets
+- Two types of wiring closets are the main distribution frame (MDF) and intermediate distribution frame (IDF).
+- The main wiring closet typically holds the majority of the network gear and where outside lines run into the network (MDF)
+	- One key component is the primary patch panel.
+	- The network connector jacks attached to this patch panel lead out to the building for network connections.
+- Some networks use multiple wiring closets. A secondary closet (IDF) connects to the MDF using a backbone cable.
+
+## Rack Size
+- Standard rack sizes, such as 19-inch or 23-inch widths, are commonly used in the industry and provide compatability with a wide range of networking equipment from vari
