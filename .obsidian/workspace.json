@@ -179,12 +179,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "ffac3ca29c630412",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c4251810ed16c82e",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -194,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -214,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef1195df60ebd0c2",
+  "active": "c4251810ed16c82e",
   "lastOpenFiles": [
     "CompTIA Net+/Chapter 08 - Network Operations/1 Physical Installation Factors.md",
     "CompTIA Net+/Chapter 08 - Network Operations/Glossary/Intermediate cross-connect.md",
