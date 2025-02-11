@@ -33,4 +33,32 @@
 - Some networks use multiple wiring closets. A secondary closet (IDF) connects to the MDF using a backbone cable.
 
 ## Rack Size
-- Standard rack sizes, such as 19-inch or 23-inch widths, are commonly used in the industry and provide compatability with a wide range of networking equipment from vari
+- Standard rack sizes, such as 19-inch or 23-inch widths, are commonly used in the industry and provide compatibility with a wide range of networking equipment from various vendors.
+- A popular way to classify a rack is by its height and thus racks are labeled with specifications such as "42u" or "7ft" "U" stands for "u-spaces", or rack units, which are equal to 1.75 inches.
+
+## Port-side Exhaust/Intake
+- The direction in which airflow is directed by network equipment, such as switches or servers, through their ventilation ports should be port-side exhaust/intake for maintaining optimal operating temperatures and preventing equipment overheating.
+- In this configuration, airflow is directed out toward the network ports and cool air is pulled in from the network ports.
+
+## Lockable Environment
+- All network equipment should be physically secure.
+
+# Using Uninterruptible Power Supplies
+- UPS: A box that holds a battery and a built-in charging circuit. 
+- Required to provide enough power to give the admin time to properly shut servers down.
+- Why use one?
+	- Data availability
+	- Protection from data loss
+	- Protection form hardware damage.
+
+## Power Loads, Threats, and Voltage
+- A UPS also protects a server from inconsistent power, such as:
+	- Blackouts
+	- Spikes (<1 second intense increase in voltage)
+	- Surges (>1, less intense increase in voltage)
+	- Sags (<1 second drop in voltage)
+	- Brownouts (>2 minute drop in voltage)
+
+## Beyond the UPS
+- Power generators should be used when there is a longer term outage.
+- R
