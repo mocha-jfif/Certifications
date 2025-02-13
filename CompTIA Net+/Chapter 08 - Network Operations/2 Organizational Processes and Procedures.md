@@ -70,4 +70,32 @@
 	- Ownership
 
 ## Procedures
+- Describes how tasks are to be performed
+- Common network procedures:
+	- Backups
+	- Adding new users
+	- Privileged user agreement
+	- Security
+	- Network monitoring
+	- Software / system lifecycle
+	- Violation reporting
+	- Remote access policy and network administration
 
+## Change Management
+- Provides organizations with a formal process for identifying, requesting, approving, and implementing changes to configurations
+- Some procedures:
+	- Reason for change
+	- Change request / service request
+	- Approval process
+	- Maintenance window
+	- Notification of change
+	- Documentation
+
+## Configuration Management / Documentation
+- Production configuration: Represents the current operational state of configuration settings in a production environment
+- Backup configuration: Serves as a safeguard by providing a copy of these settings that can be used for recovery and restoration purposes in case of emergencies or failures.
+- Software and hardware documentation are required.
+
+## Regulations
+- Regulations are actual legal restrictions with legal consequences.
+- 
