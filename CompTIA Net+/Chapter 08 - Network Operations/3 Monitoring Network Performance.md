@@ -39,5 +39,26 @@
 - Bandwidth / Throughput
 
 # Network Device Logs
-- Event log
+- Event logs refer generically to all log files used to track events on a system.
+
+## Security Logs
+- Contains events related to security incidents.
+- Each event in a security log contains:
+	- Date
+	- Time
+	- User
+	- Computer
+	- Event ID
+
+## Application Log
+- Contains information logged by applications that run on a particular system rather than the OS itself.
+
+## System Logs
+- Records information about components or drivers in the system.
+- Hardware, services, etc.
+
+## History Logs
+- Often associated with the tracking of Internet surfing habits.
+- Maintains a record of all sites a user visits.
+- Another form of history logging is a com
 
