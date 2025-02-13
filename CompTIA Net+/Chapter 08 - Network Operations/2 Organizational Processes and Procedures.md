@@ -48,4 +48,26 @@
 
 # Policies, Procedures, Configurations, and Regulations
 
-- Refers to an organization's documented rules about what is to be done, not done and why.
+- Refers to an organization's documented rules about what is to be done or not done and why.
+- Common policies:
+	- Network usage
+	- Internet usage
+	- BYOD
+	- Email usage
+	- Personal software
+	- Password
+	- AUIP
+	- User Account
+	- International Export Controls
+	- Data Loss Prevention (DLP)
+	- Incident response
+	- Disaster Recovery Plan (DR)
+	- Business Continuity Plan (BCP)
+	- NDA
+	- SLA
+	- Memorandum of Understanding (MOU)
+	- Safety procedures
+	- Ownership
+
+## Procedures
+
