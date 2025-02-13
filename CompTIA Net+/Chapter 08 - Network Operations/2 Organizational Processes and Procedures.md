@@ -23,3 +23,4 @@
 - Network wiring schematics are important.
 - Some are general, and some are very specific.
 - Specific schematics need to be changed regularly.
+![[Blank diagram.png]]
