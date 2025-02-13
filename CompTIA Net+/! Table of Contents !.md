@@ -25,7 +25,7 @@
 - Chapter 8
 	- [[1 Physical Installation Factors]]
 	- [[2 Organizational Processes and Procedures]]
-	- [[3 Network Performance, Load, and Stress Testing]]
+	- [[3 Monitoring Network Performance]]
 	- [[4 Disaster Recovery and High Availability]]
 	- [[5 Network Access and Management Methods]]
 - Chapter 9

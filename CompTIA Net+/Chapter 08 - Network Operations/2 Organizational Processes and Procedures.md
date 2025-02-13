@@ -98,4 +98,12 @@
 
 ## Regulations
 - Regulations are actual legal restrictions with legal consequences.
-- 
+- Some common regulations:
+	- GDPR
+	- PCI DSS
+	- HIPAA
+	- GLBA
+	- SOX
+
+## Labeling
+- Create standard labeling rules.
