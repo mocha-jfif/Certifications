@@ -248,4 +248,54 @@
 	3. Router
 	4. Firewall
 
-36. 
+36. Which of the following criteria does a firewall capable of service-dependent filtering use to block traffic?
+	1. Hardware addresses
+	2. Protocol identifiers
+	3. IP addresses
+	4. Port numbers
+
+37. Ralph is a freelance network consultant installing a three-node small business network. The computers are all in the same room and use wired Ethernet to connect to the switched ports of a multifunction device. The device also functions as a network address translation (NAT) router for a cable modem connection to the Internet. NAT provides a measure of security, but Ralph wants to be sure that the network is protected from unauthorized Internet traffic and attacks against open ports. Which of the following solutions would enable Ralph to accomplish this goal with the minimum cost to the client?
+	1. Install a hardware firewall between the multifunction device and the cable modem.
+	2. Install an intrusion prevention system (IPS) between the multifunction device and the cable modem.
+	3. Install a personal firewall on each of the computers.
+	4. Connect an intrusion detection system (IDS) to one of the switched ports in the multifunction device.
+	5. Use a port scanner to monitor the traffic entering the open ports on the computers.
+
+38. Which of the following statements about hubs and switches are true? (Choose all that apply.)
+	1. Hubs operate only at the Physical layer, whereas switches operate only at the Network layer.
+	2. All of the devices connected to a hub are part of a single collision domain, whereas each device connected to a switch has its own collision domain.
+	3. There are switches available with Network layer functionality, but there are no hubs with that capability.
+	4. Switches create a separate broadcast domain for each connected device, whereas hubs create a single broadcast domain for all of the connected devices.
+
+39. Which of the following devices perform essentially the same function? (Choose two.)
+	1. Hubs
+	2. Bridges
+	3. Switches
+	4. Routers
+
+40. Which of the following switch types immediately forwards frames after looking at only the destination address?
+	1. Cut-through
+    1. Source route
+    2. Store-and-forward
+    3. Destination
+
+41. Which of the following is something that only a firewall capable of stateful packet inspection can do?
+	1. Filter traffic-based port numbers
+	2. Block traffic destined for specific IP addresses
+	3. Scan Transport layer header fields for evidence of SYN floods
+	4. Block all TCP traffic from entering a network
+
+42. Which of the following are methods typically used by intrusion detection systems (IDSs) to analyze incoming network traffic? (Choose all that apply.)
+	1. Anomaly-based detection
+	2. Behavior-based detection
+	3. Signature-based detection
+	4. Statistic-based detection
+
+43. Which of the following is another term for a multiport bridge?
+	1. Router
+	2. Switch
+	3. Hub
+	4. Gateway
+
+44. Which of the following statements about switches and routers are true? (Choose all that apply.)
+	1. 
