@@ -95,39 +95,46 @@
 	3. Creating privileged user accounts
 	4. Disabling unused TCP and UDP ports
 
-17. You are working the IT help desk when a user calls to report that he cannot access the Internet, although he is able to connect to computers on the local network. At the user's workstation, you run the `ipconfig /all` command and examine the output. Which of the options is the most likely explanation for the user's problem, based on the following `ipconfig` results? 
+17. You are working the IT help desk when a user calls to report that he cannot access the Internet, although he is able to connect to computers on the local network. At the user's workstation, you run the `ipconfig /all` command and examine the output. Which of the options is the most likely explanation for the user's problem, based on the following `ipconfig` results? ![[Pasted image 20250217104358.png]]
 	1. DHCP is not enabled.
 	2. The Subnet Mask setting is incorrect.
 	3. The Default Gateway setting is incorrect.
 	4. The DNS Servers setting is located on another network.
 
-```
-Windows IP Configuration
+18. Which of the following are typical examples of the Internet of Things (IoT)? (Choose all that apply.)
+	1. A television remote control
+	2. A key fob that unlocks your car
+	3. A smartphone app for your home thermostat
+	4. A remotely monitored cardiac pacemaker
+	5. A refrigerator with an internal camera
 
-	Host Name . . . . . . . . . . . . : Client12
-	Primary DNS Suffix. . . . . . . . : 
-	Node Type . . . . . . . . . . . . : Hybrid
-	IP Routing Enabled. . . . . . . . : No
-	WINS Proxy Enabled. . . . . . . . : No
+19. A Remote Authentication Dial-In User Service (RADIUS) server takes which of the following roles in an 802.1X transaction?
+	1. The authenticator
+	2. The authentication server
+	3. The supplicant
+	4. The accountant
 
-Ethernet adapter Local Area Connection:
+20. You are installing an Internet access router for your company's new branch office. The router has a switch module containing four Ethernet ports, all of which are assigned to the default VLAN1. When you plug a laptop into one of the Ethernet ports, you can access the Internet with no difficulties. You now need to connect the router to the company network so that the wireless access points on the network can provide users with Internet access through the router. However, when you plug the router into a network switch port that is assigned to VLAN4, the switch starts generating “Native VLAN mismatch detected” errors once every minute. Which of the following steps should be part of the solution you implement to stop the error messages from appearing? (Choose all that apply.)
+	1. Create a VLAN1 on the network switch.
+	2. Configure the network switch port connected to the router to use VLAN1.
+	3. Create a VLAN4 on the router's switch module.
+	4. Configure the router port connected to the network switch to use VLAN4.
 
-	Connection-specific DNS suffix . :
-	Description. . . . . . . . . . . : PCIe Family Controller
-	Physical Address . . . . . . . . : 60-EB-69-93-5E-E5
-	DHCP Enabled . . . . . . . . . . : No
-	Link-local IPv6 Address. . . . . : fe80::c955:c944:acdd:3fcb%2
-	IPv4 Address . . . . . . . . . . : 192.168.23.234
-	Subnet Mask. . . . . . . . . . . : 255.255.255.0
-	Lease Obtained . . . . . . . . . : Monday, October 23, 2017 6:23:47 PM
-	Lease Expires. . . . . . . . . . : Saturday, November 18, 2017 9:49:24 PM
-	Default Gateway. . . . . . . . . : 192.168.216.99
-	DHCPv6 IAID. . . . . . . . . . . : 241242745
-	DHCPv6 Client DUID . . . . . . . : 00-01-00-01-18-10-22-0D-60-EB-69-93-5E-E5
-	DNS Servers. . . . . . . . . . . : 192.168.22.114
-	NetBIOS over TcpIP . . . . . . . : Enabled
+21. Which of the following cannot function as a preventative mitigation for the problem of tailgating? (Choose all that apply.)
+	1. Security cameras
+	2. Badge readers
+	3. Access control vestibules
+	4. Motion detectors
 
-```
+22. You have just created a new virtual machine (VM) using remote controls provided by a cloud service provider on the Internet. You then install an operating system on the virtual machine and configure it to function as a web server. Which of the following cloud architectures are you using when you do this? (Choose all that apply.)
+	1. 1. IaaS
+	2. PaaS
+	3. SaaS
+23. Public cloud
+24. Private cloud
+25. Hybrid cloud
 
-18. 
+
+
+
 
