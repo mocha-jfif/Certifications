@@ -360,4 +360,17 @@
 	3. Transport
 	4. Application
 
-54. 
+54. Which of the following is a feature that is not found in a traditional firewall product, but which might be found in a next-generation firewall (NGFW)?
+	1. Stateful packet inspection
+	2. Deep packet inspection (DPI)
+	3. Network address translation (NAT)
+	4. Virtual private network (VPN) support
+
+55. Which of the following statements about content filtering in firewalls is true?
+	1. Content filters examine the source IP addresses of packets to locate potential threats.
+	2. Content filters enable switches to direct packets out through the correct port.
+	3. Content filters examine the data carried within packets for potentially objectionable materials.
+	4. Content filters use frequently updated signatures to locate packets containing malware.
+
+56. Which of the following is not one of the criteria typically used by load balancers to direct incoming traffic to one of a group of servers?
+	1. 
