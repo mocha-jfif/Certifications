@@ -179,12 +179,14 @@
 	4. Subnet mask
 
 30. You are installing a cable modem to provide your home network with access to the Internet through your cable television provider. The cable modem is a multifunction device that the cable company says provides everything you need for a home network. Which of the following network functions does a home cable modem typically provide? (Choose all that apply.)
-	1. 1. DHCP server
+	1. DHCP server
 	2. Wireless access point
-31. Broadband router
-32. Ethernet switch
-33. Proxy server
-34. RADIUS server
+	3. Broadband router
+	4. Ethernet switch
+	5. Proxy server
+	6. RADIUS server
+
+31. 
 
 
 
