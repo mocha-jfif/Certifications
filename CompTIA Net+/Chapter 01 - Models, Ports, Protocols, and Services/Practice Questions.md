@@ -373,4 +373,47 @@
 	4. Content filters use frequently updated signatures to locate packets containing malware.
 
 56. Which of the following is not one of the criteria typically used by load balancers to direct incoming traffic to one of a group of servers?
+	1. Which server has the lightest load
+	2. Which server has the fastest response time
+	3. Which server is next in an even rotation
+	4. Which server has the fastest processor
+
+57. Which of the following devices enables administrators of enterprise wireless networks to manage multiple access points (APs) from a central location?
+	1. Hypervisor
+	2. Wireless controller
+	3. Wireless endpoint
+	4. Demarcation point
+
+58. A load balancer is a type of which of the following devices?
+	1. Switch
+	2. Router
+	3. Gateway
+	4. Firewall
+
+59. Which of the following devices expands on the capabilities of the traditional firewall by adding features like deep packet inspection (DPI) and an intrusion prevention system (IPS)?
+	1. RADIUS server
+	2. CSU/DSU
+	3. NGFW
+	4. Proxy server
+
+60. Which of the following statements about Internet access through a proxy server accounts for the security against outside intrusion that a proxy provides?
+	1. The proxy server uses a public IP address, and the client computers use private addresses.
+	2. The proxy server uses a private IP address, and the client computers use public addresses.
+	3. Both the proxy server and the client computers use private IP addresses.
+	4. Both the proxy server and the client computers use public IP addresses.
+
+61. Which of the following devices can an administrator use to monitor a network for abnormal or malicious traffic?
+	1. IDS
+	2. UPS
+	3. RADIUS
+	4. DoS
+	5. RAS
+
+62. Which of the following features enables an intrusion detection system (IDS) to monitor all of the traffic on a switched network?
+	1. Stateful packet inspection
+	2. Port mirroring
+	3. Trunking
+	4. Service-dependent filtering
+
+63. Which of the following storage area network (SAN) protocols are capable of sharing a network medium with standard local area network (LAN) traffic? (Choose all that apply.)
 	1. 
