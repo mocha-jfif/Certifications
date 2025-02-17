@@ -304,3 +304,31 @@
 	2. 802.11n
 	3. 802.11ac
 	4. 802.11ax
+
+50. Which of the following statements about multitenancy in a public cloud datacenter is not true?
+	1. Multitenancy presents a potential security risk because other tenants are using the same hardware.
+	2. Multitenancy separates tenants by assigning each one its own virtual machine.
+	3. Multitenancy reduces the cost of utilities and other overhead.
+	4. Multitenancy introduces the possibility of competition for bandwidth with other tenants.
+
+51. Which of the following specifies the name of a network using multiple APs to support a single SSID?
+	1. BSS
+	2. ESS
+	3. SSID
+	4. BSSID
+	5. ESSID
+
+52. When starting her new position as a network administrator, Alice was given two user accounts. One account is intended for standard user activities, and the other account has the additional permissions needed for Alice to perform administrative tasks. This is an example of which of the following security concepts?
+	1. Zero day
+	2. Least privilege
+	3. Defense in depth
+	4. Multifactor authentication
+
+53. You are in the process of troubleshooting a user's computer that is malfunctioning. Which step of the troubleshooting model involves replacing computer components until you have identified a faulty hardware device?
+	1. Establish a plan of action to resolve the problem.
+	2. Duplicate the problem.
+	3. Gather information.
+	4. Verify full system functionality.
+	5. Test the theory to determine the cause.
+	6. Document findings, actions, and outcomes.
+	7. Establish a theory of probable cause.
