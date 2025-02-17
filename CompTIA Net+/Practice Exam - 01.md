@@ -186,8 +186,48 @@
 	5. Proxy server
 	6. RADIUS server
 
-31. 
+31. Which of the following Domain Name System (DNS) resource records is not used for forward name resolution?
+	1. PTR
+	2. CNAME
+	3. AAAA
+	4. MX
 
+32. Which of the following are tasks that can be performed by a protocol analyzer that could provide potential intruders with information about the network? (Choose all that apply.)
+	1. A protocol analyzer can decrypt protected information in packets captured from the network.
+	2. A protocol analyzer can detect open ports on network systems and launch attacks against them.
+	3. A protocol analyzer can display the IP addresses of the systems on the network.
+	4. A protocol analyzer can display the application data in packets captured from the network.
 
+33. Which of the following services are provided by a RADIUS server? (Choose all that apply.)
+	1. Attenuation
+	2. Authentication
+	3. Assistance
+	4. Authorization
+	5. Accounting
 
+34. Some users are having a problem connecting to an application server on their local network. You go to their department and start to troubleshoot the problem by testing connectivity using the `ping` tool at one of the user workstations. You discover that you can ping the server successfully using its computer name, but pinging the computer's fully qualified domain name (FQDN) fails. As a result of these tests, which of the following can you determine is the most likely source of the problem?
+	1. EMI
+	2. DHCP
+	3. DNS
+	4. ACL
+
+35. You have been given the job of devising a plan to provide a 500-node private internetwork with access to the Internet. The primary objective of the project is to provide all of the network users with access to web and email services while keeping the client computers safe from unauthorized Internet users. There are two secondary objectives for the project: one is to provide a means of monitoring and regulating the users' Internet activities, and the other is to avoid having to manually configure IP addresses on each one of the client computers. You submit a proposal that calls for the use of private IP addresses on the client computers and a series of proxy servers with public, registered IP addresses, which are connected to the Internet. Which of the following statements about your proposed Internet access solution is true?
+	1. The proposal satisfies the primary objective and both of the secondary objectives.
+	2. The proposal satisfies the primary objective and one of the secondary objectives.
+	3. The proposal satisfies the primary objective but neither of the secondary objectives.
+	4. The proposal fails to satisfy either the primary or secondary objective.
+
+36. Which of the following cloud service models provides the consumer with the least amount of control over the cloud resources?
+	1. IaaS
+    1. PaaS
+    2. SaaS
+    3. IaaS, PaaS, and SaaS all provide the same degree of control.
+
+37. The jumbo frame capability is associated with which networking protocol?
+	1. Ethernet
+	2. Internet Protocol (IP)
+	3. Point-to-Point Protocol (PPP)
+	4. Transmission Control Protocol (TCP)
+
+38. 
 
