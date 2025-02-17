@@ -141,3 +141,49 @@
 	2. Presentation
 	3. Transport
 	4. Network
+
+20. Which of the following is a correct listing of the Open Systems Interconnection (OSI) model layers, in order, from top to bottom?
+	1. Physical, Data link, Transport, Network, Session, Presentation, Application
+	2. Application, Session, Presentation, Transport, Network, Data link, physical
+	3. Presentation, Application, Transport, Session, Network, Physical, Data link
+	4. Session, Application, Presentation, Transport, Data link, Network, Physical
+	5. Application, Presentation, Session, Transport, Network, Data link, Physical
+
+21. At which of the Open Systems Interconnection (OSI) model layers do switches and bridges perform their basic functions?
+	1. Physical
+	2. Data link
+	3. Network
+	4. Transport
+
+22. On a TCP/IP network, flow control is a function implemented in protocols operating at which layer of the Open Systems Interconnection (OSI) model?
+	1. Presentation
+	2. Session
+	3. Transport
+	4. Network
+
+23. Which layer of the Open Systems Interconnection (OSI) model defines the medium, network interfaces, connecting hardware, and signaling methods used on a network?
+	1. Physical
+	2. Data link
+	3. Network
+	4. Transport
+	5. Session
+	6. Presentation
+	7. Application
+
+24. Which of the OSI model layers is responsible for syntax translation and compression or encryption?
+	1. Data link
+	2. Network
+	3. Session
+	4. Presentation
+	5. Application
+
+25. Which layer of the Open Systems Interconnection (OSI) model is responsible for transmitting signals over the network medium?
+	1. Physical
+	2. Data link
+	3. Network
+	4. Transport
+	5. Session
+	6. Presentation
+	7. Application
+
+26. 
