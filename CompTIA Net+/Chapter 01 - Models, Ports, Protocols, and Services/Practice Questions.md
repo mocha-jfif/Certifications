@@ -76,4 +76,68 @@
 	3. Network
 	4. Transport
 	5. Session
-	6. Appl
+	6. Presentation
+	7. Application
+
+11. Which of the following layers of the Open Systems Interconnection (OSI) model typically have dedicated physical hardware devices associated with them? (Choose all that apply.)
+	1. Physical
+	2. Data link
+	3. Network
+	4. Transport
+	5. Session
+	6. Presentation
+	7. Application
+
+12. At which layer of the Open Systems Interconnection (OSI) model is there a protocol that adds both a header and a footer to the information that is passed down from an upper layer, thus creating a frame?
+	1. Physical
+	2. Data link
+	3. Network
+	4. Transport
+	5. Session
+	6. Presentation
+	7. Application
+
+13. Identify the layer of the Open Systems Interconnection (OSI) model that controls the addressing, transmission, and reception of Ethernet frames, and also identify the media access control method that Ethernet uses.
+	1. Physical layer: Carrier Sense Multiple Access with Collision Detection (CSMA/CD)
+	2. Physical layer: Carrier Sense Multiple Access with Collision Avoidance (CSMA/CA)
+	3. Data link layer: CSMA/CD
+	4. Data link layer: CSMA/CA
+
+14. At which layer of the OSI model do you find the protocol responsible for the delivery of data to its ultimate destination on an internetwork?
+	1. Data link
+	2. Network
+	3. Session
+	4. Application
+
+15. Which of the following is not a protocol operating at the Network layer of the OSI model?
+	1. IP
+	2. ICMP
+	3. IGMP
+	4. IMAP
+
+16. Ed is a software developer who has been given the task of creating an application that requires guaranteed delivery of information between end systems. At which layer of the Open Systems Interconnection (OSI) model does the protocol that provides the guaranteed delivery run, and what type of protocol must Ed use?
+	1. Data link layer; connectionless
+	2. Network layer; connection-oriented
+	3. Transport layer; connection-oriented
+	4. Application layer; connectionless
+
+17. Alice is a network administrator designing a new local area network (LAN). She needs to determine the type of cabling and the network topology to implement. Which layers of the Open Systems Interconnection (OSI) model apply to cabling and topology elements?
+	1. Physical and Data link layers
+	2. Data link and Network layers
+	3. Network and Transport layers
+	4. Transport and Application layers
+
+18. Which layers of the Open Systems Interconnection (OSI) model do not have protocols in the TCP/IP suite exclusively dedicated to them? (Choose all that apply.)
+	1. Physical
+	2. Data link
+	3. Network
+	4. Transport
+	5. Session
+	6. Presentation
+	7. Application
+
+19. The protocols at which layer of the Open Systems Interconnection (OSI) model use port numbers to identify the applications that are the source and the destination of the data in the packets?
+	1. Application
+	2. Presentation
+	3. Transport
+	4. Network
