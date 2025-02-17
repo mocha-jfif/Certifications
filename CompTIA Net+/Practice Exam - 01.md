@@ -160,7 +160,31 @@
 	4. Plenum
 	5. Shielded
 
-27. 
+27. Which of the following protocols does IPsec use to provide data origin authentication by digitally signing packets before transmitting them over the network?
+	1. AH
+	2. SSL
+	3. ESP
+	4. RDP
+
+28. You have constructed a network on which all of the computers are connected to a single switch. You then create virtual local area networks (VLANs) on the switch, corresponding to the company's departments, and add the switch port for each user workstation and department server to the appropriate VLAN. Later, users report that while they can access their departmental servers and the workstations of other users in the same department, they cannot communicate with any of the other departments. What is the problem, and what must you do to correct it?
+	1. There is a faulty VLAN configuration on the switch. You must re-create all of the VLANs and configure each VLAN for routing.
+	2. VLANs are limited to Data link layer communication only. To enable communication between the VLANs, you must install a router or a layer 3 switch on the network and configure it to route traffic between the VLANs.
+	3. The VLANs are using different Data link layer protocols. You must configure the VLANs to use the same Data link layer protocol in order for them to communicate with each other.
+	4. One of the VLANs is configured to filter all of the other VLAN traffic for security purposes. You must change the filter on this one VLAN.
+
+29. The TCP/IP term _socket_ consists of which of the following elements? (Choose all that apply.)
+	1. Port number
+	2. MAC address
+	3. IP address
+	4. Subnet mask
+
+30. You are installing a cable modem to provide your home network with access to the Internet through your cable television provider. The cable modem is a multifunction device that the cable company says provides everything you need for a home network. Which of the following network functions does a home cable modem typically provide? (Choose all that apply.)
+	1. 1. DHCP server
+	2. Wireless access point
+31. Broadband router
+32. Ethernet switch
+33. Proxy server
+34. RADIUS server
 
 
 
