@@ -416,4 +416,47 @@
 	4. Service-dependent filtering
 
 63. Which of the following storage area network (SAN) protocols are capable of sharing a network medium with standard local area network (LAN) traffic? (Choose all that apply.)
+	1. iSCSI
+	2. Fiber Channel
+	3. FCoE
+	4. InfiniBand
+
+64. Which of the following protocols is not used for storage area networks (SANs)?
+	1. iSCSI
+	2. FCoE
+	3. VoIP
+	4. Fiber Channel
+
+65. Which of the following storage area network (SAN) technologies do iSCSI initiators use to locate iSCSI targets on the network?
+	1. Active Directory
+	2. ICMP
+	3. DNS
+	4. iWINS
+	5. iSNS
+
+66. What is the highest possible data transfer rate on a storage area network (SAN) using Fiber Channel?
+	1. 8 Gbps
+	2. 16 Gbps
+	3. 32 Gbps
+	4. 128 Gbps
+
+67. In its primary functionality, a network-attached storage (NAS) device is most closely associated with which of the following devices?
+	1. Failover cluster
+	2. File server
+	3. JBOD
+	4. RAID
+
+68. Which of the following statements about the differences between network-attached storage (NAS) and storage area networks (SANs) are true? (Choose all that apply.)
+	1. NAS provides file-level storage access, whereas SAN provides block-level storage access.
+	2. NAS devices typically contain integrated iSCSI targets.
+	3. SAN devices have an operating system, whereas NAS devices do not.
+	4. NAS devices typically provide a filesystem, whereas SAN devices do not.
+
+69. Which of the following statements specify advantages of FCoE over the original Fiber Channel standard? (Choose all that apply.)
+	1. FCoE is less expensive to implement than Fiber Channel.
+	2. FCoE can share a network with standard IP traffic, whereas Fiber Channel cannot.
+	3. FCoE is routable over IP networks, whereas Fiber Channel is not.
+	4. FCoE uses standard Ethernet networking hardware.
+
+70. Which of the following are Application layer protocols that network-attached storage (NAS) devices can use to serve shared files to clients on the network? (Choose all that apply.)
 	1. 
