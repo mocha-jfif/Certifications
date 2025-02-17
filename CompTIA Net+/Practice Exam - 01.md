@@ -127,13 +127,40 @@
 	4. Motion detectors
 
 22. You have just created a new virtual machine (VM) using remote controls provided by a cloud service provider on the Internet. You then install an operating system on the virtual machine and configure it to function as a web server. Which of the following cloud architectures are you using when you do this? (Choose all that apply.)
-	1. 1. IaaS
+	1. IaaS
 	2. PaaS
 	3. SaaS
-23. Public cloud
-24. Private cloud
-25. Hybrid cloud
+	4. Public cloud
+	5. Private cloud
+	6. Hybrid cloud
 
+23. It is your first day working for a consultant who does network cable installations. Your new boss hands you a spool of Category 6 cable, a bag of little clear plastic components, and the tool shown in the following figure. He then tells you to “get started on fives and tens.” What is your new boss expecting you to do? ![[Pasted image 20250217104802.png]]
+	1. Pull cable runs.
+	2. Attach keystone connectors.
+	3. Install a patch panel.
+	4. Create patch cables.
+
+24. Which of the following well-known ports do you use to configure outgoing mail on a POP3 email client?
+	1. 110
+	2. 25
+	3. 143
+	4. 80
+
+25. You are a consultant who has been hired to extend a network by a client that is still running thin Ethernet. You have brought a spool of RG-58 coaxial cable. Which of the following types of cable connectors will you have to bring with you to add thin Ethernet network segments?
+	1. ST
+	2. BNC
+	3. MPO
+	4. RJ45
+	5. RJ11
+
+26. Which of the following types of cable is never used to connect a workstation to an Ethernet network?
+	1. Rollover
+	2. Straight-through
+	3. Crossover
+	4. Plenum
+	5. Shielded
+
+27. 
 
 
 
