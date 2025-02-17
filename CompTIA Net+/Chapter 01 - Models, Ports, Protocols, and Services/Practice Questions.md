@@ -298,4 +298,66 @@
 	4. Gateway
 
 44. Which of the following statements about switches and routers are true? (Choose all that apply.)
-	1. 
+	1. Routers operate at the Network layer, whereas switches operate at the Data link layer.
+	2. All of the devices connected to a switch are part of a single broadcast domain, whereas the networks connected to a router form separate broadcast domains.
+	3. Routers can communicate with each other and share information, but switches cannot.
+	4. Switches forward packets based on their hardware addresses, whereas routers forward packets based on their IP addresses.
+
+45. Which of the following types of systems are frequently used to collect information from intrusion detection systems (IDSs)?
+	1. SIEM
+	2. NAS
+	3. RADIUS
+	4. VoIP
+
+46. Which of the following explains why splitting a large, switched Ethernet LAN into two LANs by adding a router can help to alleviate traffic congestion and improve performance? (Choose all that apply.)
+	1. Adding a router reduces the amount of broadcast traffic on each of the two LANs.
+	2. Adding a router reduces the amount of unicast traffic on each of the two LANs.
+	3. Adding a router diverts traffic to an alternate path through the network.
+	4. Adding a router prevents computers on one LAN from communicating with computers on another LAN.
+
+47. Which of the following statements about traditional bridges and switches is true?
+	1. Bridges and switches are Network layer devices that use logical addressing to forward frames.
+	2. Bridges and switches are Data link layer devices that use media access control (MAC) addresses to forward frames.
+	3. Bridges and switches build their internal tables based on destination addresses and forward packets based on source addresses.
+	4. Bridges and switches must support the Network layer protocol implemented on the local area network (LAN).
+	5. Each port on a bridge or switch defines a separate broadcast domain.
+
+48. Which of the following is a correct term describing the function of a traditional switch?
+	1. Layer 2 router
+	2. Ethernet hub
+	3. Multiport bridge
+	4. Layer 3 repeater
+
+49. Which of the following is the primary reason why replacing hubs with layer 2 switches on an Ethernet local area network (LAN) improves its performance?
+	1. Layer 2 switches forward packets faster than hubs.
+	2. Layer 2 switches do not forward broadcast transmissions.
+	3. Layer 2 switches reduce the number of collisions on the network.
+	4. Layer 2 switches read the IP addresses of packets, not the hardware addresses.
+
+50. Which of the following statements about routers are true? (Choose all that apply.)
+	1. Routers are Network layer devices that use IP addresses to forward frames.
+	2. Routers are Data link layer devices that use media access control (MAC) addresses to forward frames.
+	3. Routers build their internal tables based on destination MAC addresses and forward frames based on source MAC addresses.
+	4. Routers must support the Network layer protocol implemented on the local area network (LAN).
+	5. Each port on a router defines a separate broadcast domain.
+
+51. Which of the following statements about routers is not true?
+	1. Routers can connect two or more networks with dissimilar Data link layer protocols and media.
+	2. Routers can connect two or more networks with the same Data link layer protocols and media.
+	3. Routers store and maintain route information in a local text file.
+	4. Servers with multiple network interfaces can be configured to function as software routers.
+	5. Routers can learn and populate their routing tables through static and dynamic routing.
+
+52. The network administrator for a small business is installing a computer to function as a firewall protecting their internetwork from Internet intrusion. At which of the following locations should the administrator install the firewall system?
+	1. Anywhere on the private internetwork, as long as the Internet is accessible
+	2. Between the Internet access router and the Internet service provider's (ISP's) network
+	3. At the ISP's network site
+	4. Between the Internet access router and the rest of the private internetwork
+
+53. Proxy servers operate at which layer of the OSI reference model?
+	1. Data link
+	2. Network
+	3. Transport
+	4. Application
+
+54. 
