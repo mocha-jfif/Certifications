@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Net+/Practice Exam - 01.md",
+                "file": "CompTIA Net+/Practice Exams/Practice Exam - 01.md",
                 "mode": "source",
                 "source": false
               },
@@ -227,11 +227,13 @@
   },
   "active": "25b057424b7aaefc",
   "lastOpenFiles": [
+    "CompTIA Net+/Practice Exams/Practice Exam - 02.md",
+    "CompTIA Net+/Practice Exams/Practice Exam - 01.md",
+    "CompTIA Net+/Untitled/desktop.ini",
+    "CompTIA Net+/Practice Exams",
     "Pasted image 20250217104802.png",
     "Pasted image 20250217104358.png",
     "Pasted image 20250217102919.png",
-    "CompTIA Net+/Practice Exam - 02.md",
-    "CompTIA Net+/Practice Exam - 01.md",
     "CompTIA Net+/Domain 05 - Network Troubleshooting/Practice Questions.md",
     "CompTIA Net+/Domain 04 - Network Security/Practice Questions.md",
     "CompTIA Net+/Domain 03 - Network Operations/Practice Questions.md",
@@ -239,7 +241,6 @@
     "CompTIA Net+/Domain 01 - Networking Concepts/Practice Questions.md",
     "CompTIA Net+/Domain 05 - Network Troubleshooting",
     "CompTIA Net+/Domain 04 - Network Security",
-    "CompTIA Net+/Untitled/desktop.ini",
     "CompTIA Net+/Domain 03 - Network Operations",
     "CompTIA Net+/Domain 02 - Network Implementation",
     "CompTIA Net+/Domain 01 - Networking Concepts/Untitled",
@@ -269,10 +270,8 @@
     "CompTIA Net+/Diagrams and Charts/1280_cmrhTKfKMcK11wBa.jpg",
     "CompTIA Net+/Diagrams and Charts/Pasted image 20250210093448.png",
     "CompTIA Net+/Diagrams and Charts/LC-Premium-unibody-connector-e1665758303719.png",
-    "CompTIA Net+/Diagrams and Charts/Pasted image 20250210093218.png",
     "CompTIA Net+/! Cram Sheet !",
     "CompTIA Net+/Chapter 10 - Network Troubleshooting/Glossary",
-    "CompTIA Net+/Chapter 10 - Network Troubleshooting",
     "Untitled.canvas"
   ]
 }
