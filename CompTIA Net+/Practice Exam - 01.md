@@ -95,7 +95,12 @@
 	3. Creating privileged user accounts
 	4. Disabling unused TCP and UDP ports
 
-17. You are working the IT help desk when a user calls to report that he cannot access the Internet, although he is able to connect to computers on the local network. At the user's workstation, you run the `ipconfig /all` command and examine the output. Which of the options is the most likely explanation for the user's problem, based on the following `ipconfig` results?
+17. You are working the IT help desk when a user calls to report that he cannot access the Internet, although he is able to connect to computers on the local network. At the user's workstation, you run the `ipconfig /all` command and examine the output. Which of the options is the most likely explanation for the user's problem, based on the following `ipconfig` results? 
+	1. DHCP is not enabled.
+	2. The Subnet Mask setting is incorrect.
+	3. The Default Gateway setting is incorrect.
+	4. The DNS Servers setting is located on another network.
+
 ```
 Windows IP Configuration
 
@@ -111,7 +116,18 @@ Ethernet adapter Local Area Connection:
 	Description. . . . . . . . . . . : PCIe Family Controller
 	Physical Address . . . . . . . . : 60-EB-69-93-5E-E5
 	DHCP Enabled . . . . . . . . . . : No
-	Link-local IPv6 Address. . . . . :
-	
+	Link-local IPv6 Address. . . . . : fe80::c955:c944:acdd:3fcb%2
+	IPv4 Address . . . . . . . . . . : 192.168.23.234
+	Subnet Mask. . . . . . . . . . . : 255.255.255.0
+	Lease Obtained . . . . . . . . . : Monday, October 23, 2017 6:23:47 PM
+	Lease Expires. . . . . . . . . . : Saturday, November 18, 2017 9:49:24 PM
+	Default Gateway. . . . . . . . . : 192.168.216.99
+	DHCPv6 IAID. . . . . . . . . . . : 241242745
+	DHCPv6 Client DUID . . . . . . . : 00-01-00-01-18-10-22-0D-60-EB-69-93-5E-E5
+	DNS Servers. . . . . . . . . . . : 192.168.22.114
+	NetBIOS over TcpIP . . . . . . . : Enabled
 
 ```
+
+18. 
+
