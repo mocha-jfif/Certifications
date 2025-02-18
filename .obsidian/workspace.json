@@ -11,14 +11,12 @@
             "id": "25b057424b7aaefc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CompTIA Net+/Practice Exams/Practice Exam - 01.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250217102919.png"
               },
-              "icon": "lucide-file",
-              "title": "Practice Exam - 01"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250217102919"
             }
           }
         ]
@@ -227,9 +225,9 @@
   },
   "active": "25b057424b7aaefc",
   "lastOpenFiles": [
+    "CompTIA Net+/Practice Exams/Practice Exam - 01.md",
     "CompTIA Net+/Untitled.md",
     "CompTIA Net+/Practice Exams/Practice Exam - 02.md",
-    "CompTIA Net+/Practice Exams/Practice Exam - 01.md",
     "CompTIA Net+/Untitled/desktop.ini",
     "CompTIA Net+/Practice Exams",
     "Pasted image 20250217104802.png",
