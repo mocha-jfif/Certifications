@@ -179,30 +179,30 @@
 	4. Subnet mask
 
 30. You are installing a cable modem to provide your home network with access to the Internet through your cable television provider. The cable modem is a multifunction device that the cable company says provides everything you need for a home network. Which of the following network functions does a home cable modem typically provide? (Choose all that apply.)
-	1. DHCP server
+	1. <mark style="background: #D2B3FFA6;">DHCP server</mark>
 	2. Wireless access point
-	3. Broadband router
-	4. Ethernet switch
+	3. <mark style="background: #D2B3FFA6;">Broadband router</mark>
+	4. <mark style="background: #D2B3FFA6;">Ethernet switch</mark>
 	5. Proxy server
 	6. RADIUS server
 
 31. Which of the following Domain Name System (DNS) resource records is not used for forward name resolution?
-	1. PTR
+	1. <mark style="background: #D2B3FFA6;">PTR</mark>
 	2. CNAME
 	3. AAAA
 	4. MX
 
 32. Which of the following are tasks that can be performed by a protocol analyzer that could provide potential intruders with information about the network? (Choose all that apply.)
 	1. A protocol analyzer can decrypt protected information in packets captured from the network.
-	2. A protocol analyzer can detect open ports on network systems and launch attacks against them.
-	3. A protocol analyzer can display the IP addresses of the systems on the network.
+	2. <mark style="background: #D2B3FFA6;">A protocol analyzer can detect open ports on network systems and launch attacks against them.</mark>
+	3. <mark style="background: #D2B3FFA6;">A protocol analyzer can display the IP addresses of the systems on the network.</mark>
 	4. A protocol analyzer can display the application data in packets captured from the network.
 
 33. Which of the following services are provided by a RADIUS server? (Choose all that apply.)
 	1. Attenuation
-	2. Authentication
+	2. <mark style="background: #D2B3FFA6;">Authentication</mark>
 	3. Assistance
-	4. Authorization
+	4. <mark style="background: #D2B3FFA6;">Authorization</mark>
 	5. Accounting
 
 34. Some users are having a problem connecting to an application server on their local network. You go to their department and start to troubleshoot the problem by testing connectivity using the `ping` tool at one of the user workstations. You discover that you can ping the server successfully using its computer name, but pinging the computer's fully qualified domain name (FQDN) fails. As a result of these tests, which of the following can you determine is the most likely source of the problem?
