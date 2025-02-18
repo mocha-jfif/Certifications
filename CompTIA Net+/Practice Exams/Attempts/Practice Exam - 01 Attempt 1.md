@@ -258,7 +258,7 @@
 
 42. Your supervisor has asked you to call the cabling contractor your company uses and make an appointment to install some new twisted-pair cable runs. In addition to asking how many cable runs you need pulled, the contractor asks you if you need plenum or PVC. Under which of the following conditions might the local building code require that a data network use plenum cable?
 	1. When cable runs exceed the maximum length specified by the Physical layer specification
-	2. When cables must run through air ducts
+	2. <mark style="background: #D2B3FFA6;">When cables must run through air ducts</mark>
 	3. When cables run near devices that generate electromagnetic interference (EMI)
 	4. When multiple cables run through the same conduit
 
@@ -266,30 +266,30 @@
 	1. Port aggregation
 	2. Link aggregation
 	3. Bonding
-	4. Clustering
+	4. <mark style="background: #D2B3FFA6;">Clustering</mark>
 	5. NIC teaming
 
 44. You have been asked by the director of the IT department to review the security status of the network device administration procedures currently in use. You know that network device hardening has as one of its first principles the use of secure protocols over insecure ones. Which of the following suggestions are examples of this principle that you should suggest to the director? (Choose all that apply.)
 	1. Use WEP instead of WPA2.
 	2. Use TKIP instead of AES.
-	3. Use HTTPS instead of HTTP.
-	4. Use SSH instead of Telnet.
+	3. <mark style="background: #D2B3FFA6;">Use HTTPS instead of HTTP.</mark>
+	4. <mark style="background: #D2B3FFA6;">Use SSH instead of Telnet.</mark>
 
 45. The Simple Network Management Protocol (SNMP) works by processing information gathered from agents installed or embedded in network devices and displaying the information on a central console. Which of the following is the term used for the database in which SNMP agents store information about their properties?
-	1. MIB
+	1. <mark style="background: #D2B3FFA6;">MIB</mark>
 	2. Trap
 	3. Syslog
 	4. SIEM
 
 46. When a web browser connects to a web server using an address with the https:// prefix, the connection is secured using Transmission Control Protocol (TCP) and an encryption protocol. Which of the following protocols are typically used to secure communication between web servers and web browsers? (Choose all that apply.)
-	1. TLS
+	1. <mark style="background: #D2B3FFA6;">TLS</mark>
 	2. SSH
 	3. DTLS
-	4. SSL
+	4. <mark style="background: #D2B3FFA6;">SSL</mark>
 
 47. A screened subnet is a segment that is exposed to the Internet and separated from the internal network by a firewall. Administrators typically use a screened subnet for servers that must be accessible to outside users, such as web and email servers. Which of the following is another term for a screened subnet?
 	1. PEAP
-	2. DMZ
+	2. <mark style="background: #D2B3FFA6;">DMZ</mark>
 	3. VLAN
 	4. TKIP
 
@@ -297,7 +297,7 @@
 	1. Keystrokes
 	2. Mouse movements
 	3. Display information
-	4. Application data
+	4. <mark style="background: #D2B3FFA6;">Application data</mark>
 
 49. You have been engaged to design a wireless LAN for a site you have never seen. For that reason, you want the LAN to be able to support both the 2.4 GHz and 5 GHz frequencies. Which of the following IEEE 802.11 wireless LAN standards should you look for when you are shopping for equipment that supports both frequencies? (Choose all that apply.)
 	1. 802.11g
