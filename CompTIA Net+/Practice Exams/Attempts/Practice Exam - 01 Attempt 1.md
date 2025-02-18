@@ -214,11 +214,11 @@
 35. You have been given the job of devising a plan to provide a 500-node private internetwork with access to the Internet. The primary objective of the project is to provide all of the network users with access to web and email services while keeping the client computers safe from unauthorized Internet users. There are two secondary objectives for the project: one is to provide a means of monitoring and regulating the users' Internet activities, and the other is to avoid having to manually configure IP addresses on each one of the client computers. You submit a proposal that calls for the use of private IP addresses on the client computers and a series of proxy servers with public, registered IP addresses, which are connected to the Internet. Which of the following statements about your proposed Internet access solution is true?
 	1. The proposal satisfies the primary objective and both of the secondary objectives.
 	2. The proposal satisfies the primary objective and one of the secondary objectives.
-	3. The proposal satisfies the primary objective but neither of the secondary objectives.
+	3. <mark style="background: #D2B3FFA6;">The proposal satisfies the primary objective but neither of the secondary objectives.</mark>
 	4. The proposal fails to satisfy either the primary or secondary objective.
 
 36. Which of the following cloud service models provides the consumer with the least amount of control over the cloud resources?
-	1. IaaS
+	1. <mark style="background: #D2B3FFA6;">IaaS</mark>
     1. PaaS
     2. SaaS
     3. IaaS, PaaS, and SaaS all provide the same degree of control.
@@ -227,12 +227,12 @@
 	1. Ethernet
 	2. Internet Protocol (IP)
 	3. Point-to-Point Protocol (PPP)
-	4. Transmission Control Protocol (TCP)
+	4. <mark style="background: #D2B3FFA6;">Transmission Control Protocol (TCP)</mark>
 
 38. You are working your company's IT help desk, where you are required to follow a specific troubleshooting protocol when handling calls from users. In which of the following troubleshooting steps would you create a trouble ticket?
 	1. Establish a theory of probable cause.
 	2. Verify full system functionality and implement preventive measures, if applicable.
-	3. Identify the problem.
+	3. <mark style="background: #D2B3FFA6;">Identify the problem.</mark>
 	4. Test the theory to determine the cause.
 	5. Document findings, actions, and outcomes.
 	6. Implement the solution or escalate as necessary.
@@ -241,13 +241,13 @@
 39. You are working your company's help desk when a user calls to report that he cannot access any of the data on his computer. He says that a message has appeared on his screen stating that all of his data has been encrypted by the FBI and that it will be decrypted only after he pays $768 in Bitcoin to an unknown address. The user wants to know if he is responsible for making the payment. Which of the following types of attacks has the user experienced?
 	1. Denial-of-service
 	2. Social engineering
-	3. Ransomware
+	3. <mark style="background: #D2B3FFA6;">Ransomware</mark>
 	4. ARP poisoning
 
 40. Which of the following are switch features that help to prevent intruders from manipulating the Spanning Tree Protocol (STP)?
-	1. 1. Geofencing
+	1. Geofencing
 	2. Root guard
-	3. DHCP snooping
+	3. <mark style="background: #D2B3FFA6;">DHCP snooping</mark>
 	4. BPDU guard
 
 41. Network cable runs generally connect office endpoints, such as wall plates, to a central cabling nexus, which is typically where the runs are joined to a backbone network that links them together. Which of the following are terms for such nexuses where network cabling connections are found? (Choose all that apply.)
