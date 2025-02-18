@@ -582,5 +582,47 @@
 	1. route add 192.168.2.0 MASK 0.0.0.0 192.168.2.37 METRIC 25 if 192.168.2.99
 	2. route add 0.0.0.0 MASK 255.255.255.0 192.168.2.99 METRIC 25 if 192.168.2.37
 	3. route add 192.168.2.0 MASK 255.255.255.0 192.168.2.99 METRIC 25 if 192.168.2.37
-	4. route add 0.0.0.0
+	4. route add 0.0.0.0 MASK 0.0.0.0 192.168.2.99 METRIC 25 if 192.168.2.37
 
+94. You are heading out to do a cabling job for a client who has coaxial and twisted-pair Ethernet networks at their facility. You want to bring connectors and cables to prepare for any eventuality. Which of the following connector types are typically associated with Ethernet networks? (Choose all that apply.)
+	1. N-type
+	2. BNC
+	3. F-type
+	4. RJ-45
+	5. DB-9
+
+95. When geofencing is used as part of a multifactor authentication system, which of the following best describes geofencing's role?
+	1. Somewhere you are
+	2. Something you do
+	3. Something you have
+	4. Something you know
+
+96. Some organizations maintain alternative sites that they can use as datacenters should a disaster render the main datacenter unusable. Which of the following types of disaster recovery site can be made operational in the shortest amount of time?
+	1. A hot site
+	2. A warm site
+	3. A cold site
+	4. All of the site types require the same amount of preparation time.
+
+97. Which of the following types of virtual private network (VPN) connection is the best solution for connecting a home user to a corporate network?
+	1. Host-to-site
+	2. Site-to-site
+	3. Host-to-host
+	4. Extranet
+
+98. Which of the following are valid reasons why the leaf and spine datacenter topology is superior to the standard three-tier topology?
+	1. The leaf and spine topology is less expensive to implement than the three-tier topology.
+	2. In a leaf and spine topology, all data flows require the same number of hops.
+	3. The leaf and spine arrangement uses a full mesh switching topology.
+	4. The leaf and spine topology uses software-defined networking to direct traffic, rather than blocking ports using the Spanning Tree Protocol.
+
+99. A baseline is a performance measurement for a device or system, taken under normal operating conditions, which you can use later to quantify any changes that might have taken place. Which of the following Windows applications would you most likely use to create a baseline of system or network performance.
+	1. Syslog
+	2. Event Viewer
+	3. Network Monitor
+	4. Performance Monitor
+
+100. In most cases, a denial-of-service (DoS) attack refers to a deliberate attempt to overwhelm a server with incoming traffic. However, this is not always the case. Which of the following types of DoS attacks does not involve flooding a server with traffic?
+	1. Amplified
+	2. Distributed
+	3. Permanent
+	4. Reflective

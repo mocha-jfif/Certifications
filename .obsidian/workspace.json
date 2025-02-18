@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Net+/Practice Exams/Practice Exam - 01.md",
+                "file": "CompTIA Net+/Practice Exams/Blanks & Keys/Practice Exam - 01 - Blank.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practice Exam - 01"
+              "title": "Practice Exam - 01 - Blank"
             }
           }
         ]
@@ -225,13 +225,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25b057424b7aaefc",
+  "active": "50716479c10e4000",
   "lastOpenFiles": [
+    "CompTIA Net+/Practice Exams/Practice Exam - 01 Attempt 1.md",
+    "CompTIA Net+/Practice Exams/Attempts/desktop.ini",
+    "CompTIA Net+/Practice Exams/Attempts",
+    "CompTIA Net+/Practice Exams/Blanks & Keys",
+    "CompTIA Net+/Practice Exams/Blanks & Keys/Practice Exam - 01 - Key.md",
+    "CompTIA Net+/Practice Exams/Blanks & Keys/Practice Exam - 01 - Blank.md",
     "Pasted image 20250218081628.png",
     "Pasted image 20250218075817.png",
-    "CompTIA Net+/Practice Exams/Practice Exam - 02.md",
+    "CompTIA Net+/Practice Exams/Blanks & Keys/Practice Exam - 02.md",
     "CompTIA Net+/Diagrams and Charts/Pasted image 20250217102919.png",
-    "CompTIA Net+/Practice Exams/Practice Exam - 01.md",
     "CompTIA Net+/Diagrams and Charts/Pasted image 20250217104802.png",
     "CompTIA Net+/Untitled.md",
     "CompTIA Net+/Untitled/desktop.ini",
@@ -248,7 +253,6 @@
     "CompTIA Net+/Domain 02 - Network Implementation",
     "CompTIA Net+/Domain 01 - Networking Concepts/Untitled",
     "CompTIA Net+/Domain 01 - Networking Concepts.md",
-    "CompTIA Net+/Domain 01 - Networking Concepts",
     "CompTIA Net+/Chapter 01 - Models, Ports, Protocols, and Services/1 The OSI Model.md",
     "CompTIA Net+/Chapter 08 - Network Operations/3 Monitoring Network Performance.md",
     "CompTIA Net+/Chapter 08 - Network Operations/2 Organizational Processes and Procedures.md",
@@ -267,12 +271,7 @@
     "CompTIA Net+/Chapter 08 - Network Operations/Glossary/Horizontal cabling.md",
     "CompTIA Net+/Chapter 07 - Cloud Computing Concepts and Options/1 Cloud Concepts.md",
     "CompTIA Net+/Chapter 06 - Wireless Solutions/1 Understanding Wireless Basics.md",
-    "CompTIA Net+/Chapter 06 - Wireless Solutions/Glossary/Authentication.md",
-    "CompTIA Net+/Chapter 06 - Wireless Solutions/Glossary/Association.md",
     "CompTIA Net+/Diagrams and Charts/1280_cmrhTKfKMcK11wBa.jpg",
-    "CompTIA Net+/Diagrams and Charts/Pasted image 20250210093448.png",
-    "CompTIA Net+/! Cram Sheet !",
-    "CompTIA Net+/Chapter 10 - Network Troubleshooting/Glossary",
     "Untitled.canvas"
   ]
 }
