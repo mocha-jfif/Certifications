@@ -301,9 +301,9 @@
 
 49. You have been engaged to design a wireless LAN for a site you have never seen. For that reason, you want the LAN to be able to support both the 2.4 GHz and 5 GHz frequencies. Which of the following IEEE 802.11 wireless LAN standards should you look for when you are shopping for equipment that supports both frequencies? (Choose all that apply.)
 	1. 802.11g
-	2. 802.11n
+	2. <mark style="background: #D2B3FFA6;">802.11n</mark>
 	3. 802.11ac
-	4. 802.11ax
+	4. <mark style="background: #D2B3FFA6;">802.11ax</mark>
 
 50. Which of the following statements about multitenancy in a public cloud datacenter is not true?
 	1. Multitenancy presents a potential security risk because other tenants are using the same hardware.
