@@ -307,7 +307,7 @@
 
 50. Which of the following statements about multitenancy in a public cloud datacenter is not true?
 	1. Multitenancy presents a potential security risk because other tenants are using the same hardware.
-	2. Multitenancy separates tenants by assigning each one its own virtual machine.
+	2. <mark style="background: #D2B3FFA6;">Multitenancy separates tenants by assigning each one its own virtual machine.</mark>
 	3. Multitenancy reduces the cost of utilities and other overhead.
 	4. Multitenancy introduces the possibility of competition for bandwidth with other tenants.
 
@@ -315,7 +315,7 @@
 	1. BSS
 	2. ESS
 	3. SSID
-	4. BSSID
+	4. <mark style="background: #D2B3FFA6;">BSSID</mark>
 	5. ESSID
 
 52. When starting her new position as a network administrator, Alice was given two user accounts. One account is intended for standard user activities, and the other account has the additional permissions needed for Alice to perform administrative tasks. This is an example of which of the following security concepts?
