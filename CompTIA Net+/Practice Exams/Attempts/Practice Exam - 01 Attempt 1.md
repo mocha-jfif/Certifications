@@ -37,7 +37,7 @@
 7. You want to create a network in which computers from different departments are assigned to separate virtual local area networks (VLANs). You also want to be able to forward traffic between the VLANs so that each computer is capable of accessing any other computer. Which of the following will enable you to perform all these functions with a single device?
 	1. Load balancer
 	2. Virtual router
-	3. Multilayer switch
+	3. <mark style="background: #D2B3FFA6;">Multilayer switch</mark>
 	4. Broadband router
 
 8. Which of the following are standard terms used in data loss prevention to describe specific data states? (Choose all that apply.)
@@ -48,12 +48,12 @@
 
 9. Advanced Encryption Standard (AES) is an encryption algorithm that was introduced in the Wi-Fi Protected Access 2 (WPA2) security protocol to replace another algorithm that was found to be easily penetrated. Which of the following encryption algorithms did AES replace?
 	1. AES
-	2. WEP
+	2. <mark style="background: #D2B3FFA6;">WEP</mark>
 	3. WPA
 	4. TKIP
 
 10. You have been asked by your supervisor in the IT department to test some newly installed cable runs. She hands you the tool shown in the following figure. What is the function of the tool and how do you use it?![[Pasted image 20250217102919.png]]
-	1. When you place the tool at one end of a wire, it generates a tone that can be detected at the other end.
+	1. <mark style="background: #D2B3FFA6;">When you place the tool at one end of a wire, it generates a tone that can be detected at the other end.</mark>
 	2. When you touch the end of the tool to a copper cable, you can detect and measure the electrical current flowing through it.
 	3. When you connect the tool to the end of a fiber-optic cable, you can measure the length of the cable run.
 	4. When you attach the tool to the end of a twisted-pair cable, it tests for crosstalk and other performance characteristics.
@@ -61,11 +61,11 @@
 11. A multifactor authentication (MFA) system consists of at least two different identifying criteria, typically falling into two of the following categories: something you have, something you do, something you know, and something you are. Which of the following authentication factors is an example of something you have?
 	1. A password
 	2. A fingerprint
-	3. A smartcard
+	3. <mark style="background: #D2B3FFA6;">A smartcard</mark>
 	4. A finger gesture
 
 12. Which of the following is a port number used for Structured Query Language (SQL) communications?
-	1. 1433
+	1. <mark style="background: #D2B3FFA6;">1433</mark>
 	2. 3389
 	3. 443
 	4. 5060
@@ -74,29 +74,29 @@
 	1. Configure the network adapters to use the 2.4 GHz frequency.
 	2. Move the computer closer to the access point.
 	3. Manually enter the SSID in the computer's wireless network client software.
-	4. Nothing. 802.11ac equipment cannot connect to a 2.4 GHz 802.11n network.
+	4. <mark style="background: #D2B3FFA6;">Nothing. 802.11ac equipment cannot connect to a 2.4 GHz 802.11n network.</mark>
 
 14. Which of the following mechanisms for the recovery from a disaster in a datacenter is the most expensive to implement?
-	1. A hot site
+	1. <mark style="background: #D2B3FFA6;">A hot site</mark>
 	2. A warm site
 	3. A cold site
 	4. A cloud site
 
 15. You are setting up an 802.11n wireless network using the 2.4 GHz frequency band. You plan to install three wireless access points. Which of the following channels should you use for your access points to avoid channel overlap that can result in interference? (Choose all that apply.)
-	1. 1
+	1. <mark style="background: #D2B3FFA6;">1</mark>
 	2. 4
-	3. 6
+	3. <mark style="background: #D2B3FFA6;">6</mark>
 	4. 8
-	5. 11
+	5. <mark style="background: #D2B3FFA6;">11</mark>
 
 16. Your supervisor has asked you to increase the security of the servers on your network. Which of the following procedures can be considered to be server hardening techniques? (Choose all that apply.)
 	1. Installing additional memory
-	2. Disabling unnecessary services
+	2. <mark style="background: #D2B3FFA6;">Disabling unnecessary services</mark>
 	3. Creating privileged user accounts
-	4. Disabling unused TCP and UDP ports
+	4. <mark style="background: #D2B3FFA6;">Disabling unused TCP and UDP ports</mark>
 
 17. You are working the IT help desk when a user calls to report that he cannot access the Internet, although he is able to connect to computers on the local network. At the user's workstation, you run the `ipconfig /all` command and examine the output. Which of the options is the most likely explanation for the user's problem, based on the following `ipconfig` results? ![[Pasted image 20250217104358.png]]
-	1. DHCP is not enabled.
+	1. <mark style="background: #D2B3FFA6;">DHCP is not enabled.</mark>
 	2. The Subnet Mask setting is incorrect.
 	3. The Default Gateway setting is incorrect.
 	4. The DNS Servers setting is located on another network.
@@ -104,8 +104,8 @@
 18. Which of the following are typical examples of the Internet of Things (IoT)? (Choose all that apply.)
 	1. A television remote control
 	2. A key fob that unlocks your car
-	3. A smartphone app for your home thermostat
-	4. A remotely monitored cardiac pacemaker
+	3. <mark style="background: #D2B3FFA6;">A smartphone app for your home thermostat</mark>
+	4. <mark style="background: #D2B3FFA6;">A remotely monitored cardiac pacemaker</mark>
 	5. A refrigerator with an internal camera
 
 19. A Remote Authentication Dial-In User Service (RADIUS) server takes which of the following roles in an 802.1X transaction?
