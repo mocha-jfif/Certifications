@@ -110,27 +110,27 @@
 
 19. A Remote Authentication Dial-In User Service (RADIUS) server takes which of the following roles in an 802.1X transaction?
 	1. The authenticator
-	2. The authentication server
+	2. <mark style="background: #D2B3FFA6;">The authentication server</mark>
 	3. The supplicant
 	4. The accountant
 
 20. You are installing an Internet access router for your company's new branch office. The router has a switch module containing four Ethernet ports, all of which are assigned to the default VLAN1. When you plug a laptop into one of the Ethernet ports, you can access the Internet with no difficulties. You now need to connect the router to the company network so that the wireless access points on the network can provide users with Internet access through the router. However, when you plug the router into a network switch port that is assigned to VLAN4, the switch starts generating “Native VLAN mismatch detected” errors once every minute. Which of the following steps should be part of the solution you implement to stop the error messages from appearing? (Choose all that apply.)
 	1. Create a VLAN1 on the network switch.
 	2. Configure the network switch port connected to the router to use VLAN1.
-	3. Create a VLAN4 on the router's switch module.
+	3. <mark style="background: #D2B3FFA6;">Create a VLAN4 on the router's switch module.</mark>
 	4. Configure the router port connected to the network switch to use VLAN4.
 
 21. Which of the following cannot function as a preventative mitigation for the problem of tailgating? (Choose all that apply.)
-	1. Security cameras
+	1. <mark style="background: #D2B3FFA6;">Security cameras</mark>
 	2. Badge readers
 	3. Access control vestibules
-	4. Motion detectors
+	4. <mark style="background: #D2B3FFA6;">Motion detectors</mark>
 
 22. You have just created a new virtual machine (VM) using remote controls provided by a cloud service provider on the Internet. You then install an operating system on the virtual machine and configure it to function as a web server. Which of the following cloud architectures are you using when you do this? (Choose all that apply.)
-	1. IaaS
+	1. <mark style="background: #D2B3FFA6;">IaaS</mark>
 	2. PaaS
 	3. SaaS
-	4. Public cloud
+	4. <mark style="background: #D2B3FFA6;">Public cloud</mark>
 	5. Private cloud
 	6. Hybrid cloud
 
@@ -138,17 +138,17 @@
 	1. Pull cable runs.
 	2. Attach keystone connectors.
 	3. Install a patch panel.
-	4. Create patch cables.
+	4. <mark style="background: #D2B3FFA6;">Create patch cables.</mark>
 
 24. Which of the following well-known ports do you use to configure outgoing mail on a POP3 email client?
-	1. 110
+	1. <mark style="background: #D2B3FFA6;">110</mark>
 	2. 25
 	3. 143
 	4. 80
 
 25. You are a consultant who has been hired to extend a network by a client that is still running thin Ethernet. You have brought a spool of RG-58 coaxial cable. Which of the following types of cable connectors will you have to bring with you to add thin Ethernet network segments?
 	1. ST
-	2. BNC
+	2. <mark style="background: #D2B3FFA6;">BNC</mark>
 	3. MPO
 	4. RJ45
 	5. RJ11
