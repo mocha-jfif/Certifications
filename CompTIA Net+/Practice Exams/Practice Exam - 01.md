@@ -572,8 +572,28 @@
 	4. iSCSI includes its own internal flow control mechanism, whereas Fibre Channel does not.
 
 92. In which of the following DNS transactions does the querying system generate an iterative query? (Choose all that apply.)
-	1. A DNS client extracts the server name www.adatum.com(http://www.adatum.com/) from a URL and sends it to its designated DNS server for resolution.
+	1. A DNS client extracts the server name www.adatum.com from a URL and sends it to its designated DNS server for resolution.
 	2. A client's DNS server sends a name resolution request to a root domain server to discover the authoritative server for the com top-level domain.
 	3. A client's DNS server sends a name resolution request to the com top-level domain server to find the authoritative server for the [`adatum.com`](http://www.adatum.com/)domain.
 	4. A client's DNS server, which has been configured to function as a forwarder, sends the server name [`www.adatum.com`](http://www.adatum.com/) from a URL to its ISP's DNS server for resolution.
-	5. A client's DNS server sends a name resolution request to the [adatum.com](http://adatum.com/) domain server to discover the IP address associated with the server name `www`.
+	5. A client's DNS server sends a name resolution request to the [adatum.com](http://adatum.com/) domain server to discover the IP address associated with the server name www.
+
+93. A user approaches you as you are passing through his department and reports that he cannot access the Internet. After questioning him, you determine that he can access systems on the local network. You examine the routing table on the user's Windows workstation, and you see the problem. Which of the following commands must you run to correct the user's problem, based on the routing table display shown here?
+
+
+```
+IPv4 Route Table
+===========================================================
+Active Routes:
+Network Destination              Netmask       Gateway
+Interface Metric
+       127.0.0.0            255.0.0.0          On-link
+127.0.0.1    331
+       127.0.0.1            255.255.255.255    On-link
+127.0.0.1    331
+ 127.255.255.255            255.255.255.255    On-link
+127.0.0.1    331
+     192.168.2.0            255.255.255.0      On-link
+192.168.2.37 281
+    192.168.2.37            
+```
