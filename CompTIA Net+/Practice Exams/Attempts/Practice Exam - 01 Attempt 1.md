@@ -320,7 +320,7 @@
 
 52. When starting her new position as a network administrator, Alice was given two user accounts. One account is intended for standard user activities, and the other account has the additional permissions needed for Alice to perform administrative tasks. This is an example of which of the following security concepts?
 	1. Zero day
-	2. Least privilege
+	2. <mark style="background: #D2B3FFA6;">Least privilege</mark>
 	3. Defense in depth
 	4. Multifactor authentication
 
@@ -331,10 +331,10 @@
 	4. Verify full system functionality.
 	5. Test the theory to determine the cause.
 	6. Document findings, actions, and outcomes.
-	7. Establish a theory of probable cause.
+	7. <mark style="background: #D2B3FFA6;">Establish a theory of probable cause.</mark>
 
 54. Which of the following could be an indication that there is a rogue DHCP server on your network?
-	1. A user's workstation has an IP address from another subnet.
+	1. <mark style="background: #D2B3FFA6;">A user's workstation has an IP address from another subnet.</mark>
 	2. A user can access local resources from his workstation but not Internet resources.
 	3. The DHCP Enabled setting on a user's workstation is set to No.
 	4. The user's workstation has an IP address on the 169.254.0.0/16 subnet.
@@ -343,7 +343,7 @@
 	1. Runts
 	2. Late collisions
 	3. Giants
-	4. Collisions
+	4. <mark style="background: #ADCCFFA6;">Collisions</mark>
 
 56. A protocol analyzer is a tool that captures packets from a network and examines their contents. Which of the following Unix/Linux tools is a protocol analyzer?
 	1. nmap
