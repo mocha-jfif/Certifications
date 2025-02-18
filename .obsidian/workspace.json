@@ -11,12 +11,14 @@
             "id": "25b057424b7aaefc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250217102919.png"
+                "file": "CompTIA Net+/Practice Exams/Practice Exam - 01.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250217102919"
+              "icon": "lucide-file",
+              "title": "Practice Exam - 01"
             }
           }
         ]
@@ -225,14 +227,14 @@
   },
   "active": "25b057424b7aaefc",
   "lastOpenFiles": [
+    "CompTIA Net+/Diagrams and Charts/Pasted image 20250217102919.png",
+    "CompTIA Net+/Diagrams and Charts/Pasted image 20250217104802.png",
     "CompTIA Net+/Practice Exams/Practice Exam - 01.md",
     "CompTIA Net+/Untitled.md",
     "CompTIA Net+/Practice Exams/Practice Exam - 02.md",
     "CompTIA Net+/Untitled/desktop.ini",
     "CompTIA Net+/Practice Exams",
-    "Pasted image 20250217104802.png",
-    "Pasted image 20250217104358.png",
-    "Pasted image 20250217102919.png",
+    "CompTIA Net+/Diagrams and Charts/Pasted image 20250217104358.png",
     "CompTIA Net+/Domain 05 - Network Troubleshooting/Practice Questions.md",
     "CompTIA Net+/Domain 04 - Network Security/Practice Questions.md",
     "CompTIA Net+/Domain 03 - Network Operations/Practice Questions.md",
@@ -265,7 +267,6 @@
     "CompTIA Net+/Chapter 06 - Wireless Solutions/1 Understanding Wireless Basics.md",
     "CompTIA Net+/Chapter 06 - Wireless Solutions/Glossary/Authentication.md",
     "CompTIA Net+/Chapter 06 - Wireless Solutions/Glossary/Association.md",
-    "CompTIA Net+/Chapter 06 - Wireless Solutions/Glossary/Band steering.md",
     "CompTIA Net+/Diagrams and Charts/1280_cmrhTKfKMcK11wBa.jpg",
     "CompTIA Net+/Diagrams and Charts/Pasted image 20250210093448.png",
     "CompTIA Net+/Diagrams and Charts/LC-Premium-unibody-connector-e1665758303719.png",
