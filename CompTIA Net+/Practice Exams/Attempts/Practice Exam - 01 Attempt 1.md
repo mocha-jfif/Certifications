@@ -253,7 +253,7 @@
 41. Network cable runs generally connect office endpoints, such as wall plates, to a central cabling nexus, which is typically where the runs are joined to a backbone network that links them together. Which of the following are terms for such nexuses where network cabling connections are found? (Choose all that apply.)
 	1. RDP
 	2. IDF
-	3. MDF
+	3. <mark style="background: #D2B3FFA6;">MDF</mark>
 	4. MTBF
 
 42. Your supervisor has asked you to call the cabling contractor your company uses and make an appointment to install some new twisted-pair cable runs. In addition to asking how many cable runs you need pulled, the contractor asks you if you need plenum or PVC. Under which of the following conditions might the local building code require that a data network use plenum cable?
