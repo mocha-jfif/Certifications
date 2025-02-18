@@ -1,5 +1,5 @@
 1. Which of the following are the layers in the standard three-tier datacenter architecture? (Choose all that apply.)
-    1. Core
+    1. <mark style="background: #D2B3FFA6;">Core</mark>
     2. Intermediate
     3. Distribution
     4. Access
