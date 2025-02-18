@@ -1,12 +1,12 @@
 1. Which of the following are the layers in the standard three-tier datacenter architecture? (Choose all that apply.)
     1. <mark style="background: #D2B3FFA6;">Core</mark>
     2. Intermediate
-    3. Distribution
-    4. Access
+    3. <mark style="background: #D2B3FFA6;">Distribution</mark>
+    4. <mark style="background: #D2B3FFA6;">Access</mark>
 
 2. You are a new hire at Adatum Corp., and this is your first day on the job. You are setting up your workstation, but you are unsure whether you are permitted to install your favorite software on the company's computer. The human resources server has a large library of employee documents. Which of the following documents should you consult to determine whether personal software is allowed?
 	1. SLA
-	2. AUP
+	2. <mark style="background: #D2B3FFA6;">AUP</mark>
 	3. NDA
 	4. BYOD
 
@@ -14,23 +14,23 @@
 	1. Check the configuration of the router connecting the LAN to the Internet.
 	2. Ask the user if she can access resources on the local network.
 	3. Check to see if anyone else is experiencing the same problem.
-	4. Check the user's job title to see if she is an important person in the company.
+	4. <mark style="background: #D2B3FFA6;">Check the user's job title to see if she is an important person in the company.</mark>
 
 4. Which of the following is not a means of preventing unauthorized individuals from entering a sensitive location, such as a datacenter?
 	1. Key fobs
-	2. Motion detection
+	2. <mark style="background: #D2B3FFA6;">Motion detection</mark>
 	3. Biometric scans
 	4. Identification badges
 
 5. You are an IT consultant who has been contracted to install new computers on a client's Gigabit Ethernet network. You want the performance of the new computers to be as good as it can be, so you configure their network adapters to run at the full speed of 1 Gbps and to use full-duplex communication. You test the computers after installing them, and they function well. However, once the computers are in service, you begin getting complaints from the client of extremely poor network performance on the new machines. You return to the site that evening and run some ping tests, but you do not detect any problem. You call in a colleague to perform a protocol analysis, and she detects large numbers of packet collisions, late collisions, cyclical redundancy check (CRC) errors, and runt frames. Which of the following could be the cause of the problem?
 	1. Damaged cables
-	2. Transmitter (TX)/receiver (RX) transposed
+	2. <mark style="background: #D2B3FFA6;">Transmitter (TX)/receiver (RX) transposed</mark>
 	3. Duplex mismatch
 	4. Incorrect cable type
 
 6. Which of the following is a wireless topology that does not require the use of an access point?
 	1. Star
-	2. Ad hoc
+	2. <mark style="background: #D2B3FFA6;">Ad hoc</mark>
 	3. Bus
 	4. Infrastructure
 
