@@ -154,7 +154,7 @@
 	5. RJ11
 
 26. Which of the following types of cable is never used to connect a workstation to an Ethernet network?
-	1. Rollover
+	1. <mark style="background: #D2B3FFA6;">Rollover</mark>
 	2. Straight-through
 	3. Crossover
 	4. Plenum
@@ -162,7 +162,7 @@
 
 27. Which of the following protocols does IPsec use to provide data origin authentication by digitally signing packets before transmitting them over the network?
 	1. AH
-	2. SSL
+	2. <mark style="background: #D2B3FFA6;">SSL</mark>
 	3. ESP
 	4. RDP
 
