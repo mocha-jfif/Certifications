@@ -208,7 +208,7 @@
 34. Some users are having a problem connecting to an application server on their local network. You go to their department and start to troubleshoot the problem by testing connectivity using the `ping` tool at one of the user workstations. You discover that you can ping the server successfully using its computer name, but pinging the computer's fully qualified domain name (FQDN) fails. As a result of these tests, which of the following can you determine is the most likely source of the problem?
 	1. EMI
 	2. DHCP
-	3. DNS
+	3. <mark style="background: #D2B3FFA6;">DNS</mark>
 	4. ACL
 
 35. You have been given the job of devising a plan to provide a 500-node private internetwork with access to the Internet. The primary objective of the project is to provide all of the network users with access to web and email services while keeping the client computers safe from unauthorized Internet users. There are two secondary objectives for the project: one is to provide a means of monitoring and regulating the users' Internet activities, and the other is to avoid having to manually configure IP addresses on each one of the client computers. You submit a proposal that calls for the use of private IP addresses on the client computers and a series of proxy servers with public, registered IP addresses, which are connected to the Internet. Which of the following statements about your proposed Internet access solution is true?
