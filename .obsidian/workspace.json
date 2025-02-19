@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Practice Exam - 01 Attempt 1"
             }
+          },
+          {
+            "id": "525e4fb238f091a4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,7 +238,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25b057424b7aaefc",
+  "active": "ef1195df60ebd0c2",
   "lastOpenFiles": [
     "CompTIA Net+/Practice Exams/Blanks & Keys/Practice Exam - 01 - Blank.md",
     "CompTIA Net+/Practice Exams/Blanks & Keys/Practice Exam - 01 - Key.md",

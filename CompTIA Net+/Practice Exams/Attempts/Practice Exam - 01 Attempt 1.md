@@ -343,10 +343,10 @@
 	1. Runts
 	2. Late collisions
 	3. Giants
-	4. <mark style="background: #ADCCFFA6;">Collisions</mark>
+	4. <mark style="background: #D2B3FFA6;">Collisions</mark>
 
 56. A protocol analyzer is a tool that captures packets from a network and examines their contents. Which of the following Unix/Linux tools is a protocol analyzer?
-	1. nmap
+	1. <mark style="background: #D2B3FFA6;">nmap</mark>
 	2. tcpdump
 	3. pathping
 	4. iptables
