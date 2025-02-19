@@ -508,7 +508,7 @@
 
 82. You are a consultant with a client who wants to have you install a wireless network with the highest throughput currently available. What is the fastest speed achievable by a wireless LAN using the currently ratified IEEE 802.11 standards?
 	1. 54 Mbps
-	2. 600 Mbps
+	2. <mark style="background: #D2B3FFA6;">600 Mbps</mark>
 	3. 6.9 Gbps
 	4. 9.6 Gbps
 
