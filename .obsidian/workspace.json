@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Net+/! Cram Sheet !/1 Networking Concepts.md",
+                "file": "CompTIA Net+/Chapter 04 - Network Implementations/1 Common Networking Devices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 Networking Concepts"
+              "title": "1 Common Networking Devices"
             }
           }
         ]
@@ -225,13 +225,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "50716479c10e4000",
+  "active": "525e4fb238f091a4",
   "lastOpenFiles": [
+    "CompTIA Net+/Chapter 04 - Network Implementations/2 Networking Use Cases.md",
+    "CompTIA Net+/! Cram Sheet !/1 Networking Concepts.md",
     "CompTIA Net+/! Cram Sheet !/5 Network Troubleshooting.md",
     "CompTIA Net+/! Cram Sheet !/3 Network Operations.md",
     "CompTIA Net+/! Cram Sheet !/4 Network Security.md",
     "CompTIA Net+/! Cram Sheet !/2 Network Implementation.md",
-    "CompTIA Net+/! Cram Sheet !/1 Networking Concepts.md",
     "CompTIA Net+/Diagrams and Charts/Pasted image 20250218075817.png",
     "CompTIA Net+/Diagrams and Charts/Pasted image 20250218081628.png",
     "CompTIA Net+/Practice Exams/Blanks & Keys/Practice Exam - 01 - Key.md",
@@ -271,7 +272,6 @@
     "CompTIA Net+/Chapter 08 - Network Operations/4 Disaster Recovery and High Availability.md",
     "CompTIA Net+/Chapter 08 - Network Operations/1 Physical Installation Factors.md",
     "CompTIA Net+/Chapter 09 - Network Security/2 Common Networking Attacks.md",
-    "CompTIA Net+/Chapter 09 - Network Security/1 Common Security Concepts.md",
     "CompTIA Net+/Diagrams and Charts/1280_cmrhTKfKMcK11wBa.jpg",
     "Untitled.canvas"
   ]
