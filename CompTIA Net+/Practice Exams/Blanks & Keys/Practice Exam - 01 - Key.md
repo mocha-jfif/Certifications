@@ -104,33 +104,33 @@
 18. Which of the following are typical examples of the Internet of Things (IoT)? (Choose all that apply.)
 	1. A television remote control
 	2. A key fob that unlocks your car
-	3. A smartphone app for your home thermostat
-	4. A remotely monitored cardiac pacemaker
-	5. A refrigerator with an internal camera
+	3. <mark style="background: #BBFABBA6;">A smartphone app for your home thermostat</mark>
+	4. <mark style="background: #BBFABBA6;">A remotely monitored cardiac pacemaker</mark>
+	5. <mark style="background: #BBFABBA6;">A refrigerator with an internal camera</mark>
 
 19. A Remote Authentication Dial-In User Service (RADIUS) server takes which of the following roles in an 802.1X transaction?
 	1. The authenticator
-	2. The authentication server
+	2. <mark style="background: #BBFABBA6;">The authentication server</mark>
 	3. The supplicant
 	4. The accountant
 
 20. You are installing an Internet access router for your company's new branch office. The router has a switch module containing four Ethernet ports, all of which are assigned to the default VLAN1. When you plug a laptop into one of the Ethernet ports, you can access the Internet with no difficulties. You now need to connect the router to the company network so that the wireless access points on the network can provide users with Internet access through the router. However, when you plug the router into a network switch port that is assigned to VLAN4, the switch starts generating “Native VLAN mismatch detected” errors once every minute. Which of the following steps should be part of the solution you implement to stop the error messages from appearing? (Choose all that apply.)
 	1. Create a VLAN1 on the network switch.
 	2. Configure the network switch port connected to the router to use VLAN1.
-	3. Create a VLAN4 on the router's switch module.
-	4. Configure the router port connected to the network switch to use VLAN4.
+	3. <mark style="background: #BBFABBA6;">Create a VLAN4 on the router's switch module.</mark>
+	4. <mark style="background: #BBFABBA6;">Configure the router port connected to the network switch to use VLAN4.</mark>
 
 21. Which of the following cannot function as a preventative mitigation for the problem of tailgating? (Choose all that apply.)
 	1. Security cameras
-	2. Badge readers
+	2. <mark style="background: #BBFABBA6;">Badge readers</mark>
 	3. Access control vestibules
-	4. Motion detectors
+	4. <mark style="background: #BBFABBA6;">Motion detectors</mark>
 
 22. You have just created a new virtual machine (VM) using remote controls provided by a cloud service provider on the Internet. You then install an operating system on the virtual machine and configure it to function as a web server. Which of the following cloud architectures are you using when you do this? (Choose all that apply.)
-	1. IaaS
+	1. <mark style="background: #BBFABBA6;">IaaS</mark>
 	2. PaaS
 	3. SaaS
-	4. Public cloud
+	4. <mark style="background: #BBFABBA6;">Public cloud</mark>
 	5. Private cloud
 	6. Hybrid cloud
 
@@ -138,42 +138,42 @@
 	1. Pull cable runs.
 	2. Attach keystone connectors.
 	3. Install a patch panel.
-	4. Create patch cables.
+	4. <mark style="background: #BBFABBA6;">Create patch cables.</mark>
 
 24. Which of the following well-known ports do you use to configure outgoing mail on a POP3 email client?
 	1. 110
-	2. 25
+	2. <mark style="background: #BBFABBA6;">25</mark>
 	3. 143
 	4. 80
 
 25. You are a consultant who has been hired to extend a network by a client that is still running thin Ethernet. You have brought a spool of RG-58 coaxial cable. Which of the following types of cable connectors will you have to bring with you to add thin Ethernet network segments?
 	1. ST
-	2. BNC
+	2. <mark style="background: #BBFABBA6;">BNC</mark>
 	3. MPO
 	4. RJ45
 	5. RJ11
 
 26. Which of the following types of cable is never used to connect a workstation to an Ethernet network?
-	1. Rollover
+	1. <mark style="background: #BBFABBA6;">Rollover</mark>
 	2. Straight-through
 	3. Crossover
 	4. Plenum
 	5. Shielded
 
 27. Which of the following protocols does IPsec use to provide data origin authentication by digitally signing packets before transmitting them over the network?
-	1. AH
+	1. <mark style="background: #BBFABBA6;">AH</mark>
 	2. SSL
 	3. ESP
 	4. RDP
 
 28. You have constructed a network on which all of the computers are connected to a single switch. You then create virtual local area networks (VLANs) on the switch, corresponding to the company's departments, and add the switch port for each user workstation and department server to the appropriate VLAN. Later, users report that while they can access their departmental servers and the workstations of other users in the same department, they cannot communicate with any of the other departments. What is the problem, and what must you do to correct it?
 	1. There is a faulty VLAN configuration on the switch. You must re-create all of the VLANs and configure each VLAN for routing.
-	2. VLANs are limited to Data link layer communication only. To enable communication between the VLANs, you must install a router or a layer 3 switch on the network and configure it to route traffic between the VLANs.
+	2. <mark style="background: #BBFABBA6;">VLANs are limited to Data link layer communication only. To enable communication between the VLANs, you must install a router or a layer 3</mark> switch on the network and configure it to route traffic between the VLANs.
 	3. The VLANs are using different Data link layer protocols. You must configure the VLANs to use the same Data link layer protocol in order for them to communicate with each other.
 	4. One of the VLANs is configured to filter all of the other VLAN traffic for security purposes. You must change the filter on this one VLAN.
 
 29. The TCP/IP term _socket_ consists of which of the following elements? (Choose all that apply.)
-	1. Port number
+	1. <mark style="background: #BBFABBA6;">Port number</mark>
 	2. MAC address
 	3. IP address
 	4. Subnet mask
