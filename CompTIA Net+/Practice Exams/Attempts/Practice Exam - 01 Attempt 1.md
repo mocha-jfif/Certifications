@@ -52,81 +52,81 @@
 	3. WPA
 	4. TKIP
 
-10. You have been asked by your supervisor in the IT department to test some newly installed cable runs. She hands you the tool shown in the following figure. What is the function of the tool and how do you use it?![[Pasted image 20250217102919.png]]
+10. You have been asked by your supervisor in the IT department to test some newly installed cable runs. She hands you the tool shown in the following figure. What is the function of the tool and how do you use it? ✅ ![[Pasted image 20250217102919.png]]
 	1. <mark style="background: #D2B3FFA6;">When you place the tool at one end of a wire, it generates a tone that can be detected at the other end.</mark>
 	2. When you touch the end of the tool to a copper cable, you can detect and measure the electrical current flowing through it.
 	3. When you connect the tool to the end of a fiber-optic cable, you can measure the length of the cable run.
 	4. When you attach the tool to the end of a twisted-pair cable, it tests for crosstalk and other performance characteristics.
 
-11. A multifactor authentication (MFA) system consists of at least two different identifying criteria, typically falling into two of the following categories: something you have, something you do, something you know, and something you are. Which of the following authentication factors is an example of something you have?
+11. A multifactor authentication (MFA) system consists of at least two different identifying criteria, typically falling into two of the following categories: something you have, something you do, something you know, and something you are. Which of the following authentication factors is an example of something you have? ✅
 	1. A password
 	2. A fingerprint
 	3. <mark style="background: #D2B3FFA6;">A smartcard</mark>
 	4. A finger gesture
 
-12. Which of the following is a port number used for Structured Query Language (SQL) communications?
+12. Which of the following is a port number used for Structured Query Language (SQL) communications? ✅
 	1. <mark style="background: #D2B3FFA6;">1433</mark>
 	2. 3389
 	3. 443
 	4. 5060
 
-13. At a clearance sale, you purchase some 802.11ac wireless network adapter cards for desktop computers at a very low price. Your plan is to use them to expand your 2.4 GHz 802.11n home network. After installing one of the adapters in a computer, you attempt to connect to the network, but you cannot see the SSID in the list of available networks. You try installing a different adapter, thinking the first one might be broken, but the second one does not work either. What can you do to resolve the problem and connect the computer to your network?
+13. At a clearance sale, you purchase some 802.11ac wireless network adapter cards for desktop computers at a very low price. Your plan is to use them to expand your 2.4 GHz 802.11n home network. After installing one of the adapters in a computer, you attempt to connect to the network, but you cannot see the SSID in the list of available networks. You try installing a different adapter, thinking the first one might be broken, but the second one does not work either. What can you do to resolve the problem and connect the computer to your network? ✅
 	1. Configure the network adapters to use the 2.4 GHz frequency.
 	2. Move the computer closer to the access point.
 	3. Manually enter the SSID in the computer's wireless network client software.
 	4. <mark style="background: #D2B3FFA6;">Nothing. 802.11ac equipment cannot connect to a 2.4 GHz 802.11n network.</mark>
 
-14. Which of the following mechanisms for the recovery from a disaster in a datacenter is the most expensive to implement?
+14. Which of the following mechanisms for the recovery from a disaster in a datacenter is the most expensive to implement? ✅
 	1. <mark style="background: #D2B3FFA6;">A hot site</mark>
 	2. A warm site
 	3. A cold site
 	4. A cloud site
 
-15. You are setting up an 802.11n wireless network using the 2.4 GHz frequency band. You plan to install three wireless access points. Which of the following channels should you use for your access points to avoid channel overlap that can result in interference? (Choose all that apply.)
+15. You are setting up an 802.11n wireless network using the 2.4 GHz frequency band. You plan to install three wireless access points. Which of the following channels should you use for your access points to avoid channel overlap that can result in interference? (Choose all that apply.) ✅
 	1. <mark style="background: #D2B3FFA6;">1</mark>
 	2. 4
 	3. <mark style="background: #D2B3FFA6;">6</mark>
 	4. 8
 	5. <mark style="background: #D2B3FFA6;">11</mark>
 
-16. Your supervisor has asked you to increase the security of the servers on your network. Which of the following procedures can be considered to be server hardening techniques? (Choose all that apply.)
+16. Your supervisor has asked you to increase the security of the servers on your network. Which of the following procedures can be considered to be server hardening techniques? (Choose all that apply.) ==2/3==
 	1. Installing additional memory
 	2. <mark style="background: #D2B3FFA6;">Disabling unnecessary services</mark>
 	3. Creating privileged user accounts
 	4. <mark style="background: #D2B3FFA6;">Disabling unused TCP and UDP ports</mark>
 
-17. You are working the IT help desk when a user calls to report that he cannot access the Internet, although he is able to connect to computers on the local network. At the user's workstation, you run the `ipconfig /all` command and examine the output. Which of the options is the most likely explanation for the user's problem, based on the following `ipconfig` results? ![[Pasted image 20250217104358.png]]
+17. You are working the IT help desk when a user calls to report that he cannot access the Internet, although he is able to connect to computers on the local network. At the user's workstation, you run the `ipconfig /all` command and examine the output. Which of the options is the most likely explanation for the user's problem, based on the following `ipconfig` results? ❌ ![[Pasted image 20250217104358.png]]
 	1. <mark style="background: #D2B3FFA6;">DHCP is not enabled.</mark>
 	2. The Subnet Mask setting is incorrect.
 	3. The Default Gateway setting is incorrect.
 	4. The DNS Servers setting is located on another network.
 
-18. Which of the following are typical examples of the Internet of Things (IoT)? (Choose all that apply.)
+18. Which of the following are typical examples of the Internet of Things (IoT)? (Choose all that apply.) ==2/3==
 	1. A television remote control
 	2. A key fob that unlocks your car
 	3. <mark style="background: #D2B3FFA6;">A smartphone app for your home thermostat</mark>
 	4. <mark style="background: #D2B3FFA6;">A remotely monitored cardiac pacemaker</mark>
 	5. A refrigerator with an internal camera
 
-19. A Remote Authentication Dial-In User Service (RADIUS) server takes which of the following roles in an 802.1X transaction?
+19. A Remote Authentication Dial-In User Service (RADIUS) server takes which of the following roles in an 802.1X transaction? ✅
 	1. The authenticator
 	2. <mark style="background: #D2B3FFA6;">The authentication server</mark>
 	3. The supplicant
 	4. The accountant
 
-20. You are installing an Internet access router for your company's new branch office. The router has a switch module containing four Ethernet ports, all of which are assigned to the default VLAN1. When you plug a laptop into one of the Ethernet ports, you can access the Internet with no difficulties. You now need to connect the router to the company network so that the wireless access points on the network can provide users with Internet access through the router. However, when you plug the router into a network switch port that is assigned to VLAN4, the switch starts generating “Native VLAN mismatch detected” errors once every minute. Which of the following steps should be part of the solution you implement to stop the error messages from appearing? (Choose all that apply.)
+20. You are installing an Internet access router for your company's new branch office. The router has a switch module containing four Ethernet ports, all of which are assigned to the default VLAN1. When you plug a laptop into one of the Ethernet ports, you can access the Internet with no difficulties. You now need to connect the router to the company network so that the wireless access points on the network can provide users with Internet access through the router. However, when you plug the router into a network switch port that is assigned to VLAN4, the switch starts generating “Native VLAN mismatch detected” errors once every minute. Which of the following steps should be part of the solution you implement to stop the error messages from appearing? (Choose all that apply.) ==1/2==
 	1. Create a VLAN1 on the network switch.
 	2. Configure the network switch port connected to the router to use VLAN1.
 	3. <mark style="background: #D2B3FFA6;">Create a VLAN4 on the router's switch module.</mark>
 	4. Configure the router port connected to the network switch to use VLAN4.
 
-21. Which of the following cannot function as a preventative mitigation for the problem of tailgating? (Choose all that apply.)
+21. Which of the following cannot function as a preventative mitigation for the problem of tailgating? (Choose all that apply.) ==1/2==
 	1. <mark style="background: #D2B3FFA6;">Security cameras</mark>
 	2. Badge readers
 	3. Access control vestibules
 	4. <mark style="background: #D2B3FFA6;">Motion detectors</mark>
 
-22. You have just created a new virtual machine (VM) using remote controls provided by a cloud service provider on the Internet. You then install an operating system on the virtual machine and configure it to function as a web server. Which of the following cloud architectures are you using when you do this? (Choose all that apply.)
+22. You have just created a new virtual machine (VM) using remote controls provided by a cloud service provider on the Internet. You then install an operating system on the virtual machine and configure it to function as a web server. Which of the following cloud architectures are you using when you do this? (Choose all that apply.) ✅
 	1. <mark style="background: #D2B3FFA6;">IaaS</mark>
 	2. PaaS
 	3. SaaS
@@ -134,51 +134,51 @@
 	5. Private cloud
 	6. Hybrid cloud
 
-23. It is your first day working for a consultant who does network cable installations. Your new boss hands you a spool of Category 6 cable, a bag of little clear plastic components, and the tool shown in the following figure. He then tells you to “get started on fives and tens.” What is your new boss expecting you to do? ![[Pasted image 20250217104802.png]]
+23. It is your first day working for a consultant who does network cable installations. Your new boss hands you a spool of Category 6 cable, a bag of little clear plastic components, and the tool shown in the following figure. He then tells you to “get started on fives and tens.” What is your new boss expecting you to do? ✅ ![[Pasted image 20250217104802.png]]
 	1. Pull cable runs.
 	2. Attach keystone connectors.
 	3. Install a patch panel.
 	4. <mark style="background: #D2B3FFA6;">Create patch cables.</mark>
 
-24. Which of the following well-known ports do you use to configure outgoing mail on a POP3 email client?
+24. Which of the following well-known ports do you use to configure outgoing mail on a POP3 email client? ❌ 
 	1. <mark style="background: #D2B3FFA6;">110</mark>
 	2. 25
 	3. 143
 	4. 80
 
-25. You are a consultant who has been hired to extend a network by a client that is still running thin Ethernet. You have brought a spool of RG-58 coaxial cable. Which of the following types of cable connectors will you have to bring with you to add thin Ethernet network segments?
+25. You are a consultant who has been hired to extend a network by a client that is still running thin Ethernet. You have brought a spool of RG-58 coaxial cable. Which of the following types of cable connectors will you have to bring with you to add thin Ethernet network segments? ✅
 	1. ST
 	2. <mark style="background: #D2B3FFA6;">BNC</mark>
 	3. MPO
 	4. RJ45
 	5. RJ11
 
-26. Which of the following types of cable is never used to connect a workstation to an Ethernet network?
+26. Which of the following types of cable is never used to connect a workstation to an Ethernet network? ✅
 	1. <mark style="background: #D2B3FFA6;">Rollover</mark>
 	2. Straight-through
 	3. Crossover
 	4. Plenum
 	5. Shielded
 
-27. Which of the following protocols does IPsec use to provide data origin authentication by digitally signing packets before transmitting them over the network?
+27. Which of the following protocols does IPsec use to provide data origin authentication by digitally signing packets before transmitting them over the network? ❌ 
 	1. AH
 	2. <mark style="background: #D2B3FFA6;">SSL</mark>
 	3. ESP
 	4. RDP
 
-28. You have constructed a network on which all of the computers are connected to a single switch. You then create virtual local area networks (VLANs) on the switch, corresponding to the company's departments, and add the switch port for each user workstation and department server to the appropriate VLAN. Later, users report that while they can access their departmental servers and the workstations of other users in the same department, they cannot communicate with any of the other departments. What is the problem, and what must you do to correct it?
+28. You have constructed a network on which all of the computers are connected to a single switch. You then create virtual local area networks (VLANs) on the switch, corresponding to the company's departments, and add the switch port for each user workstation and department server to the appropriate VLAN. Later, users report that while they can access their departmental servers and the workstations of other users in the same department, they cannot communicate with any of the other departments. What is the problem, and what must you do to correct it? ❌ 
 	1. <mark style="background: #D2B3FFA6;">There is a faulty VLAN configuration on the switch. You must re-create all of the VLANs and configure each VLAN for routing.</mark>
 	2. VLANs are limited to Data link layer communication only. To enable communication between the VLANs, you must install a router or a layer 3 switch on the network and configure it to route traffic between the VLANs.
 	3. The VLANs are using different Data link layer protocols. You must configure the VLANs to use the same Data link layer protocol in order for them to communicate with each other.
 	4. One of the VLANs is configured to filter all of the other VLAN traffic for security purposes. You must change the filter on this one VLAN.
 
-29. The TCP/IP term _socket_ consists of which of the following elements? (Choose all that apply.)
+29. The TCP/IP term _socket_ consists of which of the following elements? (Choose all that apply.) ==1/2==
 	1. <mark style="background: #D2B3FFA6;">Port number</mark>
 	2. <mark style="background: #D2B3FFA6;">MAC address</mark>
 	3. <mark style="background: #D2B3FFA6;">IP address</mark>
 	4. Subnet mask
 
-30. You are installing a cable modem to provide your home network with access to the Internet through your cable television provider. The cable modem is a multifunction device that the cable company says provides everything you need for a home network. Which of the following network functions does a home cable modem typically provide? (Choose all that apply.)
+30. You are installing a cable modem to provide your home network with access to the Internet through your cable television provider. The cable modem is a multifunction device that the cable company says provides everything you need for a home network. Which of the following network functions does a home cable modem typically provide? (Choose all that apply.) ==3/4==
 	1. <mark style="background: #D2B3FFA6;">DHCP server</mark>
 	2. Wireless access point
 	3. <mark style="background: #D2B3FFA6;">Broadband router</mark>
@@ -186,26 +186,26 @@
 	5. Proxy server
 	6. RADIUS server
 
-31. Which of the following Domain Name System (DNS) resource records is not used for forward name resolution?
+31. Which of the following Domain Name System (DNS) resource records is not used for forward name resolution? ✅
 	1. <mark style="background: #D2B3FFA6;">PTR</mark>
 	2. CNAME
 	3. AAAA
 	4. MX
 
-32. Which of the following are tasks that can be performed by a protocol analyzer that could provide potential intruders with information about the network? (Choose all that apply.)
+32. Which of the following are tasks that can be performed by a protocol analyzer that could provide potential intruders with information about the network? (Choose all that apply.) ==1/2==
 	1. A protocol analyzer can decrypt protected information in packets captured from the network.
 	2. <mark style="background: #D2B3FFA6;">A protocol analyzer can detect open ports on network systems and launch attacks against them.</mark>
 	3. <mark style="background: #D2B3FFA6;">A protocol analyzer can display the IP addresses of the systems on the network.</mark>
 	4. A protocol analyzer can display the application data in packets captured from the network.
 
-33. Which of the following services are provided by a RADIUS server? (Choose all that apply.)
+33. Which of the following services are provided by a RADIUS server? (Choose all that apply.) ==2/3==
 	1. Attenuation
 	2. <mark style="background: #D2B3FFA6;">Authentication</mark>
 	3. Assistance
 	4. <mark style="background: #D2B3FFA6;">Authorization</mark>
 	5. Accounting
 
-34. Some users are having a problem connecting to an application server on their local network. You go to their department and start to troubleshoot the problem by testing connectivity using the `ping` tool at one of the user workstations. You discover that you can ping the server successfully using its computer name, but pinging the computer's fully qualified domain name (FQDN) fails. As a result of these tests, which of the following can you determine is the most likely source of the problem?
+34. Some users are having a problem connecting to an application server on their local network. You go to their department and start to troubleshoot the problem by testing connectivity using the `ping` tool at one of the user workstations. You discover that you can ping the server successfully using its computer name, but pinging the computer's fully qualified domain name (FQDN) fails. As a result of these tests, which of the following can you determine is the most likely source of the problem? ✅
 	1. EMI
 	2. DHCP
 	3. <mark style="background: #D2B3FFA6;">DNS</mark>
