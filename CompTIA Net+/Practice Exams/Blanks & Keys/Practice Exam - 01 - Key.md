@@ -1,17 +1,17 @@
-1. Which of the following are the layers in the standard three-tier datacenter architecture? (Choose all that apply.)
+1. [[1-1|Which of the following are the layers in the standard three-tier datacenter architecture? (Choose all that apply.)]]
     1. <mark style="background: #BBFABBA6;">Core</mark>
     2. Intermediate
     3. <mark style="background: #BBFABBA6;">Distribution</mark>
     4. <mark style="background: #BBFABBA6;">Access</mark>
 
-2. You are a new hire at Adatum Corp., and this is your first day on the job. You are setting up your workstation, but you are unsure whether you are permitted to install your favorite software on the company's computer. The human resources server has a large library of employee documents. Which of the following documents should you consult to determine whether personal software is allowed?
+2. [[1-2|You are a new hire at Adatum Corp., and this is your first day on the job. You are setting up your workstation, but you are unsure whether you are permitted to install your favorite software on the company's computer. The human resources server has a large library of employee documents. Which of the following documents should you consult to determine whether personal software is allowed?]]
 	1. SLA
-	2. AUP
+	2. <mark style="background: #BBFABBA6;">AUP</mark>
 	3. NDA
 	4. BYOD
 
-3. You are working the help desk when a user calls and reports that she is unable to connect to the Internet. Which of the following steps would you be least likely to perform first when troubleshooting the problem?
-	1. Check the configuration of the router connecting the LAN to the Internet.
+3. [[You are working the help desk when a user calls and reports that she is unable to connect to the Internet. Which of the following steps would you be least likely to perform first when troubleshooting the problem?]]
+	1. <mark style="background: #BBFABBA6;">Check the configuration of the router connecting the LAN to the Internet.</mark>
 	2. Ask the user if she can access resources on the local network.
 	3. Check to see if anyone else is experiencing the same problem.
 	4. Check the user's job title to see if she is an important person in the company.
