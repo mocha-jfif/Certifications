@@ -175,19 +175,19 @@
 29. The TCP/IP term _socket_ consists of which of the following elements? (Choose all that apply.)
 	1. <mark style="background: #BBFABBA6;">Port number</mark>
 	2. MAC address
-	3. IP address
+	3. <mark style="background: #BBFABBA6;">IP address</mark>
 	4. Subnet mask
 
 30. You are installing a cable modem to provide your home network with access to the Internet through your cable television provider. The cable modem is a multifunction device that the cable company says provides everything you need for a home network. Which of the following network functions does a home cable modem typically provide? (Choose all that apply.)
-	1. DHCP server
-	2. Wireless access point
-	3. Broadband router
-	4. Ethernet switch
+	1. <mark style="background: #BBFABBA6;">DHCP server</mark>
+	2. <mark style="background: #BBFABBA6;">Wireless access point</mark>
+	3. <mark style="background: #BBFABBA6;">Broadband router</mark>
+	4. <mark style="background: #BBFABBA6;">Ethernet switch</mark>
 	5. Proxy server
 	6. RADIUS server
 
 31. Which of the following Domain Name System (DNS) resource records is not used for forward name resolution?
-	1. PTR
+	1. <mark style="background: #BBFABBA6;">PTR</mark>
 	2. CNAME
 	3. AAAA
 	4. MX
@@ -195,36 +195,36 @@
 32. Which of the following are tasks that can be performed by a protocol analyzer that could provide potential intruders with information about the network? (Choose all that apply.)
 	1. A protocol analyzer can decrypt protected information in packets captured from the network.
 	2. A protocol analyzer can detect open ports on network systems and launch attacks against them.
-	3. A protocol analyzer can display the IP addresses of the systems on the network.
-	4. A protocol analyzer can display the application data in packets captured from the network.
+	3. <mark style="background: #BBFABBA6;">A protocol analyzer can display the IP addresses of the systems on the network.</mark>
+	4. <mark style="background: #BBFABBA6;">A protocol analyzer can display the application data in packets captured from the network.</mark>
 
 33. Which of the following services are provided by a RADIUS server? (Choose all that apply.)
 	1. Attenuation
-	2. Authentication
+	2. <mark style="background: #BBFABBA6;">Authentication</mark>
 	3. Assistance
-	4. Authorization
-	5. Accounting
+	4. <mark style="background: #BBFABBA6;">Authorization</mark>
+	5. <mark style="background: #BBFABBA6;">Accounting</mark>
 
 34. Some users are having a problem connecting to an application server on their local network. You go to their department and start to troubleshoot the problem by testing connectivity using the `ping` tool at one of the user workstations. You discover that you can ping the server successfully using its computer name, but pinging the computer's fully qualified domain name (FQDN) fails. As a result of these tests, which of the following can you determine is the most likely source of the problem?
 	1. EMI
 	2. DHCP
-	3. DNS
+	3. <mark style="background: #BBFABBA6;">DNS</mark>
 	4. ACL
 
 35. You have been given the job of devising a plan to provide a 500-node private internetwork with access to the Internet. The primary objective of the project is to provide all of the network users with access to web and email services while keeping the client computers safe from unauthorized Internet users. There are two secondary objectives for the project: one is to provide a means of monitoring and regulating the users' Internet activities, and the other is to avoid having to manually configure IP addresses on each one of the client computers. You submit a proposal that calls for the use of private IP addresses on the client computers and a series of proxy servers with public, registered IP addresses, which are connected to the Internet. Which of the following statements about your proposed Internet access solution is true?
 	1. The proposal satisfies the primary objective and both of the secondary objectives.
-	2. The proposal satisfies the primary objective and one of the secondary objectives.
+	2. <mark style="background: #BBFABBA6;">The proposal satisfies the primary objective and one of the secondary objectives.</mark>
 	3. The proposal satisfies the primary objective but neither of the secondary objectives.
 	4. The proposal fails to satisfy either the primary or secondary objective.
 
 36. Which of the following cloud service models provides the consumer with the least amount of control over the cloud resources?
 	1. IaaS
     1. PaaS
-    2. SaaS
+    2. <mark style="background: #BBFABBA6;">SaaS</mark>
     3. IaaS, PaaS, and SaaS all provide the same degree of control.
 
 37. The jumbo frame capability is associated with which networking protocol?
-	1. Ethernet
+	1. <mark style="background: #BBFABBA6;">Ethernet</mark>
 	2. Internet Protocol (IP)
 	3. Point-to-Point Protocol (PPP)
 	4. Transmission Control Protocol (TCP)
@@ -232,7 +232,7 @@
 38. You are working your company's IT help desk, where you are required to follow a specific troubleshooting protocol when handling calls from users. In which of the following troubleshooting steps would you create a trouble ticket?
 	1. Establish a theory of probable cause.
 	2. Verify full system functionality and implement preventive measures, if applicable.
-	3. Identify the problem.
+	3. <mark style="background: #BBFABBA6;">Identify the problem.</mark>
 	4. Test the theory to determine the cause.
 	5. Document findings, actions, and outcomes.
 	6. Implement the solution or escalate as necessary.
@@ -241,24 +241,24 @@
 39. You are working your company's help desk when a user calls to report that he cannot access any of the data on his computer. He says that a message has appeared on his screen stating that all of his data has been encrypted by the FBI and that it will be decrypted only after he pays $768 in Bitcoin to an unknown address. The user wants to know if he is responsible for making the payment. Which of the following types of attacks has the user experienced?
 	1. Denial-of-service
 	2. Social engineering
-	3. Ransomware
+	3. <mark style="background: #BBFABBA6;">Ransomware</mark>
 	4. ARP poisoning
 
 40. Which of the following are switch features that help to prevent intruders from manipulating the Spanning Tree Protocol (STP)?
-	1. 1. Geofencing
-	2. Root guard
+	1. Geofencing
+	2. <mark style="background: #BBFABBA6;">Root guard</mark>
 	3. DHCP snooping
-	4. BPDU guard
+	4. <mark style="background: #BBFABBA6;">BPDU guard</mark>
 
 41. Network cable runs generally connect office endpoints, such as wall plates, to a central cabling nexus, which is typically where the runs are joined to a backbone network that links them together. Which of the following are terms for such nexuses where network cabling connections are found? (Choose all that apply.)
 	1. RDP
-	2. IDF
-	3. MDF
+	2. <mark style="background: #BBFABBA6;">IDF</mark>
+	3. <mark style="background: #BBFABBA6;">MDF</mark>
 	4. MTBF
 
 42. Your supervisor has asked you to call the cabling contractor your company uses and make an appointment to install some new twisted-pair cable runs. In addition to asking how many cable runs you need pulled, the contractor asks you if you need plenum or PVC. Under which of the following conditions might the local building code require that a data network use plenum cable?
 	1. When cable runs exceed the maximum length specified by the Physical layer specification
-	2. When cables must run through air ducts
+	2. <mark style="background: #BBFABBA6;">When cables must run through air ducts</mark>
 	3. When cables run near devices that generate electromagnetic interference (EMI)
 	4. When multiple cables run through the same conduit
 
@@ -266,30 +266,30 @@
 	1. Port aggregation
 	2. Link aggregation
 	3. Bonding
-	4. Clustering
+	4. <mark style="background: #BBFABBA6;">Clustering</mark>
 	5. NIC teaming
 
 44. You have been asked by the director of the IT department to review the security status of the network device administration procedures currently in use. You know that network device hardening has as one of its first principles the use of secure protocols over insecure ones. Which of the following suggestions are examples of this principle that you should suggest to the director? (Choose all that apply.)
 	1. Use WEP instead of WPA2.
 	2. Use TKIP instead of AES.
-	3. Use HTTPS instead of HTTP.
-	4. Use SSH instead of Telnet.
+	3. <mark style="background: #BBFABBA6;">Use HTTPS instead of HTTP.</mark>
+	4. <mark style="background: #BBFABBA6;">Use SSH instead of Telnet.</mark>
 
 45. The Simple Network Management Protocol (SNMP) works by processing information gathered from agents installed or embedded in network devices and displaying the information on a central console. Which of the following is the term used for the database in which SNMP agents store information about their properties?
-	1. MIB
+	1. <mark style="background: #BBFABBA6;">MIB</mark>
 	2. Trap
 	3. Syslog
 	4. SIEM
 
 46. When a web browser connects to a web server using an address with the https:// prefix, the connection is secured using Transmission Control Protocol (TCP) and an encryption protocol. Which of the following protocols are typically used to secure communication between web servers and web browsers? (Choose all that apply.)
-	1. TLS
+	1. <mark style="background: #BBFABBA6;">TLS</mark>
 	2. SSH
 	3. DTLS
-	4. SSL
+	4. <mark style="background: #BBFABBA6;">SSL</mark>
 
 47. A screened subnet is a segment that is exposed to the Internet and separated from the internal network by a firewall. Administrators typically use a screened subnet for servers that must be accessible to outside users, such as web and email servers. Which of the following is another term for a screened subnet?
 	1. PEAP
-	2. DMZ
+	2. <mark style="background: #BBFABBA6;">DMZ</mark>
 	3. VLAN
 	4. TKIP
 
@@ -297,11 +297,11 @@
 	1. Keystrokes
 	2. Mouse movements
 	3. Display information
-	4. Application data
+	4. <mark style="background: #BBFABBA6;">Application data</mark>
 
 49. You have been engaged to design a wireless LAN for a site you have never seen. For that reason, you want the LAN to be able to support both the 2.4 GHz and 5 GHz frequencies. Which of the following IEEE 802.11 wireless LAN standards should you look for when you are shopping for equipment that supports both frequencies? (Choose all that apply.)
 	1. 802.11g
-	2. 802.11n
+	2. <mark style="background: #BBFABBA6;">802.11n</mark>
 	3. 802.11ac
 	4. 802.11ax
 
