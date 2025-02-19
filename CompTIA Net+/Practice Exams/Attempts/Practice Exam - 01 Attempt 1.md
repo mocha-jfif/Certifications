@@ -531,24 +531,24 @@
 	4. Interior gateway protocol
 
 86. You have been hired by a client to connect two local area networks that are in different buildings 500 meters apart. The cable type you use must support Gigabit Ethernet data rates of 1,000 megabits per second (Mbps) and provide a high level of resistance to electromagnetic interference (EMI). Which of the following cable types can you choose to meet the client's needs? (Choose all that apply.)
-	1. Single-mode fiber-optic cable
+	1. <mark style="background: #D2B3FFA6;">Single-mode fiber-optic cable</mark>
 	2. Thin coaxial cable
-	3. Multimode fiber-optic cable
+	3. <mark style="background: #D2B3FFA6;">Multimode fiber-optic cable</mark>
 	4. Shielded twisted-pair (STP) cable
 	5. Unshielded twisted-pair (UTP) cable
 
 87. You receive a call at the IT help desk from a user who has recently moved to a new office in the company building, down the hall from her old one. Since the move, she has only been able to access the company's wireless network with her laptop intermittently. The network is based on 802.11n equipment, and it is using the 2.4 GHz frequency and the WPA3 security protocol. The user never had a problem in her previous office location. Which of the following could not possibly be the cause of her problem? (Choose all that apply.)
 	1. The user's laptop is connecting to the wrong SSID.
 	2. The user's laptop is configured to use the 5 GHz frequency.
-	3. The user's new office is farther from the access point than her old one.
-	4. There are more intervening walls between the user's new office and the access point.
+	3. <mark style="background: #D2B3FFA6;">The user's new office is farther from the access point than her old one.</mark>
+	4. <mark style="background: #D2B3FFA6;">There are more intervening walls between the user's new office and the access point.</mark>
 
 88. Which of the following statements about static routing are not true? (Choose all that apply.)
-	1. Static routes are automatically added to the routing table by routing protocols when a new network path becomes available.
+	1. <mark style="background: #D2B3FFA6;">Static routes are automatically added to the routing table by routing protocols when a new network path becomes available.</mark>
 	2. Static routes are manually configured routes that administrators must add, modify, or delete when a change in the network occurs.
 	3. Static routes are a recommended solution for large internetworks with redundant paths to each destination network.
 	4. Static routes are a recommended solution for small internetworks with a single path to each destination network.
-	5. Static routes adapt to changes in the network infrastructure automatically.
+	5. <mark style="background: #D2B3FFA6;">Static routes adapt to changes in the network infrastructure automatically.</mark>
 
 89. Which layer of the Open Systems Interconnection (OSI) model has its own logical addressing system and is responsible for routing packets from one network to another?
 	1. Physical
