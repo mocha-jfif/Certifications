@@ -391,39 +391,39 @@
 
 63. You are a consultant working at a client site. The client has supplied you with the SSID and the passphrase for the company's wireless network so that you can connect to it with your laptop. However, you are unable to establish a connection. Which of the following security measures might be preventing you from connecting your laptop to the network?
 	1. Geofencing
-	2. MAC filtering
+	2. <mark style="background: #D2B3FFA6;">MAC filtering</mark>
 	3. Using WPA3
 	4. Disabling SSID broadcasts
 
 64. You have just finished installing a new Category 6 cable run for the first time. After attaching keystone connectors to both ends of the cable, you mount the office-side connector to a wall plate and mount the datacenter connector into a patch panel. Then you take a patch cable and connect the patch panel port to an open port in one of the network switches. However, the link pulse LED on the switch port does not light as it is supposed to. What should you do next?
 	1. Repull the cable run using Category 6a cable.
 	2. Check the cable run for wiring faults.
-	3. Make sure the switch port is not disabled.
+	3. <mark style="background: #D2B3FFA6;">Make sure the switch port is not disabled.</mark>
 	4. Plug a computer into the wall plate.
 
 65. Devices on a TCP/IP network typically use the Address Resolution Protocol (ARP) to locate specific destinations on the local network by resolving IP addresses into MAC addresses (also known as hardware addresses). At which layer of the Open Systems Interconnection (OSI) model do these MAC addresses operate?
 	1. Physical
-	2. Data link
+	2. <mark style="background: #D2B3FFA6;">Data link</mark>
 	3. Network
 	4. Transport
 
 66. Which of the following Network layer protocols includes a field that limits the number of times a packet can be routed on a network? (Choose all that apply.)
-	1. ICMP
-	2. IGMP
+	1. <mark style="background: #D2B3FFA6;">ICMP</mark>
+	2. <mark style="background: #D2B3FFA6;">IGMP</mark>
 	3. IPv4
 	4. IPv6
 
 67. ARP poisoning is the deliberate insertion of fraudulent information into the ARP cache stored on computers and switches. Which of the following types of attack can be facilitated by ARP poisoning? (Choose all that apply.)
 	1. Social engineering
-	2. On-path
-	3. Evil twin
-	4. Session hijacking
+	2. <mark style="background: #D2B3FFA6;">On-path</mark>
+	3. <mark style="background: #D2B3FFA6;">Evil twin</mark>
+	4. <mark style="background: #D2B3FFA6;">Session hijacking</mark>
 
 68. Recently, your network has been the target of numerous attack attempts. To gather information about the attackers, you have created a server that is designed to function as an enticing target but that does not provide access to any legitimately sensitive services or information. Which of the following is the term used to describe this technique?
 	1. Spoofing
 	2. DMZ
 	3. Root guard
-	4. Honeypot
+	4. <mark style="background: #D2B3FFA6;">Honeypot</mark>
 
 69. You are a consultant working on a new client's network. The network has been in place for decades, and you have been given a diagram supplied by the original installer. The diagram says that the network computers are connected to a device called a multiport bridge. Which of the following devices can also be described as a multiport bridge?
 	1. Repeater
