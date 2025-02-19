@@ -4,6 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "e3bedc82b0b1cf91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "525e4fb238f091a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CompTIA Net+/Practice Exams/Blanks & Keys/Practice Exam - 01 - Key.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practice Exam - 01 - Key"
+            }
+          }
+        ]
+      },
+      {
         "id": "7d7beab62f8b7478",
         "type": "tabs",
         "children": [
@@ -22,17 +42,17 @@
             }
           },
           {
-            "id": "525e4fb238f091a4",
+            "id": "dd2a35fe7886e6dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Net+/Practice Exams/Blanks & Keys/Practice Exam - 01 - Key.md",
+                "file": "CompTIA Net+/Practice Exams/Attempts/Practice Exam - 01 Attempt 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practice Exam - 01 - Key"
+              "title": "Practice Exam - 01 Attempt 1"
             }
           }
         ],
@@ -240,10 +260,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "525e4fb238f091a4",
+  "active": "dd2a35fe7886e6dc",
   "lastOpenFiles": [
-    "CompTIA Net+/Practice Exams/Explanations/1-3.md",
     "CompTIA Net+/Practice Exams/Blanks & Keys/Practice Exam - 01 - Key.md",
+    "CompTIA Net+/Practice Exams/Explanations/1-3.md",
     "CompTIA Net+/Practice Exams/Explanations/1-2.md",
     "CompTIA Net+/Practice Exams/Attempts/Practice Exam - 01 Attempt 1.md",
     "CompTIA Net+/Practice Exams/Explanations/1-1.md",
