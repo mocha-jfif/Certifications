@@ -439,21 +439,21 @@
 	5. A list of the IP addresses used by all the devices on the local network
 
 71. Your company has a seven-node failover cluster hosting databases on SQL Server. Each server has three network interface adapters installed in it. Two are standard Gigabit Ethernet adapters that provide the nodes with access to each other and clients with access to the cluster. One is a Fibre Channel adapter that provides the cluster nodes with access to a dedicated network that also hosts a large hard disk array. Which of the following terms describe the networks to which the cluster nodes are connected? (Choose all that apply.)
-	1. SAN
+	1. <mark style="background: #D2B3FFA6;">SAN</mark>
 	2. WAN
 	3. MAN
-	4. LAN
+	4. <mark style="background: #D2B3FFA6;">LAN</mark>
 
 72. A Windows user calls you at the help desk and reports that he cannot connect to any hosts on either the local or a remote network. This is the only report of its kind you have received today. You question the user about the problem and eventually learn that he has made some changes to his workstation's Internet Protocol (IP) settings. What should you do next?
 	1. Check the switches in the datacenter to see if they have logged any error messages.
 	2. Verify that the routers on the network are functioning.
-	3. Run the ipconfig command on the user's workstation to view its configuration.
+	3. <mark style="background: #D2B3FFA6;">Run the ipconfig command on the user's workstation to view its configuration.</mark>
 	4. Check the network's Domain Name System (DNS) server to see if it is resolving IP hostnames.
 
 73. You are a network administrator attempting to use your workstation on the internal network to remotely control a web server called WebServ1 on a screened subnet. However, the remote desktop client software is unable to establish a connection to the server. You can see all the computers on your local network and on the screened subnet. You try using the `ping` utility to test the TCP/IP functionality of WebServ1, and the ping test is successful. You then call your colleague on the same internal network and have her try to connect to WebServ1 using the same remote access tool. She connects to WebServ1 successfully. Which of the following could be the cause of the problem you are experiencing?
 	1. Blocked TCP/UDP ports on the web server
 	2. Name resolution failure
-	3. Incorrect firewall settings on your workstation
+	3. <mark style="background: #D2B3FFA6;">Incorrect firewall settings on your workstation</mark>
 	4. Unresponsive service on the web server
 
 74. The toolkit you were given when you began work for an IT consulting company contained the tool shown in the following figure. What is the function of this tool?![[Pasted image 20250218075817.png]]
