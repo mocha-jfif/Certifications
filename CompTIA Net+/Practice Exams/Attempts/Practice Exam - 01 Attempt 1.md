@@ -42,9 +42,9 @@
 
 8. Which of the following are standard terms used in data loss prevention to describe specific data states? (Choose all that apply.)
 	1. Data online
-	2. Data at rest
-	3. Data in transit
-	4. Data in use
+	2. <mark style="background: #D2B3FFA6;">Data at rest</mark>
+	3. <mark style="background: #D2B3FFA6;">Data in transit</mark>
+	4. <mark style="background: #D2B3FFA6;">Data in use</mark>
 
 9. Advanced Encryption Standard (AES) is an encryption algorithm that was introduced in the Wi-Fi Protected Access 2 (WPA2) security protocol to replace another algorithm that was found to be easily penetrated. Which of the following encryption algorithms did AES replace?
 	1. AES
@@ -353,31 +353,31 @@
 
 57. A storage area network (SAN) typically takes the form of a dedicated network used to provide servers with access to hard disk arrays and other storage devices. Which of the following statements about the differences between a SAN and network attached storage (NAS) are true? (Choose all that apply.)
 	1. NAS devices typically provide a filesystem, while SAN devices do not.
-	2. NAS provides file-level storage access, whereas a SAN provides block-level storage access.
+	2. <mark style="background: #D2B3FFA6;">NAS provides file-level storage access, whereas a SAN provides block-level storage access.</mark>
 	3. NAS devices typically contain integrated iSCSI targets.
 	4. SAN devices have an operating system, whereas NAS devices do not.
 
 58. Your supervisor has just informed you that the CIO has hired an outside consultant to perform penetration testing on the company network. Which of the following best describes what you can expect the consultant to do?
 	1. Evaluate the security conditions on the network.
 	2. Create computers or networks that are alluring targets for intruders.
-	3. Attempt to compromise the network's security measures.
+	3. <mark style="background: #D2B3FFA6;">Attempt to compromise the network's security measures.</mark>
 	4. Implement a new companywide security protocol.
 
 59. Your company is a contractor for the government that regularly works with highly sensitive defense data. To prevent this data from being compromised, the company's datacenter has various special security measures installed. All of the servers have crimped metal tags holding the cases closed. All of the hardware racks are locked in clear-fronted cabinets. All of the cable runs are installed in transparent conduits. These are all examples of which of the following types of physical security measure?
 	1. Asset tracking
 	2. Geofencing
-	3. Tamper detection
+	3. <mark style="background: #D2B3FFA6;">Tamper detection</mark>
 	4. Port security
 
 60. Which of the following tools are only usable on fiber-optic networks? (Choose all that apply.)
 	1. Visual fault locator
-	2. Optical power meter
+	2. <mark style="background: #D2B3FFA6;">Optical power meter</mark>
 	3. Protocol analyzer
 	4. Toner and probe
 
 61. Which of the following mechanisms use tunneling to establish secured links between TCP/IP systems? (Choose all that apply.)
-	1. VPNs
-	2. IPsec
+	1. <mark style="background: #D2B3FFA6;">VPNs</mark>
+	2. <mark style="background: #D2B3FFA6;">IPsec</mark>
 	3. GRE
 	4. NAT
 
@@ -386,7 +386,7 @@
 	2. 255.255.255.192
 	3. 255.255.255.224
 	4. 255.255.255.240
-	5. 255.255.255.248
+	5. <mark style="background: #D2B3FFA6;">255.255.255.248</mark>
 	6. 255.255.255.252
 
 63. You are a consultant working at a client site. The client has supplied you with the SSID and the passphrase for the company's wireless network so that you can connect to it with your laptop. However, you are unable to establish a connection. Which of the following security measures might be preventing you from connecting your laptop to the network?
