@@ -428,12 +428,12 @@
 69. You are a consultant working on a new client's network. The network has been in place for decades, and you have been given a diagram supplied by the original installer. The diagram says that the network computers are connected to a device called a multiport bridge. Which of the following devices can also be described as a multiport bridge?
 	1. Repeater
 	2. Hub
-	3. Switch
+	3. <mark style="background: #D2B3FFA6;">Switch</mark>
 	4. Router
 
 70. When you run a port scanner on a server, which of the following is the result?
 	1. A list of the servers currently running user processes
-	2. A list of the computer's hardware ports that are currently in use
+	2. <mark style="background: #D2B3FFA6;">A list of the computer's hardware ports that are currently in use</mark>
 	3. A list specifying the numbers of packets transmitted and received by each network adapter on the system
 	4. A list of open ports through which the system can be accessed
 	5. A list of the IP addresses used by all the devices on the local network
