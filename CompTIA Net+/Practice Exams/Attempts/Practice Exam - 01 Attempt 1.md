@@ -482,7 +482,7 @@
 
 78. You are configuring the computers on a new network, and you have been given the network address 10.26.0.0/13. Which of the following subnet mask values must you use when configuring the computers?
 	1. 255.248.0.0
-	2. 255.252.0.0
+	2. <mark style="background: #D2B3FFA6;">255.252.0.0</mark>
 	3. 255.254.0.0
 	4. 255.255.248.0
 	5. 255.255.252.0
@@ -490,18 +490,18 @@
 
 79. You are testing a twisted-pair cable run using a toner and probe. When you apply the toner to each of the first seven wires at one end of the cable, you successfully detect a tone on the corresponding pin at the other end. However, when you connect the toner to the eighth wire, you fail to detect a tone at the other end. Which of the following fault types have you discovered?
 	1. Short circuit
-	2. Open circuit
+	2. <mark style="background: #D2B3FFA6;">Open circuit</mark>
 	3. Split pair
 	4. Crosstalk
 
 80. Which of the following functions are defined as occurring at the Session layer of the Open Systems Interconnection (OSI) model? (Choose all that apply.)
-	1. Data encryption
-	2. Dialog control
+	1. <mark style="background: #D2B3FFA6;">Data encryption</mark>
+	2. <mark style="background: #D2B3FFA6;">Dialog control</mark>
 	3. Datagram routing
-	4. Dialog separation
+	4. <mark style="background: #D2B3FFA6;">Dialog separation</mark>
 
 81. You are working your company's IT help desk, and you have had several calls from users who are reporting problems with their Voice over IP (VoIP) and streaming video connections. In each case, the audio or video connection experiences frequent dropouts in sound or video, causing frustrating interruptions. Which of the following terms describes a connectivity problem on a wired network that could cause these symptoms?
-	1. Jitter
+	1. <mark style="background: #D2B3FFA6;">Jitter</mark>
 	2. Latency
 	3. Bottleneck
 	4. Attenuation
