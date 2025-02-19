@@ -514,19 +514,19 @@
 
 83. A private network uses unregistered IP addresses that are not accessible from the Internet. In order for computers on the private network to access Internet servers, there must be a device that substitutes registered IP addresses for the unregistered ones. Which of the following devices are capable of performing this kind of IP address substitution? (Choose all that apply.)
 	1. RADIUS server
-	2. NAT router
+	2. <mark style="background: #D2B3FFA6;">NAT router</mark>
 	3. UTM appliance
-	4. Proxy server
+	4. <mark style="background: #D2B3FFA6;">Proxy server</mark>
 
 84. A user calls you at the technical support desk in the computer store where you work. He is installing a home network and is having trouble configuring the IP addresses for his computers. He starts reading off a list of the network addresses he has tried to use. Which of the following are valid IPv4 network addresses that the user can conceivably use to configure his computers? (Choose all that apply.)
 	1. 1.1.1.0
 	2. 9.34.0.0
-	3. 103.256.77.0
-	4. 229.6.87.0
+	3. <mark style="background: #D2B3FFA6;">103.256.77.0</mark>
+	4. <mark style="background: #D2B3FFA6;">229.6.87.0</mark>
 
 85. Which of the following terms refers to a routing protocol that relies on hop counts to measure the efficiency of routes through an internetwork?
 	1. Link state protocol
-	2. Distance vector protocol
+	2. <mark style="background: #D2B3FFA6;">Distance vector protocol</mark>
 	3. Edge gateway protocol
 	4. Interior gateway protocol
 
@@ -554,13 +554,13 @@
 	1. Physical
 	2. Data link
 	3. Network
-	4. Transport
+	4. <mark style="background: #D2B3FFA6;">Transport</mark>
 	5. Session
 	6. Presentation
 	7. Application
 
 90. Several marketing consultants are working in your office for the first time, and they have approached you because they are unable to connect to the company's 802.11ac wireless network with their laptops. They are selecting the correct SSID from the Available Networks list, but they still cannot connect, and there are no error messages of any kind. Which of the following tasks should you perform first to try to resolve the problem?
-	1. Examine the area where the consultants are working for possible sources of signal interference.
+	1. <mark style="background: #D2B3FFA6;">Examine the area where the consultants are working for possible sources of signal interference.</mark>
 	2. Change the frequency used by the wireless access point from 5 GHz to 2.4 GHz.
 	3. Make sure that the consultants' laptops are configured to use the correct wireless security protocol.
 	4. Check the network adapters in the laptops for channel overlap.
@@ -568,8 +568,8 @@
 91. You are researching the various types of storage area network (SAN) technologies currently available before making a purchasing recommendation to your IT director. Which of the following are genuine advantages of iSCSI over Fibre Channel? (Choose all that apply.)
 	1. iSCSI can share the same network as standard local area network (LAN) traffic, whereas Fibre Channel cannot.
 	2. iSCSI is routable, whereas Fibre Channel is not.
-	3. iSCSI is less expensive to implement than Fibre Channel.
-	4. iSCSI includes its own internal flow control mechanism, whereas Fibre Channel does not.
+	3. <mark style="background: #D2B3FFA6;">iSCSI is less expensive to implement than Fibre Channel.</mark>
+	4. <mark style="background: #D2B3FFA6;">iSCSI includes its own internal flow control mechanism, whereas Fibre Channel does not.</mark>
 
 92. In which of the following DNS transactions does the querying system generate an iterative query? (Choose all that apply.)
 	1. A DNS client extracts the server name www.adatum.com from a URL and sends it to its designated DNS server for resolution.
