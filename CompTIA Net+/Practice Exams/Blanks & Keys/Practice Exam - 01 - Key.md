@@ -465,23 +465,23 @@
 75. You are designing a new wireless network based on the IEEE 802.11n standard. The equipment you have selected supports both the 2.4 GHz and 5 GHz frequencies, and you are undecided about which one to use. Which of the following are possible reasons why the 5 GHz frequency tends to perform better than the 2.4 GHz frequency on a wireless LAN? (Choose all that apply.)
 	1. <mark style="background: #BBFABBA6;">The 5 GHz frequency has more channels than the 2.4 GHz frequency</mark>.
 	2. <mark style="background: #BBFABBA6;">The 5 GHz frequency conflicts with fewer common household devices than the 2.4 GHz frequency.</mark>
-	3. The 5 GHz frequency transmits at faster speeds than the 2.4 GHz frequency.
+	3. <mark style="background: #BBFABBA6;">The 5 GHz frequency transmits at faster speeds than the 2.4 GHz frequency.</mark>
 	4. The 5 GHz frequency supports longer ranges than the 2.4 GHz frequency.
 
 76. A rack-mounted device that is six units tall will be approximately what height in inches?
 	1. 1.75
 	2. 3.5
 	3. 7
-	4. 10.5
+	4. <mark style="background: #BBFABBA6;">10.5</mark>
 
 77. Which of the following server applications uses two well-known port numbers, one for control traffic and one for data traffic?
-	1. FTP
+	1. <mark style="background: #BBFABBA6;">FTP</mark>
 	2. SNMP
 	3. NTP
 	4. HTTP
 
 78. You are configuring the computers on a new network, and you have been given the network address 10.26.0.0/13. Which of the following subnet mask values must you use when configuring the computers?
-	1. 255.248.0.0
+	1. <mark style="background: #BBFABBA6;">255.248.0.0</mark>
 	2. 255.252.0.0
 	3. 255.254.0.0
 	4. 255.255.248.0
@@ -490,18 +490,18 @@
 
 79. You are testing a twisted-pair cable run using a toner and probe. When you apply the toner to each of the first seven wires at one end of the cable, you successfully detect a tone on the corresponding pin at the other end. However, when you connect the toner to the eighth wire, you fail to detect a tone at the other end. Which of the following fault types have you discovered?
 	1. Short circuit
-	2. Open circuit
+	2. <mark style="background: #BBFABBA6;">Open circuit</mark>
 	3. Split pair
 	4. Crosstalk
 
 80. Which of the following functions are defined as occurring at the Session layer of the Open Systems Interconnection (OSI) model? (Choose all that apply.)
 	1. Data encryption
-	2. Dialog control
+	2. <mark style="background: #BBFABBA6;">Dialog control</mark>
 	3. Datagram routing
-	4. Dialog separation
+	4. <mark style="background: #BBFABBA6;">Dialog separation</mark>
 
 81. You are working your company's IT help desk, and you have had several calls from users who are reporting problems with their Voice over IP (VoIP) and streaming video connections. In each case, the audio or video connection experiences frequent dropouts in sound or video, causing frustrating interruptions. Which of the following terms describes a connectivity problem on a wired network that could cause these symptoms?
-	1. Jitter
+	1. <mark style="background: #BBFABBA6;">Jitter</mark>
 	2. Latency
 	3. Bottleneck
 	4. Attenuation
@@ -510,50 +510,50 @@
 	1. 54 Mbps
 	2. 600 Mbps
 	3. 6.9 Gbps
-	4. 9.6 Gbps
+	4. <mark style="background: #BBFABBA6;">9.6 Gbps</mark>
 
 83. A private network uses unregistered IP addresses that are not accessible from the Internet. In order for computers on the private network to access Internet servers, there must be a device that substitutes registered IP addresses for the unregistered ones. Which of the following devices are capable of performing this kind of IP address substitution? (Choose all that apply.)
 	1. RADIUS server
-	2. NAT router
+	2. <mark style="background: #BBFABBA6;">NAT router</mark>
 	3. UTM appliance
-	4. Proxy server
+	4. <mark style="background: #BBFABBA6;">Proxy server</mark>
 
 84. A user calls you at the technical support desk in the computer store where you work. He is installing a home network and is having trouble configuring the IP addresses for his computers. He starts reading off a list of the network addresses he has tried to use. Which of the following are valid IPv4 network addresses that the user can conceivably use to configure his computers? (Choose all that apply.)
-	1. 1.1.1.0
-	2. 9.34.0.0
+	1. <mark style="background: #BBFABBA6;">1.1.1.0</mark>
+	2. <mark style="background: #BBFABBA6;">9.34.0.0</mark>
 	3. 103.256.77.0
 	4. 229.6.87.0
 
 85. Which of the following terms refers to a routing protocol that relies on hop counts to measure the efficiency of routes through an internetwork?
 	1. Link state protocol
-	2. Distance vector protocol
+	2. <mark style="background: #BBFABBA6;">Distance vector protocol</mark>
 	3. Edge gateway protocol
 	4. Interior gateway protocol
 
 86. You have been hired by a client to connect two local area networks that are in different buildings 500 meters apart. The cable type you use must support Gigabit Ethernet data rates of 1,000 megabits per second (Mbps) and provide a high level of resistance to electromagnetic interference (EMI). Which of the following cable types can you choose to meet the client's needs? (Choose all that apply.)
-	1. Single-mode fiber-optic cable
+	1. <mark style="background: #BBFABBA6;">Single-mode fiber-optic cable</mark>
 	2. Thin coaxial cable
-	3. Multimode fiber-optic cable
+	3. <mark style="background: #BBFABBA6;">Multimode fiber-optic cable</mark>
 	4. Shielded twisted-pair (STP) cable
 	5. Unshielded twisted-pair (UTP) cable
 
 87. You receive a call at the IT help desk from a user who has recently moved to a new office in the company building, down the hall from her old one. Since the move, she has only been able to access the company's wireless network with her laptop intermittently. The network is based on 802.11n equipment, and it is using the 2.4 GHz frequency and the WPA3 security protocol. The user never had a problem in her previous office location. Which of the following could not possibly be the cause of her problem? (Choose all that apply.)
 	1. The user's laptop is connecting to the wrong SSID.
 	2. The user's laptop is configured to use the 5 GHz frequency.
-	3. The user's new office is farther from the access point than her old one.
-	4. There are more intervening walls between the user's new office and the access point.
+	3. <mark style="background: #BBFABBA6;">The user's new office is farther from the access point than her old one.</mark>
+	4. <mark style="background: #BBFABBA6;">There are more intervening walls between the user's new office and the access point.</mark>
 
 88. Which of the following statements about static routing are not true? (Choose all that apply.)
-	1. Static routes are automatically added to the routing table by routing protocols when a new network path becomes available.
+	1. <mark style="background: #BBFABBA6;">Static routes are automatically added to the routing table by routing protocols when a new network path becomes available.</mark>
 	2. Static routes are manually configured routes that administrators must add, modify, or delete when a change in the network occurs.
-	3. Static routes are a recommended solution for large internetworks with redundant paths to each destination network.
+	3. <mark style="background: #BBFABBA6;">Static routes are a recommended solution for large internetworks with redundant paths to each destination network.</mark>
 	4. Static routes are a recommended solution for small internetworks with a single path to each destination network.
-	5. Static routes adapt to changes in the network infrastructure automatically.
+	5. <mark style="background: #BBFABBA6;">Static routes adapt to changes in the network infrastructure automatically.</mark>
 
 89. Which layer of the Open Systems Interconnection (OSI) model has its own logical addressing system and is responsible for routing packets from one network to another?
 	1. Physical
 	2. Data link
-	3. Network
+	3. <mark style="background: #BBFABBA6;">Network</mark>
 	4. Transport
 	5. Session
 	6. Presentation
@@ -562,27 +562,27 @@
 90. Several marketing consultants are working in your office for the first time, and they have approached you because they are unable to connect to the company's 802.11ac wireless network with their laptops. They are selecting the correct SSID from the Available Networks list, but they still cannot connect, and there are no error messages of any kind. Which of the following tasks should you perform first to try to resolve the problem?
 	1. Examine the area where the consultants are working for possible sources of signal interference.
 	2. Change the frequency used by the wireless access point from 5 GHz to 2.4 GHz.
-	3. Make sure that the consultants' laptops are configured to use the correct wireless security protocol.
+	3. <mark style="background: #BBFABBA6;">Make sure that the consultants' laptops are configured to use the correct wireless security protocol.</mark>
 	4. Check the network adapters in the laptops for channel overlap.
 
 91. You are researching the various types of storage area network (SAN) technologies currently available before making a purchasing recommendation to your IT director. Which of the following are genuine advantages of iSCSI over Fibre Channel? (Choose all that apply.)
-	1. iSCSI can share the same network as standard local area network (LAN) traffic, whereas Fibre Channel cannot.
-	2. iSCSI is routable, whereas Fibre Channel is not.
-	3. iSCSI is less expensive to implement than Fibre Channel.
+	1. <mark style="background: #BBFABBA6;">iSCSI can share the same network as standard local area network (LAN) traffic, whereas Fibre Channel cannot.</mark>
+	2. <mark style="background: #BBFABBA6;">iSCSI is routable, whereas Fibre Channel is not.</mark>
+	3. <mark style="background: #BBFABBA6;">iSCSI is less expensive to implement than Fibre Channel.</mark>
 	4. iSCSI includes its own internal flow control mechanism, whereas Fibre Channel does not.
 
 92. In which of the following DNS transactions does the querying system generate an iterative query? (Choose all that apply.)
 	1. A DNS client extracts the server name www.adatum.com from a URL and sends it to its designated DNS server for resolution.
-	2. A client's DNS server sends a name resolution request to a root domain server to discover the authoritative server for the com top-level domain.
-	3. A client's DNS server sends a name resolution request to the com top-level domain server to find the authoritative server for the [`adatum.com`](http://www.adatum.com/)domain.
+	2. <mark style="background: #BBFABBA6;">A client's DNS server sends a name resolution request to a root domain server to discover the authoritative server for the com top-level domain.</mark>
+	3. <mark style="background: #BBFABBA6;">A client's DNS server sends a name resolution request to the com top-level domain server to find the authoritative server for the [`adatum.com`](http://www.adatum.com/)domain.</mark>
 	4. A client's DNS server, which has been configured to function as a forwarder, sends the server name [`www.adatum.com`](http://www.adatum.com/) from a URL to its ISP's DNS server for resolution.
-	5. A client's DNS server sends a name resolution request to the [adatum.com](http://adatum.com/) domain server to discover the IP address associated with the server name www.
+	5. <mark style="background: #BBFABBA6;">A client's DNS server sends a name resolution request to the [adatum.com](http://adatum.com/) domain server to discover the IP address associated with the server name www.</mark>
 
 93. A user approaches you as you are passing through his department and reports that he cannot access the Internet. After questioning him, you determine that he can access systems on the local network. You examine the routing table on the user's Windows workstation, and you see the problem. Which of the following commands must you run to correct the user's problem, based on the routing table display shown here?![[Pasted image 20250218081628.png]]
 	1. route add 192.168.2.0 MASK 0.0.0.0 192.168.2.37 METRIC 25 if 192.168.2.99
 	2. route add 0.0.0.0 MASK 255.255.255.0 192.168.2.99 METRIC 25 if 192.168.2.37
 	3. route add 192.168.2.0 MASK 255.255.255.0 192.168.2.99 METRIC 25 if 192.168.2.37
-	4. route add 0.0.0.0 MASK 0.0.0.0 192.168.2.99 METRIC 25 if 192.168.2.37
+	4. <mark style="background: #BBFABBA6;">route add 0.0.0.0 MASK 0.0.0.0 192.168.2.99 METRIC 25 if 192.168.2.37</mark>
 
 94. You are heading out to do a cabling job for a client who has coaxial and twisted-pair Ethernet networks at their facility. You want to bring connectors and cables to prepare for any eventuality. Which of the following connector types are typically associated with Ethernet networks? (Choose all that apply.)
 	1. N-type
