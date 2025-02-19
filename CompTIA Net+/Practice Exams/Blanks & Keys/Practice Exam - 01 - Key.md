@@ -303,11 +303,11 @@
 	1. 802.11g
 	2. <mark style="background: #BBFABBA6;">802.11n</mark>
 	3. 802.11ac
-	4. 802.11ax
+	4. <mark style="background: #BBFABBA6;">802.11ax</mark>
 
 50. Which of the following statements about multitenancy in a public cloud datacenter is not true?
 	1. Multitenancy presents a potential security risk because other tenants are using the same hardware.
-	2. Multitenancy separates tenants by assigning each one its own virtual machine.
+	2. <mark style="background: #BBFABBA6;">Multitenancy separates tenants by assigning each one its own virtual machine</mark>.
 	3. Multitenancy reduces the cost of utilities and other overhead.
 	4. Multitenancy introduces the possibility of competition for bandwidth with other tenants.
 
@@ -316,11 +316,11 @@
 	2. ESS
 	3. SSID
 	4. BSSID
-	5. ESSID
+	5. <mark style="background: #BBFABBA6;">ESSID</mark>
 
 52. When starting her new position as a network administrator, Alice was given two user accounts. One account is intended for standard user activities, and the other account has the additional permissions needed for Alice to perform administrative tasks. This is an example of which of the following security concepts?
 	1. Zero day
-	2. Least privilege
+	2. <mark style="background: #BBFABBA6;">Least privilege</mark>
 	3. Defense in depth
 	4. Multifactor authentication
 
@@ -329,12 +329,12 @@
 	2. Duplicate the problem.
 	3. Gather information.
 	4. Verify full system functionality.
-	5. Test the theory to determine the cause.
+	5. <mark style="background: #BBFABBA6;">Test the theory to determine the cause.</mark>
 	6. Document findings, actions, and outcomes.
 	7. Establish a theory of probable cause.
 
 54. Which of the following could be an indication that there is a rogue DHCP server on your network?
-	1. A user's workstation has an IP address from another subnet.
+	1. <mark style="background: #BBFABBA6;">A user's workstation has an IP address from another subnet.</mark>
 	2. A user can access local resources from his workstation but not Internet resources.
 	3. The DHCP Enabled setting on a user's workstation is set to No.
 	4. The user's workstation has an IP address on the 169.254.0.0/16 subnet.
@@ -343,55 +343,55 @@
 	1. Runts
 	2. Late collisions
 	3. Giants
-	4. Collisions
+	4. <mark style="background: #BBFABBA6;">Collisions</mark>
 
 56. A protocol analyzer is a tool that captures packets from a network and examines their contents. Which of the following Unix/Linux tools is a protocol analyzer?
 	1. nmap
-	2. tcpdump
+	2. <mark style="background: #BBFABBA6;">tcpdump</mark>
 	3. pathping
 	4. iptables
 
 57. A storage area network (SAN) typically takes the form of a dedicated network used to provide servers with access to hard disk arrays and other storage devices. Which of the following statements about the differences between a SAN and network attached storage (NAS) are true? (Choose all that apply.)
-	1. NAS devices typically provide a filesystem, while SAN devices do not.
-	2. NAS provides file-level storage access, whereas a SAN provides block-level storage access.
+	1. <mark style="background: #BBFABBA6;">NAS devices typically provide a filesystem, while SAN devices do not.</mark>
+	2. <mark style="background: #BBFABBA6;">NAS provides file-level storage access, whereas a SAN provides block-level storage access.</mark>
 	3. NAS devices typically contain integrated iSCSI targets.
 	4. SAN devices have an operating system, whereas NAS devices do not.
 
 58. Your supervisor has just informed you that the CIO has hired an outside consultant to perform penetration testing on the company network. Which of the following best describes what you can expect the consultant to do?
 	1. Evaluate the security conditions on the network.
 	2. Create computers or networks that are alluring targets for intruders.
-	3. Attempt to compromise the network's security measures.
+	3. <mark style="background: #BBFABBA6;">Attempt to compromise the network's security measures.</mark>
 	4. Implement a new companywide security protocol.
 
 59. Your company is a contractor for the government that regularly works with highly sensitive defense data. To prevent this data from being compromised, the company's datacenter has various special security measures installed. All of the servers have crimped metal tags holding the cases closed. All of the hardware racks are locked in clear-fronted cabinets. All of the cable runs are installed in transparent conduits. These are all examples of which of the following types of physical security measure?
 	1. Asset tracking
 	2. Geofencing
-	3. Tamper detection
+	3. <mark style="background: #BBFABBA6;">Tamper detection</mark>
 	4. Port security
 
 60. Which of the following tools are only usable on fiber-optic networks? (Choose all that apply.)
-	1. Visual fault locator
-	2. Optical power meter
+	1. <mark style="background: #BBFABBA6;">Visual fault locator</mark>
+	2. <mark style="background: #BBFABBA6;">Optical power meter</mark>
 	3. Protocol analyzer
 	4. Toner and probe
 
 61. Which of the following mechanisms use tunneling to establish secured links between TCP/IP systems? (Choose all that apply.)
-	1. VPNs
-	2. IPsec
-	3. GRE
+	1. <mark style="background: #BBFABBA6;">VPNs</mark>
+	2. <mark style="background: #BBFABBA6;">IPsec</mark>
+	3. <mark style="background: #BBFABBA6;">GRE</mark>
 	4. NAT
 
 62. Your supervisor has given you a Class C network IP address and has asked you to create a network with 8 subnets and 30 hosts per subnet. Which of the following subnet masks will you have to use?
 	1. 255.255.255.128
 	2. 255.255.255.192
-	3. 255.255.255.224
+	3. <mark style="background: #BBFABBA6;">255.255.255.224</mark>
 	4. 255.255.255.240
 	5. 255.255.255.248
 	6. 255.255.255.252
 
 63. You are a consultant working at a client site. The client has supplied you with the SSID and the passphrase for the company's wireless network so that you can connect to it with your laptop. However, you are unable to establish a connection. Which of the following security measures might be preventing you from connecting your laptop to the network?
 	1. Geofencing
-	2. MAC filtering
+	2. <mark style="background: #BBFABBA6;">MAC filtering</mark>
 	3. Using WPA3
 	4. Disabling SSID broadcasts
 
@@ -399,72 +399,72 @@
 	1. Repull the cable run using Category 6a cable.
 	2. Check the cable run for wiring faults.
 	3. Make sure the switch port is not disabled.
-	4. Plug a computer into the wall plate.
+	4. <mark style="background: #BBFABBA6;">Plug a computer into the wall plate.</mark>
 
 65. Devices on a TCP/IP network typically use the Address Resolution Protocol (ARP) to locate specific destinations on the local network by resolving IP addresses into MAC addresses (also known as hardware addresses). At which layer of the Open Systems Interconnection (OSI) model do these MAC addresses operate?
 	1. Physical
-	2. Data link
+	2. <mark style="background: #BBFABBA6;">Data link</mark>
 	3. Network
 	4. Transport
 
 66. Which of the following Network layer protocols includes a field that limits the number of times a packet can be routed on a network? (Choose all that apply.)
 	1. ICMP
 	2. IGMP
-	3. IPv4
-	4. IPv6
+	3. <mark style="background: #BBFABBA6;">IPv4</mark>
+	4. <mark style="background: #BBFABBA6;">IPv6</mark>
 
 67. ARP poisoning is the deliberate insertion of fraudulent information into the ARP cache stored on computers and switches. Which of the following types of attack can be facilitated by ARP poisoning? (Choose all that apply.)
 	1. Social engineering
-	2. On-path
+	2. <mark style="background: #BBFABBA6;">On-path</mark>
 	3. Evil twin
-	4. Session hijacking
+	4. <mark style="background: #BBFABBA6;">Session hijacking</mark>
 
 68. Recently, your network has been the target of numerous attack attempts. To gather information about the attackers, you have created a server that is designed to function as an enticing target but that does not provide access to any legitimately sensitive services or information. Which of the following is the term used to describe this technique?
 	1. Spoofing
 	2. DMZ
 	3. Root guard
-	4. Honeypot
+	4. <mark style="background: #BBFABBA6;">Honeypot</mark>
 
 69. You are a consultant working on a new client's network. The network has been in place for decades, and you have been given a diagram supplied by the original installer. The diagram says that the network computers are connected to a device called a multiport bridge. Which of the following devices can also be described as a multiport bridge?
 	1. Repeater
 	2. Hub
-	3. Switch
+	3. <mark style="background: #BBFABBA6;">Switch</mark>
 	4. Router
 
 70. When you run a port scanner on a server, which of the following is the result?
 	1. A list of the servers currently running user processes
 	2. A list of the computer's hardware ports that are currently in use
 	3. A list specifying the numbers of packets transmitted and received by each network adapter on the system
-	4. A list of open ports through which the system can be accessed
+	4. <mark style="background: #BBFABBA6;">A list of open ports through which the system can be accessed</mark>
 	5. A list of the IP addresses used by all the devices on the local network
 
 71. Your company has a seven-node failover cluster hosting databases on SQL Server. Each server has three network interface adapters installed in it. Two are standard Gigabit Ethernet adapters that provide the nodes with access to each other and clients with access to the cluster. One is a Fibre Channel adapter that provides the cluster nodes with access to a dedicated network that also hosts a large hard disk array. Which of the following terms describe the networks to which the cluster nodes are connected? (Choose all that apply.)
-	1. SAN
+	1. <mark style="background: #BBFABBA6;">SAN</mark>
 	2. WAN
 	3. MAN
-	4. LAN
+	4. <mark style="background: #BBFABBA6;">LAN</mark>
 
 72. A Windows user calls you at the help desk and reports that he cannot connect to any hosts on either the local or a remote network. This is the only report of its kind you have received today. You question the user about the problem and eventually learn that he has made some changes to his workstation's Internet Protocol (IP) settings. What should you do next?
 	1. Check the switches in the datacenter to see if they have logged any error messages.
 	2. Verify that the routers on the network are functioning.
-	3. Run the ipconfig command on the user's workstation to view its configuration.
+	3. <mark style="background: #BBFABBA6;">Run the ipconfig command on the user's workstation to view its configuration.</mark>
 	4. Check the network's Domain Name System (DNS) server to see if it is resolving IP hostnames.
 
 73. You are a network administrator attempting to use your workstation on the internal network to remotely control a web server called WebServ1 on a screened subnet. However, the remote desktop client software is unable to establish a connection to the server. You can see all the computers on your local network and on the screened subnet. You try using the `ping` utility to test the TCP/IP functionality of WebServ1, and the ping test is successful. You then call your colleague on the same internal network and have her try to connect to WebServ1 using the same remote access tool. She connects to WebServ1 successfully. Which of the following could be the cause of the problem you are experiencing?
 	1. Blocked TCP/UDP ports on the web server
 	2. Name resolution failure
-	3. Incorrect firewall settings on your workstation
+	3. <mark style="background: #BBFABBA6;">Incorrect firewall settings on your workstation</mark>
 	4. Unresponsive service on the web server
 
 74. The toolkit you were given when you began work for an IT consulting company contained the tool shown in the following figure. What is the function of this tool?![[Pasted image 20250218075817.png]]
 	1. When you touch the end of the tool to a copper cable, you can detect and measure the electrical current flowing through it.
 	2. When you place the tool at one end of a wire, it generates a tone that can be detected at the other end.
-	3. To connect a bulk cable to a keystone connector, you use the tool to punch each wire down into the correct receptacle on the connector.
+	3. <mark style="background: #BBFABBA6;">To connect a bulk cable to a keystone connector, you use the tool to punch each wire down into the correct receptacle on the connector.</mark>
 	4. When you connect the tool to the end of a fiber-optic cable, you can measure the length of the cable run.
 
 75. You are designing a new wireless network based on the IEEE 802.11n standard. The equipment you have selected supports both the 2.4 GHz and 5 GHz frequencies, and you are undecided about which one to use. Which of the following are possible reasons why the 5 GHz frequency tends to perform better than the 2.4 GHz frequency on a wireless LAN? (Choose all that apply.)
-	1. The 5 GHz frequency has more channels than the 2.4 GHz frequency.
-	2. The 5 GHz frequency conflicts with fewer common household devices than the 2.4 GHz frequency.
+	1. <mark style="background: #BBFABBA6;">The 5 GHz frequency has more channels than the 2.4 GHz frequency</mark>.
+	2. <mark style="background: #BBFABBA6;">The 5 GHz frequency conflicts with fewer common household devices than the 2.4 GHz frequency.</mark>
 	3. The 5 GHz frequency transmits at faster speeds than the 2.4 GHz frequency.
 	4. The 5 GHz frequency supports longer ranges than the 2.4 GHz frequency.
 
