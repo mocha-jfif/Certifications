@@ -197,17 +197,21 @@
 	3. A system that requires two passwords for authentication
 	4. A system that requires a password and a retinal scan for authentication
 
-33. A user calls Ed at the help desk to report that he cannot access the Internet. He can access systems on the local network, however. Ed examines the routing table on the user's workstation and sees the following. Which of the following statements explains why the user cannot access the Internet? 
+33. A user calls Ed at the help desk to report that he cannot access the Internet. He can access systems on the local network, however. Ed examines the routing table on the user's workstation and sees the following. Which of the following statements explains why the user cannot access the Internet?![[Pasted image 20250220123150.png]]
+	1. The routing table does not specify a loopback address.
+	2. The routing table does not specify a DNS server address.
+	3. The routing table does not specify a default gateway address.
+	4. The routing table contains two different routes to the 224.0.0.0 network.
+
+34. Which of the following statements about single-mode fiber-optic cable are true? (Choose all that apply.)
+	1. Multimode cables use an LED light source, while single-mode cables use a laser.
+	2. Multimode cables can span longer distances than single-mode cables.
+	3. Multimode cables have a smaller core filament than single-mode cables.
+	4. Multimode cables have a smaller bend radius than single-mode, making them easier to install.
+	5. Multimode fiber-optic cables require a ground, whereas single-mode cables do not.
+
+35. A user swipes a smartcard through the reader connected to a laptop and then types a password to log on to the system. Which of the following actions is the user performing?
+	1. 
 
 
 
-```
-IPv4 Route Table
-========================================================
-Active Routes:
-Network Destination       Netmask     Gateway     Interface    Metric
-127.0.0.0               255.0.0.0     On-link     127.0.0.1       331
-127.0.0.1         255.255.255.255     On-link     127.0.0.1       331
-127.255.255.255   255.255.255.255     On-link     127.0.0.1       331
-192.158.2.0         255.255.255.0     On-link    
-```
