@@ -57,9 +57,9 @@
 	1. 64
 	2. 65
 	3. 66
-	4. 67
-	5. 68
-	6. 69
+	4. <mark style="background: #D2B3FFA6;">67</mark>
+	5. <mark style="background: #D2B3FFA6;">68</mark>
+	6. <mark style="background: #D2B3FFA6;">69</mark>
 
 11. Your department is experiencing frequent delays as users wait for images to render using their outdated graphics software package. As a result, you submitted a change request for a new software product at the monthly meeting of the company's change management team. Now that the change request has been approved, it is time to implement the change. Which of the following administrative tasks will most likely be the change management team's responsibility during the implementation process? (Choose all that apply.)
 	1. Notifying users
