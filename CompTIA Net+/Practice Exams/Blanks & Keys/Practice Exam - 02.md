@@ -595,5 +595,16 @@ Windows IP Configuration
 
 Host Name . . . . . . . . . . . . : Client12
 Primary DNS Suffix. . . . . . . . : 
-Node Type
+Node Type . . . . . . . . . . . . : Hybrid
+IP Routing Enabled. . . . . . . . : No
+WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Local Area Connection:
+
+Connection-specifc DNS Suffix . . : 
+Description . . . . . . . . . . . : PCIe Family Controller
+Physical Address. . . . . . . . . : 60-EB-69-93-5E-E5
+DHCP Enabled. . . . . . . . . . . : Yes
+Autoconfiguration Enabled . . . . : Yes
+Link-
 ```
