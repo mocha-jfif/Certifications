@@ -393,3 +393,39 @@
 	2. A problem with a mission-critical backbone router that affects an entire network
 	3. A problem with an application server that affects a single LAN
 	4. A problem with an order entry or customer service call center resource that affects an entire department, with multiple local area networks (LANs)
+
+65. You are attempting to access a Domain Name System (DNS) server located on the other side of a router, but your attempt fails with an error stating that the destination port UDP 53 is unreachable. Your first step in troubleshooting the problem is to try using the `nslookup` utility to access that specific DNS server. This attempt also fails. Next, you use the `ping` utility with the DNS server's IP address. The ping test is successful, indicating that the server is up and running. Which of the following are possible causes of the problem? (Choose all that apply.)
+	1. The TCP/IP host settings on your computer are improperly configured.
+	2. The router connecting the networks is not running DNS and will not forward this type of datagram.
+	3. There is a firewall blocking the DNS server's UDP port 53.
+	4. The DNS process on the remote server is not running.
+	5. The TCP/IP host settings on the DNS server are improperly configured.
+
+66. Which of the following types of switch performs a cyclical redundancy check (CRC) on an entire frame's contents prior to forwarding it out a port leading to the destination system?
+	1. Packet filtering
+	2. Cut-through
+	3. Source route
+	4. Store-and-forward
+
+67. Which of the following attack types does not specifically target wireless network clients?
+	1. Logic bomb
+	2. Deauthentication
+	3. Evil twin
+	4. Rogue AP
+
+68. You are having trouble installing a wireless LAN using IEEE 802.11n equipment in a new office complex. The wireless devices have trouble connecting to the access point, and when they do, they achieve only low speeds. When you use a Wi-Fi analyzer to scan the 2.4 GHz frequency band, you see literally dozens of other networks in the area, spread across all of the available channels. Which of the following tasks should you perform to enable your wireless devices to connect to the network reliably and at their best possible speeds?
+	1. Configure the access point to suppress SSID broadcasts.
+	2. Configure all of the wireless network devices to use the 5 GHz band.
+	3. Upgrade all of the network devices to the latest firmware.
+	4. Configure all of the network devices to use WPA3 encryption with AES.
+
+
+```
+Interface: 192.168.2.24 --- 0x2
+Internet Address          Physical Address      Type
+192.168.2.2              d5-ae-52-bf-c3-2d      dynamic
+192.168.2.20             00-26-c7-7e-00-e0      dynamic
+192.168.2.22             00-90-a9-a2-43-8f      dynamic
+192.168.2.27             1c-c1-de-ca-1f-12      dynamic
+192.168.2.28              
+```
