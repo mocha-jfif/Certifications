@@ -420,12 +420,5 @@
 	4. Configure all of the network devices to use WPA3 encryption with AES.
 
 
-```
-Interface: 192.168.2.24 --- 0x2
-Internet Address          Physical Address      Type
-192.168.2.2              d5-ae-52-bf-c3-2d      dynamic
-192.168.2.20             00-26-c7-7e-00-e0      dynamic
-192.168.2.22             00-90-a9-a2-43-8f      dynamic
-192.168.2.27             1c-c1-de-ca-1f-12      dynamic
-192.168.2.28              
-```
+69. Which Windows command-line utility produced 
+
