@@ -587,31 +587,9 @@
 	3. The Network and Data link layers
 	4. The Data link and Physical layers
 
-96. You are troubleshooting a workstation that cannot access the network. The workstation is plugged into a wall plate that should provide it with access to a DHCP-equipped network using the 192.168.4.0/24 network address. No one else on that network is reporting a problem. You check that the patch cable is properly plugged into the workstation and the wall plate, which it is, and then run `ipconfig /all` on the workstation and examine the output. Which of the following could be the explanation for the workstation's problem, based on the following `ipconfig` results?
+96. You are troubleshooting a workstation that cannot access the network. The workstation is plugged into a wall plate that should provide it with access to a DHCP-equipped network using the 192.168.4.0/24 network address. No one else on that network is reporting a problem. You check that the patch cable is properly plugged into the workstation and the wall plate, which it is, and then run `ipconfig /all` on the workstation and examine the output. Which of the following could be the explanation for the workstation's problem, based on the following `ipconfig` results? ![[Pasted image 20250220145507.png]]
+	1. The DNS server addresses are incorrect.
+	2. The Default Gateway address is missing.
+	3. The Subnet Mask value is incorrect.
+	4. The DHCP scope is exhausted.
 
-
-```
-Windows IP Configuration
-
-Host Name . . . . . . . . . . . . : Client12
-Primary DNS Suffix. . . . . . . . : 
-Node Type . . . . . . . . . . . . : Hybrid
-IP Routing Enabled. . . . . . . . : No
-WINS Proxy Enabled. . . . . . . . : No
-
-Ethernet adapter Local Area Connection:
-
-Connection-specifc DNS Suffix . . : 
-Description . . . . . . . . . . . : PCIe Family Controller
-Physical Address. . . . . . . . . : 60-EB-69-93-5E-E5
-DHCP Enabled. . . . . . . . . . . : Yes
-Autoconfiguration Enabled . . . . : Yes
-Link-local IPV6 Address . . . . . : fe80::c955:c944:acdd:3fcb%2
-IPv4 Address. . . . . . . . . . . : 169.254.203.42
-Subnet Mask . . . . . . . . . . . : 255.255.0.0
-Lease Obtained. . . . . . . . . . : Monday, October 23, 2017 6:23:47 PM
-Lease Expires . . . . . . . . . . : Saturday, November 18, 2017 9:49:24 PM
-Default Gateway . . . . . . . . . :
-DHCPv6 IAID . . . . . . . . . . . : 241232745
-DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-18-10-22-0D-60-EB-69-9
-```
