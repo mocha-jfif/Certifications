@@ -593,3 +593,23 @@
 	3. The Subnet Mask value is incorrect.
 	4. The DHCP scope is exhausted.
 
+97. A user calls you at the IT help desk and reports that she is having intermittent problems accessing both local servers and Internet websites. Which of the following potential problems can you rule out immediately?
+	1. Malfunctioning DNS server
+	2. Duplicate MAC addresses
+	3. Duplicate IP addresses
+	4. Malfunctioning router
+
+98. You have recently discovered a rogue DHCP server on your network. After disabling the rogue server, you now need to terminate all of the rogue IP address leases currently held by DHCP clients on the network and then have them request new leases from the authorized DHCP server. Which of the following commands must you run on each client to do this? (Choose all that apply.)
+	1. `ipconfig /dump`
+	2. `ipconfig /lease`
+	3. `ipconfig /release`
+	4. `ipconfig /renew`
+	5. `ipconfig /discard`
+
+99. Ralph is reading an article about datacenter design, and he is puzzled by references to east-west and north-south traffic. Which of the following statements best describes the difference between east-west and north-south traffic in a datacenter?
+	1. East-west is switch-to-switch traffic, while north-south is switch-to-router traffic.
+	2. East-west describes traffic between devices at the same layer of the Open Systems Interconnection (OSI) reference model, while north-south describes traffic between OSI model layers.
+	3. East-west traffic stays within the datacenter, while north-south traffic does not.
+	4. East-west is backbone traffic among switches and routers, while north-south is traffic to end systems, such as servers.
+
+100. Which of the following Win
