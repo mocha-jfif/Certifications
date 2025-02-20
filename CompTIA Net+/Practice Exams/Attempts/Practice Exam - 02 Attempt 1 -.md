@@ -1,24 +1,24 @@
 1. Which of the following definitions best describes the function of a firewall?
 	1. A device that connects two networks forwarding traffic between them as needed
-	2. A device located between two networks that enables administrators to restrict incoming and outgoing traffic
+	2. <mark style="background: #D2B3FFA6;">A device located between two networks that enables administrators to restrict incoming and outgoing traffic</mark>
 	3. A device that caches Internet data for subsequent use by internal network clients
 	4. A device that enables Internet network clients with private IP addresses to access the Internet
 
 2. Review the following figure. Each of the switches has three ports connected to computers and one port for switch-to-switch connections. All of the computer ports and links are configured for half-duplex communication. The switch-to-switch links are configured for full-duplex communication. Which of the following statements about the switched network is true?![[Pasted image 20250220115650.png]]
 	1. There is one collision domain for this network.
 	2. There are three collision domains, one for each switch-to-switch connection.
-	3. There are nine collision domains, one for each half-duplex connection.
+	3. <mark style="background: #D2B3FFA6;">There are nine collision domains, one for each half-duplex connection.</mark>
 	4. There are twelve collision domains, one for each switch connection.
 
 3. Which of the following network devices can provide authentication services for multiple remote access servers using the device's own account database?
 	1. NAS
 	2. IDS
 	3. NGFW
-	4. RADIUS
+	4. <mark style="background: #D2B3FFA6;">RADIUS</mark>
 
 4. You are designing the network for your company's new branch office, and you need a device on which administrators can create virtual local area networks (VLANs) and that will forward traffic between them. Which of the following devices can do this?
 	1. Virtual router
-	2. Multilayer switch
+	2. <mark style="background: #D2B3FFA6;">Multilayer switch</mark>
 	3. Broadband router
 	4. Load balancer
 
