@@ -14,3 +14,57 @@
 	1. NAS
 	2. IDS
 	3. NGFW
+	4. RADIUS
+
+4. You are designing the network for your company's new branch office, and you need a device on which administrators can create virtual local area networks (VLANs) and that will forward traffic between them. Which of the following devices can do this?
+	1. Virtual router
+	2. Multilayer switch
+	3. Broadband router
+	4. Load balancer
+
+5. You are setting up a new network for which you have been given the IPv4 network address 10.61.0.0/19. You want to calculate the number of hosts you can create on each subnet. How many bits are allocated to the host identifier in an IPv4 address on this network?
+	1. 5
+	2. 8
+	3. 13
+	4. 21
+
+6. The protocols that are responsible for the delivery of data packets to their final destinations on an internetwork operate at which layer of the Open Systems Interconnection (OSI) reference model?
+	1. Application
+	2. Session
+	3. Transport
+	4. Network
+	5. Data link
+
+7. Originally, storage area networks (SANs) were dedicated solely to storage-based traffic. A local area network (LAN) was also required for other types of traffic. Today, however, it is possible for SAN and LAN traffic to coexist on a single network medium. Which of the following SAN protocols are capable of sharing a network medium with standard LAN traffic? (Choose all that apply.)
+	1. Fibre Channel
+	2. InfiniBand
+	3. iSCSI
+	4. FCoE
+
+8. Which of the following Application layer protocols do not include a program that enables a user to log on to a remote network device and execute commands using a character-based interface? (Choose all that apply.)
+	1. Telnet
+	2. Simple Mail Transfer Protocol (SMTP)
+	3. File Transfer Protocol (FTP)
+	4. Domain Name System (DNS)
+
+9. Which of the following statements about switches are true? (Choose all that apply.)
+	1. Switches provide internal crossover circuits and use uplink ports to form a hierarchical star/hub and spoke topology.
+	2. Switches are Data link layer devices that connect network devices in a star/hub and spoke topology.
+	3. Switches amplify and repeat signals received through one port out all other ports regardless of the destination.
+	4. Switches use IP addresses to identify the devices connected to specific ports.
+
+10. You are planning an automated operating system deployment for 100 new Windows workstations your company has received. You intend to configure the workstations to boot using Preboot Execution Environment (PXE), during which time the system will obtain an IP address from a Dynamic Host Configuration Protocol (DHCP) server and then download a boot image file from a Trivial File Transfer Protocol (TFTP) server. Which of the following well-known ports must you open on the firewall separating the workstations from the servers? (Choose all that apply.)
+	1. 64
+	2. 65
+	3. 66
+	4. 67
+	5. 68
+	6. 69
+
+11. Your department is experiencing frequent delays as users wait for images to render using their outdated graphics software package. As a result, you submitted a change request for a new software product at the monthly meeting of the company's change management team. Now that the change request has been approved, it is time to implement the change. Which of the following administrative tasks will most likely be the change management team's responsibility during the implementation process? (Choose all that apply.)
+	1. Notifying users
+	2. Documenting all modifications made
+	3. Authorizing downtime
+	4. Designating a maintenance window
+
+12. 
