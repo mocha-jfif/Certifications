@@ -70,30 +70,30 @@
 12. You are installing a new server that is equipped with two power supplies. The server's firmware enables you to set the mode in which the power supplies will be used. In which of the following modes must the dual power supplies be running in order for the system to be fault tolerant?
 	1. Individual mode
 	2. Combined mode
-	3. Redundant mode
+	3. <mark style="background: #D2B3FFA6;">Redundant mode</mark>
 	4. Hot backup mode
 
 13. The Domain Name System (DNS) defines a hierarchical name space, in which locations are reflected in fully qualified domain names (FQDNs). Which of the words in the FQDN [`www.paris.mydomain.org`](http://www.paris.mydomain.org/) represents the bottommost layer in the DNS namespace's domain hierarchy?
 	1. `www`
 	2. `paris`
 	3. `mydomain`
-	4. `org`
+	4. <mark style="background: #D2B3FFA6;">`org`</mark>
 
 14. The term _datagram_ is typically used by protocols offering connectionless delivery service. Which of the following protocols use the term _datagram_ to describe the data transfer unit it creates? (Choose all that apply.)
 	1. TCP
-	2. IP
-	3. UDP
+	2. <mark style="background: #D2B3FFA6;">IP</mark>
+	3. <mark style="background: #D2B3FFA6;">UDP</mark>
 	4. Ethernet
 
 15. Which element of the CIA triad prevents unauthorized viewing of protected data?
-	1. Confidentiality
+	1. <mark style="background: #D2B3FFA6;">Confidentiality</mark>
 	2. Integrity
 	3. Availability
 	4. None of the above
 
 16. You have just received notification of a new software release for an application you are running on your servers. The release is intended to address a newly discovered security vulnerability. Which of the following is the correct term for a software release containing a fix designed to address one specific issue?
 	1. An upgrade
-	2. A patch
+	2. <mark style="background: #D2B3FFA6;">A patch</mark>
 	3. A service pack
 	4. An update
 
