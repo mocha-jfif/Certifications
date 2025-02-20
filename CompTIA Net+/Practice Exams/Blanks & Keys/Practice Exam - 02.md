@@ -273,4 +273,47 @@
 	3. Implement a program of user education and corporate policies.
 	4. Use IPsec to encrypt all network traffic.
 
-45. 
+45. You have been given a Class B network IP address with which to configure the new network you are designing. Which of the following is the default subnet mask you should use for an IPv4 Class B network?
+	1. 1. 1. 255.255.255.255
+    1. 255.255.255.0
+    2. 255.255.0.0
+    3. 255.0.0.0
+
+46. Alice's company has just started working with sensitive government data. To enhance the security of the datacenter, she has implemented some additional security measures. All the servers now have crimped metal tags holding the cases closed. All the hardware racks are locked in clear-fronted cabinets. All the cable runs are installed in transparent conduits. These are all examples of which of the following physical security measures?
+	1. Geofencing
+	2. Tamper detection
+	3. Port security
+	4. Asset tracking
+
+47. You have just installed a web server for your company that is configured to host a public Internet site using the registered domain name [adatum.com](http://www.adatum.com/). The server's hostname in the Domain Name System (DNS) is `www`. The web server also has an administrative site, which you want to be able to access remotely. You have configured the administrative site to be encrypted and to use the port number 12354. Which of the following URLs must you use to access the administrative website from the Internet?
+	1. [`www.adatum.com:12354`](http://www.adatum.com:12354/)
+	2. [`www.adatum.com`](http://www.adatum.com/)
+	3. [`www.adatum.com:80`](http://www.adatum.com/)
+	4. [`www.adatum.com:12354`](http://www.adatum.com:12354/)
+
+48. To prevent outside users from accessing your wireless network, you configure the access point not to broadcast the network's SSID. However, you later discover that outsiders are still accessing the network. For which of the following reasons is disabling SSID broadcasts a relatively weak method of device hardening?
+	4. Every access point's SSID is printed on a label on the back of the device.
+	5. Attackers have software that can easily guess a network's SSID.
+	6. Attackers can capture packets transmitted over the network and read the SSID from them.
+	7. Attackers have ways of connecting to the network without the SSID.
+
+49. You are installing a web server farm in your corporate headquarters that will be used to host websites for the corporation's subsidiaries, which are located all around the world. In which of the following cloud models does a single organization function as both the provider and the consumer of all cloud services?
+	1. Private cloud
+	2. Public cloud
+	3. Ad hoc cloud
+	4. Hybrid cloud
+
+50. Your supervisor has recently begun using the terms _on-boarding_ and _off-boarding_, with which you are unfamiliar. With which of the following types of policies are these terms typically associated?
+	1. Incident response
+	2. Identity management
+	3. Inventory management
+	4. Data loss prevention
+
+51. Virtual private networks (VPNs) use a data transmission technique called tunneling, which encapsulates a data packet within another packet for transmission over a network connection, typically using the Internet. The system also encrypts the entire encapsulated data packet for protection. Split tunneling is a variation of this method that provides which of the following advantages? (Choose all that apply.)
+	1. Additional data integrity protection
+	2. Access to local network devices while connected to the VPN
+	3. Faster data transmission through multiplexing
+	4. Conservation of VPN bandwidth
+
+52. Your supervisor wants you to disable all of the ports on the network's switches that are not in use. You tell her that this is not necessary; she wants to know why you think so. Which of the following are valid reasons not to disable unused switch ports? (Choose all that apply.)
+	1. 
