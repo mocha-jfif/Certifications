@@ -316,4 +316,38 @@
 	4. Conservation of VPN bandwidth
 
 52. Your supervisor wants you to disable all of the ports on the network's switches that are not in use. You tell her that this is not necessary; she wants to know why you think so. Which of the following are valid reasons not to disable unused switch ports? (Choose all that apply.)
-	1. 
+	1. The unused ports are not patched into wall jacks.
+	2. The datacenter is already secured from unauthorized access.
+	3. The switch is configured to use a MAC-based access control list.
+	4. Leaving some ports enabled facilitates the on-boarding of new users.
+
+53. Which of the following are security mechanisms that fall into the category of deception technologies?
+	1. Honeypots and honeynets
+	2. Root guards
+	3. Screened subnets
+	4. Geofencing
+
+54. Which of the following network devices can employ access control lists (ACLs) to restrict access? (Choose all that apply.)
+	1. Routers
+	2. Servers
+	3. Switches
+	4. Hubs
+	5. Wireless access points
+
+55. Which of the following terms is not associated with Data link layer communications?
+	1. Administrative distance
+	2. Spanning Tree Protocol
+	3. Maximum transmission unit
+	4. Jumbo frames
+
+56. Which of the following statements about DHCP snooping are true? (Choose all that apply.)
+	1. DHCP snooping is implemented in network switches.
+	2. DHCP snooping prevents DNS cache poisoning.
+	3. DHCP snooping detects rogue DHCP servers.
+	4. DHCP snooping drops DHCP messages arriving over the incorrect port.
+
+57. A user reports that she cannot connect to a server on her network. You want to identify the scope of the problem, so you try to reproduce the problem on the user's computer. The problem persists. No other users are reporting the same problem. What is the next logical step that you should perform to identify the affected area?
+	1. Examine the server's configuration for the correct settings.
+	2. Verify that the local router is forwarding traffic.
+	3. Confirm that the switch the client is connected to is functioning.
+	4. Perform the same task on another computer connected to the same segment.
