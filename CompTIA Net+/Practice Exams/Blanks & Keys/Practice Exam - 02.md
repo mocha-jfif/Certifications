@@ -606,5 +606,12 @@ Description . . . . . . . . . . . : PCIe Family Controller
 Physical Address. . . . . . . . . : 60-EB-69-93-5E-E5
 DHCP Enabled. . . . . . . . . . . : Yes
 Autoconfiguration Enabled . . . . : Yes
-Link-
+Link-local IPV6 Address . . . . . : fe80::c955:c944:acdd:3fcb%2
+IPv4 Address. . . . . . . . . . . : 169.254.203.42
+Subnet Mask . . . . . . . . . . . : 255.255.0.0
+Lease Obtained. . . . . . . . . . : Monday, October 23, 2017 6:23:47 PM
+Lease Expires . . . . . . . . . . : Saturday, November 18, 2017 9:49:24 PM
+Default Gateway . . . . . . . . . :
+DHCPv6 IAID . . . . . . . . . . . : 241232745
+DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-18-10-22-0D-60-EB-69-9
 ```
