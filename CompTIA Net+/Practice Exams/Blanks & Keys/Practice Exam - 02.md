@@ -155,3 +155,28 @@
 	4. Out-of-band
 
 26. Which of the following describes the primary difference between single sign-on (SSO) and same sign-on?
+	1. Single sign-on (SSO) credentials consist of one username and one password, whereas same sign-on credentials consist of one username and multiple passwords.
+	2. Single sign-on (SSO) requires the user to supply credentials only once, whereas with same sign-on, the user must supply the credentials repeatedly.
+	3. Single sign-on (SSO) requires multifactor authentication, such as a password and a smartcard, whereas same sign-on requires only a password for authentication.
+	4. Single sign-on (SSO) enables users to access different resources with one set of credentials, whereas same sign-on requires users to have multiple credential sets.
+
+27. You have a laptop that requires you to hold your finger on a scanner pad before you can use it. A device equipped with a fingerprint scanner that is part of a multifactor authentication mechanism is using which of the following types of technology?
+	1. Tamper detection
+	2. Biometrics
+	3. Hand geometry
+	4. Pattern recognition
+
+28. You have been asked to locate the computers on a network that the previous consultant has configured with incorrect IPv6 addresses. Which of the following are not correctly formatted IPv6 addresses? (Choose all that apply.)
+	1. e00::c955:c944:acdd:3fcb
+	2. fe00::b491:cf79:p493:23ff
+	3. 2001:0:44ef68:23eb:99fe:72bec6:ea5f
+	4. 2001:0:49e6:39ff:8cf5:6812:ef56
+
+29. During a physical security evaluation by an outside contractor, you are asked whether your company uses a fail open or fail closed policy for the datacenter. You do not know what the contractor means. Which of the following physical security mechanisms can either fail close or fail open?
+	1. Door locks
+	2. Motion detectors
+	3. Honeypots
+	4. Video cameras
+
+30. A disgruntled senior associate in the IT department at your company was terminated today and had to be escorted from the building. The IT director has instructed you to disable all of the former employee's accounts, change all network device passwords to which the employee had access, and have the datacenter door locks rekeyed. Which of the following terms best describes the director's concern in asking you to do these things?
+	1. 
