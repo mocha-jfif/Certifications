@@ -25,7 +25,7 @@
 5. You are setting up a new network for which you have been given the IPv4 network address 10.61.0.0/19. You want to calculate the number of hosts you can create on each subnet. How many bits are allocated to the host identifier in an IPv4 address on this network?
 	1. 5
 	2. 8
-	3. 13
+	3. <mark style="background: #D2B3FFA6;">13</mark>
 	4. 21
 
 6. The protocols that are responsible for the delivery of data packets to their final destinations on an internetwork operate at which layer of the Open Systems Interconnection (OSI) reference model?
