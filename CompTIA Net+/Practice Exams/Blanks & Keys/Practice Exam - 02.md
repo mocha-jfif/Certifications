@@ -179,4 +179,35 @@
 	4. Video cameras
 
 30. A disgruntled senior associate in the IT department at your company was terminated today and had to be escorted from the building. The IT director has instructed you to disable all of the former employee's accounts, change all network device passwords to which the employee had access, and have the datacenter door locks rekeyed. Which of the following terms best describes the director's concern in asking you to do these things?
-	1. 
+	1. Logic bombs
+	2. Internal threats
+	3. Rogue devices
+	4. Social engineering
+	5. External threats
+
+31. Ralph is troubleshooting a Windows server, and while doing so he runs the following command: `ping 127.0.0.1`. The command completes successfully. What has Ralph proven by doing this?
+	1. That the computer's network adapter is functioning properly
+	2. That the computer's IP address is correct for the network
+	3. That the computer's TCP/IP networking stack is loaded and functioning properly
+	4. Nothing at all
+
+32. Which of the following are not examples of multifactor authentication (MFA)? (Choose all that apply.)
+	1. A system that requires a smartcard and a PIN for authentication
+	2. A system that uses an external RADIUS server for authentication
+	3. A system that requires two passwords for authentication
+	4. A system that requires a password and a retinal scan for authentication
+
+33. A user calls Ed at the help desk to report that he cannot access the Internet. He can access systems on the local network, however. Ed examines the routing table on the user's workstation and sees the following. Which of the following statements explains why the user cannot access the Internet? 
+
+
+
+```
+IPv4 Route Table
+========================================================
+Active Routes:
+Network Destination       Netmask     Gateway     Interface    Metric
+127.0.0.0               255.0.0.0     On-link     127.0.0.1       331
+127.0.0.1         255.255.255.255     On-link     127.0.0.1       331
+127.255.255.255   255.255.255.255     On-link     127.0.0.1       331
+192.158.2.0         255.255.255.0     On-link    
+```
