@@ -260,3 +260,17 @@
 	2. IDF
 	3. RDP
 	4. MDF
+
+43. You have configured your company's wireless network to enable a client to authenticate only when the signal strength of their connection exceeds a specified level. Which of the following terms best describes the security mechanism provided by this configuration?
+	1. Geofencing
+	2. Local authentication
+	3. Motion detection
+	4. Port security
+
+44. Social engineering has become an increasingly serious problem on your company network. Which of the following is an effective method for preventing sensitive data from being compromised through social engineering?
+	1. Install a firewall between the internal network and the Internet.
+	2. Install an antivirus software product on all user workstations.
+	3. Implement a program of user education and corporate policies.
+	4. Use IPsec to encrypt all network traffic.
+
+45. 
