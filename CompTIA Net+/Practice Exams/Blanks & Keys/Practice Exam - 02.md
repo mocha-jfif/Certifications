@@ -420,5 +420,36 @@
 	4. Configure all of the network devices to use WPA3 encryption with AES.
 
 
-69. Which Windows command-line utility produced 
+69. Which Windows command-line utility produced the output shown here? ![[Pasted image 20250220141858.png]]
+	1. `arp`
+	2. `ping`
+	3. `tracert`
+	4. `netstat`
 
+70. Your boss is working in the crawlspace under the floor of the datacenter, and he asks you to hand him the pliers. You hand him the tool shown in the following figure, and he throws it back at you. What is the real function of the tool shown in the figure? ![[Pasted image 20250220141947.png]]
+	1. When you connect the tool to pins in a punchdown block, you can access telephone circuits in order to test them or place telephone calls.
+	2. When you attach the tool to one end of a wire, it generates a tone that can be detected at the other end.
+	3. To attach a bulk cable end to an RJ-45 connector, you use the tool to squeeze the connector closed, forcing the wire ends to contact the connector's pins.
+	4. When you attach the tool to a copper cable, you can detect and measure the electrical current flowing through it.
+
+71. You are starting work for a contractor who performs telecommunications cable installations. One of the tools in the kit you have been given is unfamiliar to you. What is the name of the tool shown in the following figure? ![[Pasted image 20250220142114.png]]
+	1. Crimper
+	2. Punchdown tool
+	3. Butt set
+	4. Toner and probe
+
+72. You are seeking to upgrade your company's IEEE 802.11g access point to one that provides faster transmission speeds for your newer workstations. Which of the following wireless networking standards is capable of supporting speeds faster than the 54 Mbps of 802.11g but is still backward compatible with your existing IEEE 802.11g workstations?
+	1. IEEE 802.11
+	2. Bluetooth
+	3. IEEE 802.11ac
+	4. IEEE 802.11a
+	5. IEEE 802.11n
+
+73. You are working on your company's screened subnet (also known as a perimeter network), which has five Linux web servers, a Cisco router, a CSU/DSU providing a leased line connection, and a Windows-based firewall on it. While trying to troubleshoot a network communications failure, you type the following command on one of the systems: `traceroute` [`adatum.com`](http://www.adatum.com/). Which of the following systems might you be working on? (Choose all that apply.)
+	1. The Cisco router
+	2. One of the Linux web servers
+	3. The CSU/DSU console
+	4. The Windows-based firewall
+
+74. Which of the following are network topologies used by IEEE 802.11 wireless local area networks (WLANs)? (Choose all that apply.)
+	1. 
