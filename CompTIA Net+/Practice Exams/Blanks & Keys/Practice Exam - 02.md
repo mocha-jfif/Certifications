@@ -351,3 +351,45 @@
 	2. Verify that the local router is forwarding traffic.
 	3. Confirm that the switch the client is connected to is functioning.
 	4. Perform the same task on another computer connected to the same segment.
+
+58. On a wireless network, which of the following best describes an example of a captive portal?
+	1. A web page stating that the data on a user's computer has been locked and will only be unlocked after payment of a fee
+	2. A dedicated switch port used to connect to other switches
+	3. A web page with which a user must interact before being granted access to a wireless network
+	4. A series of two doors with an intervening airlock through which people must pass before they can enter a secured space
+
+59. In the standard troubleshooting methodology, you begin by taking steps to identify the problem. After you have done this, which of the following steps should you perform next?
+	1. Verify full system functionality.
+	2. Establish a theory of probable cause.
+	3. Establish a plan of action.
+	4. Implement the solution.
+
+60. The secured version of the Hypertext Transfer Protocol (HTTPS) uses a different well-known port from the unsecured version (HTTP). Which of the following ports are used by HTTP and HTTPS by default? (Choose all that apply.)
+	1. 25
+	2. 80
+	3. 110
+	4. 443
+
+61. Which of the following are criteria typically used by load balancers to direct incoming traffic to one server out of a group of servers? (Choose all that apply.)
+	1. Fastest response time
+	2. Fastest processor
+	3. Lightest load
+	4. The next in an even rotation
+
+62. You are responsible for a network that has a Domain Name System (DNS) server, a proxy server, and an Internet router. A user is reporting that she cannot connect to hosts on her own local area network (LAN) or other internal LANs, and she also cannot access hosts on the Internet. No one else has reported a problem. What is the most likely location of the issue preventing the user's access to the network
+	1. The router
+	2. The DNS server
+	3. The proxy server
+	4. The user's computer configuration
+
+63. Virtual LAN (VLAN) hopping is a type of attack directed at network switches. Which of the following best describes how VLAN hopping is a potential threat?
+	1. VLAN hopping enables an attacker to access different VLANs using 802.1q spoofing.
+	2. VLAN hopping enables an attacker to scramble a switch's patch panel connections.
+	3. VLAN hopping enables an attacker to change the native VLAN on a switch.
+	4. VLAN hopping enables an attacker to rename the default VLAN on a switch.
+
+64. You are a first-tier support technician working the IT help desk at your company. In your first hour of duty, you receive four trouble calls. Your job is to prioritize the calls based on their severity. Which of the following should be the problem that receives the lowest priority?
+	1. A fatal error that causes a single computer to fail
+	2. A problem with a mission-critical backbone router that affects an entire network
+	3. A problem with an application server that affects a single LAN
+	4. A problem with an order entry or customer service call center resource that affects an entire department, with multiple local area networks (LANs)
