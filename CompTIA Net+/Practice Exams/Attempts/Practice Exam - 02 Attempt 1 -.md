@@ -31,25 +31,25 @@
 6. The protocols that are responsible for the delivery of data packets to their final destinations on an internetwork operate at which layer of the Open Systems Interconnection (OSI) reference model?
 	1. Application
 	2. Session
-	3. Transport
+	3. <mark style="background: #D2B3FFA6;">Transport</mark>
 	4. Network
 	5. Data link
 
 7. Originally, storage area networks (SANs) were dedicated solely to storage-based traffic. A local area network (LAN) was also required for other types of traffic. Today, however, it is possible for SAN and LAN traffic to coexist on a single network medium. Which of the following SAN protocols are capable of sharing a network medium with standard LAN traffic? (Choose all that apply.)
-	1. Fibre Channel
+	1. <mark style="background: #D2B3FFA6;">Fibre Channel</mark>
 	2. InfiniBand
-	3. iSCSI
+	3. <mark style="background: #D2B3FFA6;">iSCSI</mark>
 	4. FCoE
 
 8. Which of the following Application layer protocols do not include a program that enables a user to log on to a remote network device and execute commands using a character-based interface? (Choose all that apply.)
 	1. Telnet
-	2. Simple Mail Transfer Protocol (SMTP)
+	2. <mark style="background: #D2B3FFA6;">Simple Mail Transfer Protocol (SMTP)</mark>
 	3. File Transfer Protocol (FTP)
-	4. Domain Name System (DNS)
+	4. <mark style="background: #D2B3FFA6;">Domain Name System (DNS)</mark>
 
 9. Which of the following statements about switches are true? (Choose all that apply.)
-	1. Switches provide internal crossover circuits and use uplink ports to form a hierarchical star/hub and spoke topology.
-	2. Switches are Data link layer devices that connect network devices in a star/hub and spoke topology.
+	1. <mark style="background: #D2B3FFA6;">Switches provide internal crossover circuits and use uplink ports to form a hierarchical star/hub and spoke topology.</mark>
+	2. <mark style="background: #D2B3FFA6;">Switches are Data link layer devices that connect network devices in a star/hub and spoke topology</mark>.
 	3. Switches amplify and repeat signals received through one port out all other ports regardless of the destination.
 	4. Switches use IP addresses to identify the devices connected to specific ports.
 
