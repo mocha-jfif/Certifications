@@ -211,7 +211,52 @@
 	5. Multimode fiber-optic cables require a ground, whereas single-mode cables do not.
 
 35. A user swipes a smartcard through the reader connected to a laptop and then types a password to log on to the system. Which of the following actions is the user performing?
-	1. 
+	1. Auditing
+	2. Accounting
+	3. Authorization
+	4. Authentication
 
+36. Which of the following cabling topologies have never been used by standard Ethernet networks? (Choose all that apply.)
+	1. Bus
+	2. Ring
+	3. Star/hub and spoke
+	4. Mesh
 
+37. Pulling into your company parking lot at lunchtime, you notice a person without a company parking sticker on his car working at a laptop. You have seen this more than once, and you begin to suspect that unauthorized users are connecting to the company's wireless access point and gaining access to the network. Which of the following are steps you can take to prevent this from happening in the future? (Choose all that apply.)
+	1. Use RADIUS for authentication.
+	2. Place the access point in a screened subnet.
+	3. Disable SSID broadcasting.
+	4. Implement MAC address filtering.
 
+38. Which of the following is a fault tolerance mechanism for the default gateway on a specific TCP/IP LAN?
+	1. Open Shortest Path First (OSPF)
+	2. First Hop Redundancy Protocol (FHRP)
+	3. Spanning Tree Protocol (STP)
+	4. Network address translation (NAT)
+
+39. Multiprotocol switches are devices that perform functions associated with two different layers of the Open Systems Interconnection (OSI) reference model. Which of the following layers are often associated with network switching? (Choose all that apply.)
+	1. Application
+	2. Presentation
+	3. Session
+	4. Transport
+	5. Network
+	6. Data link
+	7. Physical
+
+40. You are attempting to connect your new laptop to your company's wireless network. The wireless access point on the network has an SSID that is not broadcasted and uses WPA3 for security. Which of the following describes what you must do to connect your laptop to the network?
+	1. Select the SSID from a list and allow the client to automatically detect the security protocol.
+	2. Type the SSID manually and then select WPA3 from the security protocol options provided.
+	3. Type the SSID manually and allow the client to automatically detect the security protocol.
+	4. Select the SSID from a list and then select WPA3 from the security protocol options provided.
+
+41. Carrier Sense Multiple Access with Collision Avoidance (CSMA/CA) is a media access control mechanism designed to prevent two systems using the same network medium from transmitting at the same time. Which of the following IEEE standards calls for the use of CSMA/CA?
+	1. 802.3
+	2. 802.1X
+	3. 802.11ac
+	4. All of the above
+
+42. A large enterprise network will—at a minimum—have demarcation points for telephone services and a connection to an Internet service provider's network. In many cases, these services will enter the building in the same equipment room that houses the backbone switch. Which of the following is the term used to describe this wiring nexus?
+	1. MTBF
+	2. IDF
+	3. RDP
+	4. MDF
