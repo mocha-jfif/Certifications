@@ -383,13 +383,13 @@
 	4. <mark style="background: #D2B3FFA6;">The user's computer configuration</mark>
 
 63. Virtual LAN (VLAN) hopping is a type of attack directed at network switches. Which of the following best describes how VLAN hopping is a potential threat?
-	1. VLAN hopping enables an attacker to access different VLANs using 802.1q spoofing.
+	1. <mark style="background: #D2B3FFA6;">VLAN hopping enables an attacker to access different VLANs using 802.1q spoofing.</mark>
 	2. VLAN hopping enables an attacker to scramble a switch's patch panel connections.
 	3. VLAN hopping enables an attacker to change the native VLAN on a switch.
 	4. VLAN hopping enables an attacker to rename the default VLAN on a switch.
 
 64. You are a first-tier support technician working the IT help desk at your company. In your first hour of duty, you receive four trouble calls. Your job is to prioritize the calls based on their severity. Which of the following should be the problem that receives the lowest priority?
-	1. A fatal error that causes a single computer to fail
+	1. <mark style="background: #D2B3FFA6;">A fatal error that causes a single computer to fail</mark>
 	2. A problem with a mission-critical backbone router that affects an entire network
 	3. A problem with an application server that affects a single LAN
 	4. A problem with an order entry or customer service call center resource that affects an entire department, with multiple local area networks (LANs)
