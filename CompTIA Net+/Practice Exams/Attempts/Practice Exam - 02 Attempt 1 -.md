@@ -490,12 +490,12 @@
 
 80. Which of the following networking devices can split a single network into multiple collision domains while maintaining a single broadcast domain? (Choose all that apply.)
 	1. Switch
-	2. Bridge
+	2. <mark style="background: #D2B3FFA6;">Bridge</mark>
 	3. Router
 	4. Firewall
 
 81. You have just finished installing a web server farm on your company's network, along with a router to create a screened subnet (perimeter network) on which the web servers are located. However, you now cannot access the web servers from your workstation on the internal network. Which of the following is not one of the tasks you will have to complete before you can access the screened subnet from the internal network?
-	1. Change MAC addresses.
+	1. <mark style="background: #D2B3FFA6;">Change MAC addresses.</mark>
 	2. Change IP addresses.
 	3. Update the DNS records.
 	4. Change default gateway addresses.
@@ -504,22 +504,22 @@
 	1. Split pair
 	2. Open
 	3. Short
-	4. Crosstalk
+	4. <mark style="background: #D2B3FFA6;">Crosstalk</mark>
 
 83. Your network has been experiencing intermittent service slowdowns and outages ever since the company moved into their new building. You have tried every troubleshooting modality you can think of, but you have not been able to determine the cause. One particular user, perhaps hoping to be the squeaky wheel that gets the grease, has taken to calling you every time he experiences a problem. One day, as you are working in the datacenter, you notice that the user calls every time you hear an additional humming noise. After examining the doors in the hallway, you realize that the racks containing the network switches are located right next to the elevator machinery room. Which of the following conditions is probably causing this intermittent network communication problem?
 	1. Bottleneck
-	2. EMI
+	2. <mark style="background: #D2B3FFA6;">EMI</mark>
 	3. Latency
 	4. Crosstalk
 
 84. Ralph is installing a pair of redundant servers and must choose whether to run them in an active-active or active-passive configuration. Running the servers in an active-active configuration provides which of the following advantages that the same servers in an active-passive configuration do not? (Choose all that apply.)
 	1. Fault tolerance
-	2. Load balancing
+	2. <mark style="background: #D2B3FFA6;">Load balancing</mark>
 	3. Data encapsulation
-	4. Increased performance
+	4. <mark style="background: #D2B3FFA6;">Increased performance</mark>
 
 85. You are starting work at a new company, and on your first day you ask about wireless access for your laptop. You are given an SSID and a WPA3 passphrase. Later, in the lunchroom, when you try to connect your laptop to the network, you cannot see the SSID you were given in the list of available networks, although you can see other networks. What should you do first to try to resolve the problem?
-	1. Move closer to the wireless access point.
+	1. <mark style="background: #D2B3FFA6;">Move closer to the wireless access point.</mark>
 	2. Move away from the microwave in the lunchroom.
 	3. Type in the WPA3 passphrase.
 	4. Type the SSID in manually.
