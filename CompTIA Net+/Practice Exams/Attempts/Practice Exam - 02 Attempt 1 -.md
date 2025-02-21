@@ -214,19 +214,19 @@
 	1. Auditing
 	2. Accounting
 	3. Authorization
-	4. Authentication
+	4. <mark style="background: #D2B3FFA6;">Authentication</mark>
 
 36. Which of the following cabling topologies have never been used by standard Ethernet networks? (Choose all that apply.)
 	1. Bus
-	2. Ring
+	2. <mark style="background: #D2B3FFA6;">Ring</mark>
 	3. Star/hub and spoke
 	4. Mesh
 
 37. Pulling into your company parking lot at lunchtime, you notice a person without a company parking sticker on his car working at a laptop. You have seen this more than once, and you begin to suspect that unauthorized users are connecting to the company's wireless access point and gaining access to the network. Which of the following are steps you can take to prevent this from happening in the future? (Choose all that apply.)
 	1. Use RADIUS for authentication.
-	2. Place the access point in a screened subnet.
+	2. <mark style="background: #D2B3FFA6;">Place the access point in a screened subnet.</mark>
 	3. Disable SSID broadcasting.
-	4. Implement MAC address filtering.
+	4. <mark style="background: #D2B3FFA6;">Implement MAC address filtering</mark>.
 
 38. Which of the following is a fault tolerance mechanism for the default gateway on a specific TCP/IP LAN?
 	1. Open Shortest Path First (OSPF)
