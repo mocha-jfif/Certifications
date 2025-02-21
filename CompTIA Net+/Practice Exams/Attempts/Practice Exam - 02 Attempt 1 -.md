@@ -311,18 +311,18 @@
 
 51. Virtual private networks (VPNs) use a data transmission technique called tunneling, which encapsulates a data packet within another packet for transmission over a network connection, typically using the Internet. The system also encrypts the entire encapsulated data packet for protection. Split tunneling is a variation of this method that provides which of the following advantages? (Choose all that apply.)
 	1. Additional data integrity protection
-	2. Access to local network devices while connected to the VPN
-	3. Faster data transmission through multiplexing
+	2. <mark style="background: #D2B3FFA6;">Access to local network devices while connected to the VPN</mark>
+	3. <mark style="background: #D2B3FFA6;">Faster data transmission through multiplexing</mark>
 	4. Conservation of VPN bandwidth
 
 52. Your supervisor wants you to disable all of the ports on the network's switches that are not in use. You tell her that this is not necessary; she wants to know why you think so. Which of the following are valid reasons not to disable unused switch ports? (Choose all that apply.)
-	1. The unused ports are not patched into wall jacks.
+	1. <mark style="background: #D2B3FFA6;">The unused ports are not patched into wall jacks.</mark>
 	2. The datacenter is already secured from unauthorized access.
 	3. The switch is configured to use a MAC-based access control list.
-	4. Leaving some ports enabled facilitates the on-boarding of new users.
+	4. <mark style="background: #D2B3FFA6;">Leaving some ports enabled facilitates the on-boarding of new users.</mark>
 
 53. Which of the following are security mechanisms that fall into the category of deception technologies?
-	1. Honeypots and honeynets
+	1. <mark style="background: #D2B3FFA6;">Honeypots and honeynets</mark>
 	2. Root guards
 	3. Screened subnets
 	4. Geofencing
@@ -330,12 +330,12 @@
 54. Which of the following network devices can employ access control lists (ACLs) to restrict access? (Choose all that apply.)
 	1. Routers
 	2. Servers
-	3. Switches
+	3. <mark style="background: #D2B3FFA6;">Switches</mark>
 	4. Hubs
-	5. Wireless access points
+	5. <mark style="background: #D2B3FFA6;">Wireless access points</mark>
 
 55. Which of the following terms is not associated with Data link layer communications?
-	1. Administrative distance
+	1. <mark style="background: #D2B3FFA6;">Administrative distance</mark>
 	2. Spanning Tree Protocol
 	3. Maximum transmission unit
 	4. Jumbo frames
@@ -343,8 +343,8 @@
 56. Which of the following statements about DHCP snooping are true? (Choose all that apply.)
 	1. DHCP snooping is implemented in network switches.
 	2. DHCP snooping prevents DNS cache poisoning.
-	3. DHCP snooping detects rogue DHCP servers.
-	4. DHCP snooping drops DHCP messages arriving over the incorrect port.
+	3. <mark style="background: #D2B3FFA6;">DHCP snooping detects rogue DHCP servers.</mark>
+	4. <mark style="background: #D2B3FFA6;">DHCP snooping drops DHCP messages arriving over the incorrect port.</mark>
 
 57. A user reports that she cannot connect to a server on her network. You want to identify the scope of the problem, so you try to reproduce the problem on the user's computer. The problem persists. No other users are reporting the same problem. What is the next logical step that you should perform to identify the affected area?
 	1. Examine the server's configuration for the correct settings.
