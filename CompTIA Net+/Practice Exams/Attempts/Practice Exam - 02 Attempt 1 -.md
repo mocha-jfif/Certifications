@@ -479,12 +479,12 @@
 78. You are responsible for an internetwork that consists of four internal local area networks (LANs) with 50 users each. Each internal LAN uses twisted-pair Gigabit Ethernet links that connect the users to a switch. Each of the four switches is connected to a separate router. All four routers connect to the same backbone network, which has a single additional router to connect the company's network to the Internet using a T-1 wide area network (WAN) link. Today, users on one of the four internal LANs are reporting that when they came in this morning, they could not access the Internet or resources on the other three internal LANs. However, they could access resources on their own LAN with no problems. Which network component is the likeliest source of the problem in this scenario?
 	1. The switch on the problem LAN
 	2. The Internet router
-	3. The router connecting the problem LAN to the backbone
+	3. <mark style="background: #D2B3FFA6;">The router connecting the problem LAN to the backbone</mark>
 	4. The cable on the backbone network
 
 79. You are negotiating an agreement with a provider for your company's email service. You have been told to require a 99.99 percent guaranteed rate of service reliability, but the provider is only willing to guarantee 99 percent. Eventually, you and the provider agree on a compromise of 99.9 percent. Which of the following documents will include the negotiated language on this particular point?
 	1. AUP
-	2. SLA
+	2. <mark style="background: #D2B3FFA6;">SLA</mark>
 	3. BYOD
 	4. NDA
 
