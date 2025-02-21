@@ -397,7 +397,7 @@
 65. You are attempting to access a Domain Name System (DNS) server located on the other side of a router, but your attempt fails with an error stating that the destination port UDP 53 is unreachable. Your first step in troubleshooting the problem is to try using the `nslookup` utility to access that specific DNS server. This attempt also fails. Next, you use the `ping` utility with the DNS server's IP address. The ping test is successful, indicating that the server is up and running. Which of the following are possible causes of the problem? (Choose all that apply.)
 	1. The TCP/IP host settings on your computer are improperly configured.
 	2. The router connecting the networks is not running DNS and will not forward this type of datagram.
-	3. There is a firewall blocking the DNS server's UDP port 53.
+	3. <mark style="background: #D2B3FFA6;">There is a firewall blocking the DNS server's UDP port 53.</mark>
 	4. The DNS process on the remote server is not running.
 	5. The TCP/IP host settings on the DNS server are improperly configured.
 
@@ -405,23 +405,23 @@
 	1. Packet filtering
 	2. Cut-through
 	3. Source route
-	4. Store-and-forward
+	4. <mark style="background: #D2B3FFA6;">Store-and-forward</mark>
 
 67. Which of the following attack types does not specifically target wireless network clients?
-	1. Logic bomb
+	1. <mark style="background: #D2B3FFA6;">Logic bomb</mark>
 	2. Deauthentication
 	3. Evil twin
 	4. Rogue AP
 
 68. You are having trouble installing a wireless LAN using IEEE 802.11n equipment in a new office complex. The wireless devices have trouble connecting to the access point, and when they do, they achieve only low speeds. When you use a Wi-Fi analyzer to scan the 2.4 GHz frequency band, you see literally dozens of other networks in the area, spread across all of the available channels. Which of the following tasks should you perform to enable your wireless devices to connect to the network reliably and at their best possible speeds?
 	1. Configure the access point to suppress SSID broadcasts.
-	2. Configure all of the wireless network devices to use the 5 GHz band.
+	2. <mark style="background: #D2B3FFA6;">Configure all of the wireless network devices to use the 5 GHz band.</mark>
 	3. Upgrade all of the network devices to the latest firmware.
 	4. Configure all of the network devices to use WPA3 encryption with AES.
 
 
 69. Which Windows command-line utility produced the output shown here? ![[Pasted image 20250220141858.png]]
-	1. `arp`
+	1. <mark style="background: #D2B3FFA6;">`arp`</mark>
 	2. `ping`
 	3. `tracert`
 	4. `netstat`
@@ -429,7 +429,7 @@
 70. Your boss is working in the crawlspace under the floor of the datacenter, and he asks you to hand him the pliers. You hand him the tool shown in the following figure, and he throws it back at you. What is the real function of the tool shown in the figure? ![[Pasted image 20250220141947.png]]
 	1. When you connect the tool to pins in a punchdown block, you can access telephone circuits in order to test them or place telephone calls.
 	2. When you attach the tool to one end of a wire, it generates a tone that can be detected at the other end.
-	3. To attach a bulk cable end to an RJ-45 connector, you use the tool to squeeze the connector closed, forcing the wire ends to contact the connector's pins.
+	3. <mark style="background: #D2B3FFA6;">To attach a bulk cable end to an RJ-45 connector, you use the tool to squeeze the connector closed, forcing the wire ends to contact the connector's pins.</mark>
 	4. When you attach the tool to a copper cable, you can detect and measure the electrical current flowing through it.
 
 71. You are starting work for a contractor who performs telecommunications cable installations. One of the tools in the kit you have been given is unfamiliar to you. What is the name of the tool shown in the following figure? ![[Pasted image 20250220142114.png]]
