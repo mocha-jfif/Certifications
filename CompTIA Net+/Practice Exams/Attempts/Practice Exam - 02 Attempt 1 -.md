@@ -474,7 +474,7 @@
 	1. NAT
 	2. RIP
 	3. VLAN
-	4. STP
+	4. <mark style="background: #D2B3FFA6;">STP</mark>
 
 78. You are responsible for an internetwork that consists of four internal local area networks (LANs) with 50 users each. Each internal LAN uses twisted-pair Gigabit Ethernet links that connect the users to a switch. Each of the four switches is connected to a separate router. All four routers connect to the same backbone network, which has a single additional router to connect the company's network to the Internet using a T-1 wide area network (WAN) link. Today, users on one of the four internal LANs are reporting that when they came in this morning, they could not access the Internet or resources on the other three internal LANs. However, they could access resources on their own LAN with no problems. Which network component is the likeliest source of the problem in this scenario?
 	1. The switch on the problem LAN
