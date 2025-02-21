@@ -263,30 +263,30 @@
 
 43. You have configured your company's wireless network to enable a client to authenticate only when the signal strength of their connection exceeds a specified level. Which of the following terms best describes the security mechanism provided by this configuration?
 	1. Geofencing
-	2. Local authentication
+	2. <mark style="background: #D2B3FFA6;">Local authentication</mark>
 	3. Motion detection
 	4. Port security
 
 44. Social engineering has become an increasingly serious problem on your company network. Which of the following is an effective method for preventing sensitive data from being compromised through social engineering?
 	1. Install a firewall between the internal network and the Internet.
 	2. Install an antivirus software product on all user workstations.
-	3. Implement a program of user education and corporate policies.
+	3. <mark style="background: #D2B3FFA6;">Implement a program of user education and corporate policies.</mark>
 	4. Use IPsec to encrypt all network traffic.
 
 45. You have been given a Class B network IP address with which to configure the new network you are designing. Which of the following is the default subnet mask you should use for an IPv4 Class B network?
-	1. 1. 1. 255.255.255.255
+	1. 255.255.255.255
     1. 255.255.255.0
-    2. 255.255.0.0
+    2. <mark style="background: #D2B3FFA6;">255.255.0.0</mark>
     3. 255.0.0.0
 
 46. Alice's company has just started working with sensitive government data. To enhance the security of the datacenter, she has implemented some additional security measures. All the servers now have crimped metal tags holding the cases closed. All the hardware racks are locked in clear-fronted cabinets. All the cable runs are installed in transparent conduits. These are all examples of which of the following physical security measures?
 	1. Geofencing
-	2. Tamper detection
+	2. <mark style="background: #D2B3FFA6;">Tamper detection</mark>
 	3. Port security
 	4. Asset tracking
 
 47. You have just installed a web server for your company that is configured to host a public Internet site using the registered domain name [adatum.com](http://www.adatum.com/). The server's hostname in the Domain Name System (DNS) is `www`. The web server also has an administrative site, which you want to be able to access remotely. You have configured the administrative site to be encrypted and to use the port number 12354. Which of the following URLs must you use to access the administrative website from the Internet?
-	1. [`www.adatum.com:12354`](http://www.adatum.com:12354/)
+	1. <mark style="background: #D2B3FFA6;">[`www.adatum.com:12354`](http://www.adatum.com:12354/)</mark>
 	2. [`www.adatum.com`](http://www.adatum.com/)
 	3. [`www.adatum.com:80`](http://www.adatum.com/)
 	4. [`www.adatum.com:12354`](http://www.adatum.com:12354/)
@@ -295,18 +295,18 @@
 	4. Every access point's SSID is printed on a label on the back of the device.
 	5. Attackers have software that can easily guess a network's SSID.
 	6. Attackers can capture packets transmitted over the network and read the SSID from them.
-	7. Attackers have ways of connecting to the network without the SSID.
+	7. <mark style="background: #D2B3FFA6;">Attackers have ways of connecting to the network without the SSID.</mark>
 
 49. You are installing a web server farm in your corporate headquarters that will be used to host websites for the corporation's subsidiaries, which are located all around the world. In which of the following cloud models does a single organization function as both the provider and the consumer of all cloud services?
-	1. Private cloud
+	1. <mark style="background: #D2B3FFA6;">Private cloud</mark>
 	2. Public cloud
 	3. Ad hoc cloud
 	4. Hybrid cloud
 
 50. Your supervisor has recently begun using the terms _on-boarding_ and _off-boarding_, with which you are unfamiliar. With which of the following types of policies are these terms typically associated?
 	1. Incident response
-	2. Identity management
-	3. Inventory management
+	2. <mark style="background: #D2B3FFA6;">Identity management</mark>
+	3. <mark style="background: #D2B3FFA6;">Inventory management</mark>
 	4. Data loss prevention
 
 51. Virtual private networks (VPNs) use a data transmission technique called tunneling, which encapsulates a data packet within another packet for transmission over a network connection, typically using the Internet. The system also encrypts the entire encapsulated data packet for protection. Split tunneling is a variation of this method that provides which of the following advantages? (Choose all that apply.)
