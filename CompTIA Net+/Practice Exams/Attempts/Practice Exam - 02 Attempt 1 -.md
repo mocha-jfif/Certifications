@@ -108,22 +108,22 @@
 	1. `netstat`
 	2. `dig`
 	3. `perfmon`
-	4. `top`
+	4. <mark style="background: #D2B3FFA6;">`top`</mark>
 
 19. You are contracting with a provider to obtain email services for the clients on your network, using their existing email servers in the public cloud. You do not need anything from the provider other than email. Which of the following service models will you be using?
-	1. PaaS
+	1. <mark style="background: #D2B3FFA6;">PaaS</mark>
 	2. SaaS
 	3. IaaS
 	4. All of the above
 
 20. Security information and event management (SIEM) is a combination tool that uses information gathered from logs and network devices to provide a real-time analysis of the network's security condition. Which of the following SIEM processes performs searches for specific criteria, during specific time frames, in logs located on different computers?
-	1. Data aggregation
+	1. <mark style="background: #D2B3FFA6;">Data aggregation</mark>
 	2. Correlation
 	3. Retention
 	4. Forensic analysis
 
 21. When you start a Dynamic Host Configuration Protocol (DHCP) client, it transmits DHCPDISCOVER messages to locate and initiate contact with DHCP servers. Which of the following types of transmissions does the client use for this purpose?
-	1. Broadcast
+	1. <mark style="background: #D2B3FFA6;">Broadcast</mark>
 	2. Unicast
 	3. Multicast
 	4. Anycast
@@ -133,19 +133,19 @@
 	2. DMVPN
 	3. SIP trunk
 	4. MPLS
-	5. Clientless VPN
+	5. <mark style="background: #D2B3FFA6;">Clientless VPN</mark>
 
 23. You are installing a wireless network in a site that has many 2.4 GHz wireless telephones. Which of the following wireless networking technologies can you use that will never experience interference from the telephones? (Choose all that apply.)
 	1. IEEE 802.11b
-	2. IEEE 802.11g
-	3. IEEE 802.11ac
+	2. <mark style="background: #D2B3FFA6;">IEEE 802.11g</mark>
+	3. <mark style="background: #D2B3FFA6;">IEEE 802.11ac</mark>
 	4. IEEE 802.11a
 	5. IEEE 802.11n
 
 24. Which of the following is another term for a switch?
 	1. Multicast hub
 	2. Multiport repeater
-	3. Multiport bridge
+	3. <mark style="background: #D2B3FFA6;">Multiport bridge</mark>
 	4. Multihomed router
 
 25. You are working at a client site with a managed router that includes a console port for administrative access, which you can use to connect a laptop and run a terminal program to access the device's interface. Which of the following is the best term for this type of access to the device?
