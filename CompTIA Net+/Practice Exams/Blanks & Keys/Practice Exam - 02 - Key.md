@@ -479,23 +479,23 @@
 78. You are responsible for an internetwork that consists of four internal local area networks (LANs) with 50 users each. Each internal LAN uses twisted-pair Gigabit Ethernet links that connect the users to a switch. Each of the four switches is connected to a separate router. All four routers connect to the same backbone network, which has a single additional router to connect the company's network to the Internet using a T-1 wide area network (WAN) link. Today, users on one of the four internal LANs are reporting that when they came in this morning, they could not access the Internet or resources on the other three internal LANs. However, they could access resources on their own LAN with no problems. Which network component is the likeliest source of the problem in this scenario?
 	1. The switch on the problem LAN
 	2. The Internet router
-	3. The router connecting the problem LAN to the backbone
+	3. <mark style="background: #BBFABBA6;">The router connecting the problem LAN to the backbone</mark>
 	4. The cable on the backbone network
 
 79. You are negotiating an agreement with a provider for your company's email service. You have been told to require a 99.99 percent guaranteed rate of service reliability, but the provider is only willing to guarantee 99 percent. Eventually, you and the provider agree on a compromise of 99.9 percent. Which of the following documents will include the negotiated language on this particular point?
 	1. AUP
-	2. SLA
+	2. <mark style="background: #BBFABBA6;">SLA</mark>
 	3. BYOD
 	4. NDA
 
 80. Which of the following networking devices can split a single network into multiple collision domains while maintaining a single broadcast domain? (Choose all that apply.)
-	1. Switch
-	2. Bridge
+	1. <mark style="background: #BBFABBA6;">Switch</mark>
+	2. <mark style="background: #BBFABBA6;">Bridge</mark>
 	3. Router
 	4. Firewall
 
 81. You have just finished installing a web server farm on your company's network, along with a router to create a screened subnet (perimeter network) on which the web servers are located. However, you now cannot access the web servers from your workstation on the internal network. Which of the following is not one of the tasks you will have to complete before you can access the screened subnet from the internal network?
-	1. Change MAC addresses.
+	1. <mark style="background: #BBFABBA6;">Change MAC addresses.</mark>
 	2. Change IP addresses.
 	3. Update the DNS records.
 	4. Change default gateway addresses.
@@ -503,47 +503,47 @@
 82. You are testing a twisted-pair cable run using a toner and probe. When you apply the toner to a particular pin at one end of the cable, you detect a tone on two pins at the other end. Which of the following faults have you discovered?
 	1. Split pair
 	2. Open
-	3. Short
+	3. <mark style="background: #BBFABBA6;">Short</mark>
 	4. Crosstalk
 
 83. Your network has been experiencing intermittent service slowdowns and outages ever since the company moved into their new building. You have tried every troubleshooting modality you can think of, but you have not been able to determine the cause. One particular user, perhaps hoping to be the squeaky wheel that gets the grease, has taken to calling you every time he experiences a problem. One day, as you are working in the datacenter, you notice that the user calls every time you hear an additional humming noise. After examining the doors in the hallway, you realize that the racks containing the network switches are located right next to the elevator machinery room. Which of the following conditions is probably causing this intermittent network communication problem?
 	1. Bottleneck
-	2. EMI
+	2. <mark style="background: #BBFABBA6;">EMI</mark>
 	3. Latency
 	4. Crosstalk
 
 84. Ralph is installing a pair of redundant servers and must choose whether to run them in an active-active or active-passive configuration. Running the servers in an active-active configuration provides which of the following advantages that the same servers in an active-passive configuration do not? (Choose all that apply.)
 	1. Fault tolerance
-	2. Load balancing
+	2. <mark style="background: #BBFABBA6;">Load balancing</mark>
 	3. Data encapsulation
-	4. Increased performance
+	4. <mark style="background: #BBFABBA6;">Increased performance</mark>
 
 85. You are starting work at a new company, and on your first day you ask about wireless access for your laptop. You are given an SSID and a WPA3 passphrase. Later, in the lunchroom, when you try to connect your laptop to the network, you cannot see the SSID you were given in the list of available networks, although you can see other networks. What should you do first to try to resolve the problem?
 	1. Move closer to the wireless access point.
 	2. Move away from the microwave in the lunchroom.
 	3. Type in the WPA3 passphrase.
-	4. Type the SSID in manually.
+	4. <mark style="background: #BBFABBA6;">Type the SSID in manually.</mark>
 
 86. You are responsible for a wireless LAN that consists of an 802.11n 2x2 access point and laptop computers with a variety of network adapters. Some of the laptops support 802.11n, and a few older models have 802.11g adapters. The wireless LAN is located in a large office building with many other wireless networks, and you are having trouble finding a channel on the 2.4 GHz band that is not congested with traffic. Scanning the 5 GHz band, you find relatively little traffic, so you reconfigure the access point to use a 5 GHz channel. The result is that some of the laptops are able to connect to the network, whereas others are not. What is the most likely reason for the connection failures, and what must you do to enable all the laptops to connect to the wireless network?
 	1. The 802.11g standard does not support communication using the 5 GHz band. You must replace the network adapters in those laptops with newer models for them to connect successfully.
 	2. The 5 GHz band does not support automatic channel selection. You must configure each laptop to use the same channel as the access point for all the laptops to connect successfully.
 	3. The 5 GHz band does not support MIMO communications, so the 802.11n laptops are unable to connect to the network. You must replace the access point with an 802.11g unit for all the laptops to connect successfully.
-	4. The 802.11g standard does not support communication using the 5 GHz band. You must configure the access point to support 2.4 GHz for all the laptops to connect successfully.
+	4. <mark style="background: #BBFABBA6;">The 802.11g standard does not support communication using the 5 GHz band. You must configure the access point to support 2.4 GHz for all the laptops to connect successfully.</mark>
 
 87. In the Domain Name System (DNS), a zone is a contiguous area of the DNS namespace for which authority is delegated to one or more DNS servers. Which of the following DNS resource record types specifies the IP addresses of the authoritative DNS servers for a particular zone?
 	1. PTR
 	2. SRV
 	3. MX
-	4. NS
+	4. <mark style="background: #BBFABBA6;">NS</mark>
 
 88. You are experiencing poor performance on your home 802.11n wireless network. You live in a large apartment complex, and when you run a Wi-Fi analyzer, you see many other nearby networks using the often-recommended channels 1, 6, and 11 on the 2.4 GHz frequency. Using the 5 GHz frequency is not an option for your equipment. What should you do to improve the network's performance?
 	1. Configure your equipment to use channel 10.
-	2. Configure your equipment to use channel 9.
+	2. <mark style="background: #BBFABBA6;">Configure your equipment to use channel 9.</mark>
 	3. Configure your equipment to use channel 5.
 	4. Configure your equipment to use channel 2.
 
 89. Your company's office building is having a fire inspection, and you are the only person on duty in the datacenter. The inspector from the fire department is reviewing the company's asset inventory and asks you where they can find documentation about all chemicals and equipment used in the company's datacenter. You lead the inspector to the director's office, but you are not sure what the documents he needs are called. Which of the following document types contains this information?
-	1. MSDS
+	1. <mark style="background: #BBFABBA6;">MSDS</mark>
 	2. ESD
 	3. NDA
 	4. BYOD
@@ -551,27 +551,27 @@
 90. Which of the following Power over Ethernet (PoE) specifications supplies power to devices using the spare wire pair on a 100Base-TX twisted-pair network?
 	1. Alternative A
 	2. 4PPoE
-	3. Alternative B
+	3. <mark style="background: #BBFABBA6;">Alternative B</mark>
 	4. All of the above
 
 91. Which of the following statements about the differences between storage area networks (SANs) and network attached storage (NAS) are not true? (Choose all that apply.)
 	1. NAS devices typically provide a filesystem, whereas SAN devices do not.
-	2. NAS devices typically contain integrated iSCSI targets.
+	2. <mark style="background: #BBFABBA6;">NAS devices typically contain integrated iSCSI targets.</mark>
 	3. NAS provides file-level storage access, whereas SAN provides block-level storage access.
-	4. SAN devices have an operating system, whereas NAS devices do not.
+	4. <mark style="background: #BBFABBA6;">SAN devices have an operating system, whereas NAS devices do not.</mark>
 
 92. You are deploying an 802.11n wireless network for a client who is asking for the best possible security you can provide without deploying additional servers. When setting up the wireless access point, you disable SSID broadcasts, select Wi-Fi Protected Access Preshared Keys (WPA-PSK), and configure MAC address filtering. Which of the following statements about the security of this arrangement is true?
 	1. You should not disable SSID broadcasts, because this prevents users from connecting to the network.
 	2. The configuration is as secure as you can make it with the specified equipment.
-	3. You should use Wi-Fi Protected Access 3 (WPA3) instead of WPA, since it is more resistant to certain types of attacks.
+	3. <mark style="background: #BBFABBA6;">You should use Wi-Fi Protected Access 3 (WPA3) instead of WPA, since it is more resistant to certain types of attacks.</mark>
 	4. You should not use MAC address filtering, because it exposes MAC addresses to possible attacks.
 
 93. Which of the following connector types are used with fiber-optic cables? (Choose all that apply.)
 	1. DB-9
-	2. SC
+	2. <mark style="background: #BBFABBA6;">SC</mark>
 	3. BNC
-	4. ST
-	5. MPO
+	4. <mark style="background: #BBFABBA6;">ST</mark>
+	5. <mark style="background: #BBFABBA6;">MPO</mark>
 	6. RJ-11
 
 94. Which of the following are available as Internet of Things (IoT) devices?
@@ -579,30 +579,30 @@
 	2. Doorbells
 	3. Thermostats
 	4. Speakers
-	5. All of the above
+	5. <mark style="background: #BBFABBA6;">All of the above</mark>
 
 95. You are designing an Ethernet network for your company's newest branch office. Your current task is to decide which Ethernet specification to use for the network, a decision that you know will determine what type of cabling you need to purchase and the topology with which the cable will be installed. Which layers of the Open Systems Interconnection (OSI) reference model apply to the cabling and topology elements of a network?
 	1. The Application and Transport layers
 	2. The Transport and Network layers
-	3. The Network and Data link layers
+	3. <mark style="background: #BBFABBA6;">The Network and Data link layers</mark>
 	4. The Data link and Physical layers
 
 96. You are troubleshooting a workstation that cannot access the network. The workstation is plugged into a wall plate that should provide it with access to a DHCP-equipped network using the 192.168.4.0/24 network address. No one else on that network is reporting a problem. You check that the patch cable is properly plugged into the workstation and the wall plate, which it is, and then run `ipconfig /all` on the workstation and examine the output. Which of the following could be the explanation for the workstation's problem, based on the following `ipconfig` results? ![[Pasted image 20250220145507.png]]
 	1. The DNS server addresses are incorrect.
 	2. The Default Gateway address is missing.
 	3. The Subnet Mask value is incorrect.
-	4. The DHCP scope is exhausted.
+	4. <mark style="background: #BBFABBA6;">The DHCP scope is exhausted.</mark>
 
 97. A user calls you at the IT help desk and reports that she is having intermittent problems accessing both local servers and Internet websites. Which of the following potential problems can you rule out immediately?
 	1. Malfunctioning DNS server
 	2. Duplicate MAC addresses
-	3. Duplicate IP addresses
+	3. <mark style="background: #BBFABBA6;">Duplicate IP addresses</mark>
 	4. Malfunctioning router
 
 98. You have recently discovered a rogue DHCP server on your network. After disabling the rogue server, you now need to terminate all of the rogue IP address leases currently held by DHCP clients on the network and then have them request new leases from the authorized DHCP server. Which of the following commands must you run on each client to do this? (Choose all that apply.)
 	1. `ipconfig /dump`
 	2. `ipconfig /lease`
-	3. `ipconfig /release`
+	3. <mark style="background: #BBFABBA6;">`ipconfig /release`</mark>
 	4. `ipconfig /renew`
 	5. `ipconfig /discard`
 
