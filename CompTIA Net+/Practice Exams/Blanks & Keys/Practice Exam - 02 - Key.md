@@ -603,18 +603,18 @@
 	1. `ipconfig /dump`
 	2. `ipconfig /lease`
 	3. <mark style="background: #BBFABBA6;">`ipconfig /release`</mark>
-	4. `ipconfig /renew`
+	4. <mark style="background: #BBFABBA6;">`ipconfig /renew`</mark>
 	5. `ipconfig /discard`
 
 99. Ralph is reading an article about datacenter design, and he is puzzled by references to east-west and north-south traffic. Which of the following statements best describes the difference between east-west and north-south traffic in a datacenter?
 	1. East-west is switch-to-switch traffic, while north-south is switch-to-router traffic.
 	2. East-west describes traffic between devices at the same layer of the Open Systems Interconnection (OSI) reference model, while north-south describes traffic between OSI model layers.
-	3. East-west traffic stays within the datacenter, while north-south traffic does not.
+	3. <mark style="background: #BBFABBA6;">East-west traffic stays within the datacenter, while north-south traffic does not.</mark>
 	4. East-west is backbone traffic among switches and routers, while north-south is traffic to end systems, such as servers.
 
 100. Which of the following Windows command-line utilities produced the output shown here? ![[Pasted image 20250220150859.png]]
 	1. `arp`
 	2. `ping`
 	3. `tracert`
-	4. `netstat`
+	4. <mark style="background: #BBFABBA6;">`netstat`</mark>
 	5. `hostname`

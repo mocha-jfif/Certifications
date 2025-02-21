@@ -225,13 +225,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "525e4fb238f091a4",
+  "floating": {
+    "id": "606d3ce1c7b453b2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f14131c633b31f25",
+        "type": "window",
+        "children": [
+          {
+            "id": "c527eecde42ae242",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f1ee21485e1657c5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "CompTIA Net+/Practice Exams/Attempts/Practice Exam - 02 Attempt 1 -.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Practice Exam - 02 Attempt 1 -"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1720,
+        "y": 0,
+        "width": 1720,
+        "height": 720,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f1ee21485e1657c5",
   "lastOpenFiles": [
-    "CompTIA Net+/Practice Exams/Blanks & Keys/Practice Exam - 02 - Blank.md",
     "CompTIA Net+/Practice Exams/Blanks & Keys/Practice Exam - 02 - Key.md",
+    "CompTIA Net+/Practice Exams/Attempts/Practice Exam - 02 Attempt 1 -.md",
+    "CompTIA Net+/Practice Exams/Blanks & Keys/Practice Exam - 02 - Blank.md",
     "CompTIA Net+/Practice Exams/Blanks & Keys/Practice Exam - 01 - Blank.md",
     "CompTIA Net+/Practice Exams/Blanks & Keys/Practice Exam - 01 - Key.md",
-    "CompTIA Net+/Practice Exams/Attempts/Practice Exam - 02 Attempt 1 -.md",
     "Pasted image 20250220150859.png",
     "Pasted image 20250220145507.png",
     "Pasted image 20250220142114.png",
