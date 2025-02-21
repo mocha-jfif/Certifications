@@ -534,11 +534,11 @@
 	1. PTR
 	2. SRV
 	3. MX
-	4. NS
+	4. <mark style="background: #D2B3FFA6;">NS</mark>
 
 88. You are experiencing poor performance on your home 802.11n wireless network. You live in a large apartment complex, and when you run a Wi-Fi analyzer, you see many other nearby networks using the often-recommended channels 1, 6, and 11 on the 2.4 GHz frequency. Using the 5 GHz frequency is not an option for your equipment. What should you do to improve the network's performance?
 	1. Configure your equipment to use channel 10.
-	2. Configure your equipment to use channel 9.
+	2. <mark style="background: #D2B3FFA6;">Configure your equipment to use channel 9</mark>.
 	3. Configure your equipment to use channel 5.
 	4. Configure your equipment to use channel 2.
 
