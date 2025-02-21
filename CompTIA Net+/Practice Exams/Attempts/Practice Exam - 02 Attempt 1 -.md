@@ -230,7 +230,7 @@
 
 38. Which of the following is a fault tolerance mechanism for the default gateway on a specific TCP/IP LAN?
 	1. Open Shortest Path First (OSPF)
-	2. First Hop Redundancy Protocol (FHRP)
+	2. <mark style="background: #D2B3FFA6;">First Hop Redundancy Protocol (FHRP)</mark>
 	3. Spanning Tree Protocol (STP)
 	4. Network address translation (NAT)
 
@@ -239,27 +239,27 @@
 	2. Presentation
 	3. Session
 	4. Transport
-	5. Network
-	6. Data link
+	5. <mark style="background: #D2B3FFA6;">Network</mark>
+	6. <mark style="background: #D2B3FFA6;">Data link</mark>
 	7. Physical
 
 40. You are attempting to connect your new laptop to your company's wireless network. The wireless access point on the network has an SSID that is not broadcasted and uses WPA3 for security. Which of the following describes what you must do to connect your laptop to the network?
 	1. Select the SSID from a list and allow the client to automatically detect the security protocol.
-	2. Type the SSID manually and then select WPA3 from the security protocol options provided.
+	2. <mark style="background: #D2B3FFA6;">Type the SSID manually and then select WPA3 from the security protocol options provided.</mark>
 	3. Type the SSID manually and allow the client to automatically detect the security protocol.
 	4. Select the SSID from a list and then select WPA3 from the security protocol options provided.
 
 41. Carrier Sense Multiple Access with Collision Avoidance (CSMA/CA) is a media access control mechanism designed to prevent two systems using the same network medium from transmitting at the same time. Which of the following IEEE standards calls for the use of CSMA/CA?
-	1. 802.3
+	1. <mark style="background: #D2B3FFA6;">802.3</mark>
 	2. 802.1X
 	3. 802.11ac
 	4. All of the above
 
 42. A large enterprise network will—at a minimum—have demarcation points for telephone services and a connection to an Internet service provider's network. In many cases, these services will enter the building in the same equipment room that houses the backbone switch. Which of the following is the term used to describe this wiring nexus?
 	1. MTBF
-	2. IDF
+	2. <mark style="background: #D2B3FFA6;">IDF</mark>
 	3. RDP
-	4. MDF
+	4. <mark style="background: #D2B3FFA6;">MDF</mark>
 
 43. You have configured your company's wireless network to enable a client to authenticate only when the signal strength of their connection exceeds a specified level. Which of the following terms best describes the security mechanism provided by this configuration?
 	1. Geofencing
