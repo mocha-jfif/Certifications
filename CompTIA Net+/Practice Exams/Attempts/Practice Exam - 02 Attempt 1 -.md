@@ -173,41 +173,41 @@
 	4. <mark style="background: #D2B3FFA6;">2001:0:49e6:39ff:8cf5:6812:ef56</mark>
 
 29. During a physical security evaluation by an outside contractor, you are asked whether your company uses a fail open or fail closed policy for the datacenter. You do not know what the contractor means. Which of the following physical security mechanisms can either fail close or fail open?
-	1. Door locks
+	1. <mark style="background: #D2B3FFA6;">Door locks</mark>
 	2. Motion detectors
 	3. Honeypots
 	4. Video cameras
 
 30. A disgruntled senior associate in the IT department at your company was terminated today and had to be escorted from the building. The IT director has instructed you to disable all of the former employee's accounts, change all network device passwords to which the employee had access, and have the datacenter door locks rekeyed. Which of the following terms best describes the director's concern in asking you to do these things?
 	1. Logic bombs
-	2. Internal threats
+	2. <mark style="background: #D2B3FFA6;">Internal threats</mark>
 	3. Rogue devices
 	4. Social engineering
 	5. External threats
 
 31. Ralph is troubleshooting a Windows server, and while doing so he runs the following command: `ping 127.0.0.1`. The command completes successfully. What has Ralph proven by doing this?
-	1. That the computer's network adapter is functioning properly
+	1. <mark style="background: #D2B3FFA6;">That the computer's network adapter is functioning properly</mark>
 	2. That the computer's IP address is correct for the network
 	3. That the computer's TCP/IP networking stack is loaded and functioning properly
 	4. Nothing at all
 
 32. Which of the following are not examples of multifactor authentication (MFA)? (Choose all that apply.)
 	1. A system that requires a smartcard and a PIN for authentication
-	2. A system that uses an external RADIUS server for authentication
-	3. A system that requires two passwords for authentication
+	2. <mark style="background: #D2B3FFA6;">A system that uses an external RADIUS server for authentication</mark>
+	3. <mark style="background: #D2B3FFA6;">A system that requires two passwords for authentication</mark>
 	4. A system that requires a password and a retinal scan for authentication
 
 33. A user calls Ed at the help desk to report that he cannot access the Internet. He can access systems on the local network, however. Ed examines the routing table on the user's workstation and sees the following. Which of the following statements explains why the user cannot access the Internet?![[Pasted image 20250220123150.png]]
 	1. The routing table does not specify a loopback address.
 	2. The routing table does not specify a DNS server address.
 	3. The routing table does not specify a default gateway address.
-	4. The routing table contains two different routes to the 224.0.0.0 network.
+	4. <mark style="background: #D2B3FFA6;">The routing table contains two different routes to the 224.0.0.0 network.</mark>
 
 34. Which of the following statements about single-mode fiber-optic cable are true? (Choose all that apply.)
 	1. Multimode cables use an LED light source, while single-mode cables use a laser.
 	2. Multimode cables can span longer distances than single-mode cables.
 	3. Multimode cables have a smaller core filament than single-mode cables.
-	4. Multimode cables have a smaller bend radius than single-mode, making them easier to install.
+	4. <mark style="background: #D2B3FFA6;">Multimode cables have a smaller bend radius than single-mode, making them easier to install.</mark>
 	5. Multimode fiber-optic cables require a ground, whereas single-mode cables do not.
 
 35. A user swipes a smartcard through the reader connected to a laptop and then types a password to log on to the system. Which of the following actions is the user performing?
