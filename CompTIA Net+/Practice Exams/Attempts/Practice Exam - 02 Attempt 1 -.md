@@ -525,7 +525,7 @@
 	4. Type the SSID in manually.
 
 86. You are responsible for a wireless LAN that consists of an 802.11n 2x2 access point and laptop computers with a variety of network adapters. Some of the laptops support 802.11n, and a few older models have 802.11g adapters. The wireless LAN is located in a large office building with many other wireless networks, and you are having trouble finding a channel on the 2.4 GHz band that is not congested with traffic. Scanning the 5 GHz band, you find relatively little traffic, so you reconfigure the access point to use a 5 GHz channel. The result is that some of the laptops are able to connect to the network, whereas others are not. What is the most likely reason for the connection failures, and what must you do to enable all the laptops to connect to the wireless network?
-	1. The 802.11g standard does not support communication using the 5 GHz band. You must replace the network adapters in those laptops with newer models for them to connect successfully.
+	1. <mark style="background: #D2B3FFA6;">The 802.11g standard does not support communication using the 5 GHz band. You must replace the network adapters in those laptops with newer models for them to connect successfully.</mark>
 	2. The 5 GHz band does not support automatic channel selection. You must configure each laptop to use the same channel as the access point for all the laptops to connect successfully.
 	3. The 5 GHz band does not support MIMO communications, so the 802.11n laptops are unable to connect to the network. You must replace the access point with an 802.11g unit for all the laptops to connect successfully.
 	4. The 802.11g standard does not support communication using the 5 GHz band. You must configure the access point to support 2.4 GHz for all the laptops to connect successfully.
@@ -544,7 +544,7 @@
 
 89. Your company's office building is having a fire inspection, and you are the only person on duty in the datacenter. The inspector from the fire department is reviewing the company's asset inventory and asks you where they can find documentation about all chemicals and equipment used in the company's datacenter. You lead the inspector to the director's office, but you are not sure what the documents he needs are called. Which of the following document types contains this information?
 	1. MSDS
-	2. ESD
+	2. <mark style="background: #D2B3FFA6;">ESD</mark>
 	3. NDA
 	4. BYOD
 
@@ -552,26 +552,26 @@
 	1. Alternative A
 	2. 4PPoE
 	3. Alternative B
-	4. All of the above
+	4. <mark style="background: #D2B3FFA6;">All of the above</mark>
 
 91. Which of the following statements about the differences between storage area networks (SANs) and network attached storage (NAS) are not true? (Choose all that apply.)
-	1. NAS devices typically provide a filesystem, whereas SAN devices do not.
-	2. NAS devices typically contain integrated iSCSI targets.
+	1. <mark style="background: #D2B3FFA6;">NAS devices typically provide a filesystem, whereas SAN devices do not.</mark>
+	2. <mark style="background: #D2B3FFA6;">NAS devices typically contain integrated iSCSI targets.</mark>
 	3. NAS provides file-level storage access, whereas SAN provides block-level storage access.
 	4. SAN devices have an operating system, whereas NAS devices do not.
 
 92. You are deploying an 802.11n wireless network for a client who is asking for the best possible security you can provide without deploying additional servers. When setting up the wireless access point, you disable SSID broadcasts, select Wi-Fi Protected Access Preshared Keys (WPA-PSK), and configure MAC address filtering. Which of the following statements about the security of this arrangement is true?
-	1. You should not disable SSID broadcasts, because this prevents users from connecting to the network.
+	1. <mark style="background: #D2B3FFA6;">You should not disable SSID broadcasts, because this prevents users from connecting to the network.</mark>
 	2. The configuration is as secure as you can make it with the specified equipment.
-	3. You should use Wi-Fi Protected Access 3 (WPA3) instead of WPA, since it is more resistant to certain types of attacks.
+	3. <mark style="background: #D2B3FFA6;">You should use Wi-Fi Protected Access 3 (WPA3) instead of WPA, since it is more resistant to certain types of attacks.</mark>
 	4. You should not use MAC address filtering, because it exposes MAC addresses to possible attacks.
 
 93. Which of the following connector types are used with fiber-optic cables? (Choose all that apply.)
 	1. DB-9
-	2. SC
+	2. <mark style="background: #D2B3FFA6;">SC</mark>
 	3. BNC
-	4. ST
-	5. MPO
+	4. <mark style="background: #D2B3FFA6;">ST</mark>
+	5. <mark style="background: #D2B3FFA6;">MPO</mark>
 	6. RJ-11
 
 94. Which of the following are available as Internet of Things (IoT) devices?
@@ -579,13 +579,13 @@
 	2. Doorbells
 	3. Thermostats
 	4. Speakers
-	5. All of the above
+	5. <mark style="background: #D2B3FFA6;">All of the above</mark>
 
 95. You are designing an Ethernet network for your company's newest branch office. Your current task is to decide which Ethernet specification to use for the network, a decision that you know will determine what type of cabling you need to purchase and the topology with which the cable will be installed. Which layers of the Open Systems Interconnection (OSI) reference model apply to the cabling and topology elements of a network?
 	1. The Application and Transport layers
 	2. The Transport and Network layers
 	3. The Network and Data link layers
-	4. The Data link and Physical layers
+	4. <mark style="background: #D2B3FFA6;">The Data link and Physical layers</mark>
 
 96. You are troubleshooting a workstation that cannot access the network. The workstation is plugged into a wall plate that should provide it with access to a DHCP-equipped network using the 192.168.4.0/24 network address. No one else on that network is reporting a problem. You check that the patch cable is properly plugged into the workstation and the wall plate, which it is, and then run `ipconfig /all` on the workstation and examine the output. Which of the following could be the explanation for the workstation's problem, based on the following `ipconfig` results? ![[Pasted image 20250220145507.png]]
 	1. The DNS server addresses are incorrect.
