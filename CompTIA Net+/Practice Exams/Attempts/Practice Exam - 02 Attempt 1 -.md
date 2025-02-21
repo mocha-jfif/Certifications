@@ -434,7 +434,7 @@
 
 71. You are starting work for a contractor who performs telecommunications cable installations. One of the tools in the kit you have been given is unfamiliar to you. What is the name of the tool shown in the following figure? ![[Pasted image 20250220142114.png]]
 	1. Crimper
-	2. Punchdown tool
+	2. <mark style="background: #D2B3FFA6;">Punchdown tool</mark>
 	3. Butt set
 	4. Toner and probe
 
@@ -443,31 +443,31 @@
 	2. Bluetooth
 	3. IEEE 802.11ac
 	4. IEEE 802.11a
-	5. IEEE 802.11n
+	5. <mark style="background: #D2B3FFA6;">IEEE 802.11n</mark>
 
 73. You are working on your company's screened subnet (also known as a perimeter network), which has five Linux web servers, a Cisco router, a CSU/DSU providing a leased line connection, and a Windows-based firewall on it. While trying to troubleshoot a network communications failure, you type the following command on one of the systems: `traceroute` [`adatum.com`](http://www.adatum.com/). Which of the following systems might you be working on? (Choose all that apply.)
-	1. The Cisco router
-	2. One of the Linux web servers
+	1. <mark style="background: #D2B3FFA6;">The Cisco router</mark>
+	2. <mark style="background: #D2B3FFA6;">One of the Linux web servers</mark>
 	3. The CSU/DSU console
 	4. The Windows-based firewall
 
 74. Which of the following are network topologies used by IEEE 802.11 wireless local area networks (WLANs)? (Choose all that apply.)
 	1. Bus
 	2. Spine and leaf
-	3. Ad hoc
-	4. Star/hub and spoke
+	3. <mark style="background: #D2B3FFA6;">Ad hoc</mark>
+	4. <mark style="background: #D2B3FFA6;">Star/hub and spoke</mark>
 	5. Infrastructure
 
 75. Which version of the Simple Network Management Protocol (SNMP) uses as its security mechanism two separate unencrypted community strings?
 	1. SNMPv1
 	2. SNMPv2
-	3. SNMPv2c
+	3. <mark style="background: #D2B3FFA6;">SNMPv2c</mark>
 	4. SNMPv3
 
 76. You are working the help desk at a local computer store, and you receive a call from a customer trying to set up a home network using computers running Windows 11 and wired Ethernet equipment. The customer reports that she cannot access the other two computers in the house from her workstation, nor can she access the Internet. You ask her to run the `ipconfig /all` command and read the results to you. She says that her IP address is 192.168.0.2, her subnet mask is 255.255.255.0, and her default gateway is 192.168.0.1. Which of the following is the most likely cause of the customer's problem?
-	1. The customer's network address cannot include a zero.
+	1. <mark style="background: #FFB8EBA6;">The customer's network address cannot include a zero.</mark>
 	2. The customer has an incorrect subnet mask.
-	3. The customer's network cable is damaged or unplugged.
+	3. <mark style="background: #D2B3FFA6;">The customer's network cable is damaged or unplugged.</mark>
 	4. The customer has an incorrect default gateway address.
 
 77. Some networks are designed with a switching fabric that contains redundant paths for fault tolerance purposes. However, in this type of design it is possible for packets to circulate endlessly around the network, which is called a switching loop. Which of the following protocols prevents network switching loops from occurring by shutting down redundant links until they are needed?
