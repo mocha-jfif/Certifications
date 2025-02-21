@@ -612,7 +612,7 @@
 	3. <mark style="background: #D2B3FFA6;">East-west traffic stays within the datacenter, while north-south traffic does not.</mark>
 	4. East-west is backbone traffic among switches and routers, while north-south is traffic to end systems, such as servers.
 
-100. Which of the following Windows command-line utilities produced the output shown here? ![[Pasted image 20250220150859.png]]
+100. Which of the following Windows command-line utilities produced the output shown here? ✅    ![[Pasted image 20250220150859.png]]
 	1. `arp`
 	2. `ping`
 	3. `tracert`
