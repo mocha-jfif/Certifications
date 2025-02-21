@@ -110,131 +110,131 @@
 	3. `perfmon`
 	4. <mark style="background: #D2B3FFA6;">`top`</mark>
 
-19. You are contracting with a provider to obtain email services for the clients on your network, using their existing email servers in the public cloud. You do not need anything from the provider other than email. Which of the following service models will you be using?
+19. You are contracting with a provider to obtain email services for the clients on your network, using their existing email servers in the public cloud. You do not need anything from the provider other than email. Which of the following service models will you be using? ❌
 	1. <mark style="background: #D2B3FFA6;">PaaS</mark>
 	2. SaaS
 	3. IaaS
 	4. All of the above
 
-20. Security information and event management (SIEM) is a combination tool that uses information gathered from logs and network devices to provide a real-time analysis of the network's security condition. Which of the following SIEM processes performs searches for specific criteria, during specific time frames, in logs located on different computers?
+20. Security information and event management (SIEM) is a combination tool that uses information gathered from logs and network devices to provide a real-time analysis of the network's security condition. Which of the following SIEM processes performs searches for specific criteria, during specific time frames, in logs located on different computers? ❌
 	1. <mark style="background: #D2B3FFA6;">Data aggregation</mark>
 	2. Correlation
 	3. Retention
 	4. Forensic analysis
 
-21. When you start a Dynamic Host Configuration Protocol (DHCP) client, it transmits DHCPDISCOVER messages to locate and initiate contact with DHCP servers. Which of the following types of transmissions does the client use for this purpose?
+21. When you start a Dynamic Host Configuration Protocol (DHCP) client, it transmits DHCPDISCOVER messages to locate and initiate contact with DHCP servers. Which of the following types of transmissions does the client use for this purpose? ✅
 	1. <mark style="background: #D2B3FFA6;">Broadcast</mark>
 	2. Unicast
 	3. Multicast
 	4. Anycast
 
-22. Which of the following technologies enables virtual private network (VPN) users to establish a connection using only a web browser?
+22. Which of the following technologies enables virtual private network (VPN) users to establish a connection using only a web browser? ❌
 	1. VPN concentrator
 	2. DMVPN
 	3. SIP trunk
 	4. MPLS
 	5. <mark style="background: #D2B3FFA6;">Clientless VPN</mark>
 
-23. You are installing a wireless network in a site that has many 2.4 GHz wireless telephones. Which of the following wireless networking technologies can you use that will never experience interference from the telephones? (Choose all that apply.)
+23. You are installing a wireless network in a site that has many 2.4 GHz wireless telephones. Which of the following wireless networking technologies can you use that will never experience interference from the telephones? (Choose all that apply.) ==1/2==
 	1. IEEE 802.11b
 	2. <mark style="background: #D2B3FFA6;">IEEE 802.11g</mark>
 	3. <mark style="background: #D2B3FFA6;">IEEE 802.11ac</mark>
 	4. IEEE 802.11a
 	5. IEEE 802.11n
 
-24. Which of the following is another term for a switch?
+24. Which of the following is another term for a switch? ✅
 	1. Multicast hub
 	2. Multiport repeater
 	3. <mark style="background: #D2B3FFA6;">Multiport bridge</mark>
 	4. Multihomed router
 
-25. You are working at a client site with a managed router that includes a console port for administrative access, which you can use to connect a laptop and run a terminal program to access the device's interface. Which of the following is the best term for this type of access to the device?
+25. You are working at a client site with a managed router that includes a console port for administrative access, which you can use to connect a laptop and run a terminal program to access the device's interface. Which of the following is the best term for this type of access to the device? ❌
 	1. Client-to-site
 	2. <mark style="background: #D2B3FFA6;">In-band</mark>
 	3. BYOD
 	4. Out-of-band
 
-26. Which of the following describes the primary difference between single sign-on (SSO) and same sign-on?
+26. Which of the following describes the primary difference between single sign-on (SSO) and same sign-on? ✅
 	1. Single sign-on (SSO) credentials consist of one username and one password, whereas same sign-on credentials consist of one username and multiple passwords.
 	2. <mark style="background: #D2B3FFA6;">Single sign-on (SSO) requires the user to supply credentials only once, whereas with same sign-on, the user must supply the credentials repeatedly.</mark>
 	3. Single sign-on (SSO) requires multifactor authentication, such as a password and a smartcard, whereas same sign-on requires only a password for authentication.
 	4. Single sign-on (SSO) enables users to access different resources with one set of credentials, whereas same sign-on requires users to have multiple credential sets.
 
-27. You have a laptop that requires you to hold your finger on a scanner pad before you can use it. A device equipped with a fingerprint scanner that is part of a multifactor authentication mechanism is using which of the following types of technology?
+27. You have a laptop that requires you to hold your finger on a scanner pad before you can use it. A device equipped with a fingerprint scanner that is part of a multifactor authentication mechanism is using which of the following types of technology? ✅
 	1. Tamper detection
 	2. <mark style="background: #D2B3FFA6;">Biometrics</mark>
 	3. Hand geometry
 	4. Pattern recognition
 
-28. You have been asked to locate the computers on a network that the previous consultant has configured with incorrect IPv6 addresses. Which of the following are not correctly formatted IPv6 addresses? (Choose all that apply.)
+28. You have been asked to locate the computers on a network that the previous consultant has configured with incorrect IPv6 addresses. Which of the following are not correctly formatted IPv6 addresses? (Choose all that apply.) ==2/3==
 	1. e00::c955:c944:acdd:3fcb
 	2. fe00::b491:cf79:p493:23ff
 	3. <mark style="background: #D2B3FFA6;">2001:0:44ef68:23eb:99fe:72bec6:ea5f</mark>
 	4. <mark style="background: #D2B3FFA6;">2001:0:49e6:39ff:8cf5:6812:ef56</mark>
 
-29. During a physical security evaluation by an outside contractor, you are asked whether your company uses a fail open or fail closed policy for the datacenter. You do not know what the contractor means. Which of the following physical security mechanisms can either fail close or fail open?
+29. During a physical security evaluation by an outside contractor, you are asked whether your company uses a fail open or fail closed policy for the datacenter. You do not know what the contractor means. Which of the following physical security mechanisms can either fail close or fail open? ✅
 	1. <mark style="background: #D2B3FFA6;">Door locks</mark>
 	2. Motion detectors
 	3. Honeypots
 	4. Video cameras
 
-30. A disgruntled senior associate in the IT department at your company was terminated today and had to be escorted from the building. The IT director has instructed you to disable all of the former employee's accounts, change all network device passwords to which the employee had access, and have the datacenter door locks rekeyed. Which of the following terms best describes the director's concern in asking you to do these things?
+30. A disgruntled senior associate in the IT department at your company was terminated today and had to be escorted from the building. The IT director has instructed you to disable all of the former employee's accounts, change all network device passwords to which the employee had access, and have the datacenter door locks rekeyed. Which of the following terms best describes the director's concern in asking you to do these things? ✅
 	1. Logic bombs
 	2. <mark style="background: #D2B3FFA6;">Internal threats</mark>
 	3. Rogue devices
 	4. Social engineering
 	5. External threats
 
-31. Ralph is troubleshooting a Windows server, and while doing so he runs the following command: `ping 127.0.0.1`. The command completes successfully. What has Ralph proven by doing this?
+31. Ralph is troubleshooting a Windows server, and while doing so he runs the following command: `ping 127.0.0.1`. The command completes successfully. What has Ralph proven by doing this? ❌
 	1. <mark style="background: #D2B3FFA6;">That the computer's network adapter is functioning properly</mark>
 	2. That the computer's IP address is correct for the network
 	3. That the computer's TCP/IP networking stack is loaded and functioning properly
 	4. Nothing at all
 
-32. Which of the following are not examples of multifactor authentication (MFA)? (Choose all that apply.)
+32. Which of the following are not examples of multifactor authentication (MFA)? (Choose all that apply.) ✅
 	1. A system that requires a smartcard and a PIN for authentication
 	2. <mark style="background: #D2B3FFA6;">A system that uses an external RADIUS server for authentication</mark>
 	3. <mark style="background: #D2B3FFA6;">A system that requires two passwords for authentication</mark>
 	4. A system that requires a password and a retinal scan for authentication
 
-33. A user calls Ed at the help desk to report that he cannot access the Internet. He can access systems on the local network, however. Ed examines the routing table on the user's workstation and sees the following. Which of the following statements explains why the user cannot access the Internet?![[Pasted image 20250220123150.png]]
+33. A user calls Ed at the help desk to report that he cannot access the Internet. He can access systems on the local network, however. Ed examines the routing table on the user's workstation and sees the following. Which of the following statements explains why the user cannot access the Internet? ❌ ![[Pasted image 20250220123150.png]]
 	1. The routing table does not specify a loopback address.
 	2. The routing table does not specify a DNS server address.
 	3. The routing table does not specify a default gateway address.
 	4. <mark style="background: #D2B3FFA6;">The routing table contains two different routes to the 224.0.0.0 network.</mark>
 
-34. Which of the following statements about single-mode fiber-optic cable are true? (Choose all that apply.)
+34. Which of the following statements about single-mode fiber-optic cable are true? (Choose all that apply.) ==1/2==
 	1. Multimode cables use an LED light source, while single-mode cables use a laser.
 	2. Multimode cables can span longer distances than single-mode cables.
 	3. Multimode cables have a smaller core filament than single-mode cables.
 	4. <mark style="background: #D2B3FFA6;">Multimode cables have a smaller bend radius than single-mode, making them easier to install.</mark>
 	5. Multimode fiber-optic cables require a ground, whereas single-mode cables do not.
 
-35. A user swipes a smartcard through the reader connected to a laptop and then types a password to log on to the system. Which of the following actions is the user performing?
+35. A user swipes a smartcard through the reader connected to a laptop and then types a password to log on to the system. Which of the following actions is the user performing? ✅
 	1. Auditing
 	2. Accounting
 	3. Authorization
 	4. <mark style="background: #D2B3FFA6;">Authentication</mark>
 
-36. Which of the following cabling topologies have never been used by standard Ethernet networks? (Choose all that apply.)
+36. Which of the following cabling topologies have never been used by standard Ethernet networks? (Choose all that apply.) ✅
 	1. Bus
 	2. <mark style="background: #D2B3FFA6;">Ring</mark>
 	3. Star/hub and spoke
-	4. Mesh
+	4. <mark style="background: #D2B3FFA6;">Mesh</mark>
 
-37. Pulling into your company parking lot at lunchtime, you notice a person without a company parking sticker on his car working at a laptop. You have seen this more than once, and you begin to suspect that unauthorized users are connecting to the company's wireless access point and gaining access to the network. Which of the following are steps you can take to prevent this from happening in the future? (Choose all that apply.)
+37. Pulling into your company parking lot at lunchtime, you notice a person without a company parking sticker on his car working at a laptop. You have seen this more than once, and you begin to suspect that unauthorized users are connecting to the company's wireless access point and gaining access to the network. Which of the following are steps you can take to prevent this from happening in the future? (Choose all that apply.) ==1/2==
 	1. Use RADIUS for authentication.
 	2. <mark style="background: #D2B3FFA6;">Place the access point in a screened subnet.</mark>
 	3. Disable SSID broadcasting.
 	4. <mark style="background: #D2B3FFA6;">Implement MAC address filtering</mark>.
 
-38. Which of the following is a fault tolerance mechanism for the default gateway on a specific TCP/IP LAN?
+38. Which of the following is a fault tolerance mechanism for the default gateway on a specific TCP/IP LAN? ✅
 	1. Open Shortest Path First (OSPF)
 	2. <mark style="background: #D2B3FFA6;">First Hop Redundancy Protocol (FHRP)</mark>
 	3. Spanning Tree Protocol (STP)
 	4. Network address translation (NAT)
 
-39. Multiprotocol switches are devices that perform functions associated with two different layers of the Open Systems Interconnection (OSI) reference model. Which of the following layers are often associated with network switching? (Choose all that apply.)
+39. Multiprotocol switches are devices that perform functions associated with two different layers of the Open Systems Interconnection (OSI) reference model. Which of the following layers are often associated with network switching? (Choose all that apply.) ✅
 	1. Application
 	2. Presentation
 	3. Session
@@ -243,126 +243,126 @@
 	6. <mark style="background: #D2B3FFA6;">Data link</mark>
 	7. Physical
 
-40. You are attempting to connect your new laptop to your company's wireless network. The wireless access point on the network has an SSID that is not broadcasted and uses WPA3 for security. Which of the following describes what you must do to connect your laptop to the network?
+40. You are attempting to connect your new laptop to your company's wireless network. The wireless access point on the network has an SSID that is not broadcasted and uses WPA3 for security. Which of the following describes what you must do to connect your laptop to the network? ✅
 	1. Select the SSID from a list and allow the client to automatically detect the security protocol.
 	2. <mark style="background: #D2B3FFA6;">Type the SSID manually and then select WPA3 from the security protocol options provided.</mark>
 	3. Type the SSID manually and allow the client to automatically detect the security protocol.
 	4. Select the SSID from a list and then select WPA3 from the security protocol options provided.
 
-41. Carrier Sense Multiple Access with Collision Avoidance (CSMA/CA) is a media access control mechanism designed to prevent two systems using the same network medium from transmitting at the same time. Which of the following IEEE standards calls for the use of CSMA/CA?
+41. Carrier Sense Multiple Access with Collision Avoidance (CSMA/CA) is a media access control mechanism designed to prevent two systems using the same network medium from transmitting at the same time. Which of the following IEEE standards calls for the use of CSMA/CA? ❌
 	1. <mark style="background: #D2B3FFA6;">802.3</mark>
 	2. 802.1X
 	3. 802.11ac
 	4. All of the above
 
-42. A large enterprise network will—at a minimum—have demarcation points for telephone services and a connection to an Internet service provider's network. In many cases, these services will enter the building in the same equipment room that houses the backbone switch. Which of the following is the term used to describe this wiring nexus?
+42. A large enterprise network will—at a minimum—have demarcation points for telephone services and a connection to an Internet service provider's network. In many cases, these services will enter the building in the same equipment room that houses the backbone switch. Which of the following is the term used to describe this wiring nexus? ✅
 	1. MTBF
-	2. <mark style="background: #D2B3FFA6;">IDF</mark>
+	2. IDF
 	3. RDP
 	4. <mark style="background: #D2B3FFA6;">MDF</mark>
 
-43. You have configured your company's wireless network to enable a client to authenticate only when the signal strength of their connection exceeds a specified level. Which of the following terms best describes the security mechanism provided by this configuration?
+43. You have configured your company's wireless network to enable a client to authenticate only when the signal strength of their connection exceeds a specified level. Which of the following terms best describes the security mechanism provided by this configuration? ❌
 	1. Geofencing
 	2. <mark style="background: #D2B3FFA6;">Local authentication</mark>
 	3. Motion detection
 	4. Port security
 
-44. Social engineering has become an increasingly serious problem on your company network. Which of the following is an effective method for preventing sensitive data from being compromised through social engineering?
+44. Social engineering has become an increasingly serious problem on your company network. Which of the following is an effective method for preventing sensitive data from being compromised through social engineering? ✅
 	1. Install a firewall between the internal network and the Internet.
 	2. Install an antivirus software product on all user workstations.
 	3. <mark style="background: #D2B3FFA6;">Implement a program of user education and corporate policies.</mark>
 	4. Use IPsec to encrypt all network traffic.
 
-45. You have been given a Class B network IP address with which to configure the new network you are designing. Which of the following is the default subnet mask you should use for an IPv4 Class B network?
+45. You have been given a Class B network IP address with which to configure the new network you are designing. Which of the following is the default subnet mask you should use for an IPv4 Class B network? ✅
 	1. 255.255.255.255
     1. 255.255.255.0
     2. <mark style="background: #D2B3FFA6;">255.255.0.0</mark>
     3. 255.0.0.0
 
-46. Alice's company has just started working with sensitive government data. To enhance the security of the datacenter, she has implemented some additional security measures. All the servers now have crimped metal tags holding the cases closed. All the hardware racks are locked in clear-fronted cabinets. All the cable runs are installed in transparent conduits. These are all examples of which of the following physical security measures?
+46. Alice's company has just started working with sensitive government data. To enhance the security of the datacenter, she has implemented some additional security measures. All the servers now have crimped metal tags holding the cases closed. All the hardware racks are locked in clear-fronted cabinets. All the cable runs are installed in transparent conduits. These are all examples of which of the following physical security measures? ✅
 	1. Geofencing
 	2. <mark style="background: #D2B3FFA6;">Tamper detection</mark>
 	3. Port security
 	4. Asset tracking
 
-47. You have just installed a web server for your company that is configured to host a public Internet site using the registered domain name [adatum.com](http://www.adatum.com/). The server's hostname in the Domain Name System (DNS) is `www`. The web server also has an administrative site, which you want to be able to access remotely. You have configured the administrative site to be encrypted and to use the port number 12354. Which of the following URLs must you use to access the administrative website from the Internet?
+47. You have just installed a web server for your company that is configured to host a public Internet site using the registered domain name [adatum.com](http://www.adatum.com/). The server's hostname in the Domain Name System (DNS) is `www`. The web server also has an administrative site, which you want to be able to access remotely. You have configured the administrative site to be encrypted and to use the port number 12354. Which of the following URLs must you use to access the administrative website from the Internet? ✅
 	1. <mark style="background: #D2B3FFA6;">[`www.adatum.com:12354`](http://www.adatum.com:12354/)</mark>
 	2. [`www.adatum.com`](http://www.adatum.com/)
 	3. [`www.adatum.com:80`](http://www.adatum.com/)
 	4. [`www.adatum.com:12354`](http://www.adatum.com:12354/)
 
-48. To prevent outside users from accessing your wireless network, you configure the access point not to broadcast the network's SSID. However, you later discover that outsiders are still accessing the network. For which of the following reasons is disabling SSID broadcasts a relatively weak method of device hardening?
-	4. Every access point's SSID is printed on a label on the back of the device.
-	5. Attackers have software that can easily guess a network's SSID.
-	6. Attackers can capture packets transmitted over the network and read the SSID from them.
-	7. <mark style="background: #D2B3FFA6;">Attackers have ways of connecting to the network without the SSID.</mark>
+48. To prevent outside users from accessing your wireless network, you configure the access point not to broadcast the network's SSID. However, you later discover that outsiders are still accessing the network. For which of the following reasons is disabling SSID broadcasts a relatively weak method of device hardening? ❌
+	1. Every access point's SSID is printed on a label on the back of the device.
+	2. Attackers have software that can easily guess a network's SSID.
+	3. Attackers can capture packets transmitted over the network and read the SSID from them.
+	4. <mark style="background: #D2B3FFA6;">Attackers have ways of connecting to the network without the SSID.</mark>
 
-49. You are installing a web server farm in your corporate headquarters that will be used to host websites for the corporation's subsidiaries, which are located all around the world. In which of the following cloud models does a single organization function as both the provider and the consumer of all cloud services?
+49. You are installing a web server farm in your corporate headquarters that will be used to host websites for the corporation's subsidiaries, which are located all around the world. In which of the following cloud models does a single organization function as both the provider and the consumer of all cloud services? ✅
 	1. <mark style="background: #D2B3FFA6;">Private cloud</mark>
 	2. Public cloud
 	3. Ad hoc cloud
 	4. Hybrid cloud
 
-50. Your supervisor has recently begun using the terms _on-boarding_ and _off-boarding_, with which you are unfamiliar. With which of the following types of policies are these terms typically associated?
+50. Your supervisor has recently begun using the terms _on-boarding_ and _off-boarding_, with which you are unfamiliar. With which of the following types of policies are these terms typically associated? ✅
 	1. Incident response
 	2. <mark style="background: #D2B3FFA6;">Identity management</mark>
-	3. <mark style="background: #D2B3FFA6;">Inventory management</mark>
+	3. Inventory management
 	4. Data loss prevention
 
-51. Virtual private networks (VPNs) use a data transmission technique called tunneling, which encapsulates a data packet within another packet for transmission over a network connection, typically using the Internet. The system also encrypts the entire encapsulated data packet for protection. Split tunneling is a variation of this method that provides which of the following advantages? (Choose all that apply.)
+51. Virtual private networks (VPNs) use a data transmission technique called tunneling, which encapsulates a data packet within another packet for transmission over a network connection, typically using the Internet. The system also encrypts the entire encapsulated data packet for protection. Split tunneling is a variation of this method that provides which of the following advantages? (Choose all that apply.) ==1/2==
 	1. Additional data integrity protection
 	2. <mark style="background: #D2B3FFA6;">Access to local network devices while connected to the VPN</mark>
 	3. <mark style="background: #D2B3FFA6;">Faster data transmission through multiplexing</mark>
 	4. Conservation of VPN bandwidth
 
-52. Your supervisor wants you to disable all of the ports on the network's switches that are not in use. You tell her that this is not necessary; she wants to know why you think so. Which of the following are valid reasons not to disable unused switch ports? (Choose all that apply.)
+52. Your supervisor wants you to disable all of the ports on the network's switches that are not in use. You tell her that this is not necessary; she wants to know why you think so. Which of the following are valid reasons not to disable unused switch ports? (Choose all that apply.) ❌
 	1. <mark style="background: #D2B3FFA6;">The unused ports are not patched into wall jacks.</mark>
 	2. The datacenter is already secured from unauthorized access.
 	3. The switch is configured to use a MAC-based access control list.
 	4. <mark style="background: #D2B3FFA6;">Leaving some ports enabled facilitates the on-boarding of new users.</mark>
 
-53. Which of the following are security mechanisms that fall into the category of deception technologies?
+53. Which of the following are security mechanisms that fall into the category of deception technologies? ✅
 	1. <mark style="background: #D2B3FFA6;">Honeypots and honeynets</mark>
 	2. Root guards
 	3. Screened subnets
 	4. Geofencing
 
-54. Which of the following network devices can employ access control lists (ACLs) to restrict access? (Choose all that apply.)
+54. Which of the following network devices can employ access control lists (ACLs) to restrict access? (Choose all that apply.) ==1/2==
 	1. Routers
 	2. Servers
 	3. <mark style="background: #D2B3FFA6;">Switches</mark>
 	4. Hubs
 	5. <mark style="background: #D2B3FFA6;">Wireless access points</mark>
 
-55. Which of the following terms is not associated with Data link layer communications?
+55. Which of the following terms is not associated with Data link layer communications? ✅
 	1. <mark style="background: #D2B3FFA6;">Administrative distance</mark>
 	2. Spanning Tree Protocol
 	3. Maximum transmission unit
 	4. Jumbo frames
 
-56. Which of the following statements about DHCP snooping are true? (Choose all that apply.)
+56. Which of the following statements about DHCP snooping are true? (Choose all that apply.) ==2/3==
 	1. DHCP snooping is implemented in network switches.
 	2. DHCP snooping prevents DNS cache poisoning.
 	3. <mark style="background: #D2B3FFA6;">DHCP snooping detects rogue DHCP servers.</mark>
 	4. <mark style="background: #D2B3FFA6;">DHCP snooping drops DHCP messages arriving over the incorrect port.</mark>
 
-57. A user reports that she cannot connect to a server on her network. You want to identify the scope of the problem, so you try to reproduce the problem on the user's computer. The problem persists. No other users are reporting the same problem. What is the next logical step that you should perform to identify the affected area?
+57. A user reports that she cannot connect to a server on her network. You want to identify the scope of the problem, so you try to reproduce the problem on the user's computer. The problem persists. No other users are reporting the same problem. What is the next logical step that you should perform to identify the affected area? ✅
 	1. Examine the server's configuration for the correct settings.
 	2. Verify that the local router is forwarding traffic.
 	3. Confirm that the switch the client is connected to is functioning.
 	4. <mark style="background: #D2B3FFA6;">Perform the same task on another computer connected to the same segment.</mark>
 
-58. On a wireless network, which of the following best describes an example of a captive portal?
+58. On a wireless network, which of the following best describes an example of a captive portal? ✅
 	1. A web page stating that the data on a user's computer has been locked and will only be unlocked after payment of a fee
 	2. A dedicated switch port used to connect to other switches
 	3. <mark style="background: #D2B3FFA6;">A web page with which a user must interact before being granted access to a wireless network</mark>
 	4. A series of two doors with an intervening airlock through which people must pass before they can enter a secured space
 
 59. In the standard troubleshooting methodology, you begin by taking steps to identify the problem. After you have done this, which of the following steps should you perform next?
-	1. Verify full system functionality.
-	2. <mark style="background: #D2B3FFA6;">Establish a theory of probable cause.</mark>
-	3. Establish a plan of action.
-	4. Implement the solution.
+	5. Verify full system functionality.
+	6. <mark style="background: #D2B3FFA6;">Establish a theory of probable cause.</mark>
+	7. Establish a plan of action.
+	8. Implement the solution.
 
 60. The secured version of the Hypertext Transfer Protocol (HTTPS) uses a different well-known port from the unsecured version (HTTP). Which of the following ports are used by HTTP and HTTPS by default? (Choose all that apply.)
 	1. 25

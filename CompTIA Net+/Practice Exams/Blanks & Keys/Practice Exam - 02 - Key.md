@@ -218,9 +218,9 @@
 
 36. Which of the following cabling topologies have never been used by standard Ethernet networks? (Choose all that apply.)
 	1. Bus
-	2. Ring
+	2. <mark style="background: #BBFABBA6;">Ring</mark>
 	3. Star/hub and spoke
-	4. Mesh
+	4. <mark style="background: #BBFABBA6;">Mesh</mark>
 
 37. Pulling into your company parking lot at lunchtime, you notice a person without a company parking sticker on his car working at a laptop. You have seen this more than once, and you begin to suspect that unauthorized users are connecting to the company's wireless access point and gaining access to the network. Which of the following are steps you can take to prevent this from happening in the future? (Choose all that apply.)
 	1. Use RADIUS for authentication.
