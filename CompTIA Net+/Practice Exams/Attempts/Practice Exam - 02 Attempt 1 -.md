@@ -98,7 +98,7 @@
 	4. An update
 
 17. Twisted-pair cables consist of multiple pairs of wires within a sheath, with each pair of wires twisted together separately. Which of the following statements best explain the reason for the twists in twisted-pair cabling? (Choose all that apply.)
-	1. The twists help to prevent crosstalk in adjacent wire pairs.
+	1. <mark style="background: #D2B3FFA6;">The twists help to prevent crosstalk in adjacent wire pairs.</mark>
 	2. The twists make it easier for installers to attach connectors to the cable ends.
 	3. The twists extend the cable's bend radius allowance, making it easier to install.
 	4. The twists limit the effects of electromagnetic interference (EMI) on the signals carried over the cable.
@@ -150,27 +150,27 @@
 
 25. You are working at a client site with a managed router that includes a console port for administrative access, which you can use to connect a laptop and run a terminal program to access the device's interface. Which of the following is the best term for this type of access to the device?
 	1. Client-to-site
-	2. In-band
+	2. <mark style="background: #D2B3FFA6;">In-band</mark>
 	3. BYOD
 	4. Out-of-band
 
 26. Which of the following describes the primary difference between single sign-on (SSO) and same sign-on?
 	1. Single sign-on (SSO) credentials consist of one username and one password, whereas same sign-on credentials consist of one username and multiple passwords.
-	2. Single sign-on (SSO) requires the user to supply credentials only once, whereas with same sign-on, the user must supply the credentials repeatedly.
+	2. <mark style="background: #D2B3FFA6;">Single sign-on (SSO) requires the user to supply credentials only once, whereas with same sign-on, the user must supply the credentials repeatedly.</mark>
 	3. Single sign-on (SSO) requires multifactor authentication, such as a password and a smartcard, whereas same sign-on requires only a password for authentication.
 	4. Single sign-on (SSO) enables users to access different resources with one set of credentials, whereas same sign-on requires users to have multiple credential sets.
 
 27. You have a laptop that requires you to hold your finger on a scanner pad before you can use it. A device equipped with a fingerprint scanner that is part of a multifactor authentication mechanism is using which of the following types of technology?
 	1. Tamper detection
-	2. Biometrics
+	2. <mark style="background: #D2B3FFA6;">Biometrics</mark>
 	3. Hand geometry
 	4. Pattern recognition
 
 28. You have been asked to locate the computers on a network that the previous consultant has configured with incorrect IPv6 addresses. Which of the following are not correctly formatted IPv6 addresses? (Choose all that apply.)
 	1. e00::c955:c944:acdd:3fcb
 	2. fe00::b491:cf79:p493:23ff
-	3. 2001:0:44ef68:23eb:99fe:72bec6:ea5f
-	4. 2001:0:49e6:39ff:8cf5:6812:ef56
+	3. <mark style="background: #D2B3FFA6;">2001:0:44ef68:23eb:99fe:72bec6:ea5f</mark>
+	4. <mark style="background: #D2B3FFA6;">2001:0:49e6:39ff:8cf5:6812:ef56</mark>
 
 29. During a physical security evaluation by an outside contractor, you are asked whether your company uses a fail open or fail closed policy for the datacenter. You do not know what the contractor means. Which of the following physical security mechanisms can either fail close or fail open?
 	1. Door locks
