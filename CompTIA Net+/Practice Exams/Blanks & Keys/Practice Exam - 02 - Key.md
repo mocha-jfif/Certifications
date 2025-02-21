@@ -45,11 +45,11 @@
 	1. Telnet
 	2. <mark style="background: #BBFABBA6;">Simple Mail Transfer Protocol (SMTP)</mark>
 	3. File Transfer Protocol (FTP)
-	4. Domain Name System (DNS)
+	4. <mark style="background: #BBFABBA6;">Domain Name System (DNS)</mark>
 
 9. Which of the following statements about switches are true? (Choose all that apply.)
-	1. Switches provide internal crossover circuits and use uplink ports to form a hierarchical star/hub and spoke topology.
-	2. Switches are Data link layer devices that connect network devices in a star/hub and spoke topology.
+	1. <mark style="background: #BBFABBA6;">Switches provide internal crossover circuits and use uplink ports to form a hierarchical star/hub and spoke topology.</mark>
+	2. <mark style="background: #BBFABBA6;">Switches are Data link layer devices that connect network devices in a star/hub and spoke topology.</mark>
 	3. Switches amplify and repeat signals received through one port out all other ports regardless of the destination.
 	4. Switches use IP addresses to identify the devices connected to specific ports.
 
@@ -57,62 +57,62 @@
 	1. 64
 	2. 65
 	3. 66
-	4. 67
-	5. 68
-	6. 69
+	4. <mark style="background: #BBFABBA6;">67</mark>
+	5. <mark style="background: #BBFABBA6;">68</mark>
+	6. <mark style="background: #BBFABBA6;">69</mark>
 
 11. Your department is experiencing frequent delays as users wait for images to render using their outdated graphics software package. As a result, you submitted a change request for a new software product at the monthly meeting of the company's change management team. Now that the change request has been approved, it is time to implement the change. Which of the following administrative tasks will most likely be the change management team's responsibility during the implementation process? (Choose all that apply.)
 	1. Notifying users
 	2. Documenting all modifications made
-	3. Authorizing downtime
-	4. Designating a maintenance window
+	3. <mark style="background: #BBFABBA6;">Authorizing downtime</mark>
+	4. <mark style="background: #BBFABBA6;">Designating a maintenance window</mark>
 
 12. You are installing a new server that is equipped with two power supplies. The server's firmware enables you to set the mode in which the power supplies will be used. In which of the following modes must the dual power supplies be running in order for the system to be fault tolerant?
 	1. Individual mode
 	2. Combined mode
-	3. Redundant mode
+	3. <mark style="background: #BBFABBA6;">Redundant mode</mark>
 	4. Hot backup mode
 
 13. The Domain Name System (DNS) defines a hierarchical name space, in which locations are reflected in fully qualified domain names (FQDNs). Which of the words in the FQDN [`www.paris.mydomain.org`](http://www.paris.mydomain.org/) represents the bottommost layer in the DNS namespace's domain hierarchy?
 	1. `www`
-	2. `paris`
+	2. <mark style="background: #BBFABBA6;">`paris`</mark>
 	3. `mydomain`
 	4. `org`
 
 14. The term _datagram_ is typically used by protocols offering connectionless delivery service. Which of the following protocols use the term _datagram_ to describe the data transfer unit it creates? (Choose all that apply.)
 	1. TCP
-	2. IP
-	3. UDP
+	2. <mark style="background: #BBFABBA6;">IP</mark>
+	3. <mark style="background: #BBFABBA6;">UDP</mark>
 	4. Ethernet
 
 15. Which element of the CIA triad prevents unauthorized viewing of protected data?
-	1. Confidentiality
+	1. <mark style="background: #BBFABBA6;">Confidentiality</mark>
 	2. Integrity
 	3. Availability
 	4. None of the above
 
 16. You have just received notification of a new software release for an application you are running on your servers. The release is intended to address a newly discovered security vulnerability. Which of the following is the correct term for a software release containing a fix designed to address one specific issue?
 	1. An upgrade
-	2. A patch
+	2. <mark style="background: #BBFABBA6;">A patch</mark>
 	3. A service pack
 	4. An update
 
 17. Twisted-pair cables consist of multiple pairs of wires within a sheath, with each pair of wires twisted together separately. Which of the following statements best explain the reason for the twists in twisted-pair cabling? (Choose all that apply.)
-	1. The twists help to prevent crosstalk in adjacent wire pairs.
+	1. <mark style="background: #BBFABBA6;">The twists help to prevent crosstalk in adjacent wire pairs.</mark>
 	2. The twists make it easier for installers to attach connectors to the cable ends.
 	3. The twists extend the cable's bend radius allowance, making it easier to install.
-	4. The twists limit the effects of electromagnetic interference (EMI) on the signals carried over the cable.
+	4. <mark style="background: #BBFABBA6;">The twists limit the effects of electromagnetic interference (EMI) on the signals carried over the cable.</mark>
 	5. The twists help to prevent data collisions from occurring.
 
 18. The figure shown here lists the processes currently running on a Linux workstation. Which of the following performance monitoring tools, provided in Linux and Unix operating systems, enables you to display information about processes that are currently running on a system?![[Pasted image 20250220120818.png]]
 	1. `netstat`
 	2. `dig`
 	3. `perfmon`
-	4. `top`
+	4. <mark style="background: #BBFABBA6;">`top`</mark>
 
 19. You are contracting with a provider to obtain email services for the clients on your network, using their existing email servers in the public cloud. You do not need anything from the provider other than email. Which of the following service models will you be using?
 	1. PaaS
-	2. SaaS
+	2. <mark style="background: #BBFABBA6;">SaaS</mark>
 	3. IaaS
 	4. All of the above
 
@@ -120,10 +120,10 @@
 	1. Data aggregation
 	2. Correlation
 	3. Retention
-	4. Forensic analysis
+	4. <mark style="background: #BBFABBA6;">Forensic analysis</mark>
 
 21. When you start a Dynamic Host Configuration Protocol (DHCP) client, it transmits DHCPDISCOVER messages to locate and initiate contact with DHCP servers. Which of the following types of transmissions does the client use for this purpose?
-	1. Broadcast
+	1. <mark style="background: #BBFABBA6;">Broadcast</mark>
 	2. Unicast
 	3. Multicast
 	4. Anycast
@@ -132,14 +132,14 @@
 	1. VPN concentrator
 	2. DMVPN
 	3. SIP trunk
-	4. MPLS
+	4. <mark style="background: #BBFABBA6;">MPLS</mark>
 	5. Clientless VPN
 
 23. You are installing a wireless network in a site that has many 2.4 GHz wireless telephones. Which of the following wireless networking technologies can you use that will never experience interference from the telephones? (Choose all that apply.)
 	1. IEEE 802.11b
 	2. IEEE 802.11g
-	3. IEEE 802.11ac
-	4. IEEE 802.11a
+	3. <mark style="background: #BBFABBA6;">IEEE 802.11ac</mark>
+	4. <mark style="background: #BBFABBA6;">IEEE 802.11a</mark>
 	5. IEEE 802.11n
 
 24. Which of the following is another term for a switch?
