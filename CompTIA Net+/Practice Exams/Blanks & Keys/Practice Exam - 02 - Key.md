@@ -584,8 +584,8 @@
 95. You are designing an Ethernet network for your company's newest branch office. Your current task is to decide which Ethernet specification to use for the network, a decision that you know will determine what type of cabling you need to purchase and the topology with which the cable will be installed. Which layers of the Open Systems Interconnection (OSI) reference model apply to the cabling and topology elements of a network?
 	1. The Application and Transport layers
 	2. The Transport and Network layers
-	3. <mark style="background: #BBFABBA6;">The Network and Data link layers</mark>
-	4. The Data link and Physical layers
+	3. The Network and Data link layers
+	4. <mark style="background: #BBFABBA6;">The Data link and Physical layers</mark>
 
 96. You are troubleshooting a workstation that cannot access the network. The workstation is plugged into a wall plate that should provide it with access to a DHCP-equipped network using the 192.168.4.0/24 network address. No one else on that network is reporting a problem. You check that the patch cable is properly plugged into the workstation and the wall plate, which it is, and then run `ipconfig /all` on the workstation and examine the output. Which of the following could be the explanation for the workstation's problem, based on the following `ipconfig` results? ![[Pasted image 20250220145507.png]]
 	1. The DNS server addresses are incorrect.

@@ -358,215 +358,215 @@
 	3. <mark style="background: #D2B3FFA6;">A web page with which a user must interact before being granted access to a wireless network</mark>
 	4. A series of two doors with an intervening airlock through which people must pass before they can enter a secured space
 
-59. In the standard troubleshooting methodology, you begin by taking steps to identify the problem. After you have done this, which of the following steps should you perform next?
-	5. Verify full system functionality.
-	6. <mark style="background: #D2B3FFA6;">Establish a theory of probable cause.</mark>
-	7. Establish a plan of action.
-	8. Implement the solution.
+59. In the standard troubleshooting methodology, you begin by taking steps to identify the problem. After you have done this, which of the following steps should you perform next? ✅
+	1. Verify full system functionality.
+	2. <mark style="background: #D2B3FFA6;">Establish a theory of probable cause.</mark>
+	3. Establish a plan of action.
+	4. Implement the solution.
 
-60. The secured version of the Hypertext Transfer Protocol (HTTPS) uses a different well-known port from the unsecured version (HTTP). Which of the following ports are used by HTTP and HTTPS by default? (Choose all that apply.)
+60. The secured version of the Hypertext Transfer Protocol (HTTPS) uses a different well-known port from the unsecured version (HTTP). Which of the following ports are used by HTTP and HTTPS by default? (Choose all that apply.) ✅
 	1. 25
 	2. <mark style="background: #D2B3FFA6;">80</mark>
 	3. 110
 	4. <mark style="background: #D2B3FFA6;">443</mark>
 
-61. Which of the following are criteria typically used by load balancers to direct incoming traffic to one server out of a group of servers? (Choose all that apply.)
+61. Which of the following are criteria typically used by load balancers to direct incoming traffic to one server out of a group of servers? (Choose all that apply.) ✅
 	1. <mark style="background: #D2B3FFA6;">Fastest response time</mark>
 	2. Fastest processor
 	3. <mark style="background: #D2B3FFA6;">Lightest load</mark>
 	4. <mark style="background: #D2B3FFA6;">The next in an even rotation</mark>
 
-62. You are responsible for a network that has a Domain Name System (DNS) server, a proxy server, and an Internet router. A user is reporting that she cannot connect to hosts on her own local area network (LAN) or other internal LANs, and she also cannot access hosts on the Internet. No one else has reported a problem. What is the most likely location of the issue preventing the user's access to the network
+62. You are responsible for a network that has a Domain Name System (DNS) server, a proxy server, and an Internet router. A user is reporting that she cannot connect to hosts on her own local area network (LAN) or other internal LANs, and she also cannot access hosts on the Internet. No one else has reported a problem. What is the most likely location of the issue preventing the user's access to the network? ✅
 	1. The router
 	2. The DNS server
 	3. The proxy server
 	4. <mark style="background: #D2B3FFA6;">The user's computer configuration</mark>
 
-63. Virtual LAN (VLAN) hopping is a type of attack directed at network switches. Which of the following best describes how VLAN hopping is a potential threat?
+63. Virtual LAN (VLAN) hopping is a type of attack directed at network switches. Which of the following best describes how VLAN hopping is a potential threat? ✅
 	1. <mark style="background: #D2B3FFA6;">VLAN hopping enables an attacker to access different VLANs using 802.1q spoofing.</mark>
 	2. VLAN hopping enables an attacker to scramble a switch's patch panel connections.
 	3. VLAN hopping enables an attacker to change the native VLAN on a switch.
 	4. VLAN hopping enables an attacker to rename the default VLAN on a switch.
 
-64. You are a first-tier support technician working the IT help desk at your company. In your first hour of duty, you receive four trouble calls. Your job is to prioritize the calls based on their severity. Which of the following should be the problem that receives the lowest priority?
+64. You are a first-tier support technician working the IT help desk at your company. In your first hour of duty, you receive four trouble calls. Your job is to prioritize the calls based on their severity. Which of the following should be the problem that receives the lowest priority? ✅
 	1. <mark style="background: #D2B3FFA6;">A fatal error that causes a single computer to fail</mark>
 	2. A problem with a mission-critical backbone router that affects an entire network
 	3. A problem with an application server that affects a single LAN
 	4. A problem with an order entry or customer service call center resource that affects an entire department, with multiple local area networks (LANs)
 
-65. You are attempting to access a Domain Name System (DNS) server located on the other side of a router, but your attempt fails with an error stating that the destination port UDP 53 is unreachable. Your first step in troubleshooting the problem is to try using the `nslookup` utility to access that specific DNS server. This attempt also fails. Next, you use the `ping` utility with the DNS server's IP address. The ping test is successful, indicating that the server is up and running. Which of the following are possible causes of the problem? (Choose all that apply.)
+65. You are attempting to access a Domain Name System (DNS) server located on the other side of a router, but your attempt fails with an error stating that the destination port UDP 53 is unreachable. Your first step in troubleshooting the problem is to try using the `nslookup` utility to access that specific DNS server. This attempt also fails. Next, you use the `ping` utility with the DNS server's IP address. The ping test is successful, indicating that the server is up and running. Which of the following are possible causes of the problem? (Choose all that apply.) ==1/2==
 	1. The TCP/IP host settings on your computer are improperly configured.
 	2. The router connecting the networks is not running DNS and will not forward this type of datagram.
 	3. <mark style="background: #D2B3FFA6;">There is a firewall blocking the DNS server's UDP port 53.</mark>
 	4. The DNS process on the remote server is not running.
 	5. The TCP/IP host settings on the DNS server are improperly configured.
 
-66. Which of the following types of switch performs a cyclical redundancy check (CRC) on an entire frame's contents prior to forwarding it out a port leading to the destination system?
+66. Which of the following types of switch performs a cyclical redundancy check (CRC) on an entire frame's contents prior to forwarding it out a port leading to the destination system? ✅
 	1. Packet filtering
 	2. Cut-through
 	3. Source route
 	4. <mark style="background: #D2B3FFA6;">Store-and-forward</mark>
 
-67. Which of the following attack types does not specifically target wireless network clients?
+67. Which of the following attack types does not specifically target wireless network clients? ✅
 	1. <mark style="background: #D2B3FFA6;">Logic bomb</mark>
 	2. Deauthentication
 	3. Evil twin
 	4. Rogue AP
 
-68. You are having trouble installing a wireless LAN using IEEE 802.11n equipment in a new office complex. The wireless devices have trouble connecting to the access point, and when they do, they achieve only low speeds. When you use a Wi-Fi analyzer to scan the 2.4 GHz frequency band, you see literally dozens of other networks in the area, spread across all of the available channels. Which of the following tasks should you perform to enable your wireless devices to connect to the network reliably and at their best possible speeds?
+68. You are having trouble installing a wireless LAN using IEEE 802.11n equipment in a new office complex. The wireless devices have trouble connecting to the access point, and when they do, they achieve only low speeds. When you use a Wi-Fi analyzer to scan the 2.4 GHz frequency band, you see literally dozens of other networks in the area, spread across all of the available channels. Which of the following tasks should you perform to enable your wireless devices to connect to the network reliably and at their best possible speeds? ✅
 	1. Configure the access point to suppress SSID broadcasts.
 	2. <mark style="background: #D2B3FFA6;">Configure all of the wireless network devices to use the 5 GHz band.</mark>
 	3. Upgrade all of the network devices to the latest firmware.
 	4. Configure all of the network devices to use WPA3 encryption with AES.
 
 
-69. Which Windows command-line utility produced the output shown here? ![[Pasted image 20250220141858.png]]
+69. Which Windows command-line utility produced the output shown here? ✅ ![[Pasted image 20250220141858.png]]
 	1. <mark style="background: #D2B3FFA6;">`arp`</mark>
 	2. `ping`
 	3. `tracert`
 	4. `netstat`
 
-70. Your boss is working in the crawlspace under the floor of the datacenter, and he asks you to hand him the pliers. You hand him the tool shown in the following figure, and he throws it back at you. What is the real function of the tool shown in the figure? ![[Pasted image 20250220141947.png]]
+70. Your boss is working in the crawlspace under the floor of the datacenter, and he asks you to hand him the pliers. You hand him the tool shown in the following figure, and he throws it back at you. What is the real function of the tool shown in the figure? ✅ ![[Pasted image 20250220141947.png]]
 	1. When you connect the tool to pins in a punchdown block, you can access telephone circuits in order to test them or place telephone calls.
 	2. When you attach the tool to one end of a wire, it generates a tone that can be detected at the other end.
 	3. <mark style="background: #D2B3FFA6;">To attach a bulk cable end to an RJ-45 connector, you use the tool to squeeze the connector closed, forcing the wire ends to contact the connector's pins.</mark>
 	4. When you attach the tool to a copper cable, you can detect and measure the electrical current flowing through it.
 
-71. You are starting work for a contractor who performs telecommunications cable installations. One of the tools in the kit you have been given is unfamiliar to you. What is the name of the tool shown in the following figure? ![[Pasted image 20250220142114.png]]
+71. You are starting work for a contractor who performs telecommunications cable installations. One of the tools in the kit you have been given is unfamiliar to you. What is the name of the tool shown in the following figure? ✅ ![[Pasted image 20250220142114.png]]
 	1. Crimper
 	2. <mark style="background: #D2B3FFA6;">Punchdown tool</mark>
 	3. Butt set
 	4. Toner and probe
 
-72. You are seeking to upgrade your company's IEEE 802.11g access point to one that provides faster transmission speeds for your newer workstations. Which of the following wireless networking standards is capable of supporting speeds faster than the 54 Mbps of 802.11g but is still backward compatible with your existing IEEE 802.11g workstations?
+72. You are seeking to upgrade your company's IEEE 802.11g access point to one that provides faster transmission speeds for your newer workstations. Which of the following wireless networking standards is capable of supporting speeds faster than the 54 Mbps of 802.11g but is still backward compatible with your existing IEEE 802.11g workstations? ✅
 	1. IEEE 802.11
 	2. Bluetooth
 	3. IEEE 802.11ac
 	4. IEEE 802.11a
 	5. <mark style="background: #D2B3FFA6;">IEEE 802.11n</mark>
 
-73. You are working on your company's screened subnet (also known as a perimeter network), which has five Linux web servers, a Cisco router, a CSU/DSU providing a leased line connection, and a Windows-based firewall on it. While trying to troubleshoot a network communications failure, you type the following command on one of the systems: `traceroute` [`adatum.com`](http://www.adatum.com/). Which of the following systems might you be working on? (Choose all that apply.)
+73. You are working on your company's screened subnet (also known as a perimeter network), which has five Linux web servers, a Cisco router, a CSU/DSU providing a leased line connection, and a Windows-based firewall on it. While trying to troubleshoot a network communications failure, you type the following command on one of the systems: `traceroute` [`adatum.com`](http://www.adatum.com/). Which of the following systems might you be working on? (Choose all that apply.) ✅
 	1. <mark style="background: #D2B3FFA6;">The Cisco router</mark>
 	2. <mark style="background: #D2B3FFA6;">One of the Linux web servers</mark>
 	3. The CSU/DSU console
 	4. The Windows-based firewall
 
-74. Which of the following are network topologies used by IEEE 802.11 wireless local area networks (WLANs)? (Choose all that apply.)
+74. Which of the following are network topologies used by IEEE 802.11 wireless local area networks (WLANs)? (Choose all that apply.) ==1/2==
 	1. Bus
 	2. Spine and leaf
 	3. <mark style="background: #D2B3FFA6;">Ad hoc</mark>
 	4. <mark style="background: #D2B3FFA6;">Star/hub and spoke</mark>
 	5. Infrastructure
 
-75. Which version of the Simple Network Management Protocol (SNMP) uses as its security mechanism two separate unencrypted community strings?
+75. Which version of the Simple Network Management Protocol (SNMP) uses as its security mechanism two separate unencrypted community strings? ✅
 	1. SNMPv1
 	2. SNMPv2
 	3. <mark style="background: #D2B3FFA6;">SNMPv2c</mark>
 	4. SNMPv3
 
-76. You are working the help desk at a local computer store, and you receive a call from a customer trying to set up a home network using computers running Windows 11 and wired Ethernet equipment. The customer reports that she cannot access the other two computers in the house from her workstation, nor can she access the Internet. You ask her to run the `ipconfig /all` command and read the results to you. She says that her IP address is 192.168.0.2, her subnet mask is 255.255.255.0, and her default gateway is 192.168.0.1. Which of the following is the most likely cause of the customer's problem?
+76. You are working the help desk at a local computer store, and you receive a call from a customer trying to set up a home network using computers running Windows 11 and wired Ethernet equipment. The customer reports that she cannot access the other two computers in the house from her workstation, nor can she access the Internet. You ask her to run the `ipconfig /all` command and read the results to you. She says that her IP address is 192.168.0.2, her subnet mask is 255.255.255.0, and her default gateway is 192.168.0.1. Which of the following is the most likely cause of the customer's problem? ✅
 	1. <mark style="background: #FFB8EBA6;">The customer's network address cannot include a zero.</mark>
 	2. The customer has an incorrect subnet mask.
 	3. <mark style="background: #D2B3FFA6;">The customer's network cable is damaged or unplugged.</mark>
 	4. The customer has an incorrect default gateway address.
 
-77. Some networks are designed with a switching fabric that contains redundant paths for fault tolerance purposes. However, in this type of design it is possible for packets to circulate endlessly around the network, which is called a switching loop. Which of the following protocols prevents network switching loops from occurring by shutting down redundant links until they are needed?
+77. Some networks are designed with a switching fabric that contains redundant paths for fault tolerance purposes. However, in this type of design it is possible for packets to circulate endlessly around the network, which is called a switching loop. Which of the following protocols prevents network switching loops from occurring by shutting down redundant links until they are needed? ✅
 	1. NAT
 	2. RIP
 	3. VLAN
 	4. <mark style="background: #D2B3FFA6;">STP</mark>
 
-78. You are responsible for an internetwork that consists of four internal local area networks (LANs) with 50 users each. Each internal LAN uses twisted-pair Gigabit Ethernet links that connect the users to a switch. Each of the four switches is connected to a separate router. All four routers connect to the same backbone network, which has a single additional router to connect the company's network to the Internet using a T-1 wide area network (WAN) link. Today, users on one of the four internal LANs are reporting that when they came in this morning, they could not access the Internet or resources on the other three internal LANs. However, they could access resources on their own LAN with no problems. Which network component is the likeliest source of the problem in this scenario?
+78. You are responsible for an internetwork that consists of four internal local area networks (LANs) with 50 users each. Each internal LAN uses twisted-pair Gigabit Ethernet links that connect the users to a switch. Each of the four switches is connected to a separate router. All four routers connect to the same backbone network, which has a single additional router to connect the company's network to the Internet using a T-1 wide area network (WAN) link. Today, users on one of the four internal LANs are reporting that when they came in this morning, they could not access the Internet or resources on the other three internal LANs. However, they could access resources on their own LAN with no problems. Which network component is the likeliest source of the problem in this scenario? ✅
 	1. The switch on the problem LAN
 	2. The Internet router
 	3. <mark style="background: #D2B3FFA6;">The router connecting the problem LAN to the backbone</mark>
 	4. The cable on the backbone network
 
-79. You are negotiating an agreement with a provider for your company's email service. You have been told to require a 99.99 percent guaranteed rate of service reliability, but the provider is only willing to guarantee 99 percent. Eventually, you and the provider agree on a compromise of 99.9 percent. Which of the following documents will include the negotiated language on this particular point?
+79. You are negotiating an agreement with a provider for your company's email service. You have been told to require a 99.99 percent guaranteed rate of service reliability, but the provider is only willing to guarantee 99 percent. Eventually, you and the provider agree on a compromise of 99.9 percent. Which of the following documents will include the negotiated language on this particular point? ✅
 	1. AUP
 	2. <mark style="background: #D2B3FFA6;">SLA</mark>
 	3. BYOD
 	4. NDA
 
-80. Which of the following networking devices can split a single network into multiple collision domains while maintaining a single broadcast domain? (Choose all that apply.)
+80. Which of the following networking devices can split a single network into multiple collision domains while maintaining a single broadcast domain? (Choose all that apply.) ==1/2==
 	1. Switch
 	2. <mark style="background: #D2B3FFA6;">Bridge</mark>
 	3. Router
 	4. Firewall
 
-81. You have just finished installing a web server farm on your company's network, along with a router to create a screened subnet (perimeter network) on which the web servers are located. However, you now cannot access the web servers from your workstation on the internal network. Which of the following is not one of the tasks you will have to complete before you can access the screened subnet from the internal network?
+81. You have just finished installing a web server farm on your company's network, along with a router to create a screened subnet (perimeter network) on which the web servers are located. However, you now cannot access the web servers from your workstation on the internal network. Which of the following is not one of the tasks you will have to complete before you can access the screened subnet from the internal network? ✅
 	1. <mark style="background: #D2B3FFA6;">Change MAC addresses.</mark>
 	2. Change IP addresses.
 	3. Update the DNS records.
 	4. Change default gateway addresses.
 
-82. You are testing a twisted-pair cable run using a toner and probe. When you apply the toner to a particular pin at one end of the cable, you detect a tone on two pins at the other end. Which of the following faults have you discovered?
+82. You are testing a twisted-pair cable run using a toner and probe. When you apply the toner to a particular pin at one end of the cable, you detect a tone on two pins at the other end. Which of the following faults have you discovered? ❌
 	1. Split pair
 	2. Open
 	3. Short
 	4. <mark style="background: #D2B3FFA6;">Crosstalk</mark>
 
-83. Your network has been experiencing intermittent service slowdowns and outages ever since the company moved into their new building. You have tried every troubleshooting modality you can think of, but you have not been able to determine the cause. One particular user, perhaps hoping to be the squeaky wheel that gets the grease, has taken to calling you every time he experiences a problem. One day, as you are working in the datacenter, you notice that the user calls every time you hear an additional humming noise. After examining the doors in the hallway, you realize that the racks containing the network switches are located right next to the elevator machinery room. Which of the following conditions is probably causing this intermittent network communication problem?
+83. Your network has been experiencing intermittent service slowdowns and outages ever since the company moved into their new building. You have tried every troubleshooting modality you can think of, but you have not been able to determine the cause. One particular user, perhaps hoping to be the squeaky wheel that gets the grease, has taken to calling you every time he experiences a problem. One day, as you are working in the datacenter, you notice that the user calls every time you hear an additional humming noise. After examining the doors in the hallway, you realize that the racks containing the network switches are located right next to the elevator machinery room. Which of the following conditions is probably causing this intermittent network communication problem? ✅
 	1. Bottleneck
 	2. <mark style="background: #D2B3FFA6;">EMI</mark>
 	3. Latency
 	4. Crosstalk
 
-84. Ralph is installing a pair of redundant servers and must choose whether to run them in an active-active or active-passive configuration. Running the servers in an active-active configuration provides which of the following advantages that the same servers in an active-passive configuration do not? (Choose all that apply.)
+84. Ralph is installing a pair of redundant servers and must choose whether to run them in an active-active or active-passive configuration. Running the servers in an active-active configuration provides which of the following advantages that the same servers in an active-passive configuration do not? (Choose all that apply.) ✅
 	1. Fault tolerance
 	2. <mark style="background: #D2B3FFA6;">Load balancing</mark>
 	3. Data encapsulation
 	4. <mark style="background: #D2B3FFA6;">Increased performance</mark>
 
-85. You are starting work at a new company, and on your first day you ask about wireless access for your laptop. You are given an SSID and a WPA3 passphrase. Later, in the lunchroom, when you try to connect your laptop to the network, you cannot see the SSID you were given in the list of available networks, although you can see other networks. What should you do first to try to resolve the problem?
+85. You are starting work at a new company, and on your first day you ask about wireless access for your laptop. You are given an SSID and a WPA3 passphrase. Later, in the lunchroom, when you try to connect your laptop to the network, you cannot see the SSID you were given in the list of available networks, although you can see other networks. What should you do first to try to resolve the problem? ❌
 	1. <mark style="background: #D2B3FFA6;">Move closer to the wireless access point.</mark>
 	2. Move away from the microwave in the lunchroom.
 	3. Type in the WPA3 passphrase.
 	4. Type the SSID in manually.
 
-86. You are responsible for a wireless LAN that consists of an 802.11n 2x2 access point and laptop computers with a variety of network adapters. Some of the laptops support 802.11n, and a few older models have 802.11g adapters. The wireless LAN is located in a large office building with many other wireless networks, and you are having trouble finding a channel on the 2.4 GHz band that is not congested with traffic. Scanning the 5 GHz band, you find relatively little traffic, so you reconfigure the access point to use a 5 GHz channel. The result is that some of the laptops are able to connect to the network, whereas others are not. What is the most likely reason for the connection failures, and what must you do to enable all the laptops to connect to the wireless network?
+86. You are responsible for a wireless LAN that consists of an 802.11n 2x2 access point and laptop computers with a variety of network adapters. Some of the laptops support 802.11n, and a few older models have 802.11g adapters. The wireless LAN is located in a large office building with many other wireless networks, and you are having trouble finding a channel on the 2.4 GHz band that is not congested with traffic. Scanning the 5 GHz band, you find relatively little traffic, so you reconfigure the access point to use a 5 GHz channel. The result is that some of the laptops are able to connect to the network, whereas others are not. What is the most likely reason for the connection failures, and what must you do to enable all the laptops to connect to the wireless network? ❌
 	1. <mark style="background: #D2B3FFA6;">The 802.11g standard does not support communication using the 5 GHz band. You must replace the network adapters in those laptops with newer models for them to connect successfully.</mark>
 	2. The 5 GHz band does not support automatic channel selection. You must configure each laptop to use the same channel as the access point for all the laptops to connect successfully.
 	3. The 5 GHz band does not support MIMO communications, so the 802.11n laptops are unable to connect to the network. You must replace the access point with an 802.11g unit for all the laptops to connect successfully.
 	4. The 802.11g standard does not support communication using the 5 GHz band. You must configure the access point to support 2.4 GHz for all the laptops to connect successfully.
 
-87. In the Domain Name System (DNS), a zone is a contiguous area of the DNS namespace for which authority is delegated to one or more DNS servers. Which of the following DNS resource record types specifies the IP addresses of the authoritative DNS servers for a particular zone?
+87. In the Domain Name System (DNS), a zone is a contiguous area of the DNS namespace for which authority is delegated to one or more DNS servers. Which of the following DNS resource record types specifies the IP addresses of the authoritative DNS servers for a particular zone? ✅   
 	1. PTR
 	2. SRV
 	3. MX
 	4. <mark style="background: #D2B3FFA6;">NS</mark>
 
-88. You are experiencing poor performance on your home 802.11n wireless network. You live in a large apartment complex, and when you run a Wi-Fi analyzer, you see many other nearby networks using the often-recommended channels 1, 6, and 11 on the 2.4 GHz frequency. Using the 5 GHz frequency is not an option for your equipment. What should you do to improve the network's performance?
+88. You are experiencing poor performance on your home 802.11n wireless network. You live in a large apartment complex, and when you run a Wi-Fi analyzer, you see many other nearby networks using the often-recommended channels 1, 6, and 11 on the 2.4 GHz frequency. Using the 5 GHz frequency is not an option for your equipment. What should you do to improve the network's performance? ✅   
 	1. Configure your equipment to use channel 10.
 	2. <mark style="background: #D2B3FFA6;">Configure your equipment to use channel 9</mark>.
 	3. Configure your equipment to use channel 5.
 	4. Configure your equipment to use channel 2.
 
-89. Your company's office building is having a fire inspection, and you are the only person on duty in the datacenter. The inspector from the fire department is reviewing the company's asset inventory and asks you where they can find documentation about all chemicals and equipment used in the company's datacenter. You lead the inspector to the director's office, but you are not sure what the documents he needs are called. Which of the following document types contains this information?
+89. Your company's office building is having a fire inspection, and you are the only person on duty in the datacenter. The inspector from the fire department is reviewing the company's asset inventory and asks you where they can find documentation about all chemicals and equipment used in the company's datacenter. You lead the inspector to the director's office, but you are not sure what the documents he needs are called. Which of the following document types contains this information? ❌
 	1. MSDS
 	2. <mark style="background: #D2B3FFA6;">ESD</mark>
 	3. NDA
 	4. BYOD
 
-90. Which of the following Power over Ethernet (PoE) specifications supplies power to devices using the spare wire pair on a 100Base-TX twisted-pair network?
+90. Which of the following Power over Ethernet (PoE) specifications supplies power to devices using the spare wire pair on a 100Base-TX twisted-pair network? ❌
 	1. Alternative A
 	2. 4PPoE
 	3. Alternative B
 	4. <mark style="background: #D2B3FFA6;">All of the above</mark>
 
-91. Which of the following statements about the differences between storage area networks (SANs) and network attached storage (NAS) are not true? (Choose all that apply.)
+91. Which of the following statements about the differences between storage area networks (SANs) and network attached storage (NAS) are not true? (Choose all that apply.) ==1/2==
 	1. <mark style="background: #D2B3FFA6;">NAS devices typically provide a filesystem, whereas SAN devices do not.</mark>
 	2. <mark style="background: #D2B3FFA6;">NAS devices typically contain integrated iSCSI targets.</mark>
 	3. NAS provides file-level storage access, whereas SAN provides block-level storage access.
 	4. SAN devices have an operating system, whereas NAS devices do not.
 
-92. You are deploying an 802.11n wireless network for a client who is asking for the best possible security you can provide without deploying additional servers. When setting up the wireless access point, you disable SSID broadcasts, select Wi-Fi Protected Access Preshared Keys (WPA-PSK), and configure MAC address filtering. Which of the following statements about the security of this arrangement is true?
-	1. <mark style="background: #D2B3FFA6;">You should not disable SSID broadcasts, because this prevents users from connecting to the network.</mark>
+92. You are deploying an 802.11n wireless network for a client who is asking for the best possible security you can provide without deploying additional servers. When setting up the wireless access point, you disable SSID broadcasts, select Wi-Fi Protected Access Preshared Keys (WPA-PSK), and configure MAC address filtering. Which of the following statements about the security of this arrangement is true? ✅
+	1. You should not disable SSID broadcasts, because this prevents users from connecting to the network.
 	2. The configuration is as secure as you can make it with the specified equipment.
 	3. <mark style="background: #D2B3FFA6;">You should use Wi-Fi Protected Access 3 (WPA3) instead of WPA, since it is more resistant to certain types of attacks.</mark>
 	4. You should not use MAC address filtering, because it exposes MAC addresses to possible attacks.
 
-93. Which of the following connector types are used with fiber-optic cables? (Choose all that apply.)
+93. Which of the following connector types are used with fiber-optic cables? (Choose all that apply.) ✅
 	1. DB-9
 	2. <mark style="background: #D2B3FFA6;">SC</mark>
 	3. BNC
@@ -574,39 +574,39 @@
 	5. <mark style="background: #D2B3FFA6;">MPO</mark>
 	6. RJ-11
 
-94. Which of the following are available as Internet of Things (IoT) devices?
+94. Which of the following are available as Internet of Things (IoT) devices? ✅
 	1. Refrigerators
 	2. Doorbells
 	3. Thermostats
 	4. Speakers
 	5. <mark style="background: #D2B3FFA6;">All of the above</mark>
 
-95. You are designing an Ethernet network for your company's newest branch office. Your current task is to decide which Ethernet specification to use for the network, a decision that you know will determine what type of cabling you need to purchase and the topology with which the cable will be installed. Which layers of the Open Systems Interconnection (OSI) reference model apply to the cabling and topology elements of a network?
+95. You are designing an Ethernet network for your company's newest branch office. Your current task is to decide which Ethernet specification to use for the network, a decision that you know will determine what type of cabling you need to purchase and the topology with which the cable will be installed. Which layers of the Open Systems Interconnection (OSI) reference model apply to the cabling and topology elements of a network? ✅
 	1. The Application and Transport layers
 	2. The Transport and Network layers
 	3. The Network and Data link layers
 	4. <mark style="background: #D2B3FFA6;">The Data link and Physical layers</mark>
 
-96. You are troubleshooting a workstation that cannot access the network. The workstation is plugged into a wall plate that should provide it with access to a DHCP-equipped network using the 192.168.4.0/24 network address. No one else on that network is reporting a problem. You check that the patch cable is properly plugged into the workstation and the wall plate, which it is, and then run `ipconfig /all` on the workstation and examine the output. Which of the following could be the explanation for the workstation's problem, based on the following `ipconfig` results? ![[Pasted image 20250220145507.png]]
+96. You are troubleshooting a workstation that cannot access the network. The workstation is plugged into a wall plate that should provide it with access to a DHCP-equipped network using the 192.168.4.0/24 network address. No one else on that network is reporting a problem. You check that the patch cable is properly plugged into the workstation and the wall plate, which it is, and then run `ipconfig /all` on the workstation and examine the output. Which of the following could be the explanation for the workstation's problem, based on the following `ipconfig` results?  ✅ ![[Pasted image 20250220145507.png]]
 	1. The DNS server addresses are incorrect.
 	2. The Default Gateway address is missing.
 	3. The Subnet Mask value is incorrect.
 	4. <mark style="background: #D2B3FFA6;">The DHCP scope is exhausted.</mark>
 
-97. A user calls you at the IT help desk and reports that she is having intermittent problems accessing both local servers and Internet websites. Which of the following potential problems can you rule out immediately?
+97. A user calls you at the IT help desk and reports that she is having intermittent problems accessing both local servers and Internet websites. Which of the following potential problems can you rule out immediately? ❌
 	1. <mark style="background: #D2B3FFA6;">Malfunctioning DNS server</mark>
 	2. <mark style="background: #D2B3FFA6;">Duplicate MAC addresses</mark>
 	3. Duplicate IP addresses
 	4. Malfunctioning router
 
-98. You have recently discovered a rogue DHCP server on your network. After disabling the rogue server, you now need to terminate all of the rogue IP address leases currently held by DHCP clients on the network and then have them request new leases from the authorized DHCP server. Which of the following commands must you run on each client to do this? (Choose all that apply.)
+98. You have recently discovered a rogue DHCP server on your network. After disabling the rogue server, you now need to terminate all of the rogue IP address leases currently held by DHCP clients on the network and then have them request new leases from the authorized DHCP server. Which of the following commands must you run on each client to do this? (Choose all that apply.)✅
 	1. `ipconfig /dump`
 	2. `ipconfig /lease`
 	3. <mark style="background: #D2B3FFA6;">`ipconfig /release`</mark>
 	4. <mark style="background: #D2B3FFA6;">`ipconfig /renew`</mark>
 	5. `ipconfig /discard`
 
-99. Ralph is reading an article about datacenter design, and he is puzzled by references to east-west and north-south traffic. Which of the following statements best describes the difference between east-west and north-south traffic in a datacenter?
+99. Ralph is reading an article about datacenter design, and he is puzzled by references to east-west and north-south traffic. Which of the following statements best describes the difference between east-west and north-south traffic in a datacenter? ✅
 	1. East-west is switch-to-switch traffic, while north-south is switch-to-router traffic.
 	2. East-west describes traffic between devices at the same layer of the Open Systems Interconnection (OSI) reference model, while north-south describes traffic between OSI model layers.
 	3. <mark style="background: #D2B3FFA6;">East-west traffic stays within the datacenter, while north-south traffic does not.</mark>
