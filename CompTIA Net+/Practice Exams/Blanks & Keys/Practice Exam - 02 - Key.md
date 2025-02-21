@@ -446,35 +446,35 @@
 	5. <mark style="background: #BBFABBA6;">IEEE 802.11n</mark>
 
 73. You are working on your company's screened subnet (also known as a perimeter network), which has five Linux web servers, a Cisco router, a CSU/DSU providing a leased line connection, and a Windows-based firewall on it. While trying to troubleshoot a network communications failure, you type the following command on one of the systems: `traceroute` [`adatum.com`](http://www.adatum.com/). Which of the following systems might you be working on? (Choose all that apply.)
-	1. The Cisco router
-	2. One of the Linux web servers
+	1. <mark style="background: #BBFABBA6;">The Cisco router</mark>
+	2. <mark style="background: #BBFABBA6;">One of the Linux web servers</mark>
 	3. The CSU/DSU console
 	4. The Windows-based firewall
 
 74. Which of the following are network topologies used by IEEE 802.11 wireless local area networks (WLANs)? (Choose all that apply.)
 	1. Bus
 	2. Spine and leaf
-	3. Ad hoc
+	3. <mark style="background: #BBFABBA6;">Ad hoc</mark>
 	4. Star/hub and spoke
-	5. Infrastructure
+	5. <mark style="background: #BBFABBA6;">Infrastructure</mark>
 
 75. Which version of the Simple Network Management Protocol (SNMP) uses as its security mechanism two separate unencrypted community strings?
 	1. SNMPv1
 	2. SNMPv2
-	3. SNMPv2c
+	3. <mark style="background: #BBFABBA6;">SNMPv2c</mark>
 	4. SNMPv3
 
 76. You are working the help desk at a local computer store, and you receive a call from a customer trying to set up a home network using computers running Windows 11 and wired Ethernet equipment. The customer reports that she cannot access the other two computers in the house from her workstation, nor can she access the Internet. You ask her to run the `ipconfig /all` command and read the results to you. She says that her IP address is 192.168.0.2, her subnet mask is 255.255.255.0, and her default gateway is 192.168.0.1. Which of the following is the most likely cause of the customer's problem?
 	1. The customer's network address cannot include a zero.
 	2. The customer has an incorrect subnet mask.
-	3. The customer's network cable is damaged or unplugged.
+	3. <mark style="background: #BBFABBA6;">The customer's network cable is damaged or unplugged.</mark>
 	4. The customer has an incorrect default gateway address.
 
 77. Some networks are designed with a switching fabric that contains redundant paths for fault tolerance purposes. However, in this type of design it is possible for packets to circulate endlessly around the network, which is called a switching loop. Which of the following protocols prevents network switching loops from occurring by shutting down redundant links until they are needed?
 	1. NAT
 	2. RIP
 	3. VLAN
-	4. STP
+	4. <mark style="background: #BBFABBA6;">STP</mark>
 
 78. You are responsible for an internetwork that consists of four internal local area networks (LANs) with 50 users each. Each internal LAN uses twisted-pair Gigabit Ethernet links that connect the users to a switch. Each of the four switches is connected to a separate router. All four routers connect to the same backbone network, which has a single additional router to connect the company's network to the Internet using a T-1 wide area network (WAN) link. Today, users on one of the four internal LANs are reporting that when they came in this morning, they could not access the Internet or resources on the other three internal LANs. However, they could access resources on their own LAN with no problems. Which network component is the likeliest source of the problem in this scenario?
 	1. The switch on the problem LAN
