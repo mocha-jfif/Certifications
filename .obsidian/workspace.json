@@ -255,21 +255,21 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 768,
-        "height": 960,
-        "maximize": false,
+        "x": 902,
+        "y": 86,
+        "width": 769,
+        "height": 961,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
   "active": "525e4fb238f091a4",
   "lastOpenFiles": [
-    "CompTIA Net+/Chapter 06 - Wireless Solutions/Glossary/Association.md",
-    "CompTIA Net+/Chapter 06 - Wireless Solutions/1 Understanding Wireless Basics.md",
-    "CompTIA Net+/Chapter 07 - Cloud Computing Concepts and Options/1 Cloud Concepts.md",
     "CompTIA Net+/Practice Exams/Attempts/Practice Exam - 02 Attempt 1 -.md",
+    "CompTIA Net+/Chapter 06 - Wireless Solutions/1 Understanding Wireless Basics.md",
+    "CompTIA Net+/Chapter 06 - Wireless Solutions/Glossary/Association.md",
+    "CompTIA Net+/Chapter 07 - Cloud Computing Concepts and Options/1 Cloud Concepts.md",
     "CompTIA Net+/Chapter 03 - Network Addressing, Routing, and Switching/1 IPv4 Network Addressing.md",
     "CompTIA Net+/Chapter 01 - Models, Ports, Protocols, and Services/2 Protocols & Ports.md",
     "CompTIA Net+/Chapter 01 - Models, Ports, Protocols, and Services/1 The OSI Model.md",
