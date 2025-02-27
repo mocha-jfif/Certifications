@@ -225,51 +225,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "606d3ce1c7b453b2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f14131c633b31f25",
-        "type": "window",
-        "children": [
-          {
-            "id": "c527eecde42ae242",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f1ee21485e1657c5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "CompTIA Net+/Practice Exams/Attempts/Practice Exam - 02 Attempt 1 -.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Practice Exam - 02 Attempt 1 -"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 902,
-        "y": 86,
-        "width": 769,
-        "height": 961,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "525e4fb238f091a4",
   "lastOpenFiles": [
-    "CompTIA Net+/Chapter 03 - Network Addressing, Routing, and Switching/1 IPv4 Network Addressing.md",
     "CompTIA Net+/Practice Exams/Attempts/Practice Exam - 02 Attempt 1 -.md",
-    "CompTIA Net+/Diagrams and Charts/Pasted image 20250220115650.png",
     "CompTIA Net+/Chapter 03 - Network Addressing, Routing, and Switching/2 Routing & Switching Technologies.md",
+    "CompTIA Net+/Chapter 03 - Network Addressing, Routing, and Switching/1 IPv4 Network Addressing.md",
+    "CompTIA Net+/Diagrams and Charts/Pasted image 20250220115650.png",
     "CompTIA Net+/Chapter 04 - Network Implementations/1 Common Networking Devices.md",
     "CompTIA Net+/Chapter 03 - Network Addressing, Routing, and Switching/3 Network Services.md",
     "CompTIA Net+/Chapter 01 - Models, Ports, Protocols, and Services/3 Traffic Types.md",
