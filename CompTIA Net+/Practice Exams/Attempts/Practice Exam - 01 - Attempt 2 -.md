@@ -567,51 +567,51 @@
 
 91. You are researching the various types of storage area network (SAN) technologies currently available before making a purchasing recommendation to your IT director. Which of the following are genuine advantages of iSCSI over Fibre Channel? (Choose all that apply.)
 	1. iSCSI can share the same network as standard local area network (LAN) traffic, whereas Fibre Channel cannot.
-	2. iSCSI is routable, whereas Fibre Channel is not.
+	2. ==iSCSI is routable, whereas Fibre Channel is not.==
 	3. ==iSCSI is less expensive to implement than Fibre Channel.==
 	4. iSCSI includes its own internal flow control mechanism, whereas Fibre Channel does not.
 
 92. In which of the following DNS transactions does the querying system generate an iterative query? (Choose all that apply.)
 	1. A DNS client extracts the server name www.adatum.com from a URL and sends it to its designated DNS server for resolution.
-	2. A client's DNS server sends a name resolution request to a root domain server to discover the authoritative server for the com top-level domain.
+	2. ==A client's DNS server sends a name resolution request to a root domain server to discover the authoritative server for the com top-level domain.==
 	3. A client's DNS server sends a name resolution request to the com top-level domain server to find the authoritative server for the [`adatum.com`](http://www.adatum.com/)domain.
-	4. A client's DNS server, which has been configured to function as a forwarder, sends the server name [`www.adatum.com`](http://www.adatum.com/) from a URL to its ISP's DNS server for resolution.
+	4. ==A client's DNS server, which has been configured to function as a forwarder, sends the server name [`www.adatum.com`](http://www.adatum.com/) from a URL to its ISP's DNS server for resolution.==
 	5. A client's DNS server sends a name resolution request to the [adatum.com](http://adatum.com/) domain server to discover the IP address associated with the server name www.
 
 93. A user approaches you as you are passing through his department and reports that he cannot access the Internet. After questioning him, you determine that he can access systems on the local network. You examine the routing table on the user's Windows workstation, and you see the problem. Which of the following commands must you run to correct the user's problem, based on the routing table display shown here?![[Pasted image 20250218081628.png]]
 	1. route add 192.168.2.0 MASK 0.0.0.0 192.168.2.37 METRIC 25 if 192.168.2.99
 	2. route add 0.0.0.0 MASK 255.255.255.0 192.168.2.99 METRIC 25 if 192.168.2.37
-	3. route add 192.168.2.0 MASK 255.255.255.0 192.168.2.99 METRIC 25 if 192.168.2.37
+	3. ==route add 192.168.2.0 MASK 255.255.255.0 192.168.2.99 METRIC 25 if 192.168.2.37==
 	4. route add 0.0.0.0 MASK 0.0.0.0 192.168.2.99 METRIC 25 if 192.168.2.37
 
 94. You are heading out to do a cabling job for a client who has coaxial and twisted-pair Ethernet networks at their facility. You want to bring connectors and cables to prepare for any eventuality. Which of the following connector types are typically associated with Ethernet networks? (Choose all that apply.)
 	1. N-type
 	2. BNC
-	3. F-type
-	4. RJ-45
+	3. ==F-type==
+	4. ==RJ-45==
 	5. DB-9
 
 95. When geofencing is used as part of a multifactor authentication system, which of the following best describes geofencing's role?
-	1. Somewhere you are
+	1. ==Somewhere you are==
 	2. Something you do
 	3. Something you have
 	4. Something you know
 
 96. Some organizations maintain alternative sites that they can use as datacenters should a disaster render the main datacenter unusable. Which of the following types of disaster recovery site can be made operational in the shortest amount of time?
-	1. A hot site
+	1. ==A hot site==
 	2. A warm site
 	3. A cold site
 	4. All of the site types require the same amount of preparation time.
 
 97. Which of the following types of virtual private network (VPN) connection is the best solution for connecting a home user to a corporate network?
-	1. Host-to-site
+	1. ==Host-to-site==
 	2. Site-to-site
 	3. Host-to-host
 	4. Extranet
 
 98. Which of the following are valid reasons why the leaf and spine datacenter topology is superior to the standard three-tier topology?
 	1. The leaf and spine topology is less expensive to implement than the three-tier topology.
-	2. In a leaf and spine topology, all data flows require the same number of hops.
+	2. ==In a leaf and spine topology, all data flows require the same number of hops.==
 	3. The leaf and spine arrangement uses a full mesh switching topology.
 	4. The leaf and spine topology uses software-defined networking to direct traffic, rather than blocking ports using the Spanning Tree Protocol.
 
@@ -619,10 +619,10 @@
 	1. Syslog
 	2. Event Viewer
 	3. Network Monitor
-	4. Performance Monitor
+	4. ==Performance Monitor==
 
 100. In most cases, a denial-of-service (DoS) attack refers to a deliberate attempt to overwhelm a server with incoming traffic. However, this is not always the case. Which of the following types of DoS attacks does not involve flooding a server with traffic?
 	1. Amplified
 	2. Distributed
-	3. Permanent
+	3. ==Permanent==
 	4. Reflective
