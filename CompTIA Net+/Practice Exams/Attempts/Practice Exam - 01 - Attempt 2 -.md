@@ -457,13 +457,13 @@
 	4. Unresponsive service on the web server
 
 74. The toolkit you were given when you began work for an IT consulting company contained the tool shown in the following figure. What is the function of this tool?![[Pasted image 20250218075817.png]]
-	1. When you touch the end of the tool to a copper cable, you can detect and measure the electrical current flowing through it.
+	1. ==When you touch the end of the tool to a copper cable, you can detect and measure the electrical current flowing through it.==
 	2. When you place the tool at one end of a wire, it generates a tone that can be detected at the other end.
 	3. To connect a bulk cable to a keystone connector, you use the tool to punch each wire down into the correct receptacle on the connector.
 	4. When you connect the tool to the end of a fiber-optic cable, you can measure the length of the cable run.
 
 75. You are designing a new wireless network based on the IEEE 802.11n standard. The equipment you have selected supports both the 2.4 GHz and 5 GHz frequencies, and you are undecided about which one to use. Which of the following are possible reasons why the 5 GHz frequency tends to perform better than the 2.4 GHz frequency on a wireless LAN? (Choose all that apply.)
-	1. The 5 GHz frequency has more channels than the 2.4 GHz frequency.
+	1. ==The 5 GHz frequency has more channels than the 2.4 GHz frequency.==
 	2. The 5 GHz frequency conflicts with fewer common household devices than the 2.4 GHz frequency.
 	3. The 5 GHz frequency transmits at faster speeds than the 2.4 GHz frequency.
 	4. The 5 GHz frequency supports longer ranges than the 2.4 GHz frequency.
@@ -472,10 +472,10 @@
 	1. 1.75
 	2. 3.5
 	3. 7
-	4. 10.5
+	4. ==10.5==
 
 77. Which of the following server applications uses two well-known port numbers, one for control traffic and one for data traffic?
-	1. FTP
+	1. ==FTP==
 	2. SNMP
 	3. NTP
 	4. HTTP
@@ -484,19 +484,19 @@
 	1. 255.248.0.0
 	2. 255.252.0.0
 	3. 255.254.0.0
-	4. 255.255.248.0
+	4. ==255.255.248.0==
 	5. 255.255.252.0
 	6. 255.255.254.0
 
 79. You are testing a twisted-pair cable run using a toner and probe. When you apply the toner to each of the first seven wires at one end of the cable, you successfully detect a tone on the corresponding pin at the other end. However, when you connect the toner to the eighth wire, you fail to detect a tone at the other end. Which of the following fault types have you discovered?
 	1. Short circuit
-	2. Open circuit
+	2. ==Open circuit==
 	3. Split pair
 	4. Crosstalk
 
 80. Which of the following functions are defined as occurring at the Session layer of the Open Systems Interconnection (OSI) model? (Choose all that apply.)
 	1. Data encryption
-	2. Dialog control
+	2. ==Dialog control==
 	3. Datagram routing
 	4. Dialog separation
 
