@@ -130,7 +130,7 @@
 	1. ==IaaS==
 	2. PaaS
 	3. SaaS
-	4. Public cloud
+	4. ==Public cloud==
 	5. Private cloud
 	6. Hybrid cloud
 
@@ -138,23 +138,23 @@
 	1. Pull cable runs.
 	2. Attach keystone connectors.
 	3. Install a patch panel.
-	4. Create patch cables.
+	4. ==Create patch cables.==
 
 24. Which of the following well-known ports do you use to configure outgoing mail on a POP3 email client?
 	1. 110
-	2. 25
+	2. ==25==
 	3. 143
 	4. 80
 
 25. You are a consultant who has been hired to extend a network by a client that is still running thin Ethernet. You have brought a spool of RG-58 coaxial cable. Which of the following types of cable connectors will you have to bring with you to add thin Ethernet network segments?
 	1. ST
-	2. BNC
+	2. ==BNC==
 	3. MPO
-	4. RJ45
+	4. ==RJ45==
 	5. RJ11
 
 26. Which of the following types of cable is never used to connect a workstation to an Ethernet network?
-	1. Rollover
+	1. ==Rollover==
 	2. Straight-through
 	3. Crossover
 	4. Plenum
@@ -162,32 +162,32 @@
 
 27. Which of the following protocols does IPsec use to provide data origin authentication by digitally signing packets before transmitting them over the network?
 	1. AH
-	2. SSL
+	2. ==SSL==
 	3. ESP
 	4. RDP
 
 28. You have constructed a network on which all of the computers are connected to a single switch. You then create virtual local area networks (VLANs) on the switch, corresponding to the company's departments, and add the switch port for each user workstation and department server to the appropriate VLAN. Later, users report that while they can access their departmental servers and the workstations of other users in the same department, they cannot communicate with any of the other departments. What is the problem, and what must you do to correct it?
 	1. There is a faulty VLAN configuration on the switch. You must re-create all of the VLANs and configure each VLAN for routing.
-	2. VLANs are limited to Data link layer communication only. To enable communication between the VLANs, you must install a router or a layer 3 switch on the network and configure it to route traffic between the VLANs.
+	2. ==VLANs are limited to Data link layer communication only. To enable communication between the VLANs, you must install a router or a layer 3 switch on the network and configure it to route traffic between the VLANs.==
 	3. The VLANs are using different Data link layer protocols. You must configure the VLANs to use the same Data link layer protocol in order for them to communicate with each other.
 	4. One of the VLANs is configured to filter all of the other VLAN traffic for security purposes. You must change the filter on this one VLAN.
 
 29. The TCP/IP term _socket_ consists of which of the following elements? (Choose all that apply.)
-	1. Port number
+	1. ==Port number==
 	2. MAC address
-	3. IP address
+	3. ==IP address==
 	4. Subnet mask
 
 30. You are installing a cable modem to provide your home network with access to the Internet through your cable television provider. The cable modem is a multifunction device that the cable company says provides everything you need for a home network. Which of the following network functions does a home cable modem typically provide? (Choose all that apply.)
-	1. DHCP server
-	2. Wireless access point
-	3. Broadband router
-	4. Ethernet switch
+	1. ==DHCP server==
+	2. ==Wireless access point==
+	3. ==Broadband router==
+	4. ==Ethernet switch==
 	5. Proxy server
 	6. RADIUS server
 
 31. Which of the following Domain Name System (DNS) resource records is not used for forward name resolution?
-	1. PTR
+	1. ==PTR==
 	2. CNAME
 	3. AAAA
 	4. MX
@@ -195,15 +195,15 @@
 32. Which of the following are tasks that can be performed by a protocol analyzer that could provide potential intruders with information about the network? (Choose all that apply.)
 	1. A protocol analyzer can decrypt protected information in packets captured from the network.
 	2. A protocol analyzer can detect open ports on network systems and launch attacks against them.
-	3. A protocol analyzer can display the IP addresses of the systems on the network.
-	4. A protocol analyzer can display the application data in packets captured from the network.
+	3. ==A protocol analyzer can display the IP addresses of the systems on the network.==
+	4. ==A protocol analyzer can display the application data in packets captured from the network.==
 
 33. Which of the following services are provided by a RADIUS server? (Choose all that apply.)
 	1. Attenuation
-	2. Authentication
+	2. ==Authentication==
 	3. Assistance
-	4. Authorization
-	5. Accounting
+	4. ==Authorization==
+	5. ==Accounting==
 
 34. Some users are having a problem connecting to an application server on their local network. You go to their department and start to troubleshoot the problem by testing connectivity using the `ping` tool at one of the user workstations. You discover that you can ping the server successfully using its computer name, but pinging the computer's fully qualified domain name (FQDN) fails. As a result of these tests, which of the following can you determine is the most likely source of the problem?
 	1. EMI
