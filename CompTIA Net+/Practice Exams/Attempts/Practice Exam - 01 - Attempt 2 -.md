@@ -501,7 +501,7 @@
 	4. Dialog separation
 
 81. You are working your company's IT help desk, and you have had several calls from users who are reporting problems with their Voice over IP (VoIP) and streaming video connections. In each case, the audio or video connection experiences frequent dropouts in sound or video, causing frustrating interruptions. Which of the following terms describes a connectivity problem on a wired network that could cause these symptoms?
-	1. Jitter
+	1. ==Jitter==
 	2. Latency
 	3. Bottleneck
 	4. Attenuation
@@ -510,50 +510,50 @@
 	1. 54 Mbps
 	2. 600 Mbps
 	3. 6.9 Gbps
-	4. 9.6 Gbps
+	4. ==9.6 Gbps==
 
 83. A private network uses unregistered IP addresses that are not accessible from the Internet. In order for computers on the private network to access Internet servers, there must be a device that substitutes registered IP addresses for the unregistered ones. Which of the following devices are capable of performing this kind of IP address substitution? (Choose all that apply.)
 	1. RADIUS server
-	2. NAT router
+	2. ==NAT router==
 	3. UTM appliance
-	4. Proxy server
+	4. ==Proxy server==
 
 84. A user calls you at the technical support desk in the computer store where you work. He is installing a home network and is having trouble configuring the IP addresses for his computers. He starts reading off a list of the network addresses he has tried to use. Which of the following are valid IPv4 network addresses that the user can conceivably use to configure his computers? (Choose all that apply.)
-	1. 1.1.1.0
-	2. 9.34.0.0
+	1. ==1.1.1.0==
+	2. ==9.34.0.0==
 	3. 103.256.77.0
 	4. 229.6.87.0
 
 85. Which of the following terms refers to a routing protocol that relies on hop counts to measure the efficiency of routes through an internetwork?
 	1. Link state protocol
-	2. Distance vector protocol
+	2. ==Distance vector protocol==
 	3. Edge gateway protocol
 	4. Interior gateway protocol
 
 86. You have been hired by a client to connect two local area networks that are in different buildings 500 meters apart. The cable type you use must support Gigabit Ethernet data rates of 1,000 megabits per second (Mbps) and provide a high level of resistance to electromagnetic interference (EMI). Which of the following cable types can you choose to meet the client's needs? (Choose all that apply.)
-	1. Single-mode fiber-optic cable
+	1. ==Single-mode fiber-optic cable==
 	2. Thin coaxial cable
-	3. Multimode fiber-optic cable
+	3. ==Multimode fiber-optic cable==
 	4. Shielded twisted-pair (STP) cable
 	5. Unshielded twisted-pair (UTP) cable
 
 87. You receive a call at the IT help desk from a user who has recently moved to a new office in the company building, down the hall from her old one. Since the move, she has only been able to access the company's wireless network with her laptop intermittently. The network is based on 802.11n equipment, and it is using the 2.4 GHz frequency and the WPA3 security protocol. The user never had a problem in her previous office location. Which of the following could not possibly be the cause of her problem? (Choose all that apply.)
 	1. The user's laptop is connecting to the wrong SSID.
 	2. The user's laptop is configured to use the 5 GHz frequency.
-	3. The user's new office is farther from the access point than her old one.
-	4. There are more intervening walls between the user's new office and the access point.
+	3. ==The user's new office is farther from the access point than her old one.==
+	4. ==There are more intervening walls between the user's new office and the access point.==
 
 88. Which of the following statements about static routing are not true? (Choose all that apply.)
-	1. Static routes are automatically added to the routing table by routing protocols when a new network path becomes available.
+	1. ==Static routes are automatically added to the routing table by routing protocols when a new network path becomes available.==
 	2. Static routes are manually configured routes that administrators must add, modify, or delete when a change in the network occurs.
-	3. Static routes are a recommended solution for large internetworks with redundant paths to each destination network.
+	3. ==Static routes are a recommended solution for large internetworks with redundant paths to each destination network.==
 	4. Static routes are a recommended solution for small internetworks with a single path to each destination network.
-	5. Static routes adapt to changes in the network infrastructure automatically.
+	5. ==Static routes adapt to changes in the network infrastructure automatically.==
 
 89. Which layer of the Open Systems Interconnection (OSI) model has its own logical addressing system and is responsible for routing packets from one network to another?
 	1. Physical
 	2. Data link
-	3. Network
+	3. ==Network==
 	4. Transport
 	5. Session
 	6. Presentation
@@ -562,13 +562,13 @@
 90. Several marketing consultants are working in your office for the first time, and they have approached you because they are unable to connect to the company's 802.11ac wireless network with their laptops. They are selecting the correct SSID from the Available Networks list, but they still cannot connect, and there are no error messages of any kind. Which of the following tasks should you perform first to try to resolve the problem?
 	1. Examine the area where the consultants are working for possible sources of signal interference.
 	2. Change the frequency used by the wireless access point from 5 GHz to 2.4 GHz.
-	3. Make sure that the consultants' laptops are configured to use the correct wireless security protocol.
+	3. ==Make sure that the consultants' laptops are configured to use the correct wireless security protocol.==
 	4. Check the network adapters in the laptops for channel overlap.
 
 91. You are researching the various types of storage area network (SAN) technologies currently available before making a purchasing recommendation to your IT director. Which of the following are genuine advantages of iSCSI over Fibre Channel? (Choose all that apply.)
 	1. iSCSI can share the same network as standard local area network (LAN) traffic, whereas Fibre Channel cannot.
 	2. iSCSI is routable, whereas Fibre Channel is not.
-	3. iSCSI is less expensive to implement than Fibre Channel.
+	3. ==iSCSI is less expensive to implement than Fibre Channel.==
 	4. iSCSI includes its own internal flow control mechanism, whereas Fibre Channel does not.
 
 92. In which of the following DNS transactions does the querying system generate an iterative query? (Choose all that apply.)
