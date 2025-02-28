@@ -208,23 +208,23 @@
 34. Some users are having a problem connecting to an application server on their local network. You go to their department and start to troubleshoot the problem by testing connectivity using the `ping` tool at one of the user workstations. You discover that you can ping the server successfully using its computer name, but pinging the computer's fully qualified domain name (FQDN) fails. As a result of these tests, which of the following can you determine is the most likely source of the problem?
 	1. EMI
 	2. DHCP
-	3. DNS
+	3. ==DNS==
 	4. ACL
 
 35. You have been given the job of devising a plan to provide a 500-node private internetwork with access to the Internet. The primary objective of the project is to provide all of the network users with access to web and email services while keeping the client computers safe from unauthorized Internet users. There are two secondary objectives for the project: one is to provide a means of monitoring and regulating the users' Internet activities, and the other is to avoid having to manually configure IP addresses on each one of the client computers. You submit a proposal that calls for the use of private IP addresses on the client computers and a series of proxy servers with public, registered IP addresses, which are connected to the Internet. Which of the following statements about your proposed Internet access solution is true?
 	1. The proposal satisfies the primary objective and both of the secondary objectives.
-	2. The proposal satisfies the primary objective and one of the secondary objectives.
+	2. ==The proposal satisfies the primary objective and one of the secondary objectives.==
 	3. The proposal satisfies the primary objective but neither of the secondary objectives.
 	4. The proposal fails to satisfy either the primary or secondary objective.
 
 36. Which of the following cloud service models provides the consumer with the least amount of control over the cloud resources?
 	1. IaaS
     1. PaaS
-    2. SaaS
+    2. ==SaaS==
     3. IaaS, PaaS, and SaaS all provide the same degree of control.
 
 37. The jumbo frame capability is associated with which networking protocol?
-	1. Ethernet
+	1. ==Ethernet==
 	2. Internet Protocol (IP)
 	3. Point-to-Point Protocol (PPP)
 	4. Transmission Control Protocol (TCP)
@@ -232,7 +232,7 @@
 38. You are working your company's IT help desk, where you are required to follow a specific troubleshooting protocol when handling calls from users. In which of the following troubleshooting steps would you create a trouble ticket?
 	1. Establish a theory of probable cause.
 	2. Verify full system functionality and implement preventive measures, if applicable.
-	3. Identify the problem.
+	3. ==Identify the problem.==
 	4. Test the theory to determine the cause.
 	5. Document findings, actions, and outcomes.
 	6. Implement the solution or escalate as necessary.
@@ -241,24 +241,24 @@
 39. You are working your company's help desk when a user calls to report that he cannot access any of the data on his computer. He says that a message has appeared on his screen stating that all of his data has been encrypted by the FBI and that it will be decrypted only after he pays $768 in Bitcoin to an unknown address. The user wants to know if he is responsible for making the payment. Which of the following types of attacks has the user experienced?
 	1. Denial-of-service
 	2. Social engineering
-	3. Ransomware
+	3. ==Ransomware==
 	4. ARP poisoning
 
 40. Which of the following are switch features that help to prevent intruders from manipulating the Spanning Tree Protocol (STP)?
-	1. 1. Geofencing
-	2. Root guard
+	1. Geofencing
+	2. ==Root guard==
 	3. DHCP snooping
 	4. BPDU guard
 
 41. Network cable runs generally connect office endpoints, such as wall plates, to a central cabling nexus, which is typically where the runs are joined to a backbone network that links them together. Which of the following are terms for such nexuses where network cabling connections are found? (Choose all that apply.)
 	1. RDP
-	2. IDF
-	3. MDF
+	2. ==IDF==
+	3. ==MDF==
 	4. MTBF
 
 42. Your supervisor has asked you to call the cabling contractor your company uses and make an appointment to install some new twisted-pair cable runs. In addition to asking how many cable runs you need pulled, the contractor asks you if you need plenum or PVC. Under which of the following conditions might the local building code require that a data network use plenum cable?
 	1. When cable runs exceed the maximum length specified by the Physical layer specification
-	2. When cables must run through air ducts
+	2. ==When cables must run through air ducts==
 	3. When cables run near devices that generate electromagnetic interference (EMI)
 	4. When multiple cables run through the same conduit
 
@@ -266,30 +266,30 @@
 	1. Port aggregation
 	2. Link aggregation
 	3. Bonding
-	4. Clustering
+	4. ==Clustering==
 	5. NIC teaming
 
 44. You have been asked by the director of the IT department to review the security status of the network device administration procedures currently in use. You know that network device hardening has as one of its first principles the use of secure protocols over insecure ones. Which of the following suggestions are examples of this principle that you should suggest to the director? (Choose all that apply.)
 	1. Use WEP instead of WPA2.
 	2. Use TKIP instead of AES.
-	3. Use HTTPS instead of HTTP.
-	4. Use SSH instead of Telnet.
+	3. ==Use HTTPS instead of HTTP.==
+	4. ==Use SSH instead of Telnet.==
 
 45. The Simple Network Management Protocol (SNMP) works by processing information gathered from agents installed or embedded in network devices and displaying the information on a central console. Which of the following is the term used for the database in which SNMP agents store information about their properties?
-	1. MIB
+	1. ==MIB==
 	2. Trap
 	3. Syslog
 	4. SIEM
 
 46. When a web browser connects to a web server using an address with the https:// prefix, the connection is secured using Transmission Control Protocol (TCP) and an encryption protocol. Which of the following protocols are typically used to secure communication between web servers and web browsers? (Choose all that apply.)
-	1. TLS
+	1. ==TLS==
 	2. SSH
 	3. DTLS
-	4. SSL
+	4. ==SSL==
 
 47. A screened subnet is a segment that is exposed to the Internet and separated from the internal network by a firewall. Administrators typically use a screened subnet for servers that must be accessible to outside users, such as web and email servers. Which of the following is another term for a screened subnet?
 	1. PEAP
-	2. DMZ
+	2. ==DMZ==
 	3. VLAN
 	4. TKIP
 
@@ -297,13 +297,13 @@
 	1. Keystrokes
 	2. Mouse movements
 	3. Display information
-	4. Application data
+	4. ==Application data==
 
 49. You have been engaged to design a wireless LAN for a site you have never seen. For that reason, you want the LAN to be able to support both the 2.4 GHz and 5 GHz frequencies. Which of the following IEEE 802.11 wireless LAN standards should you look for when you are shopping for equipment that supports both frequencies? (Choose all that apply.)
 	1. 802.11g
-	2. 802.11n
+	2. ==802.11n==
 	3. 802.11ac
-	4. 802.11ax
+	4. ==802.11ax==
 
 50. Which of the following statements about multitenancy in a public cloud datacenter is not true?
 	1. Multitenancy presents a potential security risk because other tenants are using the same hardware.
