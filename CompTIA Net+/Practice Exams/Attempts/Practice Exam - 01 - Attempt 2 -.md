@@ -74,60 +74,60 @@
 	1. Configure the network adapters to use the 2.4 GHz frequency.
 	2. Move the computer closer to the access point.
 	3. Manually enter the SSID in the computer's wireless network client software.
-	4. Nothing. 802.11ac equipment cannot connect to a 2.4 GHz 802.11n network.
+	4. ==Nothing. 802.11ac equipment cannot connect to a 2.4 GHz 802.11n network.==
 
 14. Which of the following mechanisms for the recovery from a disaster in a datacenter is the most expensive to implement?
-	1. A hot site
+	1. ==A hot site==
 	2. A warm site
 	3. A cold site
 	4. A cloud site
 
 15. You are setting up an 802.11n wireless network using the 2.4 GHz frequency band. You plan to install three wireless access points. Which of the following channels should you use for your access points to avoid channel overlap that can result in interference? (Choose all that apply.)
-	1. 1
+	1. ==1==
 	2. 4
-	3. 6
+	3. ==6==
 	4. 8
-	5. 11
+	5. ==11==
 
 16. Your supervisor has asked you to increase the security of the servers on your network. Which of the following procedures can be considered to be server hardening techniques? (Choose all that apply.)
 	1. Installing additional memory
-	2. Disabling unnecessary services
-	3. Creating privileged user accounts
-	4. Disabling unused TCP and UDP ports
+	2. ==Disabling unnecessary services==
+	3. ==Creating privileged user accounts==
+	4. ==Disabling unused TCP and UDP ports==
 
 17. You are working the IT help desk when a user calls to report that he cannot access the Internet, although he is able to connect to computers on the local network. At the user's workstation, you run the `ipconfig /all` command and examine the output. Which of the options is the most likely explanation for the user's problem, based on the following `ipconfig` results? ![[Pasted image 20250217104358.png]]
 	1. DHCP is not enabled.
 	2. The Subnet Mask setting is incorrect.
-	3. The Default Gateway setting is incorrect.
+	3. ==The Default Gateway setting is incorrect.==
 	4. The DNS Servers setting is located on another network.
 
 18. Which of the following are typical examples of the Internet of Things (IoT)? (Choose all that apply.)
 	1. A television remote control
 	2. A key fob that unlocks your car
-	3. A smartphone app for your home thermostat
-	4. A remotely monitored cardiac pacemaker
-	5. A refrigerator with an internal camera
+	3. ==A smartphone app for your home thermostat==
+	4. ==A remotely monitored cardiac pacemaker==
+	5. ==A refrigerator with an internal camera==
 
 19. A Remote Authentication Dial-In User Service (RADIUS) server takes which of the following roles in an 802.1X transaction?
 	1. The authenticator
-	2. The authentication server
+	2. ==The authentication server==
 	3. The supplicant
 	4. The accountant
 
 20. You are installing an Internet access router for your company's new branch office. The router has a switch module containing four Ethernet ports, all of which are assigned to the default VLAN1. When you plug a laptop into one of the Ethernet ports, you can access the Internet with no difficulties. You now need to connect the router to the company network so that the wireless access points on the network can provide users with Internet access through the router. However, when you plug the router into a network switch port that is assigned to VLAN4, the switch starts generating “Native VLAN mismatch detected” errors once every minute. Which of the following steps should be part of the solution you implement to stop the error messages from appearing? (Choose all that apply.)
 	1. Create a VLAN1 on the network switch.
 	2. Configure the network switch port connected to the router to use VLAN1.
-	3. Create a VLAN4 on the router's switch module.
-	4. Configure the router port connected to the network switch to use VLAN4.
+	3. ==Create a VLAN4 on the router's switch module.==
+	4. ==Configure the router port connected to the network switch to use VLAN4.==
 
 21. Which of the following cannot function as a preventative mitigation for the problem of tailgating? (Choose all that apply.)
 	1. Security cameras
-	2. Badge readers
+	2. ==Badge readers==
 	3. Access control vestibules
-	4. Motion detectors
+	4. ==Motion detectors==
 
 22. You have just created a new virtual machine (VM) using remote controls provided by a cloud service provider on the Internet. You then install an operating system on the virtual machine and configure it to function as a web server. Which of the following cloud architectures are you using when you do this? (Choose all that apply.)
-	1. IaaS
+	1. ==IaaS==
 	2. PaaS
 	3. SaaS
 	4. Public cloud
