@@ -391,7 +391,7 @@
 
 63. You are a consultant working at a client site. The client has supplied you with the SSID and the passphrase for the company's wireless network so that you can connect to it with your laptop. However, you are unable to establish a connection. Which of the following security measures might be preventing you from connecting your laptop to the network?
 	1. Geofencing
-	2. MAC filtering
+	2. ==MAC filtering==
 	3. Using WPA3
 	4. Disabling SSID broadcasts
 
@@ -399,23 +399,23 @@
 	1. Repull the cable run using Category 6a cable.
 	2. Check the cable run for wiring faults.
 	3. Make sure the switch port is not disabled.
-	4. Plug a computer into the wall plate.
+	4. ==Plug a computer into the wall plate.==
 
 65. Devices on a TCP/IP network typically use the Address Resolution Protocol (ARP) to locate specific destinations on the local network by resolving IP addresses into MAC addresses (also known as hardware addresses). At which layer of the Open Systems Interconnection (OSI) model do these MAC addresses operate?
 	1. Physical
-	2. Data link
+	2. ==Data link==
 	3. Network
 	4. Transport
 
 66. Which of the following Network layer protocols includes a field that limits the number of times a packet can be routed on a network? (Choose all that apply.)
 	1. ICMP
 	2. IGMP
-	3. IPv4
-	4. IPv6
+	3. ==IPv4==
+	4. ==IPv6==
 
 67. ARP poisoning is the deliberate insertion of fraudulent information into the ARP cache stored on computers and switches. Which of the following types of attack can be facilitated by ARP poisoning? (Choose all that apply.)
 	1. Social engineering
-	2. On-path
+	2. ==On-path==
 	3. Evil twin
 	4. Session hijacking
 
@@ -423,37 +423,37 @@
 	1. Spoofing
 	2. DMZ
 	3. Root guard
-	4. Honeypot
+	4. ==Honeypot==
 
 69. You are a consultant working on a new client's network. The network has been in place for decades, and you have been given a diagram supplied by the original installer. The diagram says that the network computers are connected to a device called a multiport bridge. Which of the following devices can also be described as a multiport bridge?
 	1. Repeater
 	2. Hub
-	3. Switch
+	3. ==Switch==
 	4. Router
 
 70. When you run a port scanner on a server, which of the following is the result?
 	1. A list of the servers currently running user processes
-	2. A list of the computer's hardware ports that are currently in use
+	2. ==A list of the computer's hardware ports that are currently in use==
 	3. A list specifying the numbers of packets transmitted and received by each network adapter on the system
-	4. A list of open ports through which the system can be accessed
+	4. ==A list of open ports through which the system can be accessed==
 	5. A list of the IP addresses used by all the devices on the local network
 
 71. Your company has a seven-node failover cluster hosting databases on SQL Server. Each server has three network interface adapters installed in it. Two are standard Gigabit Ethernet adapters that provide the nodes with access to each other and clients with access to the cluster. One is a Fibre Channel adapter that provides the cluster nodes with access to a dedicated network that also hosts a large hard disk array. Which of the following terms describe the networks to which the cluster nodes are connected? (Choose all that apply.)
-	1. SAN
+	1. ==SAN==
 	2. WAN
 	3. MAN
-	4. LAN
+	4. ==LAN==
 
 72. A Windows user calls you at the help desk and reports that he cannot connect to any hosts on either the local or a remote network. This is the only report of its kind you have received today. You question the user about the problem and eventually learn that he has made some changes to his workstation's Internet Protocol (IP) settings. What should you do next?
 	1. Check the switches in the datacenter to see if they have logged any error messages.
 	2. Verify that the routers on the network are functioning.
-	3. Run the ipconfig command on the user's workstation to view its configuration.
+	3. ==Run the ipconfig command on the user's workstation to view its configuration.==
 	4. Check the network's Domain Name System (DNS) server to see if it is resolving IP hostnames.
 
 73. You are a network administrator attempting to use your workstation on the internal network to remotely control a web server called WebServ1 on a screened subnet. However, the remote desktop client software is unable to establish a connection to the server. You can see all the computers on your local network and on the screened subnet. You try using the `ping` utility to test the TCP/IP functionality of WebServ1, and the ping test is successful. You then call your colleague on the same internal network and have her try to connect to WebServ1 using the same remote access tool. She connects to WebServ1 successfully. Which of the following could be the cause of the problem you are experiencing?
 	1. Blocked TCP/UDP ports on the web server
 	2. Name resolution failure
-	3. Incorrect firewall settings on your workstation
+	3. ==Incorrect firewall settings on your workstation==
 	4. Unresponsive service on the web server
 
 74. The toolkit you were given when you began work for an IT consulting company contained the tool shown in the following figure. What is the function of this tool?![[Pasted image 20250218075817.png]]
