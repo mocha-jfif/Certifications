@@ -324,7 +324,7 @@
 	3. Defense in depth
 	4. Multifactor authentication
 
-53. You are in the process of troubleshooting a user's computer that is malfunctioning. Which step of the troubleshooting model involves replacing computer components until you have identified a faulty hardware device?
+53. You are in the process of troubleshooting a user's computer that is malfunctioning. Which step of the troubleshooting model involves replacing computer components until you have identified a faulty hardware device? ❌
 	1. Establish a plan of action to resolve the problem. 
 	2. Duplicate the problem.
 	3. Gather information.
@@ -333,55 +333,55 @@
 	6. Document findings, actions, and outcomes.
 	7. ==Establish a theory of probable cause.==
 
-54. Which of the following could be an indication that there is a rogue DHCP server on your network?
+54. Which of the following could be an indication that there is a rogue DHCP server on your network? ✅
 	1. ==A user's workstation has an IP address from another subnet.==
 	2. A user can access local resources from his workstation but not Internet resources.
 	3. The DHCP Enabled setting on a user's workstation is set to No.
 	4. The user's workstation has an IP address on the 169.254.0.0/16 subnet.
 
-55. Which of the following network interface occurrences is considered to be malfunctions on a full-duplex Ethernet network but not on a half-duplex Ethernet network?
+55. Which of the following network interface occurrences is considered to be malfunctions on a full-duplex Ethernet network but not on a half-duplex Ethernet network? ✅
 	1. Runts
 	2. Late collisions
 	3. Giants
 	4. ==Collisions==
 
-56. A protocol analyzer is a tool that captures packets from a network and examines their contents. Which of the following Unix/Linux tools is a protocol analyzer?
+56. A protocol analyzer is a tool that captures packets from a network and examines their contents. Which of the following Unix/Linux tools is a protocol analyzer? ✅
 	1. nmap
 	2. ==tcpdump==
 	3. pathping
 	4. iptables
 
-57. A storage area network (SAN) typically takes the form of a dedicated network used to provide servers with access to hard disk arrays and other storage devices. Which of the following statements about the differences between a SAN and network attached storage (NAS) are true? (Choose all that apply.)
+57. A storage area network (SAN) typically takes the form of a dedicated network used to provide servers with access to hard disk arrays and other storage devices. Which of the following statements about the differences between a SAN and network attached storage (NAS) are true? (Choose all that apply.) ==1/2==
 	1. NAS devices typically provide a filesystem, while SAN devices do not.
 	2. ==NAS provides file-level storage access, whereas a SAN provides block-level storage access.==
 	3. ==NAS devices typically contain integrated iSCSI targets.==
 	4. SAN devices have an operating system, whereas NAS devices do not.
 
-58. Your supervisor has just informed you that the CIO has hired an outside consultant to perform penetration testing on the company network. Which of the following best describes what you can expect the consultant to do?
+58. Your supervisor has just informed you that the CIO has hired an outside consultant to perform penetration testing on the company network. Which of the following best describes what you can expect the consultant to do? ✅
 	1. Evaluate the security conditions on the network.
 	2. Create computers or networks that are alluring targets for intruders.
 	3. ==Attempt to compromise the network's security measures.==
 	4. Implement a new companywide security protocol.
 
-59. Your company is a contractor for the government that regularly works with highly sensitive defense data. To prevent this data from being compromised, the company's datacenter has various special security measures installed. All of the servers have crimped metal tags holding the cases closed. All of the hardware racks are locked in clear-fronted cabinets. All of the cable runs are installed in transparent conduits. These are all examples of which of the following types of physical security measure?
+59. Your company is a contractor for the government that regularly works with highly sensitive defense data. To prevent this data from being compromised, the company's datacenter has various special security measures installed. All of the servers have crimped metal tags holding the cases closed. All of the hardware racks are locked in clear-fronted cabinets. All of the cable runs are installed in transparent conduits. These are all examples of which of the following types of physical security measure? ✅
 	1. Asset tracking
 	2. Geofencing
 	3. ==Tamper detection==
 	4. Port security
 
-60. Which of the following tools are only usable on fiber-optic networks? (Choose all that apply.)
+60. Which of the following tools are only usable on fiber-optic networks? (Choose all that apply.) ✅
 	1. ==Visual fault locator==
 	2. ==Optical power meter==
 	3. Protocol analyzer
 	4. Toner and probe
 
-61. Which of the following mechanisms use tunneling to establish secured links between TCP/IP systems? (Choose all that apply.)
+61. Which of the following mechanisms use tunneling to establish secured links between TCP/IP systems? (Choose all that apply.) ✅
 	1. ==VPNs==
-	2. IPsec
+	2. ==IPsec==
 	3. ==GRE==
 	4. NAT
 
-62. Your supervisor has given you a Class C network IP address and has asked you to create a network with 8 subnets and 30 hosts per subnet. Which of the following subnet masks will you have to use?
+62. Your supervisor has given you a Class C network IP address and has asked you to create a network with 8 subnets and 30 hosts per subnet. Which of the following subnet masks will you have to use? ❌
 	1. 255.255.255.128
 	2. 255.255.255.192
 	3. 255.255.255.224
@@ -389,98 +389,98 @@
 	5. 255.255.255.248
 	6. 255.255.255.252
 
-63. You are a consultant working at a client site. The client has supplied you with the SSID and the passphrase for the company's wireless network so that you can connect to it with your laptop. However, you are unable to establish a connection. Which of the following security measures might be preventing you from connecting your laptop to the network?
+63. You are a consultant working at a client site. The client has supplied you with the SSID and the passphrase for the company's wireless network so that you can connect to it with your laptop. However, you are unable to establish a connection. Which of the following security measures might be preventing you from connecting your laptop to the network? ✅
 	1. Geofencing
 	2. ==MAC filtering==
 	3. Using WPA3
 	4. Disabling SSID broadcasts
 
-64. You have just finished installing a new Category 6 cable run for the first time. After attaching keystone connectors to both ends of the cable, you mount the office-side connector to a wall plate and mount the datacenter connector into a patch panel. Then you take a patch cable and connect the patch panel port to an open port in one of the network switches. However, the link pulse LED on the switch port does not light as it is supposed to. What should you do next?
+64. You have just finished installing a new Category 6 cable run for the first time. After attaching keystone connectors to both ends of the cable, you mount the office-side connector to a wall plate and mount the datacenter connector into a patch panel. Then you take a patch cable and connect the patch panel port to an open port in one of the network switches. However, the link pulse LED on the switch port does not light as it is supposed to. What should you do next? ✅
 	1. Repull the cable run using Category 6a cable.
 	2. Check the cable run for wiring faults.
 	3. Make sure the switch port is not disabled.
 	4. ==Plug a computer into the wall plate.==
 
-65. Devices on a TCP/IP network typically use the Address Resolution Protocol (ARP) to locate specific destinations on the local network by resolving IP addresses into MAC addresses (also known as hardware addresses). At which layer of the Open Systems Interconnection (OSI) model do these MAC addresses operate?
+65. Devices on a TCP/IP network typically use the Address Resolution Protocol (ARP) to locate specific destinations on the local network by resolving IP addresses into MAC addresses (also known as hardware addresses). At which layer of the Open Systems Interconnection (OSI) model do these MAC addresses operate? ✅
 	1. Physical
 	2. ==Data link==
 	3. Network
 	4. Transport
 
-66. Which of the following Network layer protocols includes a field that limits the number of times a packet can be routed on a network? (Choose all that apply.)
+66. Which of the following Network layer protocols includes a field that limits the number of times a packet can be routed on a network? (Choose all that apply.) ✅
 	1. ICMP
 	2. IGMP
 	3. ==IPv4==
 	4. ==IPv6==
 
-67. ARP poisoning is the deliberate insertion of fraudulent information into the ARP cache stored on computers and switches. Which of the following types of attack can be facilitated by ARP poisoning? (Choose all that apply.)
+67. ARP poisoning is the deliberate insertion of fraudulent information into the ARP cache stored on computers and switches. Which of the following types of attack can be facilitated by ARP poisoning? (Choose all that apply.) ✅
 	1. Social engineering
 	2. ==On-path==
 	3. Evil twin
-	4. Session hijacking
+	4. ==Session hijacking==
 
-68. Recently, your network has been the target of numerous attack attempts. To gather information about the attackers, you have created a server that is designed to function as an enticing target but that does not provide access to any legitimately sensitive services or information. Which of the following is the term used to describe this technique?
+68. Recently, your network has been the target of numerous attack attempts. To gather information about the attackers, you have created a server that is designed to function as an enticing target but that does not provide access to any legitimately sensitive services or information. Which of the following is the term used to describe this technique? ✅
 	1. Spoofing
 	2. DMZ
 	3. Root guard
 	4. ==Honeypot==
 
-69. You are a consultant working on a new client's network. The network has been in place for decades, and you have been given a diagram supplied by the original installer. The diagram says that the network computers are connected to a device called a multiport bridge. Which of the following devices can also be described as a multiport bridge?
+69. You are a consultant working on a new client's network. The network has been in place for decades, and you have been given a diagram supplied by the original installer. The diagram says that the network computers are connected to a device called a multiport bridge. Which of the following devices can also be described as a multiport bridge? ✅
 	1. Repeater
 	2. Hub
 	3. ==Switch==
 	4. Router
 
-70. When you run a port scanner on a server, which of the following is the result?
+70. When you run a port scanner on a server, which of the following is the result? ✅
 	1. A list of the servers currently running user processes
-	2. ==A list of the computer's hardware ports that are currently in use==
+	2. A list of the computer's hardware ports that are currently in use
 	3. A list specifying the numbers of packets transmitted and received by each network adapter on the system
 	4. ==A list of open ports through which the system can be accessed==
 	5. A list of the IP addresses used by all the devices on the local network
 
-71. Your company has a seven-node failover cluster hosting databases on SQL Server. Each server has three network interface adapters installed in it. Two are standard Gigabit Ethernet adapters that provide the nodes with access to each other and clients with access to the cluster. One is a Fibre Channel adapter that provides the cluster nodes with access to a dedicated network that also hosts a large hard disk array. Which of the following terms describe the networks to which the cluster nodes are connected? (Choose all that apply.)
+71. Your company has a seven-node failover cluster hosting databases on SQL Server. Each server has three network interface adapters installed in it. Two are standard Gigabit Ethernet adapters that provide the nodes with access to each other and clients with access to the cluster. One is a Fibre Channel adapter that provides the cluster nodes with access to a dedicated network that also hosts a large hard disk array. Which of the following terms describe the networks to which the cluster nodes are connected? (Choose all that apply.) ✅
 	1. ==SAN==
 	2. WAN
 	3. MAN
 	4. ==LAN==
 
-72. A Windows user calls you at the help desk and reports that he cannot connect to any hosts on either the local or a remote network. This is the only report of its kind you have received today. You question the user about the problem and eventually learn that he has made some changes to his workstation's Internet Protocol (IP) settings. What should you do next?
+72. A Windows user calls you at the help desk and reports that he cannot connect to any hosts on either the local or a remote network. This is the only report of its kind you have received today. You question the user about the problem and eventually learn that he has made some changes to his workstation's Internet Protocol (IP) settings. What should you do next? ✅
 	1. Check the switches in the datacenter to see if they have logged any error messages.
 	2. Verify that the routers on the network are functioning.
 	3. ==Run the ipconfig command on the user's workstation to view its configuration.==
 	4. Check the network's Domain Name System (DNS) server to see if it is resolving IP hostnames.
 
-73. You are a network administrator attempting to use your workstation on the internal network to remotely control a web server called WebServ1 on a screened subnet. However, the remote desktop client software is unable to establish a connection to the server. You can see all the computers on your local network and on the screened subnet. You try using the `ping` utility to test the TCP/IP functionality of WebServ1, and the ping test is successful. You then call your colleague on the same internal network and have her try to connect to WebServ1 using the same remote access tool. She connects to WebServ1 successfully. Which of the following could be the cause of the problem you are experiencing?
+73. You are a network administrator attempting to use your workstation on the internal network to remotely control a web server called WebServ1 on a screened subnet. However, the remote desktop client software is unable to establish a connection to the server. You can see all the computers on your local network and on the screened subnet. You try using the `ping` utility to test the TCP/IP functionality of WebServ1, and the ping test is successful. You then call your colleague on the same internal network and have her try to connect to WebServ1 using the same remote access tool. She connects to WebServ1 successfully. Which of the following could be the cause of the problem you are experiencing? ✅
 	1. Blocked TCP/UDP ports on the web server
 	2. Name resolution failure
 	3. ==Incorrect firewall settings on your workstation==
 	4. Unresponsive service on the web server
 
-74. The toolkit you were given when you began work for an IT consulting company contained the tool shown in the following figure. What is the function of this tool?![[Pasted image 20250218075817.png]]
+74. The toolkit you were given when you began work for an IT consulting company contained the tool shown in the following figure. What is the function of this tool? ❌ ![[Pasted image 20250218075817.png]]
 	1. ==When you touch the end of the tool to a copper cable, you can detect and measure the electrical current flowing through it.==
 	2. When you place the tool at one end of a wire, it generates a tone that can be detected at the other end.
 	3. To connect a bulk cable to a keystone connector, you use the tool to punch each wire down into the correct receptacle on the connector.
 	4. When you connect the tool to the end of a fiber-optic cable, you can measure the length of the cable run.
 
-75. You are designing a new wireless network based on the IEEE 802.11n standard. The equipment you have selected supports both the 2.4 GHz and 5 GHz frequencies, and you are undecided about which one to use. Which of the following are possible reasons why the 5 GHz frequency tends to perform better than the 2.4 GHz frequency on a wireless LAN? (Choose all that apply.)
+75. You are designing a new wireless network based on the IEEE 802.11n standard. The equipment you have selected supports both the 2.4 GHz and 5 GHz frequencies, and you are undecided about which one to use. Which of the following are possible reasons why the 5 GHz frequency tends to perform better than the 2.4 GHz frequency on a wireless LAN? (Choose all that apply.) ==1/3==
 	1. ==The 5 GHz frequency has more channels than the 2.4 GHz frequency.==
 	2. The 5 GHz frequency conflicts with fewer common household devices than the 2.4 GHz frequency.
 	3. The 5 GHz frequency transmits at faster speeds than the 2.4 GHz frequency.
 	4. The 5 GHz frequency supports longer ranges than the 2.4 GHz frequency.
 
-76. A rack-mounted device that is six units tall will be approximately what height in inches?
+76. A rack-mounted device that is six units tall will be approximately what height in inches? ✅
 	1. 1.75
 	2. 3.5
 	3. 7
 	4. ==10.5==
 
-77. Which of the following server applications uses two well-known port numbers, one for control traffic and one for data traffic?
+77. Which of the following server applications uses two well-known port numbers, one for control traffic and one for data traffic? ✅
 	1. ==FTP==
 	2. SNMP
 	3. NTP
 	4. HTTP
 
-78. You are configuring the computers on a new network, and you have been given the network address 10.26.0.0/13. Which of the following subnet mask values must you use when configuring the computers?
+78. You are configuring the computers on a new network, and you have been given the network address 10.26.0.0/13. Which of the following subnet mask values must you use when configuring the computers? ❌
 	1. 255.248.0.0
 	2. 255.252.0.0
 	3. 255.254.0.0
@@ -488,69 +488,69 @@
 	5. 255.255.252.0
 	6. 255.255.254.0
 
-79. You are testing a twisted-pair cable run using a toner and probe. When you apply the toner to each of the first seven wires at one end of the cable, you successfully detect a tone on the corresponding pin at the other end. However, when you connect the toner to the eighth wire, you fail to detect a tone at the other end. Which of the following fault types have you discovered?
+79. You are testing a twisted-pair cable run using a toner and probe. When you apply the toner to each of the first seven wires at one end of the cable, you successfully detect a tone on the corresponding pin at the other end. However, when you connect the toner to the eighth wire, you fail to detect a tone at the other end. Which of the following fault types have you discovered? ✅
 	1. Short circuit
 	2. ==Open circuit==
 	3. Split pair
 	4. Crosstalk
 
-80. Which of the following functions are defined as occurring at the Session layer of the Open Systems Interconnection (OSI) model? (Choose all that apply.)
+80. Which of the following functions are defined as occurring at the Session layer of the Open Systems Interconnection (OSI) model? (Choose all that apply.) ✅
 	1. Data encryption
 	2. ==Dialog control==
 	3. Datagram routing
-	4. Dialog separation
+	4. ==Dialog separation==
 
-81. You are working your company's IT help desk, and you have had several calls from users who are reporting problems with their Voice over IP (VoIP) and streaming video connections. In each case, the audio or video connection experiences frequent dropouts in sound or video, causing frustrating interruptions. Which of the following terms describes a connectivity problem on a wired network that could cause these symptoms?
+81. You are working your company's IT help desk, and you have had several calls from users who are reporting problems with their Voice over IP (VoIP) and streaming video connections. In each case, the audio or video connection experiences frequent dropouts in sound or video, causing frustrating interruptions. Which of the following terms describes a connectivity problem on a wired network that could cause these symptoms? ✅
 	1. ==Jitter==
 	2. Latency
 	3. Bottleneck
 	4. Attenuation
 
-82. You are a consultant with a client who wants to have you install a wireless network with the highest throughput currently available. What is the fastest speed achievable by a wireless LAN using the currently ratified IEEE 802.11 standards?
+82. You are a consultant with a client who wants to have you install a wireless network with the highest throughput currently available. What is the fastest speed achievable by a wireless LAN using the currently ratified IEEE 802.11 standards? ✅
 	1. 54 Mbps
 	2. 600 Mbps
 	3. 6.9 Gbps
 	4. ==9.6 Gbps==
 
-83. A private network uses unregistered IP addresses that are not accessible from the Internet. In order for computers on the private network to access Internet servers, there must be a device that substitutes registered IP addresses for the unregistered ones. Which of the following devices are capable of performing this kind of IP address substitution? (Choose all that apply.)
+83. A private network uses unregistered IP addresses that are not accessible from the Internet. In order for computers on the private network to access Internet servers, there must be a device that substitutes registered IP addresses for the unregistered ones. Which of the following devices are capable of performing this kind of IP address substitution? (Choose all that apply.) ✅
 	1. RADIUS server
 	2. ==NAT router==
 	3. UTM appliance
 	4. ==Proxy server==
 
-84. A user calls you at the technical support desk in the computer store where you work. He is installing a home network and is having trouble configuring the IP addresses for his computers. He starts reading off a list of the network addresses he has tried to use. Which of the following are valid IPv4 network addresses that the user can conceivably use to configure his computers? (Choose all that apply.)
+84. A user calls you at the technical support desk in the computer store where you work. He is installing a home network and is having trouble configuring the IP addresses for his computers. He starts reading off a list of the network addresses he has tried to use. Which of the following are valid IPv4 network addresses that the user can conceivably use to configure his computers? (Choose all that apply.) ✅
 	1. ==1.1.1.0==
 	2. ==9.34.0.0==
 	3. 103.256.77.0
 	4. 229.6.87.0
 
-85. Which of the following terms refers to a routing protocol that relies on hop counts to measure the efficiency of routes through an internetwork?
+85. Which of the following terms refers to a routing protocol that relies on hop counts to measure the efficiency of routes through an internetwork? ✅
 	1. Link state protocol
 	2. ==Distance vector protocol==
 	3. Edge gateway protocol
 	4. Interior gateway protocol
 
-86. You have been hired by a client to connect two local area networks that are in different buildings 500 meters apart. The cable type you use must support Gigabit Ethernet data rates of 1,000 megabits per second (Mbps) and provide a high level of resistance to electromagnetic interference (EMI). Which of the following cable types can you choose to meet the client's needs? (Choose all that apply.)
+86. You have been hired by a client to connect two local area networks that are in different buildings 500 meters apart. The cable type you use must support Gigabit Ethernet data rates of 1,000 megabits per second (Mbps) and provide a high level of resistance to electromagnetic interference (EMI). Which of the following cable types can you choose to meet the client's needs? (Choose all that apply.) ✅
 	1. ==Single-mode fiber-optic cable==
 	2. Thin coaxial cable
 	3. ==Multimode fiber-optic cable==
 	4. Shielded twisted-pair (STP) cable
 	5. Unshielded twisted-pair (UTP) cable
 
-87. You receive a call at the IT help desk from a user who has recently moved to a new office in the company building, down the hall from her old one. Since the move, she has only been able to access the company's wireless network with her laptop intermittently. The network is based on 802.11n equipment, and it is using the 2.4 GHz frequency and the WPA3 security protocol. The user never had a problem in her previous office location. Which of the following could not possibly be the cause of her problem? (Choose all that apply.)
+87. You receive a call at the IT help desk from a user who has recently moved to a new office in the company building, down the hall from her old one. Since the move, she has only been able to access the company's wireless network with her laptop intermittently. The network is based on 802.11n equipment, and it is using the 2.4 GHz frequency and the WPA3 security protocol. The user never had a problem in her previous office location. Which of the following could not possibly be the cause of her problem? (Choose all that apply.) ✅
 	1. The user's laptop is connecting to the wrong SSID.
 	2. The user's laptop is configured to use the 5 GHz frequency.
 	3. ==The user's new office is farther from the access point than her old one.==
 	4. ==There are more intervening walls between the user's new office and the access point.==
 
-88. Which of the following statements about static routing are not true? (Choose all that apply.)
+88. Which of the following statements about static routing are not true? (Choose all that apply.) ✅
 	1. ==Static routes are automatically added to the routing table by routing protocols when a new network path becomes available.==
 	2. Static routes are manually configured routes that administrators must add, modify, or delete when a change in the network occurs.
 	3. ==Static routes are a recommended solution for large internetworks with redundant paths to each destination network.==
 	4. Static routes are a recommended solution for small internetworks with a single path to each destination network.
 	5. ==Static routes adapt to changes in the network infrastructure automatically.==
 
-89. Which layer of the Open Systems Interconnection (OSI) model has its own logical addressing system and is responsible for routing packets from one network to another?
+89. Which layer of the Open Systems Interconnection (OSI) model has its own logical addressing system and is responsible for routing packets from one network to another? ✅
 	1. Physical
 	2. Data link
 	3. ==Network==
@@ -559,69 +559,69 @@
 	6. Presentation
 	7. Application
 
-90. Several marketing consultants are working in your office for the first time, and they have approached you because they are unable to connect to the company's 802.11ac wireless network with their laptops. They are selecting the correct SSID from the Available Networks list, but they still cannot connect, and there are no error messages of any kind. Which of the following tasks should you perform first to try to resolve the problem?
+90. Several marketing consultants are working in your office for the first time, and they have approached you because they are unable to connect to the company's 802.11ac wireless network with their laptops. They are selecting the correct SSID from the Available Networks list, but they still cannot connect, and there are no error messages of any kind. Which of the following tasks should you perform first to try to resolve the problem? ✅
 	1. Examine the area where the consultants are working for possible sources of signal interference.
 	2. Change the frequency used by the wireless access point from 5 GHz to 2.4 GHz.
 	3. ==Make sure that the consultants' laptops are configured to use the correct wireless security protocol.==
 	4. Check the network adapters in the laptops for channel overlap.
 
-91. You are researching the various types of storage area network (SAN) technologies currently available before making a purchasing recommendation to your IT director. Which of the following are genuine advantages of iSCSI over Fibre Channel? (Choose all that apply.)
+91. You are researching the various types of storage area network (SAN) technologies currently available before making a purchasing recommendation to your IT director. Which of the following are genuine advantages of iSCSI over Fibre Channel? (Choose all that apply.) ==2/3==
 	1. iSCSI can share the same network as standard local area network (LAN) traffic, whereas Fibre Channel cannot.
 	2. ==iSCSI is routable, whereas Fibre Channel is not.==
 	3. ==iSCSI is less expensive to implement than Fibre Channel.==
 	4. iSCSI includes its own internal flow control mechanism, whereas Fibre Channel does not.
 
-92. In which of the following DNS transactions does the querying system generate an iterative query? (Choose all that apply.)
+92. In which of the following DNS transactions does the querying system generate an iterative query? (Choose all that apply.) ==1/3==
 	1. A DNS client extracts the server name www.adatum.com from a URL and sends it to its designated DNS server for resolution.
 	2. ==A client's DNS server sends a name resolution request to a root domain server to discover the authoritative server for the com top-level domain.==
 	3. A client's DNS server sends a name resolution request to the com top-level domain server to find the authoritative server for the [`adatum.com`](http://www.adatum.com/)domain.
 	4. ==A client's DNS server, which has been configured to function as a forwarder, sends the server name [`www.adatum.com`](http://www.adatum.com/) from a URL to its ISP's DNS server for resolution.==
 	5. A client's DNS server sends a name resolution request to the [adatum.com](http://adatum.com/) domain server to discover the IP address associated with the server name www.
 
-93. A user approaches you as you are passing through his department and reports that he cannot access the Internet. After questioning him, you determine that he can access systems on the local network. You examine the routing table on the user's Windows workstation, and you see the problem. Which of the following commands must you run to correct the user's problem, based on the routing table display shown here?![[Pasted image 20250218081628.png]]
+93. A user approaches you as you are passing through his department and reports that he cannot access the Internet. After questioning him, you determine that he can access systems on the local network. You examine the routing table on the user's Windows workstation, and you see the problem. Which of the following commands must you run to correct the user's problem, based on the routing table display shown here? ❌ ![[Pasted image 20250218081628.png]]
 	1. route add 192.168.2.0 MASK 0.0.0.0 192.168.2.37 METRIC 25 if 192.168.2.99
 	2. route add 0.0.0.0 MASK 255.255.255.0 192.168.2.99 METRIC 25 if 192.168.2.37
 	3. ==route add 192.168.2.0 MASK 255.255.255.0 192.168.2.99 METRIC 25 if 192.168.2.37==
 	4. route add 0.0.0.0 MASK 0.0.0.0 192.168.2.99 METRIC 25 if 192.168.2.37
 
-94. You are heading out to do a cabling job for a client who has coaxial and twisted-pair Ethernet networks at their facility. You want to bring connectors and cables to prepare for any eventuality. Which of the following connector types are typically associated with Ethernet networks? (Choose all that apply.)
+94. You are heading out to do a cabling job for a client who has coaxial and twisted-pair Ethernet networks at their facility. You want to bring connectors and cables to prepare for any eventuality. Which of the following connector types are typically associated with Ethernet networks? (Choose all that apply.) ==1/3==
 	1. N-type
 	2. BNC
 	3. ==F-type==
 	4. ==RJ-45==
 	5. DB-9
 
-95. When geofencing is used as part of a multifactor authentication system, which of the following best describes geofencing's role?
+95. When geofencing is used as part of a multifactor authentication system, which of the following best describes geofencing's role? ✅
 	1. ==Somewhere you are==
 	2. Something you do
 	3. Something you have
 	4. Something you know
 
-96. Some organizations maintain alternative sites that they can use as datacenters should a disaster render the main datacenter unusable. Which of the following types of disaster recovery site can be made operational in the shortest amount of time?
+96. Some organizations maintain alternative sites that they can use as datacenters should a disaster render the main datacenter unusable. Which of the following types of disaster recovery site can be made operational in the shortest amount of time? ✅
 	1. ==A hot site==
 	2. A warm site
 	3. A cold site
 	4. All of the site types require the same amount of preparation time.
 
-97. Which of the following types of virtual private network (VPN) connection is the best solution for connecting a home user to a corporate network?
+97. Which of the following types of virtual private network (VPN) connection is the best solution for connecting a home user to a corporate network? ✅
 	1. ==Host-to-site==
 	2. Site-to-site
 	3. Host-to-host
 	4. Extranet
 
-98. Which of the following are valid reasons why the leaf and spine datacenter topology is superior to the standard three-tier topology?
+98. Which of the following are valid reasons why the leaf and spine datacenter topology is superior to the standard three-tier topology? ==1/3==
 	1. The leaf and spine topology is less expensive to implement than the three-tier topology.
 	2. ==In a leaf and spine topology, all data flows require the same number of hops.==
 	3. The leaf and spine arrangement uses a full mesh switching topology.
 	4. The leaf and spine topology uses software-defined networking to direct traffic, rather than blocking ports using the Spanning Tree Protocol.
 
-99. A baseline is a performance measurement for a device or system, taken under normal operating conditions, which you can use later to quantify any changes that might have taken place. Which of the following Windows applications would you most likely use to create a baseline of system or network performance.
+99. A baseline is a performance measurement for a device or system, taken under normal operating conditions, which you can use later to quantify any changes that might have taken place. Which of the following Windows applications would you most likely use to create a baseline of system or network performance. ✅
 	1. Syslog
 	2. Event Viewer
 	3. Network Monitor
 	4. ==Performance Monitor==
 
-100. In most cases, a denial-of-service (DoS) attack refers to a deliberate attempt to overwhelm a server with incoming traffic. However, this is not always the case. Which of the following types of DoS attacks does not involve flooding a server with traffic?
+100. In most cases, a denial-of-service (DoS) attack refers to a deliberate attempt to overwhelm a server with incoming traffic. However, this is not always the case. Which of the following types of DoS attacks does not involve flooding a server with traffic? ✅
 	1. Amplified
 	2. Distributed
 	3. ==Permanent==
