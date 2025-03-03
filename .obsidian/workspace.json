@@ -255,10 +255,10 @@
           }
         ],
         "direction": "vertical",
-        "x": 1720,
+        "x": 1024,
         "y": 0,
-        "width": 1720,
-        "height": 720,
+        "width": 1024,
+        "height": 576,
         "maximize": false,
         "zoom": 0
       }
