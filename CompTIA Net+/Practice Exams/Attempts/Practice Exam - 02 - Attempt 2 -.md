@@ -207,30 +207,30 @@
 	1. ==Multimode cables use an LED light source, while single-mode cables use a laser.==
 	2. Multimode cables can span longer distances than single-mode cables.
 	3. Multimode cables have a smaller core filament than single-mode cables.
-	4. Multimode cables have a smaller bend radius than single-mode, making them easier to install.
+	4. ==Multimode cables have a smaller bend radius than single-mode, making them easier to install.==
 	5. Multimode fiber-optic cables require a ground, whereas single-mode cables do not.
 
 35. A user swipes a smartcard through the reader connected to a laptop and then types a password to log on to the system. Which of the following actions is the user performing?
 	1. Auditing
 	2. Accounting
 	3. Authorization
-	4. Authentication
+	4. ==Authentication==
 
 36. Which of the following cabling topologies have never been used by standard Ethernet networks? (Choose all that apply.)
 	1. Bus
-	2. Ring
+	2. ==Ring==
 	3. Star/hub and spoke
 	4. Mesh
 
 37. Pulling into your company parking lot at lunchtime, you notice a person without a company parking sticker on his car working at a laptop. You have seen this more than once, and you begin to suspect that unauthorized users are connecting to the company's wireless access point and gaining access to the network. Which of the following are steps you can take to prevent this from happening in the future? (Choose all that apply.)
 	1. Use RADIUS for authentication.
 	2. Place the access point in a screened subnet.
-	3. Disable SSID broadcasting.
-	4. Implement MAC address filtering.
+	3. ==Disable SSID broadcasting.==
+	4. ==Implement MAC address filtering.==
 
 38. Which of the following is a fault tolerance mechanism for the default gateway on a specific TCP/IP LAN?
 	1. Open Shortest Path First (OSPF)
-	2. First Hop Redundancy Protocol (FHRP)
+	2. ==First Hop Redundancy Protocol (FHRP)==
 	3. Spanning Tree Protocol (STP)
 	4. Network address translation (NAT)
 
@@ -239,19 +239,19 @@
 	2. Presentation
 	3. Session
 	4. Transport
-	5. Network
-	6. Data link
+	5. ==Network==
+	6. ==Data link==
 	7. Physical
 
 40. You are attempting to connect your new laptop to your company's wireless network. The wireless access point on the network has an SSID that is not broadcasted and uses WPA3 for security. Which of the following describes what you must do to connect your laptop to the network?
 	1. Select the SSID from a list and allow the client to automatically detect the security protocol.
-	2. Type the SSID manually and then select WPA3 from the security protocol options provided.
+	2. ==Type the SSID manually and then select WPA3 from the security protocol options provided.==
 	3. Type the SSID manually and allow the client to automatically detect the security protocol.
 	4. Select the SSID from a list and then select WPA3 from the security protocol options provided.
 
 41. Carrier Sense Multiple Access with Collision Avoidance (CSMA/CA) is a media access control mechanism designed to prevent two systems using the same network medium from transmitting at the same time. Which of the following IEEE standards calls for the use of CSMA/CA?
 	1. 802.3
-	2. 802.1X
+	2. ==802.1X==
 	3. 802.11ac
 	4. All of the above
 
@@ -259,10 +259,10 @@
 	1. MTBF
 	2. IDF
 	3. RDP
-	4. MDF
+	4. ==MDF==
 
 43. You have configured your company's wireless network to enable a client to authenticate only when the signal strength of their connection exceeds a specified level. Which of the following terms best describes the security mechanism provided by this configuration?
-	1. Geofencing
+	1. ==Geofencing==
 	2. Local authentication
 	3. Motion detection
 	4. Port security
@@ -270,23 +270,23 @@
 44. Social engineering has become an increasingly serious problem on your company network. Which of the following is an effective method for preventing sensitive data from being compromised through social engineering?
 	1. Install a firewall between the internal network and the Internet.
 	2. Install an antivirus software product on all user workstations.
-	3. Implement a program of user education and corporate policies.
+	3. ==Implement a program of user education and corporate policies.==
 	4. Use IPsec to encrypt all network traffic.
 
 45. You have been given a Class B network IP address with which to configure the new network you are designing. Which of the following is the default subnet mask you should use for an IPv4 Class B network?
-	1. 1. 1. 255.255.255.255
+	1. 255.255.255.255
     1. 255.255.255.0
-    2. 255.255.0.0
+    2. ==255.255.0.0==
     3. 255.0.0.0
 
 46. Alice's company has just started working with sensitive government data. To enhance the security of the datacenter, she has implemented some additional security measures. All the servers now have crimped metal tags holding the cases closed. All the hardware racks are locked in clear-fronted cabinets. All the cable runs are installed in transparent conduits. These are all examples of which of the following physical security measures?
 	1. Geofencing
-	2. Tamper detection
+	2. ==Tamper detection==
 	3. Port security
 	4. Asset tracking
 
 47. You have just installed a web server for your company that is configured to host a public Internet site using the registered domain name [adatum.com](http://www.adatum.com/). The server's hostname in the Domain Name System (DNS) is `www`. The web server also has an administrative site, which you want to be able to access remotely. You have configured the administrative site to be encrypted and to use the port number 12354. Which of the following URLs must you use to access the administrative website from the Internet?
-	1. [`www.adatum.com:12354`](http://www.adatum.com:12354/)
+	1. ==[`www.adatum.com:12354`](http://www.adatum.com:12354/)==
 	2. [`www.adatum.com`](http://www.adatum.com/)
 	3. [`www.adatum.com:80`](http://www.adatum.com/)
 	4. [`www.adatum.com:12354`](http://www.adatum.com:12354/)
@@ -294,18 +294,18 @@
 48. To prevent outside users from accessing your wireless network, you configure the access point not to broadcast the network's SSID. However, you later discover that outsiders are still accessing the network. For which of the following reasons is disabling SSID broadcasts a relatively weak method of device hardening?
 	4. Every access point's SSID is printed on a label on the back of the device.
 	5. Attackers have software that can easily guess a network's SSID.
-	6. Attackers can capture packets transmitted over the network and read the SSID from them.
+	6. ==Attackers can capture packets transmitted over the network and read the SSID from them.==
 	7. Attackers have ways of connecting to the network without the SSID.
 
 49. You are installing a web server farm in your corporate headquarters that will be used to host websites for the corporation's subsidiaries, which are located all around the world. In which of the following cloud models does a single organization function as both the provider and the consumer of all cloud services?
-	1. Private cloud
+	1. ==Private cloud==
 	2. Public cloud
 	3. Ad hoc cloud
 	4. Hybrid cloud
 
 50. Your supervisor has recently begun using the terms _on-boarding_ and _off-boarding_, with which you are unfamiliar. With which of the following types of policies are these terms typically associated?
 	1. Incident response
-	2. Identity management
+	2. ==Identity management==
 	3. Inventory management
 	4. Data loss prevention
 
