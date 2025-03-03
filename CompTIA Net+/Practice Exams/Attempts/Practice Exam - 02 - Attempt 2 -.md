@@ -397,31 +397,31 @@
 65. You are attempting to access a Domain Name System (DNS) server located on the other side of a router, but your attempt fails with an error stating that the destination port UDP 53 is unreachable. Your first step in troubleshooting the problem is to try using the `nslookup` utility to access that specific DNS server. This attempt also fails. Next, you use the `ping` utility with the DNS server's IP address. The ping test is successful, indicating that the server is up and running. Which of the following are possible causes of the problem? (Choose all that apply.)
 	1. The TCP/IP host settings on your computer are improperly configured.
 	2. The router connecting the networks is not running DNS and will not forward this type of datagram.
-	3. There is a firewall blocking the DNS server's UDP port 53.
-	4. The DNS process on the remote server is not running.
+	3. ==There is a firewall blocking the DNS server's UDP port 53.==
+	4. ==The DNS process on the remote server is not running.==
 	5. The TCP/IP host settings on the DNS server are improperly configured.
 
 66. Which of the following types of switch performs a cyclical redundancy check (CRC) on an entire frame's contents prior to forwarding it out a port leading to the destination system?
 	1. Packet filtering
 	2. Cut-through
 	3. Source route
-	4. Store-and-forward
+	4. ==Store-and-forward==
 
 67. Which of the following attack types does not specifically target wireless network clients?
-	1. Logic bomb
+	1. ==Logic bomb==
 	2. Deauthentication
 	3. Evil twin
 	4. Rogue AP
 
 68. You are having trouble installing a wireless LAN using IEEE 802.11n equipment in a new office complex. The wireless devices have trouble connecting to the access point, and when they do, they achieve only low speeds. When you use a Wi-Fi analyzer to scan the 2.4 GHz frequency band, you see literally dozens of other networks in the area, spread across all of the available channels. Which of the following tasks should you perform to enable your wireless devices to connect to the network reliably and at their best possible speeds?
 	1. Configure the access point to suppress SSID broadcasts.
-	2. Configure all of the wireless network devices to use the 5 GHz band.
+	2. ==Configure all of the wireless network devices to use the 5 GHz band.==
 	3. Upgrade all of the network devices to the latest firmware.
 	4. Configure all of the network devices to use WPA3 encryption with AES.
 
 
 69. Which Windows command-line utility produced the output shown here? ![[Pasted image 20250220141858.png]]
-	1. `arp`
+	1. ==`arp`==
 	2. `ping`
 	3. `tracert`
 	4. `netstat`
@@ -429,12 +429,12 @@
 70. Your boss is working in the crawlspace under the floor of the datacenter, and he asks you to hand him the pliers. You hand him the tool shown in the following figure, and he throws it back at you. What is the real function of the tool shown in the figure? ![[Pasted image 20250220141947.png]]
 	1. When you connect the tool to pins in a punchdown block, you can access telephone circuits in order to test them or place telephone calls.
 	2. When you attach the tool to one end of a wire, it generates a tone that can be detected at the other end.
-	3. To attach a bulk cable end to an RJ-45 connector, you use the tool to squeeze the connector closed, forcing the wire ends to contact the connector's pins.
+	3. ==To attach a bulk cable end to an RJ-45 connector, you use the tool to squeeze the connector closed, forcing the wire ends to contact the connector's pins.==
 	4. When you attach the tool to a copper cable, you can detect and measure the electrical current flowing through it.
 
 71. You are starting work for a contractor who performs telecommunications cable installations. One of the tools in the kit you have been given is unfamiliar to you. What is the name of the tool shown in the following figure? ![[Pasted image 20250220142114.png]]
 	1. Crimper
-	2. Punchdown tool
+	2. ==Punchdown tool==
 	3. Butt set
 	4. Toner and probe
 
@@ -443,11 +443,11 @@
 	2. Bluetooth
 	3. IEEE 802.11ac
 	4. IEEE 802.11a
-	5. IEEE 802.11n
+	5. ==IEEE 802.11n==
 
 73. You are working on your company's screened subnet (also known as a perimeter network), which has five Linux web servers, a Cisco router, a CSU/DSU providing a leased line connection, and a Windows-based firewall on it. While trying to troubleshoot a network communications failure, you type the following command on one of the systems: `traceroute` [`adatum.com`](http://www.adatum.com/). Which of the following systems might you be working on? (Choose all that apply.)
-	1. The Cisco router
-	2. One of the Linux web servers
+	1. ==The Cisco router==
+	2. ==One of the Linux web servers==
 	3. The CSU/DSU console
 	4. The Windows-based firewall
 
@@ -455,26 +455,26 @@
 	1. Bus
 	2. Spine and leaf
 	3. Ad hoc
-	4. Star/hub and spoke
-	5. Infrastructure
+	4. ==Star/hub and spoke==
+	5. ==Infrastructure==
 
 75. Which version of the Simple Network Management Protocol (SNMP) uses as its security mechanism two separate unencrypted community strings?
 	1. SNMPv1
 	2. SNMPv2
-	3. SNMPv2c
+	3. ==SNMPv2c==
 	4. SNMPv3
 
 76. You are working the help desk at a local computer store, and you receive a call from a customer trying to set up a home network using computers running Windows 11 and wired Ethernet equipment. The customer reports that she cannot access the other two computers in the house from her workstation, nor can she access the Internet. You ask her to run the `ipconfig /all` command and read the results to you. She says that her IP address is 192.168.0.2, her subnet mask is 255.255.255.0, and her default gateway is 192.168.0.1. Which of the following is the most likely cause of the customer's problem?
 	1. The customer's network address cannot include a zero.
 	2. The customer has an incorrect subnet mask.
-	3. The customer's network cable is damaged or unplugged.
+	3. ==The customer's network cable is damaged or unplugged.==
 	4. The customer has an incorrect default gateway address.
 
 77. Some networks are designed with a switching fabric that contains redundant paths for fault tolerance purposes. However, in this type of design it is possible for packets to circulate endlessly around the network, which is called a switching loop. Which of the following protocols prevents network switching loops from occurring by shutting down redundant links until they are needed?
 	1. NAT
 	2. RIP
 	3. VLAN
-	4. STP
+	4. ==STP==
 
 78. You are responsible for an internetwork that consists of four internal local area networks (LANs) with 50 users each. Each internal LAN uses twisted-pair Gigabit Ethernet links that connect the users to a switch. Each of the four switches is connected to a separate router. All four routers connect to the same backbone network, which has a single additional router to connect the company's network to the Internet using a T-1 wide area network (WAN) link. Today, users on one of the four internal LANs are reporting that when they came in this morning, they could not access the Internet or resources on the other three internal LANs. However, they could access resources on their own LAN with no problems. Which network component is the likeliest source of the problem in this scenario?
 	1. The switch on the problem LAN
