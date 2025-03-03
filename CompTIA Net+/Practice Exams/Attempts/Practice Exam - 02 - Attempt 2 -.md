@@ -311,85 +311,85 @@
 
 51. Virtual private networks (VPNs) use a data transmission technique called tunneling, which encapsulates a data packet within another packet for transmission over a network connection, typically using the Internet. The system also encrypts the entire encapsulated data packet for protection. Split tunneling is a variation of this method that provides which of the following advantages? (Choose all that apply.)
 	1. Additional data integrity protection
-	2. Access to local network devices while connected to the VPN
+	2. ==Access to local network devices while connected to the VPN==
 	3. Faster data transmission through multiplexing
-	4. Conservation of VPN bandwidth
+	4. ==Conservation of VPN bandwidth==
 
 52. Your supervisor wants you to disable all of the ports on the network's switches that are not in use. You tell her that this is not necessary; she wants to know why you think so. Which of the following are valid reasons not to disable unused switch ports? (Choose all that apply.)
 	1. The unused ports are not patched into wall jacks.
-	2. The datacenter is already secured from unauthorized access.
-	3. The switch is configured to use a MAC-based access control list.
+	2. ==The datacenter is already secured from unauthorized access.==
+	3. ==The switch is configured to use a MAC-based access control list.==
 	4. Leaving some ports enabled facilitates the on-boarding of new users.
 
 53. Which of the following are security mechanisms that fall into the category of deception technologies?
-	1. Honeypots and honeynets
+	1. ==Honeypots and honeynets==
 	2. Root guards
 	3. Screened subnets
 	4. Geofencing
 
 54. Which of the following network devices can employ access control lists (ACLs) to restrict access? (Choose all that apply.)
-	1. Routers
-	2. Servers
-	3. Switches
+	1. ==Routers==
+	2. ==Servers==
+	3. ==Switches==
 	4. Hubs
-	5. Wireless access points
+	5. ==Wireless access points==
 
 55. Which of the following terms is not associated with Data link layer communications?
-	1. Administrative distance
+	1. ==Administrative distance==
 	2. Spanning Tree Protocol
 	3. Maximum transmission unit
 	4. Jumbo frames
 
 56. Which of the following statements about DHCP snooping are true? (Choose all that apply.)
-	1. DHCP snooping is implemented in network switches.
+	1. ==DHCP snooping is implemented in network switches.==
 	2. DHCP snooping prevents DNS cache poisoning.
-	3. DHCP snooping detects rogue DHCP servers.
-	4. DHCP snooping drops DHCP messages arriving over the incorrect port.
+	3. ==DHCP snooping detects rogue DHCP servers.==
+	4. ==DHCP snooping drops DHCP messages arriving over the incorrect port.==
 
 57. A user reports that she cannot connect to a server on her network. You want to identify the scope of the problem, so you try to reproduce the problem on the user's computer. The problem persists. No other users are reporting the same problem. What is the next logical step that you should perform to identify the affected area?
 	1. Examine the server's configuration for the correct settings.
 	2. Verify that the local router is forwarding traffic.
 	3. Confirm that the switch the client is connected to is functioning.
-	4. Perform the same task on another computer connected to the same segment.
+	4. ==Perform the same task on another computer connected to the same segment.==
 
 58. On a wireless network, which of the following best describes an example of a captive portal?
 	1. A web page stating that the data on a user's computer has been locked and will only be unlocked after payment of a fee
 	2. A dedicated switch port used to connect to other switches
-	3. A web page with which a user must interact before being granted access to a wireless network
+	3. ==A web page with which a user must interact before being granted access to a wireless network==
 	4. A series of two doors with an intervening airlock through which people must pass before they can enter a secured space
 
 59. In the standard troubleshooting methodology, you begin by taking steps to identify the problem. After you have done this, which of the following steps should you perform next?
 	1. Verify full system functionality.
-	2. Establish a theory of probable cause.
+	2. ==Establish a theory of probable cause.==
 	3. Establish a plan of action.
 	4. Implement the solution.
 
 60. The secured version of the Hypertext Transfer Protocol (HTTPS) uses a different well-known port from the unsecured version (HTTP). Which of the following ports are used by HTTP and HTTPS by default? (Choose all that apply.)
 	1. 25
-	2. 80
+	2. ==80==
 	3. 110
-	4. 443
+	4. ==443==
 
 61. Which of the following are criteria typically used by load balancers to direct incoming traffic to one server out of a group of servers? (Choose all that apply.)
-	1. Fastest response time
+	1. ==Fastest response time==
 	2. Fastest processor
-	3. Lightest load
-	4. The next in an even rotation
+	3. ==Lightest load==
+	4. ==The next in an even rotation==
 
 62. You are responsible for a network that has a Domain Name System (DNS) server, a proxy server, and an Internet router. A user is reporting that she cannot connect to hosts on her own local area network (LAN) or other internal LANs, and she also cannot access hosts on the Internet. No one else has reported a problem. What is the most likely location of the issue preventing the user's access to the network
 	1. The router
 	2. The DNS server
 	3. The proxy server
-	4. The user's computer configuration
+	4. ==The user's computer configuration==
 
 63. Virtual LAN (VLAN) hopping is a type of attack directed at network switches. Which of the following best describes how VLAN hopping is a potential threat?
-	1. VLAN hopping enables an attacker to access different VLANs using 802.1q spoofing.
+	1. ==VLAN hopping enables an attacker to access different VLANs using 802.1q spoofing.==
 	2. VLAN hopping enables an attacker to scramble a switch's patch panel connections.
 	3. VLAN hopping enables an attacker to change the native VLAN on a switch.
 	4. VLAN hopping enables an attacker to rename the default VLAN on a switch.
 
 64. You are a first-tier support technician working the IT help desk at your company. In your first hour of duty, you receive four trouble calls. Your job is to prioritize the calls based on their severity. Which of the following should be the problem that receives the lowest priority?
-	1. A fatal error that causes a single computer to fail
+	1. ==A fatal error that causes a single computer to fail==
 	2. A problem with a mission-critical backbone router that affects an entire network
 	3. A problem with an application server that affects a single LAN
 	4. A problem with an order entry or customer service call center resource that affects an entire department, with multiple local area networks (LANs)
