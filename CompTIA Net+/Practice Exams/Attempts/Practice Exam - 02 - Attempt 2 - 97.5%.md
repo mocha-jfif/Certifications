@@ -542,31 +542,31 @@
 	3. Configure your equipment to use channel 5.
 	4. Configure your equipment to use channel 2.
 
-89. Your company's office building is having a fire inspection, and you are the only person on duty in the datacenter. The inspector from the fire department is reviewing the company's asset inventory and asks you where they can find documentation about all chemicals and equipment used in the company's datacenter. You lead the inspector to the director's office, but you are not sure what the documents he needs are called. Which of the following document types contains this information?
-	5. ==MSDS==
-	6. ESD
-	7. NDA
-	8. BYOD
+89. Your company's office building is having a fire inspection, and you are the only person on duty in the datacenter. The inspector from the fire department is reviewing the company's asset inventory and asks you where they can find documentation about all chemicals and equipment used in the company's datacenter. You lead the inspector to the director's office, but you are not sure what the documents he needs are called. Which of the following document types contains this information? ✅
+	1. ==MSDS==
+	2. ESD
+	3. NDA
+	4. BYOD
 
-90. Which of the following Power over Ethernet (PoE) specifications supplies power to devices using the spare wire pair on a 100Base-TX twisted-pair network?
+90. Which of the following Power over Ethernet (PoE) specifications supplies power to devices using the spare wire pair on a 100Base-TX twisted-pair network? ✅
 	1. Alternative A
 	2. 4PPoE
 	3. ==Alternative B==
 	4. All of the above
 
-91. Which of the following statements about the differences between storage area networks (SANs) and network attached storage (NAS) are not true? (Choose all that apply.)
+91. Which of the following statements about the differences between storage area networks (SANs) and network attached storage (NAS) are not true? (Choose all that apply.) ✅
 	1. NAS devices typically provide a filesystem, whereas SAN devices do not.
 	2. ==NAS devices typically contain integrated iSCSI targets.==
 	3. NAS provides file-level storage access, whereas SAN provides block-level storage access.
 	4. ==SAN devices have an operating system, whereas NAS devices do not.==
 
-92. You are deploying an 802.11n wireless network for a client who is asking for the best possible security you can provide without deploying additional servers. When setting up the wireless access point, you disable SSID broadcasts, select Wi-Fi Protected Access Preshared Keys (WPA-PSK), and configure MAC address filtering. Which of the following statements about the security of this arrangement is true?
+92. You are deploying an 802.11n wireless network for a client who is asking for the best possible security you can provide without deploying additional servers. When setting up the wireless access point, you disable SSID broadcasts, select Wi-Fi Protected Access Preshared Keys (WPA-PSK), and configure MAC address filtering. Which of the following statements about the security of this arrangement is true? ✅
 	1. You should not disable SSID broadcasts, because this prevents users from connecting to the network.
 	2. The configuration is as secure as you can make it with the specified equipment.
 	3. ==You should use Wi-Fi Protected Access 3 (WPA3) instead of WPA, since it is more resistant to certain types of attacks.==
 	4. You should not use MAC address filtering, because it exposes MAC addresses to possible attacks.
 
-93. Which of the following connector types are used with fiber-optic cables? (Choose all that apply.)
+93. Which of the following connector types are used with fiber-optic cables? (Choose all that apply.) ✅
 	1. DB-9
 	2. ==SC==
 	3. BNC
@@ -574,45 +574,45 @@
 	5. ==MPO==
 	6. RJ-11
 
-94. Which of the following are available as Internet of Things (IoT) devices?
+94. Which of the following are available as Internet of Things (IoT) devices? ✅
 	1. Refrigerators
 	2. Doorbells
 	3. Thermostats
 	4. Speakers
 	5. ==All of the above==
 
-95. You are designing an Ethernet network for your company's newest branch office. Your current task is to decide which Ethernet specification to use for the network, a decision that you know will determine what type of cabling you need to purchase and the topology with which the cable will be installed. Which layers of the Open Systems Interconnection (OSI) reference model apply to the cabling and topology elements of a network?
+95. You are designing an Ethernet network for your company's newest branch office. Your current task is to decide which Ethernet specification to use for the network, a decision that you know will determine what type of cabling you need to purchase and the topology with which the cable will be installed. Which layers of the Open Systems Interconnection (OSI) reference model apply to the cabling and topology elements of a network? ✅
 	1. The Application and Transport layers
 	2. The Transport and Network layers
 	3. The Network and Data link layers
 	4. ==The Data link and Physical layers==
 
-96. You are troubleshooting a workstation that cannot access the network. The workstation is plugged into a wall plate that should provide it with access to a DHCP-equipped network using the 192.168.4.0/24 network address. No one else on that network is reporting a problem. You check that the patch cable is properly plugged into the workstation and the wall plate, which it is, and then run `ipconfig /all` on the workstation and examine the output. Which of the following could be the explanation for the workstation's problem, based on the following `ipconfig` results? ![[Pasted image 20250220145507.png]]
+96. You are troubleshooting a workstation that cannot access the network. The workstation is plugged into a wall plate that should provide it with access to a DHCP-equipped network using the 192.168.4.0/24 network address. No one else on that network is reporting a problem. You check that the patch cable is properly plugged into the workstation and the wall plate, which it is, and then run `ipconfig /all` on the workstation and examine the output. Which of the following could be the explanation for the workstation's problem, based on the following `ipconfig` results? ✅  ![[Pasted image 20250220145507.png]]
 	1. The DNS server addresses are incorrect.
 	2. The Default Gateway address is missing.
 	3. The Subnet Mask value is incorrect.
 	4. ==The DHCP scope is exhausted.==
 
-97. A user calls you at the IT help desk and reports that she is having intermittent problems accessing both local servers and Internet websites. Which of the following potential problems can you rule out immediately?
+97. A user calls you at the IT help desk and reports that she is having intermittent problems accessing both local servers and Internet websites. Which of the following potential problems can you rule out immediately? ✅
 	1. Malfunctioning DNS server
 	2. Duplicate MAC addresses
 	3. ==Duplicate IP addresses==
 	4. Malfunctioning router
 
-98. You have recently discovered a rogue DHCP server on your network. After disabling the rogue server, you now need to terminate all of the rogue IP address leases currently held by DHCP clients on the network and then have them request new leases from the authorized DHCP server. Which of the following commands must you run on each client to do this? (Choose all that apply.)
+98. You have recently discovered a rogue DHCP server on your network. After disabling the rogue server, you now need to terminate all of the rogue IP address leases currently held by DHCP clients on the network and then have them request new leases from the authorized DHCP server. Which of the following commands must you run on each client to do this? (Choose all that apply.) ✅
 	1. `ipconfig /dump`
 	2. `ipconfig /lease`
 	3. ==`ipconfig /release`==
 	4. ==`ipconfig /renew`==
 	5. `ipconfig /discard`
 
-99. Ralph is reading an article about datacenter design, and he is puzzled by references to east-west and north-south traffic. Which of the following statements best describes the difference between east-west and north-south traffic in a datacenter?
+99. Ralph is reading an article about datacenter design, and he is puzzled by references to east-west and north-south traffic. Which of the following statements best describes the difference between east-west and north-south traffic in a datacenter? ✅
 	1. East-west is switch-to-switch traffic, while north-south is switch-to-router traffic.
 	2. East-west describes traffic between devices at the same layer of the Open Systems Interconnection (OSI) reference model, while north-south describes traffic between OSI model layers.
 	3. ==East-west traffic stays within the datacenter, while north-south traffic does not.==
 	4. East-west is backbone traffic among switches and routers, while north-south is traffic to end systems, such as servers.
 
-100. Which of the following Windows command-line utilities produced the output shown here? ![[Pasted image 20250220150859.png]]
+100. Which of the following Windows command-line utilities produced the output shown here? ✅ ![[Pasted image 20250220150859.png]]
 	1. `arp`
 	2. `ping`
 	3. `tracert`
