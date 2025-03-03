@@ -479,23 +479,23 @@
 78. You are responsible for an internetwork that consists of four internal local area networks (LANs) with 50 users each. Each internal LAN uses twisted-pair Gigabit Ethernet links that connect the users to a switch. Each of the four switches is connected to a separate router. All four routers connect to the same backbone network, which has a single additional router to connect the company's network to the Internet using a T-1 wide area network (WAN) link. Today, users on one of the four internal LANs are reporting that when they came in this morning, they could not access the Internet or resources on the other three internal LANs. However, they could access resources on their own LAN with no problems. Which network component is the likeliest source of the problem in this scenario?
 	1. The switch on the problem LAN
 	2. The Internet router
-	3. The router connecting the problem LAN to the backbone
+	3. ==The router connecting the problem LAN to the backbone==
 	4. The cable on the backbone network
 
 79. You are negotiating an agreement with a provider for your company's email service. You have been told to require a 99.99 percent guaranteed rate of service reliability, but the provider is only willing to guarantee 99 percent. Eventually, you and the provider agree on a compromise of 99.9 percent. Which of the following documents will include the negotiated language on this particular point?
 	1. AUP
-	2. SLA
+	2. ==SLA==
 	3. BYOD
 	4. NDA
 
 80. Which of the following networking devices can split a single network into multiple collision domains while maintaining a single broadcast domain? (Choose all that apply.)
-	1. Switch
-	2. Bridge
+	1. ==Switch==
+	2. ==Bridge==
 	3. Router
 	4. Firewall
 
 81. You have just finished installing a web server farm on your company's network, along with a router to create a screened subnet (perimeter network) on which the web servers are located. However, you now cannot access the web servers from your workstation on the internal network. Which of the following is not one of the tasks you will have to complete before you can access the screened subnet from the internal network?
-	1. Change MAC addresses.
+	1. ==Change MAC addresses.==
 	2. Change IP addresses.
 	3. Update the DNS records.
 	4. Change default gateway addresses.
@@ -503,26 +503,26 @@
 82. You are testing a twisted-pair cable run using a toner and probe. When you apply the toner to a particular pin at one end of the cable, you detect a tone on two pins at the other end. Which of the following faults have you discovered?
 	1. Split pair
 	2. Open
-	3. Short
+	3. ==Short==
 	4. Crosstalk
 
 83. Your network has been experiencing intermittent service slowdowns and outages ever since the company moved into their new building. You have tried every troubleshooting modality you can think of, but you have not been able to determine the cause. One particular user, perhaps hoping to be the squeaky wheel that gets the grease, has taken to calling you every time he experiences a problem. One day, as you are working in the datacenter, you notice that the user calls every time you hear an additional humming noise. After examining the doors in the hallway, you realize that the racks containing the network switches are located right next to the elevator machinery room. Which of the following conditions is probably causing this intermittent network communication problem?
 	1. Bottleneck
-	2. EMI
+	2. ==EMI==
 	3. Latency
 	4. Crosstalk
 
 84. Ralph is installing a pair of redundant servers and must choose whether to run them in an active-active or active-passive configuration. Running the servers in an active-active configuration provides which of the following advantages that the same servers in an active-passive configuration do not? (Choose all that apply.)
 	1. Fault tolerance
-	2. Load balancing
+	2. ==Load balancing==
 	3. Data encapsulation
-	4. Increased performance
+	4. ==Increased performance==
 
 85. You are starting work at a new company, and on your first day you ask about wireless access for your laptop. You are given an SSID and a WPA3 passphrase. Later, in the lunchroom, when you try to connect your laptop to the network, you cannot see the SSID you were given in the list of available networks, although you can see other networks. What should you do first to try to resolve the problem?
 	1. Move closer to the wireless access point.
 	2. Move away from the microwave in the lunchroom.
 	3. Type in the WPA3 passphrase.
-	4. Type the SSID in manually.
+	4. ==Type the SSID in manually.==
 
 86. You are responsible for a wireless LAN that consists of an 802.11n 2x2 access point and laptop computers with a variety of network adapters. Some of the laptops support 802.11n, and a few older models have 802.11g adapters. The wireless LAN is located in a large office building with many other wireless networks, and you are having trouble finding a channel on the 2.4 GHz band that is not congested with traffic. Scanning the 5 GHz band, you find relatively little traffic, so you reconfigure the access point to use a 5 GHz channel. The result is that some of the laptops are able to connect to the network, whereas others are not. What is the most likely reason for the connection failures, and what must you do to enable all the laptops to connect to the wireless network?
 	1. The 802.11g standard does not support communication using the 5 GHz band. You must replace the network adapters in those laptops with newer models for them to connect successfully.
