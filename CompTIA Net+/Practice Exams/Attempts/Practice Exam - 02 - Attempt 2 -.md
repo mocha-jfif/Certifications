@@ -138,49 +138,49 @@
 23. You are installing a wireless network in a site that has many 2.4 GHz wireless telephones. Which of the following wireless networking technologies can you use that will never experience interference from the telephones? (Choose all that apply.)
 	1. IEEE 802.11b
 	2. IEEE 802.11g
-	3. IEEE 802.11ac
-	4. IEEE 802.11a
+	3. ==IEEE 802.11ac==
+	4. ==IEEE 802.11a==
 	5. IEEE 802.11n
 
 24. Which of the following is another term for a switch?
 	1. Multicast hub
 	2. Multiport repeater
-	3. Multiport bridge
+	3. ==Multiport bridge==
 	4. Multihomed router
 
 25. You are working at a client site with a managed router that includes a console port for administrative access, which you can use to connect a laptop and run a terminal program to access the device's interface. Which of the following is the best term for this type of access to the device?
 	1. Client-to-site
 	2. In-band
 	3. BYOD
-	4. Out-of-band
+	4. ==Out-of-band==
 
 26. Which of the following describes the primary difference between single sign-on (SSO) and same sign-on?
 	1. Single sign-on (SSO) credentials consist of one username and one password, whereas same sign-on credentials consist of one username and multiple passwords.
-	2. Single sign-on (SSO) requires the user to supply credentials only once, whereas with same sign-on, the user must supply the credentials repeatedly.
+	2. ==Single sign-on (SSO) requires the user to supply credentials only once, whereas with same sign-on, the user must supply the credentials repeatedly.==
 	3. Single sign-on (SSO) requires multifactor authentication, such as a password and a smartcard, whereas same sign-on requires only a password for authentication.
 	4. Single sign-on (SSO) enables users to access different resources with one set of credentials, whereas same sign-on requires users to have multiple credential sets.
 
 27. You have a laptop that requires you to hold your finger on a scanner pad before you can use it. A device equipped with a fingerprint scanner that is part of a multifactor authentication mechanism is using which of the following types of technology?
 	1. Tamper detection
-	2. Biometrics
+	2. ==Biometrics==
 	3. Hand geometry
 	4. Pattern recognition
 
 28. You have been asked to locate the computers on a network that the previous consultant has configured with incorrect IPv6 addresses. Which of the following are not correctly formatted IPv6 addresses? (Choose all that apply.)
 	1. e00::c955:c944:acdd:3fcb
-	2. fe00::b491:cf79:p493:23ff
-	3. 2001:0:44ef68:23eb:99fe:72bec6:ea5f
+	2. ==fe00::b491:cf79:p493:23ff==
+	3. ==2001:0:44ef68:23eb:99fe:72bec6:ea5f==
 	4. 2001:0:49e6:39ff:8cf5:6812:ef56
 
 29. During a physical security evaluation by an outside contractor, you are asked whether your company uses a fail open or fail closed policy for the datacenter. You do not know what the contractor means. Which of the following physical security mechanisms can either fail close or fail open?
-	1. Door locks
+	1. ==Door locks==
 	2. Motion detectors
 	3. Honeypots
 	4. Video cameras
 
 30. A disgruntled senior associate in the IT department at your company was terminated today and had to be escorted from the building. The IT director has instructed you to disable all of the former employee's accounts, change all network device passwords to which the employee had access, and have the datacenter door locks rekeyed. Which of the following terms best describes the director's concern in asking you to do these things?
 	1. Logic bombs
-	2. Internal threats
+	2. ==Internal threats==
 	3. Rogue devices
 	4. Social engineering
 	5. External threats
@@ -188,23 +188,23 @@
 31. Ralph is troubleshooting a Windows server, and while doing so he runs the following command: `ping 127.0.0.1`. The command completes successfully. What has Ralph proven by doing this?
 	1. That the computer's network adapter is functioning properly
 	2. That the computer's IP address is correct for the network
-	3. That the computer's TCP/IP networking stack is loaded and functioning properly
+	3. ==That the computer's TCP/IP networking stack is loaded and functioning properly==
 	4. Nothing at all
 
 32. Which of the following are not examples of multifactor authentication (MFA)? (Choose all that apply.)
 	1. A system that requires a smartcard and a PIN for authentication
-	2. A system that uses an external RADIUS server for authentication
-	3. A system that requires two passwords for authentication
+	2. ==A system that uses an external RADIUS server for authentication==
+	3. ==A system that requires two passwords for authentication==
 	4. A system that requires a password and a retinal scan for authentication
 
 33. A user calls Ed at the help desk to report that he cannot access the Internet. He can access systems on the local network, however. Ed examines the routing table on the user's workstation and sees the following. Which of the following statements explains why the user cannot access the Internet?![[Pasted image 20250220123150.png]]
 	1. The routing table does not specify a loopback address.
 	2. The routing table does not specify a DNS server address.
-	3. The routing table does not specify a default gateway address.
+	3. ==The routing table does not specify a default gateway address.==
 	4. The routing table contains two different routes to the 224.0.0.0 network.
 
 34. Which of the following statements about single-mode fiber-optic cable are true? (Choose all that apply.)
-	1. Multimode cables use an LED light source, while single-mode cables use a laser.
+	1. ==Multimode cables use an LED light source, while single-mode cables use a laser.==
 	2. Multimode cables can span longer distances than single-mode cables.
 	3. Multimode cables have a smaller core filament than single-mode cables.
 	4. Multimode cables have a smaller bend radius than single-mode, making them easier to install.
