@@ -528,22 +528,22 @@
 	1. The 802.11g standard does not support communication using the 5 GHz band. You must replace the network adapters in those laptops with newer models for them to connect successfully.
 	2. The 5 GHz band does not support automatic channel selection. You must configure each laptop to use the same channel as the access point for all the laptops to connect successfully.
 	3. The 5 GHz band does not support MIMO communications, so the 802.11n laptops are unable to connect to the network. You must replace the access point with an 802.11g unit for all the laptops to connect successfully.
-	4. The 802.11g standard does not support communication using the 5 GHz band. You must configure the access point to support 2.4 GHz for all the laptops to connect successfully.
+	4. ==The 802.11g standard does not support communication using the 5 GHz band. You must configure the access point to support 2.4 GHz for all the laptops to connect successfully.==
 
 87. In the Domain Name System (DNS), a zone is a contiguous area of the DNS namespace for which authority is delegated to one or more DNS servers. Which of the following DNS resource record types specifies the IP addresses of the authoritative DNS servers for a particular zone?
 	1. PTR
 	2. SRV
 	3. MX
-	4. NS
+	4. ==NS==
 
 88. You are experiencing poor performance on your home 802.11n wireless network. You live in a large apartment complex, and when you run a Wi-Fi analyzer, you see many other nearby networks using the often-recommended channels 1, 6, and 11 on the 2.4 GHz frequency. Using the 5 GHz frequency is not an option for your equipment. What should you do to improve the network's performance?
 	1. Configure your equipment to use channel 10.
-	2. Configure your equipment to use channel 9.
+	2. ==Configure your equipment to use channel 9.==
 	3. Configure your equipment to use channel 5.
 	4. Configure your equipment to use channel 2.
 
 89. Your company's office building is having a fire inspection, and you are the only person on duty in the datacenter. The inspector from the fire department is reviewing the company's asset inventory and asks you where they can find documentation about all chemicals and equipment used in the company's datacenter. You lead the inspector to the director's office, but you are not sure what the documents he needs are called. Which of the following document types contains this information?
-	1. MSDS
+	1. ==MSDS==
 	2. ESD
 	3. NDA
 	4. BYOD
@@ -551,27 +551,27 @@
 90. Which of the following Power over Ethernet (PoE) specifications supplies power to devices using the spare wire pair on a 100Base-TX twisted-pair network?
 	1. Alternative A
 	2. 4PPoE
-	3. Alternative B
+	3. ==Alternative B==
 	4. All of the above
 
 91. Which of the following statements about the differences between storage area networks (SANs) and network attached storage (NAS) are not true? (Choose all that apply.)
 	1. NAS devices typically provide a filesystem, whereas SAN devices do not.
-	2. NAS devices typically contain integrated iSCSI targets.
+	2. ==NAS devices typically contain integrated iSCSI targets.==
 	3. NAS provides file-level storage access, whereas SAN provides block-level storage access.
-	4. SAN devices have an operating system, whereas NAS devices do not.
+	4. ==SAN devices have an operating system, whereas NAS devices do not.==
 
 92. You are deploying an 802.11n wireless network for a client who is asking for the best possible security you can provide without deploying additional servers. When setting up the wireless access point, you disable SSID broadcasts, select Wi-Fi Protected Access Preshared Keys (WPA-PSK), and configure MAC address filtering. Which of the following statements about the security of this arrangement is true?
 	1. You should not disable SSID broadcasts, because this prevents users from connecting to the network.
 	2. The configuration is as secure as you can make it with the specified equipment.
-	3. You should use Wi-Fi Protected Access 3 (WPA3) instead of WPA, since it is more resistant to certain types of attacks.
+	3. ==You should use Wi-Fi Protected Access 3 (WPA3) instead of WPA, since it is more resistant to certain types of attacks.==
 	4. You should not use MAC address filtering, because it exposes MAC addresses to possible attacks.
 
 93. Which of the following connector types are used with fiber-optic cables? (Choose all that apply.)
 	1. DB-9
-	2. SC
+	2. ==SC==
 	3. BNC
-	4. ST
-	5. MPO
+	4. ==ST==
+	5. ==MPO==
 	6. RJ-11
 
 94. Which of the following are available as Internet of Things (IoT) devices?
@@ -579,13 +579,13 @@
 	2. Doorbells
 	3. Thermostats
 	4. Speakers
-	5. All of the above
+	5. ==All of the above==
 
 95. You are designing an Ethernet network for your company's newest branch office. Your current task is to decide which Ethernet specification to use for the network, a decision that you know will determine what type of cabling you need to purchase and the topology with which the cable will be installed. Which layers of the Open Systems Interconnection (OSI) reference model apply to the cabling and topology elements of a network?
 	1. The Application and Transport layers
 	2. The Transport and Network layers
 	3. The Network and Data link layers
-	4. The Data link and Physical layers
+	4. ==The Data link and Physical layers==
 
 96. You are troubleshooting a workstation that cannot access the network. The workstation is plugged into a wall plate that should provide it with access to a DHCP-equipped network using the 192.168.4.0/24 network address. No one else on that network is reporting a problem. You check that the patch cable is properly plugged into the workstation and the wall plate, which it is, and then run `ipconfig /all` on the workstation and examine the output. Which of the following could be the explanation for the workstation's problem, based on the following `ipconfig` results? ![[Pasted image 20250220145507.png]]
 	1. The DNS server addresses are incorrect.
