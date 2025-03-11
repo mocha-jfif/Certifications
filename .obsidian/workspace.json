@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Practice Exam - 02 - Attempt 2 - 97.5%"
             }
+          },
+          {
+            "id": "359ba2afa02eb8c9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,7 +237,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "525e4fb238f091a4",
+  "active": "ef1195df60ebd0c2",
   "lastOpenFiles": [
     "CompTIA Net+/Practice Exams/Attempts/Practice Exam - 01 Attempt 1 - 65%.md",
     "CompTIA Net+/Practice Exams/Attempts/Practice Exam - 02 - Attempt 2 - 97.5%.md",
