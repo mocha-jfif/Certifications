@@ -1,54 +1,41 @@
 {
   "main": {
-    "id": "ee1b69cf57426846",
+    "id": "6ca68d266e26d90c",
     "type": "split",
     "children": [
       {
-        "id": "e3bedc82b0b1cf91",
+        "id": "53798c87704052cf",
         "type": "tabs",
         "children": [
           {
-            "id": "525e4fb238f091a4",
+            "id": "64e9a751d788d0c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CompTIA Net+/Practice Exams/Attempts/Practice Exam - 02 - Attempt 2 - 97.5%.md",
+                "file": "CompTIA Net+/Chapter 01 - Models, Ports, Protocols, and Services/1 The OSI Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Practice Exam - 02 - Attempt 2 - 97.5%"
-            }
-          },
-          {
-            "id": "359ba2afa02eb8c9",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "1 The OSI Model"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "96af16233cdb8dc7",
+    "id": "69258d36a63b1765",
     "type": "split",
     "children": [
       {
-        "id": "7e3a2c2d7bfc292a",
+        "id": "7cb16f8e638051cb",
         "type": "tabs",
         "children": [
           {
-            "id": "50716479c10e4000",
+            "id": "eaf545dc56304ba9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,7 +48,7 @@
             }
           },
           {
-            "id": "6f9977ae88676b52",
+            "id": "378d3daad0b52723",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -78,7 +65,7 @@
             }
           },
           {
-            "id": "e4a2bbac21f1ea6b",
+            "id": "342a14004e61eab4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -91,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "56862306c0fd9231",
+    "id": "e477d7fd276695b1",
     "type": "split",
     "children": [
       {
-        "id": "7f1dbba7146a5441",
+        "id": "420917fbba0a0746",
         "type": "tabs",
         "children": [
           {
-            "id": "e26d8444fbb091d9",
+            "id": "b2ec38bd246db5c8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CompTIA Net+/Chapter 1 - Models, Ports, Protocols, and Services/1 The OSI Model.md",
+                "file": "CompTIA Net+/Chapter 01 - Models, Ports, Protocols, and Services/1 The OSI Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,93 +108,61 @@
             }
           },
           {
-            "id": "46d8f546cdb2baeb",
+            "id": "619aafe0ba696af5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CompTIA Net+/Chapter 01 - Models, Ports, Protocols, and Services/1 The OSI Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 1 The OSI Model"
             }
           },
           {
-            "id": "93efa6ac87152f44",
+            "id": "3a97f48ee5248ba7",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "d089a97e4888831b",
+            "id": "842267a4783004df",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "CompTIA Net+/Chapter 01 - Models, Ports, Protocols, and Services/1 The OSI Model.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 1 The OSI Model"
             }
           },
           {
-            "id": "925297fb9d1bfee7",
+            "id": "e5d7b4eac652980e",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
-            "id": "ef1195df60ebd0c2",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "365cf67a386db1e9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "e73c240de750a643",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "ffac3ca29c630412",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "c4251810ed16c82e",
+            "id": "35945bce7d92b558",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -221,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,54 +193,6 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef1195df60ebd0c2",
-  "lastOpenFiles": [
-    "CompTIA Net+/Practice Exams/Attempts/Practice Exam - 01 Attempt 1 - 65%.md",
-    "CompTIA Net+/Practice Exams/Attempts/Practice Exam - 02 - Attempt 2 - 97.5%.md",
-    "CompTIA Net+/Practice Exams/Attempts/Practice Exam - 01 - Attempt 2 - 89%.md",
-    "CompTIA Net+/Practice Exams/Blanks & Keys/Practice Exam - 02 - Key.md",
-    "CompTIA Net+/Practice Exams/Attempts/Practice Exam - 02 Attempt 1 -.md",
-    "CompTIA Net+/Practice Exams/Blanks & Keys/Practice Exam - 01 - Key.md",
-    "CompTIA Net+/Practice Exams/Blanks & Keys/Practice Exam - 02 - Blank.md",
-    "CompTIA Net+/Chapter 08 - Network Operations/5 Network Access and Management Methods.md",
-    "CompTIA Net+/Chapter 08 - Network Operations/1 Physical Installation Factors.md",
-    "CompTIA Net+/Chapter 08 - Network Operations/2 Organizational Processes and Procedures.md",
-    "CompTIA Net+/Chapter 08 - Network Operations/3 Monitoring Network Performance.md",
-    "CompTIA Net+/Practice Exams/Blanks & Keys/Practice Exam - 01 - Blank.md",
-    "CompTIA Net+/Chapter 07 - Cloud Computing Concepts and Options/1 Cloud Concepts.md",
-    "CompTIA Net+/Domain 01 - Networking Concepts/Practice Questions.md",
-    "CompTIA Net+/Chapter 02 - Network Topologies, Architectures, and Types/1 Network Topologies.md",
-    "CompTIA Net+/Chapter 03 - Network Addressing, Routing, and Switching/1 IPv4 Network Addressing.md",
-    "CompTIA Net+/Chapter 03 - Network Addressing, Routing, and Switching/2 Routing & Switching Technologies.md",
-    "CompTIA Net+/Diagrams and Charts/Pasted image 20250220115650.png",
-    "CompTIA Net+/Chapter 04 - Network Implementations/1 Common Networking Devices.md",
-    "CompTIA Net+/Chapter 03 - Network Addressing, Routing, and Switching/3 Network Services.md",
-    "CompTIA Net+/Chapter 01 - Models, Ports, Protocols, and Services/3 Traffic Types.md",
-    "CompTIA Net+/Chapter 01 - Models, Ports, Protocols, and Services/2 Protocols & Ports.md",
-    "CompTIA Net+/Chapter 01 - Models, Ports, Protocols, and Services/1 The OSI Model.md",
-    "CompTIA Net+/Chapter 06 - Wireless Solutions/1 Understanding Wireless Basics.md",
-    "CompTIA Net+/Chapter 06 - Wireless Solutions/Glossary/Association.md",
-    "CompTIA Net+/Diagrams and Charts/Pasted image 20250220150859.png",
-    "CompTIA Net+/Diagrams and Charts/Pasted image 20250220145507.png",
-    "CompTIA Net+/Diagrams and Charts/Pasted image 20250220142114.png",
-    "CompTIA Net+/Diagrams and Charts/Pasted image 20250220141947.png",
-    "CompTIA Net+/Diagrams and Charts/Pasted image 20250220141858.png",
-    "CompTIA Net+/Diagrams and Charts/Pasted image 20250220141855.png",
-    "CompTIA Net+/Diagrams and Charts/Pasted image 20250220123150.png",
-    "CompTIA Net+/Diagrams and Charts/Pasted image 20250220120818.png",
-    "CompTIA Net+/Chapter 04 - Network Implementations/2 Networking Use Cases.md",
-    "CompTIA Net+/! Cram Sheet !/1 Networking Concepts.md",
-    "CompTIA Net+/Diagrams and Charts/Pasted image 20250218075817.png",
-    "CompTIA Net+/Practice Exams/Explanations",
-    "CompTIA Net+/Practice Exams/Attempts/desktop.ini",
-    "CompTIA Net+/Practice Exams/Attempts",
-    "CompTIA Net+/Practice Exams/Blanks & Keys",
-    "CompTIA Net+/Untitled/desktop.ini",
-    "CompTIA Net+/Practice Exams",
-    "CompTIA Net+/Domain 05 - Network Troubleshooting",
-    "CompTIA Net+/Domain 04 - Network Security",
-    "CompTIA Net+/Domain 03 - Network Operations",
-    "CompTIA Net+/Domain 02 - Network Implementation",
-    "Untitled.canvas"
-  ]
+  "active": "64e9a751d788d0c4",
+  "lastOpenFiles": []
 }
