@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e477d7fd276695b1",
@@ -195,6 +196,7 @@
   },
   "active": "64e9a751d788d0c4",
   "lastOpenFiles": [
-    "CompTIA Net+/Chapter 01 - Models, Ports, Protocols, and Services/1 The OSI Model.md"
+    "CompTIA Net+/Chapter 01 - Models, Ports, Protocols, and Services/1 The OSI Model.md",
+    "CompTIA Net+/Chapter 04 - Network Implementations/1 Common Networking Devices.md"
   ]
 }
