@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "vCenter Server Update"
             }
+          },
+          {
+            "id": "3854362a85137324",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,8 +206,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64e9a751d788d0c4",
+  "active": "eaf545dc56304ba9",
   "lastOpenFiles": [
+    "Untitled",
     "CompTIA Net+/Chapter 07 - Cloud Computing Concepts and Options/1 Cloud Concepts.md",
     "Knowledge Transfer - Systems/vCenter Server Update.md",
     "Knowledge Transfer - Systems",
