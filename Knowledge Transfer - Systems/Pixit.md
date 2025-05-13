@@ -1,6 +1,6 @@
-Grafana
+Grafana monitors storage and system health
 Available space is shown here, good overview of usage and health
-.\\nw-pixit is one of the primary locations
+.\\nw-pixit is one of the primary locations - lenovo DE
 Veeam is where the VM backups are stored
 TheGrid and Proxy are the primary shares
 Proxy has Fork media and Xchange media
@@ -17,3 +17,4 @@ Commands are found in the configuration
 All of the broadcast companies are the same
 
 RSN-NWDC has drive mappings
+

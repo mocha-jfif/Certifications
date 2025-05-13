@@ -25,10 +25,14 @@
             "id": "3854362a85137324",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Knowledge Transfer - Systems/Pixit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pixit"
             }
           }
         ],
@@ -206,6 +210,7 @@
   },
   "active": "3854362a85137324",
   "lastOpenFiles": [
+    "Knowledge Transfer - Systems/vCenter Server Update.md",
     "Knowledge Transfer - Systems/Pixit.md",
     "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/4 Common Tools.md",
     "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/3 Hardware Issues.md",
@@ -224,7 +229,6 @@
     "Centralized Services/Patch Statuses",
     "Centralized Services",
     "CompTIA Net+/Chapter 07 - Cloud Computing Concepts and Options/1 Cloud Concepts.md",
-    "Knowledge Transfer - Systems/vCenter Server Update.md",
     "Knowledge Transfer - Systems",
     "CompTIA Net+/Practice Exams/Attempts/Practice Exam - 01 - Attempt 2 - 89%.md",
     "CompTIA Net+/Chapter 04 - Network Implementations/1 Common Networking Devices.md"
