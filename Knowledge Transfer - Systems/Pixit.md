@@ -16,3 +16,4 @@ GPFS
 Commands are found in the configuration
 All of the broadcast companies are the same
 
+RSN-NWDC has drive mappings
