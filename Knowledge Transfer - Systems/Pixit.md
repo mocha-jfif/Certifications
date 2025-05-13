@@ -9,3 +9,9 @@ Fork = MediaIO and MAM = Xchange
 TheGrid 
 
 .\\nw-spectrum is the archive
+LTFSEE
+EEADM 
+LTFS 
+GPFS
+Commands are found in the configuration
+All of the broadcast companies are the same
