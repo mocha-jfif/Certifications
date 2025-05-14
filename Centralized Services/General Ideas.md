@@ -1,0 +1,9 @@
+
+
+I would start by reviewing every single monitor policy and document each and every one and determine why you are monitoring it, and what you do when an alert is generated. If you don't do anything with the alert, why monitor it in the first place?
+
+Always think scale... How do I scales this so I don't have to tweak anything in the future? You want to remove as many manual touches as possible. If you have to manually turn monitors on or off regularly, there is something wrong in your setup.
+
+Think about business needs and processes and see if any wanted processes clash with your current setup.. For us, it was setting up a zero-touch policy when our agent was installed. Previously, monitors would run and tickets would get created the moment the agent was installed. Now, when our agent is installed for a new site, there are no monitors, automated jobs or anything else that happens on the systems except for device audits and remote access. When we are done with our on-boarding, we add the site to a group, and from there, all the automated functions kick in. Monitoring turns on, tickets get created from those alerts and automated jobs start running on the machines.
+
+Learn powershell. Just about everything can be automated with powershell. Some things can only be configured with powershell. Some RMM platforms have site variables you can create to supply data to a script. Try not to use those if at all possible. Try to see if there is a way to get the data you need with information only available on the endpoint. If your script requires site variable data configured, it is a manual step that will get forgotten at some point. It's often easier to use the site variables, but try not to.
