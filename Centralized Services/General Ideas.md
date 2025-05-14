@@ -1,5 +1,4 @@
 
-
 I would start by reviewing every single monitor policy and document each and every one and determine why you are monitoring it, and what you do when an alert is generated. If you don't do anything with the alert, why monitor it in the first place?
 
 Always think scale... How do I scales this so I don't have to tweak anything in the future? You want to remove as many manual touches as possible. If you have to manually turn monitors on or off regularly, there is something wrong in your setup.
