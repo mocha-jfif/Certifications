@@ -12,4 +12,21 @@
 		- Device health summary: Shows health of the selected managed devices
 		- Hardware Lifecycle: helps predict the end of your hardware's productive lifecycle.
 	- Audit:
-		- Device storage: 
+		- Device storage: Local disks available on selected devices including available disk space.
+		- Detailed computer audit: Show many device details, one page per device
+		- Network audit: Shows all discovered devices and managed devices, grouped by site.
+		- Software: Shows all software and versions, grouped by device matching your criteria
+	- Monitoring
+		- Device monitor status: Shows the last values and history of individual monitors applied to your target devices.
+		- Open monitor alerts: Shows the current open alerts by device.
+		- Monitoring performance: Shows the CPU, memory, and disk graphs for the selected devices for the past 30 days.
+	- Patch Management
+		- Patch Management Activity: Shows patch activity for selected devices in the selected date range.
+		- Patch Management Details: Gives a high-level overview of the installed, pending, and denied patches for selection of devices.
+		- Patch Management Summary: Shows the patch status by device
+	- Activity
+		- Device activity: Can report on jobs, remote takeover, agent browser usage, remote commands, file transfers, patching, moved site, and security
+	- Export
+		- Admin activity: List every activity performed during given date range
+		- Device change log: Shows every entry in the device change log in the given date range
+		- Device details: Shows 
