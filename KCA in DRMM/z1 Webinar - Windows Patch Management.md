@@ -17,4 +17,7 @@
 	- Use Case:
 		- Reporting
 		- Creating a consistent patching regimen (in combination with WU policy)
-		- 
+
+- Measuring Compliance
+	- A dashboard is a good way to quickly view patching compliance
+	- 
