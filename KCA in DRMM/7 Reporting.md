@@ -1,0 +1,15 @@
+- Reports have customizable options, including:
+	- Frequency and schedule
+	- Targets and report categories
+	- Thresholds
+	- Detail
+	- Email customizations
+- By default, reports run immediately.
+- These can be branded with a custom logo.
+- There are 6 categories for different built reports.
+	- Executive Reports:
+		- Executive summary: Shows health of managed services
+		- Device health summary: Shows health of the selected managed devices
+		- Hardware Lifecycle: helps predict the end of your hardware's productive lifecycle.
+	- Audit:
+		- Device storage: 

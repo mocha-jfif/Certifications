@@ -11,3 +11,11 @@
 	- Rebooting the device
 	- Reviewing connection quality graphs
 - An onscreen keyboard is available if the device does not have a physical one.
+- The agent browser is non-intrusive; the user will not know you are connected. This can only be done on a Windows device with an agent installed.
+	- Great for doing things in the background, like registry edits, file manipulation, powershell, etc.
+- DRMM supports VNC, RDP, and Splashtop. 
+- Devices can be connected to for management and admin purposes via Network Control.
+	- HTTP / HTTPS
+	- Telnet/SSH
+	- Custom Tunnel
+	- This requires the presence of a network node.
