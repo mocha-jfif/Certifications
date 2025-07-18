@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KCA in DRMM/Getting Started with RMM.md",
+                "file": "KCA in DRMM/Setting up RMM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Getting Started with RMM"
+              "title": "Setting up RMM"
             }
           }
         ],
@@ -210,8 +210,9 @@
   },
   "active": "3854362a85137324",
   "lastOpenFiles": [
-    "Centralized Services/Notes/Alerts.md",
     "KCA in DRMM/Getting Started with RMM.md",
+    "KCA in DRMM/Setting up RMM.md",
+    "Centralized Services/Notes/Alerts.md",
     "KCA in DRMM",
     "Centralized Services/General Ideas.md",
     "Centralized Services/Notes",
@@ -237,7 +238,6 @@
     "CompTIA Net+/Chapter 04 - Network Implementations/1 Common Networking Devices.md",
     "CompTIA Net+/Chapter 03 - Network Addressing, Routing, and Switching/3 Network Services.md",
     "CompTIA Net+/Chapter 03 - Network Addressing, Routing, and Switching/1 IPv4 Network Addressing.md",
-    "CompTIA Net+/Chapter 02 - Network Topologies, Architectures, and Types/1 Network Topologies.md",
     "Centralized Services/Patch Statuses",
     "Centralized Services",
     "Knowledge Transfer - Systems"
