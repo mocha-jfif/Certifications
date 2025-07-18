@@ -1,0 +1,18 @@
+- Monitors track performance metrics, processes, settings, status indicators, events, etc. on devices where monitoring is applied. These can raise alerts and tickets when defined thresholds are met or breached. 
+- Servers/Workstations:
+	- Just an agent is required.
+- SNMP:
+	- Compatible with .NET Core 3.1
+	- If its not SNMP, this is not required.
+- ESXi:
+	- Must run Windows and have .NET framework 4.7 or higher.
+	- Can be a guest machine on the ESXi host. Monitoring stops when the host is unavailable.
+	- Supported across subnets.
+	- CIM needs to be enabled on the ESXi host.
+- Monitoring policies are multiple monitors that can be applied at the account and site level.
+	- Targets: The scope you wish to monitor. Can be a combination of any sites, devices, filters, and groups. 
+	- Monitors: Parameters you want to alert on.
+	- Configuration:
+		- Choose the monitor type and define the alert trigger details, along with alert priority, and auto-resolution options.
+		- Select whether to respond by running a component and/or sending an email.
+		- Select where a ticket should additionally be created.
