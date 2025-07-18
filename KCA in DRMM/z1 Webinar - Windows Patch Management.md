@@ -1,3 +1,12 @@
 - Patching is a necessity
 - Automation and scalability is key
+- Visibility and reporting
+
+- Windows Update Policy
+	- Features:
+		- Controls windows update settings in the operating system
+		- Similar to an AD group policy
+	- Use Case:
+		- Turn off auto updates
+		- Defer quality and feature updates
 - 
