@@ -1,0 +1,9 @@
+- Account Settings
+	- Access Control: Enable access to the API, require approval, restrict access to the portal and/or the agent browser.
+	- Device Approval: Devices will require approval (if selected) to have policies and jobs apply to it. It will be "sandboxed" and tagged until it is approved or denied.
+	- Agent Deployment Credentials: The agent can be deployed via LAN, but you must supply global admin credentials per each site.
+	- SNMP credentials: You can cache credentials for SNMP devices for monitoring purposes.
+	- ESXi credentials: You can cache credentials for ESXi hosts for auditing and monitoring purposes.
+	- Email settings: Configure email notifications.
+	- Email recipients: Specify a recipient of specific alert emails.
+	- 
