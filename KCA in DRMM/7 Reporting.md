@@ -29,4 +29,30 @@
 	- Export
 		- Admin activity: List every activity performed during given date range
 		- Device change log: Shows every entry in the device change log in the given date range
-		- Device details: Shows 
+		- Device details: Shows all of the device information available.
+		- Device activity: Lists every activity (takeover, job, connection) performed on the target devices during the given date range.
+		- Device storage: Lists all the disks available on the selected devices, including their available disk space
+		- Other exports:
+			- Microsoft Audit: Licensing
+			- Monitor alerts: Alerts matching criteria in specified date range.
+			- Installed software: Software per device matching criteria specified.
+			- Patch details: Shows all patches matching the criteria.
+			- Device Patch Summary: Shows the devices with pending patches on a device level.
+			- Site device count: Shows the total number of devices per site, grouped by device type.
+		- Manual exports:
+			- Counts for each hardware model at a site
+			- See where outdated software versions are installed
+			- Document devices and Win product keys
+- How reports can be compiled:
+	- Aggregate: For each report selected, all targeted devices and sites are included in a single report. (Many to 1)
+	- Individual: For each report selected, an individual report will be created for each targeted site. (1 to 1)
+- Report targets can be:
+	- Sites
+	- Devices
+	- Site groups
+	- Default device filters
+	- Custom device filters
+	- Device groups
+	- Site device groups
+- Reports are always emailed. They cannot be downloaded from the web portal. If the report is larger than 10 MB, it will be sent as a .ZIP file that will expire after 7 days.
+- If a report/export is saved for either immediate for future delivery, it will appear in t
