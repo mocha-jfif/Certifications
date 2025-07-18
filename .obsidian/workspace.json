@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KCA in DRMM/7 Reporting.md",
+                "file": "KCA in DRMM/z1 Webinar - Windows Patch Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 Reporting"
+              "title": "z1 Webinar - Windows Patch Management"
             }
           }
         ],
@@ -208,10 +208,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35945bce7d92b558",
+  "active": "3854362a85137324",
   "lastOpenFiles": [
-    "KCA in DRMM/6 Remote Control and Support Tools.md",
     "KCA in DRMM/7 Reporting.md",
+    "KCA in DRMM/z1 Webinar - Windows Patch Management.md",
+    "KCA in DRMM/6 Remote Control and Support Tools.md",
     "KCA in DRMM/5 Monitoring Foundations.md",
     "KCA in DRMM/4 Using Jobs for Maintenance.md",
     "KCA in DRMM/2 Setting up RMM.md",
@@ -237,7 +238,6 @@
     "CompTIA Net+/Chapter 06 - Wireless Solutions/Glossary/Association.md",
     "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/2 Troubleshooting Common Cable Connectivity Issues.md",
     "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/1 General Media Considerations.md",
-    "CompTIA Net+/Chapter 05 - Cabling Solutions and Issues/4 Common Tools.md",
     "Centralized Services/Patch Statuses",
     "Centralized Services",
     "Knowledge Transfer - Systems"

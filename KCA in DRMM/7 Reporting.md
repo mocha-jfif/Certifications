@@ -55,4 +55,5 @@
 	- Device groups
 	- Site device groups
 - Reports are always emailed. They cannot be downloaded from the web portal. If the report is larger than 10 MB, it will be sent as a .ZIP file that will expire after 7 days.
-- If a report/export is saved for either immediate for future delivery, it will appear in t
+- If a report/export is saved for either immediate for future delivery, it will appear in the active reports page within the reports tab
+- Once all occurrences are complete, it will move to completed reports.

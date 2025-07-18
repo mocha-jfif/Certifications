@@ -1,0 +1,3 @@
+- Patching is a necessity
+- Automation and scalability is key
+- 
