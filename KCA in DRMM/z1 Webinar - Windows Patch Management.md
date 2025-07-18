@@ -9,4 +9,12 @@
 	- Use Case:
 		- Turn off auto updates
 		- Defer quality and feature updates
-- 
+- Patch Management Policy
+	- Features:
+		- Initiates windows patching on pre-determined schedule
+		- Can enforce reboot (or remind user)
+		- Easy site-level modifications as needed
+	- Use Case:
+		- Reporting
+		- Creating a consistent patching regimen (in combination with WU policy)
+		- 
