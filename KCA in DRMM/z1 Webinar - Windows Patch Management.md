@@ -20,4 +20,6 @@
 
 - Measuring Compliance
 	- A dashboard is a good way to quickly view patching compliance
+	- Patch information can be found under Global > Patches or Sites > [[sitename]] > Patches
+	- Individual devices can show patch status by going to Patch Management
 	- 
