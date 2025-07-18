@@ -1,1 +1,10 @@
-- 
+- DRMM is fully hosted, so port 443 must be open for agents to communicate.
+- Chrome, Firefox, Safari, and IE/Edge are supported; other browsers may not be supported, but any Chromium or Mozilla based browser should be fine.
+- Before mass deploying agents, consider using an agent policy.
+	- Privacy mode can be configured, which cannot be disabled remotely.
+	- Service options allow you to hide or show the DRMM system tray icon, or disable certain RMM functions.
+	- Agent policy options allow you to control which options are shown in the agent icon context menu. Disabling an option removes it entirely from the menu; you can also remove the ability for the user to put their device in privacy mode. You can also configure if a user can create a ticket through the agent or not.
+- There are three methods of deploying agents at scale:
+	- Active Directory Group Policy
+	- Device Discovery via Web Portal (any IP-based device)
+	- Device Discovery via Agent Browser (ONLY WINDOWS)
