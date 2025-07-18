@@ -18,4 +18,3 @@
 - Security Levels
 	- Allow you to specify and limit the access and permissions users have when logged in to the DRMM agent browser and/or web portal. These can be added, edited, or deleted ONLY in the DRMM web portal.
 	- Admin should only be granted when necessary.
-- 
