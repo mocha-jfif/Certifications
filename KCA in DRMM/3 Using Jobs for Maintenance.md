@@ -1,0 +1,5 @@
+- Routine maintenance can be easily established through jobs and components.
+	- Component: package containing a script, and may include file attachments.
+	- Job: the mechanism used to deploy and run one or more components
+- Two types of jobs:
+	- Quick job: 
