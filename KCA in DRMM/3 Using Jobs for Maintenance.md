@@ -12,4 +12,4 @@
 	- Device monitors
 - Only application and script components can be run within jobs.
 - You can create your own jobs, and share/collaborate with others globally with the community forum.
-- Users can run their own components if they are assigned as user tasks; this can be automatic remediations u
+- Users can run their own components if they are assigned as user tasks; this can be automatic remediations users can do themselves with one click so they don't need to open a ticket, like restarting a print spooler or clearing disk space. It will show in the agent browser under the tasks tab. Admin privileges are not required.
