@@ -14,5 +14,5 @@
 	- Monitors: Parameters you want to alert on.
 	- Configuration:
 		- Choose the monitor type and define the alert trigger details, along with alert priority, and auto-resolution options.
-		- Select whether to respond by running a component and/or sending an email.
+		- Select whether to respond by running a component and/or sending an email. Components must be marked as a favorite for them to be available for selection as responses.
 		- Select where a ticket should additionally be created.
